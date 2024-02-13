@@ -1,0 +1,8 @@
+div.station {
+    position: absolute;
+    border: .01in outset grey;
+    font-size: min(.4in, 1vw);
+    width: 1in;
+    white-space: pre;
+    overflow: hidden;
+}

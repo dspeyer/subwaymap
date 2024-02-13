@@ -1,0 +1,32 @@
+{
+    "name": "subwaymap",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "source": "src/index.html",
+    "scripts": {
+        "dev": "parcel",
+        "build": "parcel build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dspeyer/subwaymap.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dspeyer/subwaymap/issues"
+    },
+    "homepage": "https://github.com/dspeyer/subwaymap#readme",
+    "dependencies": {
+        "goog": "^0.2.1",
+        "google-protobuf": "^3.21.2",
+        "parcel": "^2.11.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "process": "^0.11.10"
+    }
+}
