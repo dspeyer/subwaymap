@@ -29,7 +29,7 @@ function mapy(lat) {
 export function Station({s}) {
     return <div className="station" style={{left:mapx(s.Long)+'in', top:mapy(s.Lat)+'in'}}>
 	       {s.Name}
-	       { Object.keys(data.routes).map( r => <Arrivals route={r} station={s['GTFS Stop ID']} key={r} /> ) }
+	       { Object.keys(data.routes).map( r => <Arrivals route={r} station={s.Id} key={r} /> ) }
 	       <div>
 		   <Fragiles station={s} typ="EL" />
 		   <Fragiles station={s} typ="ES" />
@@ -72,7 +72,7 @@ export default function App() {
     let pieces = [];
     for (let s of Object.values(data.stations)) {
 	if ( ! s.ShowAs ) {
-	    pieces.push( <Station s={s} key={s['GTFS Stop ID']} /> );
+	    pieces.push( <Station s={s} key={s.Id} /> );
 	}
     }
     

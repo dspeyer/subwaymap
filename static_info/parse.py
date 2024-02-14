@@ -10,6 +10,7 @@ canon = {}
 
 for s in stations:
     s['Name'] = s['Stop Name']
+    s['Id'] = s['GTFS Stop ID']
     s['Lat'] = s['GTFS Latitude']
     s['Long'] = s['GTFS Longitude']
     s['Directions'] = {
@@ -17,6 +18,7 @@ for s in stations:
         'S': s['South Direction Label'] or 'Downtown'
     }    
     del s['Stop Name']
+    del s['GTFS Stop ID']
     del s['GTFS Latitude']
     del s['GTFS Longitude']
     del s['North Direction Label']
@@ -26,11 +28,11 @@ for s in stations:
     s['AlsoShow'] = []
     key =  s['Complex ID'] + s['Name']
     if key in canon and s['Name'] != '14 St':
-        canon[key]['AlsoShow'].append(s['GTFS Stop ID'])
-        s['ShowAs'] = canon[key]['GTFS Stop ID']
+        canon[key]['AlsoShow'].append(s['Id'])
+        s['ShowAs'] = canon[key]['Id']
     else:
         canon[key] = s
-smap = { s['GTFS Stop ID']: s for s in stations }
+smap = { s['Id']: s for s in stations }
 
 fragiles = json.load(open('tmp/nyct_ene_equipments.json'))
 

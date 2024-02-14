@@ -15,7 +15,7 @@ export class Fragiles extends React.Component {
 	this.station = props.station;
 	this.typ = props.typ;
 	this.state = {};
-	for (let sid of this.station.AlsoShow.concat([this.station['GTFS Stop ID']])) {
+	for (let sid of this.station.AlsoShow.concat([this.station.Id])) {
 	    let s = data.stations[sid];
 	    if ( ( ! s[this.typ]) || typeof(s[this.typ][Symbol.iterator])!='function'){
 		console.log({s,t:this.typ,msg:'Not Iterable'});

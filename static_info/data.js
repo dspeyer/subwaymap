@@ -2,7 +2,6 @@ export const stations ={
     "R01": {
         "Station ID": "1",
         "Complex ID": "1",
-        "GTFS Stop ID": "R01",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "Q",
@@ -11,6 +10,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Astoria-Ditmars Blvd",
+        "Id": "R01",
         "Lat": "40.775036",
         "Long": "-73.912034",
         "Directions": {
@@ -24,7 +24,6 @@ export const stations ={
     "R03": {
         "Station ID": "2",
         "Complex ID": "2",
-        "GTFS Stop ID": "R03",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "Q",
@@ -33,6 +32,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Astoria Blvd",
+        "Id": "R03",
         "Lat": "40.770258",
         "Long": "-73.917843",
         "Directions": {
@@ -51,7 +51,6 @@ export const stations ={
     "R04": {
         "Station ID": "3",
         "Complex ID": "3",
-        "GTFS Stop ID": "R04",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "Q",
@@ -60,6 +59,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "30 Av",
+        "Id": "R04",
         "Lat": "40.766779",
         "Long": "-73.921479",
         "Directions": {
@@ -73,7 +73,6 @@ export const stations ={
     "R05": {
         "Station ID": "4",
         "Complex ID": "4",
-        "GTFS Stop ID": "R05",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "Q",
@@ -82,6 +81,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Broadway",
+        "Id": "R05",
         "Lat": "40.76182",
         "Long": "-73.925508",
         "Directions": {
@@ -95,7 +95,6 @@ export const stations ={
     "R06": {
         "Station ID": "5",
         "Complex ID": "5",
-        "GTFS Stop ID": "R06",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "Q",
@@ -104,6 +103,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "36 Av",
+        "Id": "R06",
         "Lat": "40.756804",
         "Long": "-73.929575",
         "Directions": {
@@ -117,7 +117,6 @@ export const stations ={
     "R08": {
         "Station ID": "6",
         "Complex ID": "6",
-        "GTFS Stop ID": "R08",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "Q",
@@ -126,6 +125,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "39 Av-Dutch Kills",
+        "Id": "R08",
         "Lat": "40.752882",
         "Long": "-73.932755",
         "Directions": {
@@ -139,7 +139,6 @@ export const stations ={
     "R11": {
         "Station ID": "7",
         "Complex ID": "613",
-        "GTFS Stop ID": "R11",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "M",
@@ -148,6 +147,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Lexington Av/59 St",
+        "Id": "R11",
         "Lat": "40.76266",
         "Long": "-73.967258",
         "Directions": {
@@ -165,7 +165,6 @@ export const stations ={
     "R13": {
         "Station ID": "8",
         "Complex ID": "8",
-        "GTFS Stop ID": "R13",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "M",
@@ -174,6 +173,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "5 Av/59 St",
+        "Id": "R13",
         "Lat": "40.764811",
         "Long": "-73.973347",
         "Directions": {
@@ -187,7 +187,6 @@ export const stations ={
     "R14": {
         "Station ID": "9",
         "Complex ID": "9",
-        "GTFS Stop ID": "R14",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -196,6 +195,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "57 St-7 Av",
+        "Id": "R14",
         "Lat": "40.764664",
         "Long": "-73.980658",
         "Directions": {
@@ -214,7 +214,6 @@ export const stations ={
     "R15": {
         "Station ID": "10",
         "Complex ID": "10",
-        "GTFS Stop ID": "R15",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -223,6 +222,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Uptown only",
         "Name": "49 St",
+        "Id": "R15",
         "Lat": "40.759901",
         "Long": "-73.984139",
         "Directions": {
@@ -238,7 +238,6 @@ export const stations ={
     "R16": {
         "Station ID": "11",
         "Complex ID": "611",
-        "GTFS Stop ID": "R16",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -247,6 +246,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Times Sq-42 St",
+        "Id": "R16",
         "Lat": "40.754672",
         "Long": "-73.986754",
         "Directions": {
@@ -275,7 +275,6 @@ export const stations ={
     "R17": {
         "Station ID": "12",
         "Complex ID": "607",
-        "GTFS Stop ID": "R17",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -284,6 +283,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "34 St-Herald Sq",
+        "Id": "R17",
         "Lat": "40.749567",
         "Long": "-73.98795",
         "Directions": {
@@ -317,7 +317,6 @@ export const stations ={
     "R18": {
         "Station ID": "13",
         "Complex ID": "13",
-        "GTFS Stop ID": "R18",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -326,6 +325,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "28 St",
+        "Id": "R18",
         "Lat": "40.745494",
         "Long": "-73.988691",
         "Directions": {
@@ -339,7 +339,6 @@ export const stations ={
     "R19": {
         "Station ID": "14",
         "Complex ID": "14",
-        "GTFS Stop ID": "R19",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -348,6 +347,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "23 St",
+        "Id": "R19",
         "Lat": "40.741303",
         "Long": "-73.989344",
         "Directions": {
@@ -361,7 +361,6 @@ export const stations ={
     "R20": {
         "Station ID": "15",
         "Complex ID": "602",
-        "GTFS Stop ID": "R20",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -370,6 +369,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "14 St-Union Sq",
+        "Id": "R20",
         "Lat": "40.735736",
         "Long": "-73.990568",
         "Directions": {
@@ -393,7 +393,6 @@ export const stations ={
     "R21": {
         "Station ID": "16",
         "Complex ID": "16",
-        "GTFS Stop ID": "R21",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -402,6 +401,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "8 St-NYU",
+        "Id": "R21",
         "Lat": "40.730328",
         "Long": "-73.992629",
         "Directions": {
@@ -415,7 +415,6 @@ export const stations ={
     "R22": {
         "Station ID": "17",
         "Complex ID": "17",
-        "GTFS Stop ID": "R22",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "M",
@@ -424,6 +423,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Prince St",
+        "Id": "R22",
         "Lat": "40.724329",
         "Long": "-73.997702",
         "Directions": {
@@ -437,7 +437,6 @@ export const stations ={
     "R23": {
         "Station ID": "18",
         "Complex ID": "623",
-        "GTFS Stop ID": "R23",
         "Division": "BMT",
         "Line": "Broadway",
         "Borough": "M",
@@ -446,6 +445,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Canal St",
+        "Id": "R23",
         "Lat": "40.719527",
         "Long": "-74.001775",
         "Directions": {
@@ -463,7 +463,6 @@ export const stations ={
     "Q01": {
         "Station ID": "19",
         "Complex ID": "623",
-        "GTFS Stop ID": "Q01",
         "Division": "BMT",
         "Line": "Manhattan Bridge",
         "Borough": "M",
@@ -472,6 +471,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Canal St",
+        "Id": "Q01",
         "Lat": "40.718383",
         "Long": "-74.00046",
         "Directions": {
@@ -486,7 +486,6 @@ export const stations ={
     "R24": {
         "Station ID": "20",
         "Complex ID": "20",
-        "GTFS Stop ID": "R24",
         "Division": "BMT",
         "Line": "Broadway",
         "Borough": "M",
@@ -495,6 +494,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "City Hall",
+        "Id": "R24",
         "Lat": "40.713282",
         "Long": "-74.006978",
         "Directions": {
@@ -508,7 +508,6 @@ export const stations ={
     "R25": {
         "Station ID": "21",
         "Complex ID": "624",
-        "GTFS Stop ID": "R25",
         "Division": "BMT",
         "Line": "Broadway",
         "Borough": "M",
@@ -517,6 +516,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Cortlandt St",
+        "Id": "R25",
         "Lat": "40.710668",
         "Long": "-74.011029",
         "Directions": {
@@ -540,7 +540,6 @@ export const stations ={
     "R26": {
         "Station ID": "22",
         "Complex ID": "22",
-        "GTFS Stop ID": "R26",
         "Division": "BMT",
         "Line": "Broadway",
         "Borough": "M",
@@ -549,6 +548,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Rector St",
+        "Id": "R26",
         "Lat": "40.70722",
         "Long": "-74.013342",
         "Directions": {
@@ -562,7 +562,6 @@ export const stations ={
     "R27": {
         "Station ID": "23",
         "Complex ID": "635",
-        "GTFS Stop ID": "R27",
         "Division": "BMT",
         "Line": "Broadway",
         "Borough": "M",
@@ -571,6 +570,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Whitehall St-South Ferry",
+        "Id": "R27",
         "Lat": "40.703087",
         "Long": "-74.012994",
         "Directions": {
@@ -588,7 +588,6 @@ export const stations ={
     "R28": {
         "Station ID": "24",
         "Complex ID": "620",
-        "GTFS Stop ID": "R28",
         "Division": "BMT",
         "Line": "Broadway",
         "Borough": "Bk",
@@ -597,6 +596,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Court St",
+        "Id": "R28",
         "Lat": "40.6941",
         "Long": "-73.991777",
         "Directions": {
@@ -616,7 +616,6 @@ export const stations ={
     "R29": {
         "Station ID": "25",
         "Complex ID": "636",
-        "GTFS Stop ID": "R29",
         "Division": "BMT",
         "Line": "Broadway",
         "Borough": "Bk",
@@ -625,6 +624,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Jay St-MetroTech",
+        "Id": "R29",
         "Lat": "40.69218",
         "Long": "-73.985942",
         "Directions": {
@@ -647,7 +647,6 @@ export const stations ={
     "R30": {
         "Station ID": "26",
         "Complex ID": "26",
-        "GTFS Stop ID": "R30",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -656,6 +655,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "DeKalb Av",
+        "Id": "R30",
         "Lat": "40.690635",
         "Long": "-73.981824",
         "Directions": {
@@ -676,7 +676,6 @@ export const stations ={
     "R31": {
         "Station ID": "27",
         "Complex ID": "617",
-        "GTFS Stop ID": "R31",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -685,6 +684,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Atlantic Av-Barclays Ctr",
+        "Id": "R31",
         "Lat": "40.683666",
         "Long": "-73.97881",
         "Directions": {
@@ -710,7 +710,6 @@ export const stations ={
     "R32": {
         "Station ID": "28",
         "Complex ID": "28",
-        "GTFS Stop ID": "R32",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -719,6 +718,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Union St",
+        "Id": "R32",
         "Lat": "40.677316",
         "Long": "-73.98311",
         "Directions": {
@@ -732,7 +732,6 @@ export const stations ={
     "R33": {
         "Station ID": "29",
         "Complex ID": "608",
-        "GTFS Stop ID": "R33",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -741,6 +740,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "4 Av-9 St",
+        "Id": "R33",
         "Lat": "40.670847",
         "Long": "-73.988302",
         "Directions": {
@@ -756,7 +756,6 @@ export const stations ={
     "R34": {
         "Station ID": "30",
         "Complex ID": "30",
-        "GTFS Stop ID": "R34",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -765,6 +764,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Prospect Av",
+        "Id": "R34",
         "Lat": "40.665414",
         "Long": "-73.992872",
         "Directions": {
@@ -778,7 +778,6 @@ export const stations ={
     "R35": {
         "Station ID": "31",
         "Complex ID": "31",
-        "GTFS Stop ID": "R35",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -787,6 +786,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "25 St",
+        "Id": "R35",
         "Lat": "40.660397",
         "Long": "-73.998091",
         "Directions": {
@@ -800,7 +800,6 @@ export const stations ={
     "R36": {
         "Station ID": "32",
         "Complex ID": "32",
-        "GTFS Stop ID": "R36",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -809,6 +808,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "36 St",
+        "Id": "R36",
         "Lat": "40.655144",
         "Long": "-74.003549",
         "Directions": {
@@ -822,7 +822,6 @@ export const stations ={
     "R39": {
         "Station ID": "33",
         "Complex ID": "33",
-        "GTFS Stop ID": "R39",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -831,6 +830,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "45 St",
+        "Id": "R39",
         "Lat": "40.648939",
         "Long": "-74.010006",
         "Directions": {
@@ -844,7 +844,6 @@ export const stations ={
     "R40": {
         "Station ID": "34",
         "Complex ID": "34",
-        "GTFS Stop ID": "R40",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -853,6 +852,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "53 St",
+        "Id": "R40",
         "Lat": "40.645069",
         "Long": "-74.014034",
         "Directions": {
@@ -866,7 +866,6 @@ export const stations ={
     "R41": {
         "Station ID": "35",
         "Complex ID": "35",
-        "GTFS Stop ID": "R41",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -875,6 +874,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "59 St",
+        "Id": "R41",
         "Lat": "40.641362",
         "Long": "-74.017881",
         "Directions": {
@@ -892,7 +892,6 @@ export const stations ={
     "R42": {
         "Station ID": "36",
         "Complex ID": "36",
-        "GTFS Stop ID": "R42",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -901,6 +900,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bay Ridge Av",
+        "Id": "R42",
         "Lat": "40.634967",
         "Long": "-74.023377",
         "Directions": {
@@ -914,7 +914,6 @@ export const stations ={
     "R43": {
         "Station ID": "37",
         "Complex ID": "37",
-        "GTFS Stop ID": "R43",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -923,6 +922,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "77 St",
+        "Id": "R43",
         "Lat": "40.629742",
         "Long": "-74.02551",
         "Directions": {
@@ -936,7 +936,6 @@ export const stations ={
     "R44": {
         "Station ID": "38",
         "Complex ID": "38",
-        "GTFS Stop ID": "R44",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -945,6 +944,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "86 St",
+        "Id": "R44",
         "Lat": "40.622687",
         "Long": "-74.028398",
         "Directions": {
@@ -961,7 +961,6 @@ export const stations ={
     "R45": {
         "Station ID": "39",
         "Complex ID": "39",
-        "GTFS Stop ID": "R45",
         "Division": "BMT",
         "Line": "4th Av",
         "Borough": "Bk",
@@ -970,6 +969,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bay Ridge-95 St",
+        "Id": "R45",
         "Lat": "40.616622",
         "Long": "-74.030876",
         "Directions": {
@@ -983,7 +983,6 @@ export const stations ={
     "D24": {
         "Station ID": "40",
         "Complex ID": "617",
-        "GTFS Stop ID": "D24",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -992,6 +991,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Atlantic Av-Barclays Ctr",
+        "Id": "D24",
         "Lat": "40.68446",
         "Long": "-73.97689",
         "Directions": {
@@ -1014,7 +1014,6 @@ export const stations ={
     "D25": {
         "Station ID": "41",
         "Complex ID": "41",
-        "GTFS Stop ID": "D25",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1023,6 +1022,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "7 Av",
+        "Id": "D25",
         "Lat": "40.67705",
         "Long": "-73.972367",
         "Directions": {
@@ -1036,7 +1036,6 @@ export const stations ={
     "D26": {
         "Station ID": "42",
         "Complex ID": "42",
-        "GTFS Stop ID": "D26",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1045,6 +1044,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Prospect Park",
+        "Id": "D26",
         "Lat": "40.661614",
         "Long": "-73.962246",
         "Directions": {
@@ -1061,7 +1061,6 @@ export const stations ={
     "D27": {
         "Station ID": "43",
         "Complex ID": "43",
-        "GTFS Stop ID": "D27",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1070,6 +1069,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Parkside Av",
+        "Id": "D27",
         "Lat": "40.655292",
         "Long": "-73.961495",
         "Directions": {
@@ -1083,7 +1083,6 @@ export const stations ={
     "D28": {
         "Station ID": "44",
         "Complex ID": "44",
-        "GTFS Stop ID": "D28",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1092,6 +1091,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Church Av",
+        "Id": "D28",
         "Lat": "40.650527",
         "Long": "-73.962982",
         "Directions": {
@@ -1105,7 +1105,6 @@ export const stations ={
     "D29": {
         "Station ID": "45",
         "Complex ID": "45",
-        "GTFS Stop ID": "D29",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1114,6 +1113,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beverley Rd",
+        "Id": "D29",
         "Lat": "40.644031",
         "Long": "-73.964492",
         "Directions": {
@@ -1127,7 +1127,6 @@ export const stations ={
     "D30": {
         "Station ID": "46",
         "Complex ID": "46",
-        "GTFS Stop ID": "D30",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1136,6 +1135,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Cortelyou Rd",
+        "Id": "D30",
         "Lat": "40.640927",
         "Long": "-73.963891",
         "Directions": {
@@ -1149,7 +1149,6 @@ export const stations ={
     "D31": {
         "Station ID": "47",
         "Complex ID": "47",
-        "GTFS Stop ID": "D31",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1158,6 +1157,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Newkirk Plaza",
+        "Id": "D31",
         "Lat": "40.635082",
         "Long": "-73.962793",
         "Directions": {
@@ -1171,7 +1171,6 @@ export const stations ={
     "D32": {
         "Station ID": "48",
         "Complex ID": "48",
-        "GTFS Stop ID": "D32",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1180,6 +1179,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Avenue H",
+        "Id": "D32",
         "Lat": "40.62927",
         "Long": "-73.961639",
         "Directions": {
@@ -1193,7 +1193,6 @@ export const stations ={
     "D33": {
         "Station ID": "49",
         "Complex ID": "49",
-        "GTFS Stop ID": "D33",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1202,6 +1201,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue J",
+        "Id": "D33",
         "Lat": "40.625039",
         "Long": "-73.960803",
         "Directions": {
@@ -1215,7 +1215,6 @@ export const stations ={
     "D34": {
         "Station ID": "50",
         "Complex ID": "50",
-        "GTFS Stop ID": "D34",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1224,6 +1223,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue M",
+        "Id": "D34",
         "Lat": "40.617618",
         "Long": "-73.959399",
         "Directions": {
@@ -1237,7 +1237,6 @@ export const stations ={
     "D35": {
         "Station ID": "51",
         "Complex ID": "51",
-        "GTFS Stop ID": "D35",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1246,6 +1245,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Kings Hwy",
+        "Id": "D35",
         "Lat": "40.60867",
         "Long": "-73.957734",
         "Directions": {
@@ -1262,7 +1262,6 @@ export const stations ={
     "D37": {
         "Station ID": "52",
         "Complex ID": "52",
-        "GTFS Stop ID": "D37",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1271,6 +1270,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue U",
+        "Id": "D37",
         "Lat": "40.5993",
         "Long": "-73.955929",
         "Directions": {
@@ -1284,7 +1284,6 @@ export const stations ={
     "D38": {
         "Station ID": "53",
         "Complex ID": "53",
-        "GTFS Stop ID": "D38",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1293,6 +1292,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Neck Rd",
+        "Id": "D38",
         "Lat": "40.595246",
         "Long": "-73.955161",
         "Directions": {
@@ -1306,7 +1306,6 @@ export const stations ={
     "D39": {
         "Station ID": "54",
         "Complex ID": "54",
-        "GTFS Stop ID": "D39",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1315,6 +1314,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Sheepshead Bay",
+        "Id": "D39",
         "Lat": "40.586896",
         "Long": "-73.954155",
         "Directions": {
@@ -1328,7 +1328,6 @@ export const stations ={
     "D40": {
         "Station ID": "55",
         "Complex ID": "55",
-        "GTFS Stop ID": "D40",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1337,6 +1336,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Brighton Beach",
+        "Id": "D40",
         "Lat": "40.577621",
         "Long": "-73.961376",
         "Directions": {
@@ -1352,7 +1352,6 @@ export const stations ={
     "D41": {
         "Station ID": "56",
         "Complex ID": "56",
-        "GTFS Stop ID": "D41",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1361,6 +1360,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Ocean Pkwy",
+        "Id": "D41",
         "Lat": "40.576312",
         "Long": "-73.968501",
         "Directions": {
@@ -1374,7 +1374,6 @@ export const stations ={
     "D42": {
         "Station ID": "57",
         "Complex ID": "57",
-        "GTFS Stop ID": "D42",
         "Division": "BMT",
         "Line": "Broadway - Brighton",
         "Borough": "Bk",
@@ -1383,6 +1382,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "W 8 St-NY Aquarium",
+        "Id": "D42",
         "Lat": "40.576127",
         "Long": "-73.975939",
         "Directions": {
@@ -1398,7 +1398,6 @@ export const stations ={
     "D43": {
         "Station ID": "58",
         "Complex ID": "58",
-        "GTFS Stop ID": "D43",
         "Division": "BMT",
         "Line": "Sea Beach / West End / Culver / Brighton",
         "Borough": "Bk",
@@ -1407,6 +1406,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Coney Island-Stillwell Av",
+        "Id": "D43",
         "Lat": "40.577422",
         "Long": "-73.981233",
         "Directions": {
@@ -1423,7 +1423,6 @@ export const stations ={
     "B12": {
         "Station ID": "59",
         "Complex ID": "59",
-        "GTFS Stop ID": "B12",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1432,6 +1431,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "9 Av",
+        "Id": "B12",
         "Lat": "40.646292",
         "Long": "-73.994324",
         "Directions": {
@@ -1445,7 +1445,6 @@ export const stations ={
     "B13": {
         "Station ID": "60",
         "Complex ID": "60",
-        "GTFS Stop ID": "B13",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1454,6 +1453,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Fort Hamilton Pkwy",
+        "Id": "B13",
         "Lat": "40.640914",
         "Long": "-73.994304",
         "Directions": {
@@ -1467,7 +1467,6 @@ export const stations ={
     "B14": {
         "Station ID": "61",
         "Complex ID": "61",
-        "GTFS Stop ID": "B14",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1476,6 +1475,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "50 St",
+        "Id": "B14",
         "Lat": "40.63626",
         "Long": "-73.994791",
         "Directions": {
@@ -1489,7 +1489,6 @@ export const stations ={
     "B15": {
         "Station ID": "62",
         "Complex ID": "62",
-        "GTFS Stop ID": "B15",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1498,6 +1497,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "55 St",
+        "Id": "B15",
         "Lat": "40.631435",
         "Long": "-73.995476",
         "Directions": {
@@ -1511,7 +1511,6 @@ export const stations ={
     "B16": {
         "Station ID": "63",
         "Complex ID": "615",
-        "GTFS Stop ID": "B16",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1520,6 +1519,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "62 St",
+        "Id": "B16",
         "Lat": "40.626472",
         "Long": "-73.996895",
         "Directions": {
@@ -1537,7 +1537,6 @@ export const stations ={
     "B17": {
         "Station ID": "64",
         "Complex ID": "64",
-        "GTFS Stop ID": "B17",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1546,6 +1545,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "71 St",
+        "Id": "B17",
         "Lat": "40.619589",
         "Long": "-73.998864",
         "Directions": {
@@ -1559,7 +1559,6 @@ export const stations ={
     "B18": {
         "Station ID": "65",
         "Complex ID": "65",
-        "GTFS Stop ID": "B18",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1568,6 +1567,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "79 St",
+        "Id": "B18",
         "Lat": "40.613501",
         "Long": "-74.00061",
         "Directions": {
@@ -1581,7 +1581,6 @@ export const stations ={
     "B19": {
         "Station ID": "66",
         "Complex ID": "66",
-        "GTFS Stop ID": "B19",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1590,6 +1589,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "18 Av",
+        "Id": "B19",
         "Lat": "40.607954",
         "Long": "-74.001736",
         "Directions": {
@@ -1603,7 +1603,6 @@ export const stations ={
     "B20": {
         "Station ID": "67",
         "Complex ID": "67",
-        "GTFS Stop ID": "B20",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1612,6 +1611,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "20 Av",
+        "Id": "B20",
         "Lat": "40.604556",
         "Long": "-73.998168",
         "Directions": {
@@ -1625,7 +1625,6 @@ export const stations ={
     "B21": {
         "Station ID": "68",
         "Complex ID": "68",
-        "GTFS Stop ID": "B21",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1634,6 +1633,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Bay Pkwy",
+        "Id": "B21",
         "Lat": "40.601875",
         "Long": "-73.993728",
         "Directions": {
@@ -1651,7 +1651,6 @@ export const stations ={
     "B22": {
         "Station ID": "69",
         "Complex ID": "69",
-        "GTFS Stop ID": "B22",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1660,6 +1659,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "25 Av",
+        "Id": "B22",
         "Lat": "40.597704",
         "Long": "-73.986829",
         "Directions": {
@@ -1673,7 +1673,6 @@ export const stations ={
     "B23": {
         "Station ID": "70",
         "Complex ID": "70",
-        "GTFS Stop ID": "B23",
         "Division": "BMT",
         "Line": "West End",
         "Borough": "Bk",
@@ -1682,6 +1681,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bay 50 St",
+        "Id": "B23",
         "Lat": "40.588841",
         "Long": "-73.983765",
         "Directions": {
@@ -1695,7 +1695,6 @@ export const stations ={
     "N02": {
         "Station ID": "71",
         "Complex ID": "71",
-        "GTFS Stop ID": "N02",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1704,6 +1703,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Manhattan-bound only",
         "Name": "8 Av",
+        "Id": "N02",
         "Lat": "40.635064",
         "Long": "-74.011719",
         "Directions": {
@@ -1720,7 +1720,6 @@ export const stations ={
     "N03": {
         "Station ID": "72",
         "Complex ID": "72",
-        "GTFS Stop ID": "N03",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1729,6 +1728,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Fort Hamilton Pkwy",
+        "Id": "N03",
         "Lat": "40.631386",
         "Long": "-74.005351",
         "Directions": {
@@ -1742,7 +1742,6 @@ export const stations ={
     "N04": {
         "Station ID": "73",
         "Complex ID": "615",
-        "GTFS Stop ID": "N04",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1751,6 +1750,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "New Utrecht Av",
+        "Id": "N04",
         "Lat": "40.624842",
         "Long": "-73.996353",
         "Directions": {
@@ -1767,7 +1767,6 @@ export const stations ={
     "N05": {
         "Station ID": "74",
         "Complex ID": "74",
-        "GTFS Stop ID": "N05",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1776,6 +1775,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "18 Av",
+        "Id": "N05",
         "Lat": "40.620671",
         "Long": "-73.990414",
         "Directions": {
@@ -1789,7 +1789,6 @@ export const stations ={
     "N06": {
         "Station ID": "75",
         "Complex ID": "75",
-        "GTFS Stop ID": "N06",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1798,6 +1797,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "20 Av",
+        "Id": "N06",
         "Lat": "40.61741",
         "Long": "-73.985026",
         "Directions": {
@@ -1811,7 +1811,6 @@ export const stations ={
     "N07": {
         "Station ID": "76",
         "Complex ID": "76",
-        "GTFS Stop ID": "N07",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1820,6 +1819,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bay Pkwy",
+        "Id": "N07",
         "Lat": "40.611815",
         "Long": "-73.981848",
         "Directions": {
@@ -1833,7 +1833,6 @@ export const stations ={
     "N08": {
         "Station ID": "77",
         "Complex ID": "77",
-        "GTFS Stop ID": "N08",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1842,6 +1841,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Kings Hwy",
+        "Id": "N08",
         "Lat": "40.603923",
         "Long": "-73.980353",
         "Directions": {
@@ -1855,7 +1855,6 @@ export const stations ={
     "N09": {
         "Station ID": "78",
         "Complex ID": "78",
-        "GTFS Stop ID": "N09",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1864,6 +1863,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue U",
+        "Id": "N09",
         "Lat": "40.597473",
         "Long": "-73.979137",
         "Directions": {
@@ -1877,7 +1877,6 @@ export const stations ={
     "N10": {
         "Station ID": "79",
         "Complex ID": "79",
-        "GTFS Stop ID": "N10",
         "Division": "BMT",
         "Line": "Sea Beach",
         "Borough": "Bk",
@@ -1886,6 +1885,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "86 St",
+        "Id": "N10",
         "Lat": "40.592721",
         "Long": "-73.97823",
         "Directions": {
@@ -1899,7 +1899,6 @@ export const stations ={
     "J12": {
         "Station ID": "80",
         "Complex ID": "80",
-        "GTFS Stop ID": "J12",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Q",
@@ -1908,6 +1907,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "121 St",
+        "Id": "J12",
         "Lat": "40.700492",
         "Long": "-73.828294",
         "Directions": {
@@ -1921,7 +1921,6 @@ export const stations ={
     "J13": {
         "Station ID": "81",
         "Complex ID": "81",
-        "GTFS Stop ID": "J13",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Q",
@@ -1930,6 +1929,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "111 St",
+        "Id": "J13",
         "Lat": "40.697418",
         "Long": "-73.836345",
         "Directions": {
@@ -1943,7 +1943,6 @@ export const stations ={
     "J14": {
         "Station ID": "82",
         "Complex ID": "82",
-        "GTFS Stop ID": "J14",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Q",
@@ -1952,6 +1951,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "104 St",
+        "Id": "J14",
         "Lat": "40.695178",
         "Long": "-73.84433",
         "Directions": {
@@ -1965,7 +1965,6 @@ export const stations ={
     "J15": {
         "Station ID": "83",
         "Complex ID": "83",
-        "GTFS Stop ID": "J15",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Q",
@@ -1974,6 +1973,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Woodhaven Blvd",
+        "Id": "J15",
         "Lat": "40.693879",
         "Long": "-73.851576",
         "Directions": {
@@ -1987,7 +1987,6 @@ export const stations ={
     "J16": {
         "Station ID": "84",
         "Complex ID": "84",
-        "GTFS Stop ID": "J16",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Q",
@@ -1996,6 +1995,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "85 St-Forest Pkwy",
+        "Id": "J16",
         "Lat": "40.692435",
         "Long": "-73.86001",
         "Directions": {
@@ -2009,7 +2009,6 @@ export const stations ={
     "J17": {
         "Station ID": "85",
         "Complex ID": "85",
-        "GTFS Stop ID": "J17",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Q",
@@ -2018,6 +2017,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "75 St-Elderts Ln",
+        "Id": "J17",
         "Lat": "40.691324",
         "Long": "-73.867139",
         "Directions": {
@@ -2031,7 +2031,6 @@ export const stations ={
     "J19": {
         "Station ID": "86",
         "Complex ID": "86",
-        "GTFS Stop ID": "J19",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2040,6 +2039,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Cypress Hills",
+        "Id": "J19",
         "Lat": "40.689941",
         "Long": "-73.87255",
         "Directions": {
@@ -2053,7 +2053,6 @@ export const stations ={
     "J20": {
         "Station ID": "87",
         "Complex ID": "87",
-        "GTFS Stop ID": "J20",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2062,6 +2061,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Crescent St",
+        "Id": "J20",
         "Lat": "40.683194",
         "Long": "-73.873785",
         "Directions": {
@@ -2075,7 +2075,6 @@ export const stations ={
     "J21": {
         "Station ID": "88",
         "Complex ID": "88",
-        "GTFS Stop ID": "J21",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2084,6 +2083,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Norwood Av",
+        "Id": "J21",
         "Lat": "40.68141",
         "Long": "-73.880039",
         "Directions": {
@@ -2097,7 +2097,6 @@ export const stations ={
     "J22": {
         "Station ID": "89",
         "Complex ID": "89",
-        "GTFS Stop ID": "J22",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2106,6 +2105,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Cleveland St",
+        "Id": "J22",
         "Lat": "40.679947",
         "Long": "-73.884639",
         "Directions": {
@@ -2119,7 +2119,6 @@ export const stations ={
     "J23": {
         "Station ID": "90",
         "Complex ID": "90",
-        "GTFS Stop ID": "J23",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2128,6 +2127,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Van Siclen Av",
+        "Id": "J23",
         "Lat": "40.678024",
         "Long": "-73.891688",
         "Directions": {
@@ -2141,7 +2141,6 @@ export const stations ={
     "J24": {
         "Station ID": "91",
         "Complex ID": "91",
-        "GTFS Stop ID": "J24",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2150,6 +2149,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Alabama Av",
+        "Id": "J24",
         "Lat": "40.676992",
         "Long": "-73.898654",
         "Directions": {
@@ -2163,7 +2163,6 @@ export const stations ={
     "J27": {
         "Station ID": "92",
         "Complex ID": "621",
-        "GTFS Stop ID": "J27",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2172,6 +2171,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Broadway Junction",
+        "Id": "J27",
         "Lat": "40.679498",
         "Long": "-73.904512",
         "Directions": {
@@ -2192,7 +2192,6 @@ export const stations ={
     "J28": {
         "Station ID": "93",
         "Complex ID": "93",
-        "GTFS Stop ID": "J28",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2201,6 +2200,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Chauncey St",
+        "Id": "J28",
         "Lat": "40.682893",
         "Long": "-73.910456",
         "Directions": {
@@ -2214,7 +2214,6 @@ export const stations ={
     "J29": {
         "Station ID": "94",
         "Complex ID": "94",
-        "GTFS Stop ID": "J29",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2223,6 +2222,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Halsey St",
+        "Id": "J29",
         "Lat": "40.68637",
         "Long": "-73.916559",
         "Directions": {
@@ -2236,7 +2236,6 @@ export const stations ={
     "J30": {
         "Station ID": "95",
         "Complex ID": "95",
-        "GTFS Stop ID": "J30",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2245,6 +2244,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Gates Av",
+        "Id": "J30",
         "Lat": "40.68963",
         "Long": "-73.92227",
         "Directions": {
@@ -2258,7 +2258,6 @@ export const stations ={
     "J31": {
         "Station ID": "96",
         "Complex ID": "96",
-        "GTFS Stop ID": "J31",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2267,6 +2266,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Kosciuszko St",
+        "Id": "J31",
         "Lat": "40.693342",
         "Long": "-73.928814",
         "Directions": {
@@ -2280,7 +2280,6 @@ export const stations ={
     "M11": {
         "Station ID": "97",
         "Complex ID": "97",
-        "GTFS Stop ID": "M11",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2289,6 +2288,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Myrtle Av",
+        "Id": "M11",
         "Lat": "40.697207",
         "Long": "-73.935657",
         "Directions": {
@@ -2302,7 +2302,6 @@ export const stations ={
     "M12": {
         "Station ID": "98",
         "Complex ID": "98",
-        "GTFS Stop ID": "M12",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2311,6 +2310,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Flushing Av",
+        "Id": "M12",
         "Lat": "40.70026",
         "Long": "-73.941126",
         "Directions": {
@@ -2328,7 +2328,6 @@ export const stations ={
     "M13": {
         "Station ID": "99",
         "Complex ID": "99",
-        "GTFS Stop ID": "M13",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2337,6 +2336,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Lorimer St",
+        "Id": "M13",
         "Lat": "40.703869",
         "Long": "-73.947408",
         "Directions": {
@@ -2350,7 +2350,6 @@ export const stations ={
     "M14": {
         "Station ID": "100",
         "Complex ID": "100",
-        "GTFS Stop ID": "M14",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2359,6 +2358,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Hewes St",
+        "Id": "M14",
         "Lat": "40.70687",
         "Long": "-73.953431",
         "Directions": {
@@ -2372,7 +2372,6 @@ export const stations ={
     "M16": {
         "Station ID": "101",
         "Complex ID": "101",
-        "GTFS Stop ID": "M16",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "Bk",
@@ -2381,6 +2380,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Marcy Av",
+        "Id": "M16",
         "Lat": "40.708359",
         "Long": "-73.957757",
         "Directions": {
@@ -2397,7 +2397,6 @@ export const stations ={
     "M18": {
         "Station ID": "102",
         "Complex ID": "625",
-        "GTFS Stop ID": "M18",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "M",
@@ -2406,6 +2405,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Delancey St-Essex St",
+        "Id": "M18",
         "Lat": "40.718315",
         "Long": "-73.987437",
         "Directions": {
@@ -2424,7 +2424,6 @@ export const stations ={
     "M19": {
         "Station ID": "103",
         "Complex ID": "103",
-        "GTFS Stop ID": "M19",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "M",
@@ -2433,6 +2432,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bowery",
+        "Id": "M19",
         "Lat": "40.72028",
         "Long": "-73.993915",
         "Directions": {
@@ -2448,7 +2448,6 @@ export const stations ={
     "M20": {
         "Station ID": "104",
         "Complex ID": "623",
-        "GTFS Stop ID": "M20",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "M",
@@ -2457,6 +2456,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Canal St",
+        "Id": "M20",
         "Lat": "40.718092",
         "Long": "-73.999892",
         "Directions": {
@@ -2471,7 +2471,6 @@ export const stations ={
     "M21": {
         "Station ID": "105",
         "Complex ID": "622",
-        "GTFS Stop ID": "M21",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "M",
@@ -2480,6 +2479,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Chambers St",
+        "Id": "M21",
         "Lat": "40.713243",
         "Long": "-74.003401",
         "Directions": {
@@ -2497,7 +2497,6 @@ export const stations ={
     "M22": {
         "Station ID": "106",
         "Complex ID": "628",
-        "GTFS Stop ID": "M22",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "M",
@@ -2506,6 +2505,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Fulton St",
+        "Id": "M22",
         "Lat": "40.710374",
         "Long": "-74.007582",
         "Directions": {
@@ -2542,7 +2542,6 @@ export const stations ={
     "M23": {
         "Station ID": "107",
         "Complex ID": "107",
-        "GTFS Stop ID": "M23",
         "Division": "BMT",
         "Line": "Jamaica",
         "Borough": "M",
@@ -2551,6 +2550,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Broad St",
+        "Id": "M23",
         "Lat": "40.706476",
         "Long": "-74.011056",
         "Directions": {
@@ -2564,7 +2564,6 @@ export const stations ={
     "M01": {
         "Station ID": "108",
         "Complex ID": "108",
-        "GTFS Stop ID": "M01",
         "Division": "BMT",
         "Line": "Myrtle Av",
         "Borough": "Q",
@@ -2573,6 +2572,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Middle Village-Metropolitan Av",
+        "Id": "M01",
         "Lat": "40.711396",
         "Long": "-73.889601",
         "Directions": {
@@ -2586,7 +2586,6 @@ export const stations ={
     "M04": {
         "Station ID": "109",
         "Complex ID": "109",
-        "GTFS Stop ID": "M04",
         "Division": "BMT",
         "Line": "Myrtle Av",
         "Borough": "Q",
@@ -2595,6 +2594,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Fresh Pond Rd",
+        "Id": "M04",
         "Lat": "40.706186",
         "Long": "-73.895877",
         "Directions": {
@@ -2608,7 +2608,6 @@ export const stations ={
     "M05": {
         "Station ID": "110",
         "Complex ID": "110",
-        "GTFS Stop ID": "M05",
         "Division": "BMT",
         "Line": "Myrtle Av",
         "Borough": "Q",
@@ -2617,6 +2616,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Forest Av",
+        "Id": "M05",
         "Lat": "40.704423",
         "Long": "-73.903077",
         "Directions": {
@@ -2630,7 +2630,6 @@ export const stations ={
     "M06": {
         "Station ID": "111",
         "Complex ID": "111",
-        "GTFS Stop ID": "M06",
         "Division": "BMT",
         "Line": "Myrtle Av",
         "Borough": "Q",
@@ -2639,6 +2638,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Seneca Av",
+        "Id": "M06",
         "Lat": "40.702762",
         "Long": "-73.90774",
         "Directions": {
@@ -2652,7 +2652,6 @@ export const stations ={
     "M08": {
         "Station ID": "112",
         "Complex ID": "630",
-        "GTFS Stop ID": "M08",
         "Division": "BMT",
         "Line": "Myrtle Av",
         "Borough": "Bk",
@@ -2661,6 +2660,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Myrtle-Wyckoff Avs",
+        "Id": "M08",
         "Lat": "40.69943",
         "Long": "-73.912385",
         "Directions": {
@@ -2682,7 +2682,6 @@ export const stations ={
     "M09": {
         "Station ID": "113",
         "Complex ID": "113",
-        "GTFS Stop ID": "M09",
         "Division": "BMT",
         "Line": "Myrtle Av",
         "Borough": "Bk",
@@ -2691,6 +2690,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Knickerbocker Av",
+        "Id": "M09",
         "Lat": "40.698664",
         "Long": "-73.919711",
         "Directions": {
@@ -2704,7 +2704,6 @@ export const stations ={
     "M10": {
         "Station ID": "114",
         "Complex ID": "114",
-        "GTFS Stop ID": "M10",
         "Division": "BMT",
         "Line": "Myrtle Av",
         "Borough": "Bk",
@@ -2713,6 +2712,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Central Av",
+        "Id": "M10",
         "Lat": "40.697857",
         "Long": "-73.927397",
         "Directions": {
@@ -2726,7 +2726,6 @@ export const stations ={
     "L01": {
         "Station ID": "115",
         "Complex ID": "618",
-        "GTFS Stop ID": "L01",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "M",
@@ -2735,6 +2734,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "8 Av",
+        "Id": "L01",
         "Lat": "40.739777",
         "Long": "-74.002578",
         "Directions": {
@@ -2751,7 +2751,6 @@ export const stations ={
     "L02": {
         "Station ID": "116",
         "Complex ID": "601",
-        "GTFS Stop ID": "L02",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "M",
@@ -2760,6 +2759,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "6 Av",
+        "Id": "L02",
         "Lat": "40.737335",
         "Long": "-73.996786",
         "Directions": {
@@ -2773,7 +2773,6 @@ export const stations ={
     "L03": {
         "Station ID": "117",
         "Complex ID": "602",
-        "GTFS Stop ID": "L03",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "M",
@@ -2782,6 +2781,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "14 St-Union Sq.",
+        "Id": "L03",
         "Lat": "40.734789",
         "Long": "-73.99073",
         "Directions": {
@@ -2802,7 +2802,6 @@ export const stations ={
     "L05": {
         "Station ID": "118",
         "Complex ID": "118",
-        "GTFS Stop ID": "L05",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "M",
@@ -2811,6 +2810,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "3 Av",
+        "Id": "L05",
         "Lat": "40.732849",
         "Long": "-73.986122",
         "Directions": {
@@ -2824,7 +2824,6 @@ export const stations ={
     "L06": {
         "Station ID": "119",
         "Complex ID": "119",
-        "GTFS Stop ID": "L06",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "M",
@@ -2833,6 +2832,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "1 Av",
+        "Id": "L06",
         "Lat": "40.730953",
         "Long": "-73.981628",
         "Directions": {
@@ -2849,7 +2849,6 @@ export const stations ={
     "L08": {
         "Station ID": "120",
         "Complex ID": "120",
-        "GTFS Stop ID": "L08",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -2858,6 +2857,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Bedford Av",
+        "Id": "L08",
         "Lat": "40.717304",
         "Long": "-73.956872",
         "Directions": {
@@ -2874,7 +2874,6 @@ export const stations ={
     "L10": {
         "Station ID": "121",
         "Complex ID": "629",
-        "GTFS Stop ID": "L10",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -2883,6 +2882,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Lorimer St",
+        "Id": "L10",
         "Lat": "40.714063",
         "Long": "-73.950275",
         "Directions": {
@@ -2896,7 +2896,6 @@ export const stations ={
     "L11": {
         "Station ID": "122",
         "Complex ID": "122",
-        "GTFS Stop ID": "L11",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -2905,6 +2904,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Graham Av",
+        "Id": "L11",
         "Lat": "40.714565",
         "Long": "-73.944053",
         "Directions": {
@@ -2918,7 +2918,6 @@ export const stations ={
     "L12": {
         "Station ID": "123",
         "Complex ID": "123",
-        "GTFS Stop ID": "L12",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -2927,6 +2926,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Grand St",
+        "Id": "L12",
         "Lat": "40.711926",
         "Long": "-73.94067",
         "Directions": {
@@ -2943,7 +2943,6 @@ export const stations ={
     "L13": {
         "Station ID": "124",
         "Complex ID": "124",
-        "GTFS Stop ID": "L13",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -2952,6 +2951,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Montrose Av",
+        "Id": "L13",
         "Lat": "40.707739",
         "Long": "-73.93985",
         "Directions": {
@@ -2965,7 +2965,6 @@ export const stations ={
     "L14": {
         "Station ID": "125",
         "Complex ID": "125",
-        "GTFS Stop ID": "L14",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -2974,6 +2973,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Morgan Av",
+        "Id": "L14",
         "Lat": "40.706152",
         "Long": "-73.933147",
         "Directions": {
@@ -2987,7 +2987,6 @@ export const stations ={
     "L15": {
         "Station ID": "126",
         "Complex ID": "126",
-        "GTFS Stop ID": "L15",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -2996,6 +2995,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Jefferson St",
+        "Id": "L15",
         "Lat": "40.706607",
         "Long": "-73.922913",
         "Directions": {
@@ -3009,7 +3009,6 @@ export const stations ={
     "L16": {
         "Station ID": "127",
         "Complex ID": "127",
-        "GTFS Stop ID": "L16",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3018,6 +3017,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "DeKalb Av",
+        "Id": "L16",
         "Lat": "40.703811",
         "Long": "-73.918425",
         "Directions": {
@@ -3031,7 +3031,6 @@ export const stations ={
     "L17": {
         "Station ID": "128",
         "Complex ID": "630",
-        "GTFS Stop ID": "L17",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3040,6 +3039,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Myrtle-Wyckoff Avs",
+        "Id": "L17",
         "Lat": "40.699814",
         "Long": "-73.911586",
         "Directions": {
@@ -3060,7 +3060,6 @@ export const stations ={
     "L19": {
         "Station ID": "129",
         "Complex ID": "129",
-        "GTFS Stop ID": "L19",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Q",
@@ -3069,6 +3068,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Halsey St",
+        "Id": "L19",
         "Lat": "40.695602",
         "Long": "-73.904084",
         "Directions": {
@@ -3082,7 +3082,6 @@ export const stations ={
     "L20": {
         "Station ID": "130",
         "Complex ID": "130",
-        "GTFS Stop ID": "L20",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3091,6 +3090,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Manhattan-bound only",
         "Name": "Wilson Av",
+        "Id": "L20",
         "Lat": "40.688764",
         "Long": "-73.904046",
         "Directions": {
@@ -3104,7 +3104,6 @@ export const stations ={
     "L21": {
         "Station ID": "131",
         "Complex ID": "131",
-        "GTFS Stop ID": "L21",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3113,6 +3112,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bushwick Av-Aberdeen St",
+        "Id": "L21",
         "Lat": "40.682829",
         "Long": "-73.905249",
         "Directions": {
@@ -3126,7 +3126,6 @@ export const stations ={
     "L22": {
         "Station ID": "132",
         "Complex ID": "621",
-        "GTFS Stop ID": "L22",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3135,6 +3134,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Broadway Junction",
+        "Id": "L22",
         "Lat": "40.678856",
         "Long": "-73.90324",
         "Directions": {
@@ -3153,7 +3153,6 @@ export const stations ={
     "L24": {
         "Station ID": "133",
         "Complex ID": "133",
-        "GTFS Stop ID": "L24",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3162,6 +3161,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Atlantic Av",
+        "Id": "L24",
         "Lat": "40.675345",
         "Long": "-73.903097",
         "Directions": {
@@ -3175,7 +3175,6 @@ export const stations ={
     "L25": {
         "Station ID": "134",
         "Complex ID": "134",
-        "GTFS Stop ID": "L25",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3184,6 +3183,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Sutter Av",
+        "Id": "L25",
         "Lat": "40.669367",
         "Long": "-73.901975",
         "Directions": {
@@ -3197,7 +3197,6 @@ export const stations ={
     "L26": {
         "Station ID": "135",
         "Complex ID": "135",
-        "GTFS Stop ID": "L26",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3206,6 +3205,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Livonia Av",
+        "Id": "L26",
         "Lat": "40.664038",
         "Long": "-73.900571",
         "Directions": {
@@ -3222,7 +3222,6 @@ export const stations ={
     "L27": {
         "Station ID": "136",
         "Complex ID": "136",
-        "GTFS Stop ID": "L27",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3231,6 +3230,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "New Lots Av",
+        "Id": "L27",
         "Lat": "40.658733",
         "Long": "-73.899232",
         "Directions": {
@@ -3244,7 +3244,6 @@ export const stations ={
     "L28": {
         "Station ID": "137",
         "Complex ID": "137",
-        "GTFS Stop ID": "L28",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3253,6 +3252,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "East 105 St",
+        "Id": "L28",
         "Lat": "40.650573",
         "Long": "-73.899485",
         "Directions": {
@@ -3266,7 +3266,6 @@ export const stations ={
     "L29": {
         "Station ID": "138",
         "Complex ID": "138",
-        "GTFS Stop ID": "L29",
         "Division": "BMT",
         "Line": "Canarsie",
         "Borough": "Bk",
@@ -3275,6 +3274,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Canarsie-Rockaway Pkwy",
+        "Id": "L29",
         "Lat": "40.646654",
         "Long": "-73.90185",
         "Directions": {
@@ -3288,7 +3288,6 @@ export const stations ={
     "S01": {
         "Station ID": "139",
         "Complex ID": "627",
-        "GTFS Stop ID": "S01",
         "Division": "BMT",
         "Line": "Franklin Shuttle",
         "Borough": "Bk",
@@ -3297,6 +3296,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Franklin Av",
+        "Id": "S01",
         "Lat": "40.680596",
         "Long": "-73.955827",
         "Directions": {
@@ -3316,7 +3316,6 @@ export const stations ={
     "S03": {
         "Station ID": "141",
         "Complex ID": "141",
-        "GTFS Stop ID": "S03",
         "Division": "BMT",
         "Line": "Franklin Shuttle",
         "Borough": "Bk",
@@ -3325,6 +3324,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Park Pl",
+        "Id": "S03",
         "Lat": "40.674772",
         "Long": "-73.957624",
         "Directions": {
@@ -3338,7 +3338,6 @@ export const stations ={
     "S04": {
         "Station ID": "142",
         "Complex ID": "626",
-        "GTFS Stop ID": "S04",
         "Division": "BMT",
         "Line": "Franklin Shuttle",
         "Borough": "Bk",
@@ -3347,6 +3346,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Botanic Garden",
+        "Id": "S04",
         "Lat": "40.670343",
         "Long": "-73.959245",
         "Directions": {
@@ -3360,7 +3360,6 @@ export const stations ={
     "A02": {
         "Station ID": "143",
         "Complex ID": "143",
-        "GTFS Stop ID": "A02",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3369,6 +3368,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Inwood-207 St",
+        "Id": "A02",
         "Lat": "40.868072",
         "Long": "-73.919899",
         "Directions": {
@@ -3385,7 +3385,6 @@ export const stations ={
     "A03": {
         "Station ID": "144",
         "Complex ID": "144",
-        "GTFS Stop ID": "A03",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3394,6 +3393,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Dyckman St",
+        "Id": "A03",
         "Lat": "40.865491",
         "Long": "-73.927271",
         "Directions": {
@@ -3407,7 +3407,6 @@ export const stations ={
     "A05": {
         "Station ID": "145",
         "Complex ID": "145",
-        "GTFS Stop ID": "A05",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3416,6 +3415,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "190 St",
+        "Id": "A05",
         "Lat": "40.859022",
         "Long": "-73.93418",
         "Directions": {
@@ -3433,7 +3433,6 @@ export const stations ={
     "A06": {
         "Station ID": "146",
         "Complex ID": "146",
-        "GTFS Stop ID": "A06",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3442,6 +3441,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "181 St",
+        "Id": "A06",
         "Lat": "40.851695",
         "Long": "-73.937969",
         "Directions": {
@@ -3465,7 +3465,6 @@ export const stations ={
     "A07": {
         "Station ID": "147",
         "Complex ID": "147",
-        "GTFS Stop ID": "A07",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3474,6 +3473,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "175 St",
+        "Id": "A07",
         "Lat": "40.847391",
         "Long": "-73.939704",
         "Directions": {
@@ -3490,7 +3490,6 @@ export const stations ={
     "A09": {
         "Station ID": "148",
         "Complex ID": "605",
-        "GTFS Stop ID": "A09",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3499,6 +3498,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "168 St",
+        "Id": "A09",
         "Lat": "40.840719",
         "Long": "-73.939561",
         "Directions": {
@@ -3516,7 +3516,6 @@ export const stations ={
     "A10": {
         "Station ID": "149",
         "Complex ID": "149",
-        "GTFS Stop ID": "A10",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3525,6 +3524,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "163 St-Amsterdam Av",
+        "Id": "A10",
         "Lat": "40.836013",
         "Long": "-73.939892",
         "Directions": {
@@ -3538,7 +3538,6 @@ export const stations ={
     "A11": {
         "Station ID": "150",
         "Complex ID": "150",
-        "GTFS Stop ID": "A11",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3547,6 +3546,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "155 St",
+        "Id": "A11",
         "Lat": "40.830518",
         "Long": "-73.941514",
         "Directions": {
@@ -3560,7 +3560,6 @@ export const stations ={
     "A12": {
         "Station ID": "151",
         "Complex ID": "151",
-        "GTFS Stop ID": "A12",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3569,6 +3568,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "145 St",
+        "Id": "A12",
         "Lat": "40.824783",
         "Long": "-73.944216",
         "Directions": {
@@ -3587,7 +3587,6 @@ export const stations ={
     "D13": {
         "Station ID": "151",
         "Complex ID": "151",
-        "GTFS Stop ID": "D13",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "M",
@@ -3596,6 +3595,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "145 St",
+        "Id": "D13",
         "Lat": "40.824783",
         "Long": "-73.944216",
         "Directions": {
@@ -3613,7 +3613,6 @@ export const stations ={
     "A14": {
         "Station ID": "152",
         "Complex ID": "152",
-        "GTFS Stop ID": "A14",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3622,6 +3621,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "135 St",
+        "Id": "A14",
         "Lat": "40.817894",
         "Long": "-73.947649",
         "Directions": {
@@ -3635,7 +3635,6 @@ export const stations ={
     "A15": {
         "Station ID": "153",
         "Complex ID": "153",
-        "GTFS Stop ID": "A15",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3644,6 +3643,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "125 St",
+        "Id": "A15",
         "Lat": "40.811109",
         "Long": "-73.952343",
         "Directions": {
@@ -3661,7 +3661,6 @@ export const stations ={
     "A16": {
         "Station ID": "154",
         "Complex ID": "154",
-        "GTFS Stop ID": "A16",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3670,6 +3669,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "116 St",
+        "Id": "A16",
         "Lat": "40.805085",
         "Long": "-73.954882",
         "Directions": {
@@ -3683,7 +3683,6 @@ export const stations ={
     "A17": {
         "Station ID": "155",
         "Complex ID": "155",
-        "GTFS Stop ID": "A17",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3692,6 +3691,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Cathedral Pkwy (110 St)",
+        "Id": "A17",
         "Lat": "40.800603",
         "Long": "-73.958161",
         "Directions": {
@@ -3705,7 +3705,6 @@ export const stations ={
     "A18": {
         "Station ID": "156",
         "Complex ID": "156",
-        "GTFS Stop ID": "A18",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3714,6 +3713,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "103 St",
+        "Id": "A18",
         "Lat": "40.796092",
         "Long": "-73.961454",
         "Directions": {
@@ -3727,7 +3727,6 @@ export const stations ={
     "A19": {
         "Station ID": "157",
         "Complex ID": "157",
-        "GTFS Stop ID": "A19",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3736,6 +3735,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "96 St",
+        "Id": "A19",
         "Lat": "40.791642",
         "Long": "-73.964696",
         "Directions": {
@@ -3749,7 +3749,6 @@ export const stations ={
     "A20": {
         "Station ID": "158",
         "Complex ID": "158",
-        "GTFS Stop ID": "A20",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3758,6 +3757,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "86 St",
+        "Id": "A20",
         "Lat": "40.785868",
         "Long": "-73.968916",
         "Directions": {
@@ -3771,7 +3771,6 @@ export const stations ={
     "A21": {
         "Station ID": "159",
         "Complex ID": "159",
-        "GTFS Stop ID": "A21",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3780,6 +3779,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "81 St-Museum of Natural History",
+        "Id": "A21",
         "Lat": "40.781433",
         "Long": "-73.972143",
         "Directions": {
@@ -3793,7 +3793,6 @@ export const stations ={
     "A22": {
         "Station ID": "160",
         "Complex ID": "160",
-        "GTFS Stop ID": "A22",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3802,6 +3801,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "72 St",
+        "Id": "A22",
         "Lat": "40.775594",
         "Long": "-73.97641",
         "Directions": {
@@ -3815,7 +3815,6 @@ export const stations ={
     "A24": {
         "Station ID": "161",
         "Complex ID": "614",
-        "GTFS Stop ID": "A24",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3824,6 +3823,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "59 St-Columbus Circle",
+        "Id": "A24",
         "Lat": "40.768296",
         "Long": "-73.981736",
         "Directions": {
@@ -3849,7 +3849,6 @@ export const stations ={
     "A25": {
         "Station ID": "162",
         "Complex ID": "162",
-        "GTFS Stop ID": "A25",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3858,6 +3857,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Downtown only",
         "Name": "50 St",
+        "Id": "A25",
         "Lat": "40.762456",
         "Long": "-73.985984",
         "Directions": {
@@ -3877,7 +3877,6 @@ export const stations ={
     "A27": {
         "Station ID": "163",
         "Complex ID": "611",
-        "GTFS Stop ID": "A27",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3886,6 +3885,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "42 St-Port Authority Bus Terminal",
+        "Id": "A27",
         "Lat": "40.757308",
         "Long": "-73.989735",
         "Directions": {
@@ -3907,7 +3907,6 @@ export const stations ={
     "A28": {
         "Station ID": "164",
         "Complex ID": "164",
-        "GTFS Stop ID": "A28",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3916,6 +3915,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "34 St-Penn Station",
+        "Id": "A28",
         "Lat": "40.752287",
         "Long": "-73.993391",
         "Directions": {
@@ -3934,7 +3934,6 @@ export const stations ={
     "A30": {
         "Station ID": "165",
         "Complex ID": "165",
-        "GTFS Stop ID": "A30",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3943,6 +3942,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "23 St",
+        "Id": "A30",
         "Lat": "40.745906",
         "Long": "-73.998041",
         "Directions": {
@@ -3956,7 +3956,6 @@ export const stations ={
     "A31": {
         "Station ID": "166",
         "Complex ID": "618",
-        "GTFS Stop ID": "A31",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3965,6 +3964,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "14 St",
+        "Id": "A31",
         "Lat": "40.740893",
         "Long": "-74.00169",
         "Directions": {
@@ -3982,7 +3982,6 @@ export const stations ={
     "A32": {
         "Station ID": "167",
         "Complex ID": "167",
-        "GTFS Stop ID": "A32",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -3991,6 +3990,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "W 4 St-Wash Sq",
+        "Id": "A32",
         "Lat": "40.732338",
         "Long": "-74.000495",
         "Directions": {
@@ -4011,7 +4011,6 @@ export const stations ={
     "D20": {
         "Station ID": "167",
         "Complex ID": "167",
-        "GTFS Stop ID": "D20",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -4020,6 +4019,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "W 4 St-Wash Sq",
+        "Id": "D20",
         "Lat": "40.732338",
         "Long": "-74.000495",
         "Directions": {
@@ -4041,7 +4041,6 @@ export const stations ={
     "A33": {
         "Station ID": "168",
         "Complex ID": "168",
-        "GTFS Stop ID": "A33",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -4050,6 +4049,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Spring St",
+        "Id": "A33",
         "Lat": "40.726227",
         "Long": "-74.003739",
         "Directions": {
@@ -4063,7 +4063,6 @@ export const stations ={
     "A34": {
         "Station ID": "169",
         "Complex ID": "169",
-        "GTFS Stop ID": "A34",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -4072,6 +4071,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Canal St",
+        "Id": "A34",
         "Lat": "40.720824",
         "Long": "-74.005229",
         "Directions": {
@@ -4085,7 +4085,6 @@ export const stations ={
     "A36": {
         "Station ID": "170",
         "Complex ID": "624",
-        "GTFS Stop ID": "A36",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -4094,6 +4093,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Chambers St",
+        "Id": "A36",
         "Lat": "40.714111",
         "Long": "-74.008585",
         "Directions": {
@@ -4107,7 +4107,6 @@ export const stations ={
     "E01": {
         "Station ID": "171",
         "Complex ID": "624",
-        "GTFS Stop ID": "E01",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -4116,6 +4115,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "World Trade Center",
+        "Id": "E01",
         "Lat": "40.712582",
         "Long": "-74.009781",
         "Directions": {
@@ -4132,7 +4132,6 @@ export const stations ={
     "A38": {
         "Station ID": "172",
         "Complex ID": "628",
-        "GTFS Stop ID": "A38",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "M",
@@ -4141,6 +4140,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Fulton St",
+        "Id": "A38",
         "Lat": "40.710197",
         "Long": "-74.007691",
         "Directions": {
@@ -4174,7 +4174,6 @@ export const stations ={
     "A40": {
         "Station ID": "173",
         "Complex ID": "173",
-        "GTFS Stop ID": "A40",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4183,6 +4182,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "High St",
+        "Id": "A40",
         "Lat": "40.699337",
         "Long": "-73.990531",
         "Directions": {
@@ -4202,7 +4202,6 @@ export const stations ={
     "A41": {
         "Station ID": "174",
         "Complex ID": "636",
-        "GTFS Stop ID": "A41",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4211,6 +4210,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Jay St-MetroTech",
+        "Id": "A41",
         "Lat": "40.692338",
         "Long": "-73.987342",
         "Directions": {
@@ -4234,7 +4234,6 @@ export const stations ={
     "A42": {
         "Station ID": "175",
         "Complex ID": "175",
-        "GTFS Stop ID": "A42",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4243,6 +4242,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Hoyt-Schermerhorn Sts",
+        "Id": "A42",
         "Lat": "40.688484",
         "Long": "-73.985001",
         "Directions": {
@@ -4258,7 +4258,6 @@ export const stations ={
     "A43": {
         "Station ID": "176",
         "Complex ID": "176",
-        "GTFS Stop ID": "A43",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4267,6 +4266,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Lafayette Av",
+        "Id": "A43",
         "Lat": "40.686113",
         "Long": "-73.973946",
         "Directions": {
@@ -4280,7 +4280,6 @@ export const stations ={
     "A44": {
         "Station ID": "177",
         "Complex ID": "177",
-        "GTFS Stop ID": "A44",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4289,6 +4288,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Clinton-Washington Avs",
+        "Id": "A44",
         "Lat": "40.683263",
         "Long": "-73.965838",
         "Directions": {
@@ -4302,7 +4302,6 @@ export const stations ={
     "A45": {
         "Station ID": "178",
         "Complex ID": "627",
-        "GTFS Stop ID": "A45",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4311,6 +4310,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Franklin Av",
+        "Id": "A45",
         "Lat": "40.68138",
         "Long": "-73.956848",
         "Directions": {
@@ -4328,7 +4328,6 @@ export const stations ={
     "A46": {
         "Station ID": "179",
         "Complex ID": "179",
-        "GTFS Stop ID": "A46",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4337,6 +4336,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Nostrand Av",
+        "Id": "A46",
         "Lat": "40.680438",
         "Long": "-73.950426",
         "Directions": {
@@ -4350,7 +4350,6 @@ export const stations ={
     "A47": {
         "Station ID": "180",
         "Complex ID": "180",
-        "GTFS Stop ID": "A47",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4359,6 +4358,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Kingston-Throop Avs",
+        "Id": "A47",
         "Lat": "40.679921",
         "Long": "-73.940858",
         "Directions": {
@@ -4372,7 +4372,6 @@ export const stations ={
     "A48": {
         "Station ID": "181",
         "Complex ID": "181",
-        "GTFS Stop ID": "A48",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4381,6 +4380,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Utica Av",
+        "Id": "A48",
         "Lat": "40.679364",
         "Long": "-73.930729",
         "Directions": {
@@ -4398,7 +4398,6 @@ export const stations ={
     "A49": {
         "Station ID": "182",
         "Complex ID": "182",
-        "GTFS Stop ID": "A49",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4407,6 +4406,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Ralph Av",
+        "Id": "A49",
         "Lat": "40.678822",
         "Long": "-73.920786",
         "Directions": {
@@ -4420,7 +4420,6 @@ export const stations ={
     "A50": {
         "Station ID": "183",
         "Complex ID": "183",
-        "GTFS Stop ID": "A50",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4429,6 +4428,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Rockaway Av",
+        "Id": "A50",
         "Lat": "40.67834",
         "Long": "-73.911946",
         "Directions": {
@@ -4442,7 +4442,6 @@ export const stations ={
     "A51": {
         "Station ID": "184",
         "Complex ID": "621",
-        "GTFS Stop ID": "A51",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4451,6 +4450,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Broadway Junction",
+        "Id": "A51",
         "Lat": "40.678334",
         "Long": "-73.905316",
         "Directions": {
@@ -4469,7 +4469,6 @@ export const stations ={
     "A52": {
         "Station ID": "185",
         "Complex ID": "185",
-        "GTFS Stop ID": "A52",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4478,6 +4477,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Liberty Av",
+        "Id": "A52",
         "Lat": "40.674542",
         "Long": "-73.896548",
         "Directions": {
@@ -4491,7 +4491,6 @@ export const stations ={
     "A53": {
         "Station ID": "186",
         "Complex ID": "186",
-        "GTFS Stop ID": "A53",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4500,6 +4499,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Van Siclen Av",
+        "Id": "A53",
         "Lat": "40.67271",
         "Long": "-73.890358",
         "Directions": {
@@ -4513,7 +4513,6 @@ export const stations ={
     "A54": {
         "Station ID": "187",
         "Complex ID": "187",
-        "GTFS Stop ID": "A54",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4522,6 +4521,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Shepherd Av",
+        "Id": "A54",
         "Lat": "40.67413",
         "Long": "-73.88075",
         "Directions": {
@@ -4535,7 +4535,6 @@ export const stations ={
     "A55": {
         "Station ID": "188",
         "Complex ID": "188",
-        "GTFS Stop ID": "A55",
         "Division": "IND",
         "Line": "8th Av - Fulton St",
         "Borough": "Bk",
@@ -4544,6 +4543,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Euclid Av",
+        "Id": "A55",
         "Lat": "40.675377",
         "Long": "-73.872106",
         "Directions": {
@@ -4561,7 +4561,6 @@ export const stations ={
     "A57": {
         "Station ID": "189",
         "Complex ID": "189",
-        "GTFS Stop ID": "A57",
         "Division": "IND",
         "Line": "Liberty Av",
         "Borough": "Bk",
@@ -4570,6 +4569,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Grant Av",
+        "Id": "A57",
         "Lat": "40.677044",
         "Long": "-73.86505",
         "Directions": {
@@ -4583,7 +4583,6 @@ export const stations ={
     "A59": {
         "Station ID": "190",
         "Complex ID": "190",
-        "GTFS Stop ID": "A59",
         "Division": "IND",
         "Line": "Liberty Av",
         "Borough": "Q",
@@ -4592,6 +4591,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "80 St",
+        "Id": "A59",
         "Lat": "40.679371",
         "Long": "-73.858992",
         "Directions": {
@@ -4605,7 +4605,6 @@ export const stations ={
     "A60": {
         "Station ID": "191",
         "Complex ID": "191",
-        "GTFS Stop ID": "A60",
         "Division": "IND",
         "Line": "Liberty Av",
         "Borough": "Q",
@@ -4614,6 +4613,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "88 St",
+        "Id": "A60",
         "Lat": "40.679843",
         "Long": "-73.85147",
         "Directions": {
@@ -4627,7 +4627,6 @@ export const stations ={
     "A61": {
         "Station ID": "192",
         "Complex ID": "192",
-        "GTFS Stop ID": "A61",
         "Division": "IND",
         "Line": "Liberty Av",
         "Borough": "Q",
@@ -4636,6 +4635,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Rockaway Blvd",
+        "Id": "A61",
         "Lat": "40.680429",
         "Long": "-73.843853",
         "Directions": {
@@ -4649,7 +4649,6 @@ export const stations ={
     "A63": {
         "Station ID": "193",
         "Complex ID": "193",
-        "GTFS Stop ID": "A63",
         "Division": "IND",
         "Line": "Liberty Av",
         "Borough": "Q",
@@ -4658,6 +4657,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "104 St",
+        "Id": "A63",
         "Lat": "40.681711",
         "Long": "-73.837683",
         "Directions": {
@@ -4671,7 +4671,6 @@ export const stations ={
     "A64": {
         "Station ID": "194",
         "Complex ID": "194",
-        "GTFS Stop ID": "A64",
         "Division": "IND",
         "Line": "Liberty Av",
         "Borough": "Q",
@@ -4680,6 +4679,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "111 St",
+        "Id": "A64",
         "Lat": "40.684331",
         "Long": "-73.832163",
         "Directions": {
@@ -4693,7 +4693,6 @@ export const stations ={
     "A65": {
         "Station ID": "195",
         "Complex ID": "195",
-        "GTFS Stop ID": "A65",
         "Division": "IND",
         "Line": "Liberty Av",
         "Borough": "Q",
@@ -4702,6 +4701,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Ozone Park-Lefferts Blvd",
+        "Id": "A65",
         "Lat": "40.685951",
         "Long": "-73.825798",
         "Directions": {
@@ -4718,7 +4718,6 @@ export const stations ={
     "H01": {
         "Station ID": "196",
         "Complex ID": "196",
-        "GTFS Stop ID": "H01",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4727,6 +4726,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Aqueduct Racetrack",
+        "Id": "H01",
         "Lat": "40.672097",
         "Long": "-73.835919",
         "Directions": {
@@ -4742,7 +4742,6 @@ export const stations ={
     "H02": {
         "Station ID": "197",
         "Complex ID": "197",
-        "GTFS Stop ID": "H02",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4751,6 +4750,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Aqueduct-N Conduit Av",
+        "Id": "H02",
         "Lat": "40.668234",
         "Long": "-73.834058",
         "Directions": {
@@ -4764,7 +4764,6 @@ export const stations ={
     "H03": {
         "Station ID": "198",
         "Complex ID": "198",
-        "GTFS Stop ID": "H03",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4773,6 +4772,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Howard Beach-JFK Airport",
+        "Id": "H03",
         "Lat": "40.660476",
         "Long": "-73.830301",
         "Directions": {
@@ -4798,7 +4798,6 @@ export const stations ={
     "H04": {
         "Station ID": "199",
         "Complex ID": "199",
-        "GTFS Stop ID": "H04",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4807,6 +4806,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Broad Channel",
+        "Id": "H04",
         "Lat": "40.608382",
         "Long": "-73.815925",
         "Directions": {
@@ -4820,7 +4820,6 @@ export const stations ={
     "H12": {
         "Station ID": "200",
         "Complex ID": "200",
-        "GTFS Stop ID": "H12",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4829,6 +4828,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beach 90 St",
+        "Id": "H12",
         "Lat": "40.588034",
         "Long": "-73.813641",
         "Directions": {
@@ -4842,7 +4842,6 @@ export const stations ={
     "H13": {
         "Station ID": "201",
         "Complex ID": "201",
-        "GTFS Stop ID": "H13",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4851,6 +4850,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beach 98 St",
+        "Id": "H13",
         "Lat": "40.585307",
         "Long": "-73.820558",
         "Directions": {
@@ -4864,7 +4864,6 @@ export const stations ={
     "H14": {
         "Station ID": "202",
         "Complex ID": "202",
-        "GTFS Stop ID": "H14",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4873,6 +4872,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beach 105 St",
+        "Id": "H14",
         "Lat": "40.583209",
         "Long": "-73.827559",
         "Directions": {
@@ -4886,7 +4886,6 @@ export const stations ={
     "H15": {
         "Station ID": "203",
         "Complex ID": "203",
-        "GTFS Stop ID": "H15",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4895,6 +4894,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Rockaway Park-Beach 116 St",
+        "Id": "H15",
         "Lat": "40.580903",
         "Long": "-73.835592",
         "Directions": {
@@ -4908,7 +4908,6 @@ export const stations ={
     "H06": {
         "Station ID": "204",
         "Complex ID": "204",
-        "GTFS Stop ID": "H06",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4917,6 +4916,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beach 67 St",
+        "Id": "H06",
         "Lat": "40.590927",
         "Long": "-73.796924",
         "Directions": {
@@ -4933,7 +4933,6 @@ export const stations ={
     "H07": {
         "Station ID": "205",
         "Complex ID": "205",
-        "GTFS Stop ID": "H07",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4942,6 +4941,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beach 60 St",
+        "Id": "H07",
         "Lat": "40.592374",
         "Long": "-73.788522",
         "Directions": {
@@ -4955,7 +4955,6 @@ export const stations ={
     "H08": {
         "Station ID": "206",
         "Complex ID": "206",
-        "GTFS Stop ID": "H08",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4964,6 +4963,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beach 44 St",
+        "Id": "H08",
         "Lat": "40.592943",
         "Long": "-73.776013",
         "Directions": {
@@ -4977,7 +4977,6 @@ export const stations ={
     "H09": {
         "Station ID": "207",
         "Complex ID": "207",
-        "GTFS Stop ID": "H09",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -4986,6 +4985,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beach 36 St",
+        "Id": "H09",
         "Lat": "40.595398",
         "Long": "-73.768175",
         "Directions": {
@@ -4999,7 +4999,6 @@ export const stations ={
     "H10": {
         "Station ID": "208",
         "Complex ID": "208",
-        "GTFS Stop ID": "H10",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -5008,6 +5007,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beach 25 St",
+        "Id": "H10",
         "Lat": "40.600066",
         "Long": "-73.761353",
         "Directions": {
@@ -5021,7 +5021,6 @@ export const stations ={
     "H11": {
         "Station ID": "209",
         "Complex ID": "209",
-        "GTFS Stop ID": "H11",
         "Division": "IND",
         "Line": "Rockaway",
         "Borough": "Q",
@@ -5030,6 +5029,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Far Rockaway-Mott Av",
+        "Id": "H11",
         "Lat": "40.603995",
         "Long": "-73.755405",
         "Directions": {
@@ -5046,7 +5046,6 @@ export const stations ={
     "D01": {
         "Station ID": "210",
         "Complex ID": "210",
-        "GTFS Stop ID": "D01",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5055,6 +5054,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Norwood-205 St",
+        "Id": "D01",
         "Lat": "40.874811",
         "Long": "-73.878855",
         "Directions": {
@@ -5070,7 +5070,6 @@ export const stations ={
     "D03": {
         "Station ID": "211",
         "Complex ID": "211",
-        "GTFS Stop ID": "D03",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5079,6 +5078,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Bedford Park Blvd",
+        "Id": "D03",
         "Lat": "40.873244",
         "Long": "-73.887138",
         "Directions": {
@@ -5096,7 +5096,6 @@ export const stations ={
     "D04": {
         "Station ID": "212",
         "Complex ID": "212",
-        "GTFS Stop ID": "D04",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5105,6 +5104,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Kingsbridge Rd",
+        "Id": "D04",
         "Lat": "40.866978",
         "Long": "-73.893509",
         "Directions": {
@@ -5122,7 +5122,6 @@ export const stations ={
     "D05": {
         "Station ID": "213",
         "Complex ID": "213",
-        "GTFS Stop ID": "D05",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5131,6 +5130,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Fordham Rd",
+        "Id": "D05",
         "Lat": "40.861296",
         "Long": "-73.897749",
         "Directions": {
@@ -5144,7 +5144,6 @@ export const stations ={
     "D06": {
         "Station ID": "214",
         "Complex ID": "214",
-        "GTFS Stop ID": "D06",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5153,6 +5152,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "182-183 Sts",
+        "Id": "D06",
         "Lat": "40.856093",
         "Long": "-73.900741",
         "Directions": {
@@ -5166,7 +5166,6 @@ export const stations ={
     "D07": {
         "Station ID": "215",
         "Complex ID": "215",
-        "GTFS Stop ID": "D07",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5175,6 +5174,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Tremont Av",
+        "Id": "D07",
         "Lat": "40.85041",
         "Long": "-73.905227",
         "Directions": {
@@ -5188,7 +5188,6 @@ export const stations ={
     "D08": {
         "Station ID": "216",
         "Complex ID": "216",
-        "GTFS Stop ID": "D08",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5197,6 +5196,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "174-175 Sts",
+        "Id": "D08",
         "Lat": "40.8459",
         "Long": "-73.910136",
         "Directions": {
@@ -5210,7 +5210,6 @@ export const stations ={
     "D09": {
         "Station ID": "217",
         "Complex ID": "217",
-        "GTFS Stop ID": "D09",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5219,6 +5218,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "170 St",
+        "Id": "D09",
         "Lat": "40.839306",
         "Long": "-73.9134",
         "Directions": {
@@ -5232,7 +5232,6 @@ export const stations ={
     "D10": {
         "Station ID": "218",
         "Complex ID": "218",
-        "GTFS Stop ID": "D10",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5241,6 +5240,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "167 St",
+        "Id": "D10",
         "Lat": "40.833771",
         "Long": "-73.91844",
         "Directions": {
@@ -5254,7 +5254,6 @@ export const stations ={
     "D11": {
         "Station ID": "219",
         "Complex ID": "604",
-        "GTFS Stop ID": "D11",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "Bx",
@@ -5263,6 +5262,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "161 St-Yankee Stadium",
+        "Id": "D11",
         "Lat": "40.827905",
         "Long": "-73.925651",
         "Directions": {
@@ -5285,7 +5285,6 @@ export const stations ={
     "D12": {
         "Station ID": "220",
         "Complex ID": "220",
-        "GTFS Stop ID": "D12",
         "Division": "IND",
         "Line": "Concourse",
         "Borough": "M",
@@ -5294,6 +5293,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "155 St",
+        "Id": "D12",
         "Lat": "40.830135",
         "Long": "-73.938209",
         "Directions": {
@@ -5307,7 +5307,6 @@ export const stations ={
     "B04": {
         "Station ID": "221",
         "Complex ID": "221",
-        "GTFS Stop ID": "B04",
         "Division": "IND",
         "Line": "63rd St",
         "Borough": "Q",
@@ -5316,6 +5315,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "21 St-Queensbridge",
+        "Id": "B04",
         "Lat": "40.754203",
         "Long": "-73.942836",
         "Directions": {
@@ -5340,7 +5340,6 @@ export const stations ={
     "B06": {
         "Station ID": "222",
         "Complex ID": "222",
-        "GTFS Stop ID": "B06",
         "Division": "IND",
         "Line": "63rd St",
         "Borough": "M",
@@ -5349,6 +5348,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Roosevelt Island",
+        "Id": "B06",
         "Lat": "40.759145",
         "Long": "-73.95326",
         "Directions": {
@@ -5376,7 +5376,6 @@ export const stations ={
     "B08": {
         "Station ID": "223",
         "Complex ID": "223",
-        "GTFS Stop ID": "B08",
         "Division": "IND",
         "Line": "63rd St",
         "Borough": "M",
@@ -5385,6 +5384,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Lexington Av/63 St",
+        "Id": "B08",
         "Lat": "40.764629",
         "Long": "-73.966113",
         "Directions": {
@@ -5419,7 +5419,6 @@ export const stations ={
     "B10": {
         "Station ID": "224",
         "Complex ID": "224",
-        "GTFS Stop ID": "B10",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5428,6 +5427,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "57 St",
+        "Id": "B10",
         "Lat": "40.763972",
         "Long": "-73.97745",
         "Directions": {
@@ -5441,7 +5441,6 @@ export const stations ={
     "D15": {
         "Station ID": "225",
         "Complex ID": "225",
-        "GTFS Stop ID": "D15",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5450,6 +5449,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "47-50 Sts-Rockefeller Ctr",
+        "Id": "D15",
         "Lat": "40.758663",
         "Long": "-73.981329",
         "Directions": {
@@ -5467,7 +5467,6 @@ export const stations ={
     "D16": {
         "Station ID": "226",
         "Complex ID": "609",
-        "GTFS Stop ID": "D16",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5476,6 +5475,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "42 St-Bryant Pk",
+        "Id": "D16",
         "Lat": "40.754222",
         "Long": "-73.984569",
         "Directions": {
@@ -5493,7 +5493,6 @@ export const stations ={
     "D17": {
         "Station ID": "227",
         "Complex ID": "607",
-        "GTFS Stop ID": "D17",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5502,6 +5501,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "34 St-Herald Sq",
+        "Id": "D17",
         "Lat": "40.749719",
         "Long": "-73.987823",
         "Directions": {
@@ -5534,7 +5534,6 @@ export const stations ={
     "D18": {
         "Station ID": "228",
         "Complex ID": "228",
-        "GTFS Stop ID": "D18",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5543,6 +5542,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "23 St",
+        "Id": "D18",
         "Lat": "40.742878",
         "Long": "-73.992821",
         "Directions": {
@@ -5556,7 +5556,6 @@ export const stations ={
     "D19": {
         "Station ID": "229",
         "Complex ID": "601",
-        "GTFS Stop ID": "D19",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5565,6 +5564,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "14 St",
+        "Id": "D19",
         "Lat": "40.738228",
         "Long": "-73.996209",
         "Directions": {
@@ -5578,7 +5578,6 @@ export const stations ={
     "D21": {
         "Station ID": "230",
         "Complex ID": "619",
-        "GTFS Stop ID": "D21",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5587,6 +5586,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Broadway-Lafayette St",
+        "Id": "D21",
         "Lat": "40.725297",
         "Long": "-73.996204",
         "Directions": {
@@ -5606,7 +5606,6 @@ export const stations ={
     "D22": {
         "Station ID": "231",
         "Complex ID": "231",
-        "GTFS Stop ID": "D22",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5615,6 +5614,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Grand St",
+        "Id": "D22",
         "Lat": "40.718267",
         "Long": "-73.993753",
         "Directions": {
@@ -5628,7 +5628,6 @@ export const stations ={
     "F14": {
         "Station ID": "232",
         "Complex ID": "232",
-        "GTFS Stop ID": "F14",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5637,6 +5636,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "2 Av",
+        "Id": "F14",
         "Lat": "40.723402",
         "Long": "-73.989938",
         "Directions": {
@@ -5650,7 +5650,6 @@ export const stations ={
     "F15": {
         "Station ID": "233",
         "Complex ID": "625",
-        "GTFS Stop ID": "F15",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5659,6 +5658,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Delancey St-Essex St",
+        "Id": "F15",
         "Lat": "40.718611",
         "Long": "-73.988114",
         "Directions": {
@@ -5676,7 +5676,6 @@ export const stations ={
     "F16": {
         "Station ID": "234",
         "Complex ID": "234",
-        "GTFS Stop ID": "F16",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "M",
@@ -5685,6 +5684,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "East Broadway",
+        "Id": "F16",
         "Lat": "40.713715",
         "Long": "-73.990173",
         "Directions": {
@@ -5700,7 +5700,6 @@ export const stations ={
     "F18": {
         "Station ID": "235",
         "Complex ID": "235",
-        "GTFS Stop ID": "F18",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5709,6 +5708,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "York St",
+        "Id": "F18",
         "Lat": "40.701397",
         "Long": "-73.986751",
         "Directions": {
@@ -5722,7 +5722,6 @@ export const stations ={
     "F20": {
         "Station ID": "236",
         "Complex ID": "236",
-        "GTFS Stop ID": "F20",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5731,6 +5730,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bergen St",
+        "Id": "F20",
         "Lat": "40.686145",
         "Long": "-73.990862",
         "Directions": {
@@ -5744,7 +5744,6 @@ export const stations ={
     "F21": {
         "Station ID": "237",
         "Complex ID": "237",
-        "GTFS Stop ID": "F21",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5753,6 +5752,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Carroll St",
+        "Id": "F21",
         "Lat": "40.680303",
         "Long": "-73.995048",
         "Directions": {
@@ -5766,7 +5766,6 @@ export const stations ={
     "F22": {
         "Station ID": "238",
         "Complex ID": "238",
-        "GTFS Stop ID": "F22",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5775,6 +5774,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Smith-9 Sts",
+        "Id": "F22",
         "Lat": "40.67358",
         "Long": "-73.995959",
         "Directions": {
@@ -5795,7 +5795,6 @@ export const stations ={
     "F23": {
         "Station ID": "239",
         "Complex ID": "608",
-        "GTFS Stop ID": "F23",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5804,6 +5803,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "4 Av-9 St",
+        "Id": "F23",
         "Lat": "40.670272",
         "Long": "-73.989779",
         "Directions": {
@@ -5818,7 +5818,6 @@ export const stations ={
     "F24": {
         "Station ID": "240",
         "Complex ID": "240",
-        "GTFS Stop ID": "F24",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5827,6 +5826,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "7 Av",
+        "Id": "F24",
         "Lat": "40.666271",
         "Long": "-73.980305",
         "Directions": {
@@ -5844,7 +5844,6 @@ export const stations ={
     "F25": {
         "Station ID": "241",
         "Complex ID": "241",
-        "GTFS Stop ID": "F25",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5853,6 +5852,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "15 St-Prospect Park",
+        "Id": "F25",
         "Lat": "40.660365",
         "Long": "-73.979493",
         "Directions": {
@@ -5866,7 +5866,6 @@ export const stations ={
     "F26": {
         "Station ID": "242",
         "Complex ID": "242",
-        "GTFS Stop ID": "F26",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5875,6 +5874,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Fort Hamilton Pkwy",
+        "Id": "F26",
         "Lat": "40.650782",
         "Long": "-73.975776",
         "Directions": {
@@ -5888,7 +5888,6 @@ export const stations ={
     "F27": {
         "Station ID": "243",
         "Complex ID": "243",
-        "GTFS Stop ID": "F27",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5897,6 +5896,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Church Av",
+        "Id": "F27",
         "Lat": "40.644041",
         "Long": "-73.979678",
         "Directions": {
@@ -5914,7 +5914,6 @@ export const stations ={
     "F29": {
         "Station ID": "244",
         "Complex ID": "244",
-        "GTFS Stop ID": "F29",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5923,6 +5922,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Ditmas Av",
+        "Id": "F29",
         "Lat": "40.636119",
         "Long": "-73.978172",
         "Directions": {
@@ -5936,7 +5936,6 @@ export const stations ={
     "F30": {
         "Station ID": "245",
         "Complex ID": "245",
-        "GTFS Stop ID": "F30",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5945,6 +5944,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "18 Av",
+        "Id": "F30",
         "Lat": "40.629755",
         "Long": "-73.976971",
         "Directions": {
@@ -5958,7 +5958,6 @@ export const stations ={
     "F31": {
         "Station ID": "246",
         "Complex ID": "246",
-        "GTFS Stop ID": "F31",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5967,6 +5966,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue I",
+        "Id": "F31",
         "Lat": "40.625322",
         "Long": "-73.976127",
         "Directions": {
@@ -5980,7 +5980,6 @@ export const stations ={
     "F32": {
         "Station ID": "247",
         "Complex ID": "247",
-        "GTFS Stop ID": "F32",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -5989,6 +5988,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bay Pkwy",
+        "Id": "F32",
         "Lat": "40.620769",
         "Long": "-73.975264",
         "Directions": {
@@ -6002,7 +6002,6 @@ export const stations ={
     "F33": {
         "Station ID": "248",
         "Complex ID": "248",
-        "GTFS Stop ID": "F33",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -6011,6 +6010,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue N",
+        "Id": "F33",
         "Lat": "40.61514",
         "Long": "-73.974197",
         "Directions": {
@@ -6024,7 +6024,6 @@ export const stations ={
     "F34": {
         "Station ID": "249",
         "Complex ID": "249",
-        "GTFS Stop ID": "F34",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -6033,6 +6032,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue P",
+        "Id": "F34",
         "Lat": "40.608944",
         "Long": "-73.973022",
         "Directions": {
@@ -6046,7 +6046,6 @@ export const stations ={
     "F35": {
         "Station ID": "250",
         "Complex ID": "250",
-        "GTFS Stop ID": "F35",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -6055,6 +6054,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Kings Hwy",
+        "Id": "F35",
         "Lat": "40.603217",
         "Long": "-73.972361",
         "Directions": {
@@ -6068,7 +6068,6 @@ export const stations ={
     "F36": {
         "Station ID": "251",
         "Complex ID": "251",
-        "GTFS Stop ID": "F36",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -6077,6 +6076,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue U",
+        "Id": "F36",
         "Lat": "40.596063",
         "Long": "-73.973357",
         "Directions": {
@@ -6090,7 +6090,6 @@ export const stations ={
     "F38": {
         "Station ID": "252",
         "Complex ID": "252",
-        "GTFS Stop ID": "F38",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -6099,6 +6098,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Avenue X",
+        "Id": "F38",
         "Lat": "40.58962",
         "Long": "-73.97425",
         "Directions": {
@@ -6112,7 +6112,6 @@ export const stations ={
     "F39": {
         "Station ID": "253",
         "Complex ID": "253",
-        "GTFS Stop ID": "F39",
         "Division": "IND",
         "Line": "6th Av - Culver",
         "Borough": "Bk",
@@ -6121,6 +6120,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Neptune Av",
+        "Id": "F39",
         "Lat": "40.581011",
         "Long": "-73.974574",
         "Directions": {
@@ -6134,7 +6134,6 @@ export const stations ={
     "F01": {
         "Station ID": "254",
         "Complex ID": "254",
-        "GTFS Stop ID": "F01",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6143,6 +6142,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Jamaica-179 St",
+        "Id": "F01",
         "Lat": "40.712646",
         "Long": "-73.783817",
         "Directions": {
@@ -6160,7 +6160,6 @@ export const stations ={
     "F02": {
         "Station ID": "255",
         "Complex ID": "255",
-        "GTFS Stop ID": "F02",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6169,6 +6168,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "169 St",
+        "Id": "F02",
         "Lat": "40.71047",
         "Long": "-73.793604",
         "Directions": {
@@ -6182,7 +6182,6 @@ export const stations ={
     "F03": {
         "Station ID": "256",
         "Complex ID": "256",
-        "GTFS Stop ID": "F03",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6191,6 +6190,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Parsons Blvd",
+        "Id": "F03",
         "Lat": "40.707564",
         "Long": "-73.803326",
         "Directions": {
@@ -6204,7 +6204,6 @@ export const stations ={
     "F04": {
         "Station ID": "257",
         "Complex ID": "257",
-        "GTFS Stop ID": "F04",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6213,6 +6212,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Sutphin Blvd",
+        "Id": "F04",
         "Lat": "40.70546",
         "Long": "-73.810708",
         "Directions": {
@@ -6226,7 +6226,6 @@ export const stations ={
     "F05": {
         "Station ID": "258",
         "Complex ID": "258",
-        "GTFS Stop ID": "F05",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6235,6 +6234,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Briarwood",
+        "Id": "F05",
         "Lat": "40.709179",
         "Long": "-73.820574",
         "Directions": {
@@ -6250,7 +6250,6 @@ export const stations ={
     "F06": {
         "Station ID": "259",
         "Complex ID": "259",
-        "GTFS Stop ID": "F06",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6259,6 +6258,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Kew Gardens-Union Tpke",
+        "Id": "F06",
         "Lat": "40.714441",
         "Long": "-73.831008",
         "Directions": {
@@ -6276,7 +6276,6 @@ export const stations ={
     "F07": {
         "Station ID": "260",
         "Complex ID": "260",
-        "GTFS Stop ID": "F07",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6285,6 +6284,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "75 Av",
+        "Id": "F07",
         "Lat": "40.718331",
         "Long": "-73.837324",
         "Directions": {
@@ -6298,7 +6298,6 @@ export const stations ={
     "G08": {
         "Station ID": "261",
         "Complex ID": "261",
-        "GTFS Stop ID": "G08",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6307,6 +6306,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Forest Hills-71 Av",
+        "Id": "G08",
         "Lat": "40.721691",
         "Long": "-73.844521",
         "Directions": {
@@ -6324,7 +6324,6 @@ export const stations ={
     "G09": {
         "Station ID": "262",
         "Complex ID": "262",
-        "GTFS Stop ID": "G09",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6333,6 +6332,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "67 Av",
+        "Id": "G09",
         "Lat": "40.726523",
         "Long": "-73.852719",
         "Directions": {
@@ -6346,7 +6346,6 @@ export const stations ={
     "G10": {
         "Station ID": "263",
         "Complex ID": "263",
-        "GTFS Stop ID": "G10",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6355,6 +6354,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "63 Dr-Rego Park",
+        "Id": "G10",
         "Lat": "40.729846",
         "Long": "-73.861604",
         "Directions": {
@@ -6368,7 +6368,6 @@ export const stations ={
     "G11": {
         "Station ID": "264",
         "Complex ID": "264",
-        "GTFS Stop ID": "G11",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6377,6 +6376,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Woodhaven Blvd",
+        "Id": "G11",
         "Lat": "40.733106",
         "Long": "-73.869229",
         "Directions": {
@@ -6390,7 +6390,6 @@ export const stations ={
     "G12": {
         "Station ID": "265",
         "Complex ID": "265",
-        "GTFS Stop ID": "G12",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6399,6 +6398,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Grand Av-Newtown",
+        "Id": "G12",
         "Lat": "40.737015",
         "Long": "-73.877223",
         "Directions": {
@@ -6412,7 +6412,6 @@ export const stations ={
     "G13": {
         "Station ID": "266",
         "Complex ID": "266",
-        "GTFS Stop ID": "G13",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6421,6 +6420,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Elmhurst Av",
+        "Id": "G13",
         "Lat": "40.742454",
         "Long": "-73.882017",
         "Directions": {
@@ -6434,7 +6434,6 @@ export const stations ={
     "G14": {
         "Station ID": "267",
         "Complex ID": "616",
-        "GTFS Stop ID": "G14",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6443,6 +6442,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Jackson Hts-Roosevelt Av",
+        "Id": "G14",
         "Lat": "40.746644",
         "Long": "-73.891338",
         "Directions": {
@@ -6466,7 +6466,6 @@ export const stations ={
     "G15": {
         "Station ID": "268",
         "Complex ID": "268",
-        "GTFS Stop ID": "G15",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6475,6 +6474,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "65 St",
+        "Id": "G15",
         "Lat": "40.749669",
         "Long": "-73.898453",
         "Directions": {
@@ -6488,7 +6488,6 @@ export const stations ={
     "G16": {
         "Station ID": "269",
         "Complex ID": "269",
-        "GTFS Stop ID": "G16",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6497,6 +6496,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Northern Blvd",
+        "Id": "G16",
         "Lat": "40.752885",
         "Long": "-73.906006",
         "Directions": {
@@ -6510,7 +6510,6 @@ export const stations ={
     "G18": {
         "Station ID": "270",
         "Complex ID": "270",
-        "GTFS Stop ID": "G18",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6519,6 +6518,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "46 St",
+        "Id": "G18",
         "Lat": "40.756312",
         "Long": "-73.913333",
         "Directions": {
@@ -6532,7 +6532,6 @@ export const stations ={
     "G19": {
         "Station ID": "271",
         "Complex ID": "271",
-        "GTFS Stop ID": "G19",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6541,6 +6540,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Steinway St",
+        "Id": "G19",
         "Lat": "40.756879",
         "Long": "-73.92074",
         "Directions": {
@@ -6554,7 +6554,6 @@ export const stations ={
     "G20": {
         "Station ID": "272",
         "Complex ID": "272",
-        "GTFS Stop ID": "G20",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6563,6 +6562,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "36 St",
+        "Id": "G20",
         "Lat": "40.752039",
         "Long": "-73.928781",
         "Directions": {
@@ -6576,7 +6576,6 @@ export const stations ={
     "G21": {
         "Station ID": "273",
         "Complex ID": "273",
-        "GTFS Stop ID": "G21",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6585,6 +6584,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Queens Plaza",
+        "Id": "G21",
         "Lat": "40.748973",
         "Long": "-73.937243",
         "Directions": {
@@ -6602,7 +6602,6 @@ export const stations ={
     "F09": {
         "Station ID": "274",
         "Complex ID": "606",
-        "GTFS Stop ID": "F09",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "Q",
@@ -6611,6 +6610,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Manhattan-bound only",
         "Name": "Court Sq-23 St",
+        "Id": "F09",
         "Lat": "40.747846",
         "Long": "-73.946",
         "Directions": {
@@ -6630,7 +6630,6 @@ export const stations ={
     "F11": {
         "Station ID": "275",
         "Complex ID": "612",
-        "GTFS Stop ID": "F11",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "M",
@@ -6639,6 +6638,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Lexington Av/53 St",
+        "Id": "F11",
         "Lat": "40.757552",
         "Long": "-73.969055",
         "Directions": {
@@ -6665,7 +6665,6 @@ export const stations ={
     "F12": {
         "Station ID": "276",
         "Complex ID": "276",
-        "GTFS Stop ID": "F12",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "M",
@@ -6674,6 +6673,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "5 Av/53 St",
+        "Id": "F12",
         "Lat": "40.760167",
         "Long": "-73.975224",
         "Directions": {
@@ -6692,7 +6692,6 @@ export const stations ={
     "D14": {
         "Station ID": "277",
         "Complex ID": "277",
-        "GTFS Stop ID": "D14",
         "Division": "IND",
         "Line": "Queens Blvd",
         "Borough": "M",
@@ -6701,6 +6700,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "7 Av",
+        "Id": "D14",
         "Lat": "40.762862",
         "Long": "-73.981637",
         "Directions": {
@@ -6717,7 +6717,6 @@ export const stations ={
     "G05": {
         "Station ID": "278",
         "Complex ID": "278",
-        "GTFS Stop ID": "G05",
         "Division": "IND",
         "Line": "Queens - Archer",
         "Borough": "Q",
@@ -6726,6 +6725,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Jamaica Center-Parsons/Archer",
+        "Id": "G05",
         "Lat": "40.702147",
         "Long": "-73.801109",
         "Directions": {
@@ -6753,7 +6753,6 @@ export const stations ={
     "G06": {
         "Station ID": "279",
         "Complex ID": "279",
-        "GTFS Stop ID": "G06",
         "Division": "IND",
         "Line": "Queens - Archer",
         "Borough": "Q",
@@ -6762,6 +6761,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Sutphin Blvd-Archer Av-JFK Airport",
+        "Id": "G06",
         "Lat": "40.700486",
         "Long": "-73.807969",
         "Directions": {
@@ -6787,7 +6787,6 @@ export const stations ={
     "G07": {
         "Station ID": "280",
         "Complex ID": "280",
-        "GTFS Stop ID": "G07",
         "Division": "IND",
         "Line": "Queens - Archer",
         "Borough": "Q",
@@ -6796,6 +6795,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Jamaica-Van Wyck",
+        "Id": "G07",
         "Lat": "40.702566",
         "Long": "-73.816859",
         "Directions": {
@@ -6818,7 +6818,6 @@ export const stations ={
     "G22": {
         "Station ID": "281",
         "Complex ID": "606",
-        "GTFS Stop ID": "G22",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Q",
@@ -6827,6 +6826,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Court Sq",
+        "Id": "G22",
         "Lat": "40.746554",
         "Long": "-73.943832",
         "Directions": {
@@ -6848,7 +6848,6 @@ export const stations ={
     "G24": {
         "Station ID": "282",
         "Complex ID": "282",
-        "GTFS Stop ID": "G24",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Q",
@@ -6857,6 +6856,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "21 St",
+        "Id": "G24",
         "Lat": "40.744065",
         "Long": "-73.949724",
         "Directions": {
@@ -6870,7 +6870,6 @@ export const stations ={
     "G26": {
         "Station ID": "283",
         "Complex ID": "283",
-        "GTFS Stop ID": "G26",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -6879,6 +6878,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Greenpoint Av",
+        "Id": "G26",
         "Lat": "40.731352",
         "Long": "-73.954449",
         "Directions": {
@@ -6896,7 +6896,6 @@ export const stations ={
     "G28": {
         "Station ID": "284",
         "Complex ID": "284",
-        "GTFS Stop ID": "G28",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -6905,6 +6904,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Nassau Av",
+        "Id": "G28",
         "Lat": "40.724635",
         "Long": "-73.951277",
         "Directions": {
@@ -6918,7 +6918,6 @@ export const stations ={
     "G29": {
         "Station ID": "285",
         "Complex ID": "629",
-        "GTFS Stop ID": "G29",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -6927,6 +6926,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Metropolitan Av",
+        "Id": "G29",
         "Lat": "40.712792",
         "Long": "-73.951418",
         "Directions": {
@@ -6940,7 +6940,6 @@ export const stations ={
     "G30": {
         "Station ID": "286",
         "Complex ID": "286",
-        "GTFS Stop ID": "G30",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -6949,6 +6948,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Broadway",
+        "Id": "G30",
         "Lat": "40.706092",
         "Long": "-73.950308",
         "Directions": {
@@ -6962,7 +6962,6 @@ export const stations ={
     "G31": {
         "Station ID": "287",
         "Complex ID": "287",
-        "GTFS Stop ID": "G31",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -6971,6 +6970,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Flushing Av",
+        "Id": "G31",
         "Lat": "40.700377",
         "Long": "-73.950234",
         "Directions": {
@@ -6984,7 +6984,6 @@ export const stations ={
     "G32": {
         "Station ID": "288",
         "Complex ID": "288",
-        "GTFS Stop ID": "G32",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -6993,6 +6992,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Myrtle-Willoughby Avs",
+        "Id": "G32",
         "Lat": "40.694568",
         "Long": "-73.949046",
         "Directions": {
@@ -7006,7 +7006,6 @@ export const stations ={
     "G33": {
         "Station ID": "289",
         "Complex ID": "289",
-        "GTFS Stop ID": "G33",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -7015,6 +7014,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bedford-Nostrand Avs",
+        "Id": "G33",
         "Lat": "40.689627",
         "Long": "-73.953522",
         "Directions": {
@@ -7028,7 +7028,6 @@ export const stations ={
     "G34": {
         "Station ID": "290",
         "Complex ID": "290",
-        "GTFS Stop ID": "G34",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -7037,6 +7036,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Classon Av",
+        "Id": "G34",
         "Lat": "40.688873",
         "Long": "-73.96007",
         "Directions": {
@@ -7050,7 +7050,6 @@ export const stations ={
     "G35": {
         "Station ID": "291",
         "Complex ID": "291",
-        "GTFS Stop ID": "G35",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -7059,6 +7058,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Clinton-Washington Avs",
+        "Id": "G35",
         "Lat": "40.688089",
         "Long": "-73.966839",
         "Directions": {
@@ -7072,7 +7072,6 @@ export const stations ={
     "G36": {
         "Station ID": "292",
         "Complex ID": "292",
-        "GTFS Stop ID": "G36",
         "Division": "IND",
         "Line": "Crosstown",
         "Borough": "Bk",
@@ -7081,6 +7080,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Fulton St",
+        "Id": "G36",
         "Lat": "40.687119",
         "Long": "-73.975375",
         "Directions": {
@@ -7094,7 +7094,6 @@ export const stations ={
     "101": {
         "Station ID": "293",
         "Complex ID": "293",
-        "GTFS Stop ID": "101",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "Bx",
@@ -7103,6 +7102,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Van Cortlandt Park-242 St",
+        "Id": "101",
         "Lat": "40.889248",
         "Long": "-73.898583",
         "Directions": {
@@ -7116,7 +7116,6 @@ export const stations ={
     "103": {
         "Station ID": "294",
         "Complex ID": "294",
-        "GTFS Stop ID": "103",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "Bx",
@@ -7125,6 +7124,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "238 St",
+        "Id": "103",
         "Lat": "40.884667",
         "Long": "-73.90087",
         "Directions": {
@@ -7138,7 +7138,6 @@ export const stations ={
     "104": {
         "Station ID": "295",
         "Complex ID": "295",
-        "GTFS Stop ID": "104",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "Bx",
@@ -7147,6 +7146,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "231 St",
+        "Id": "104",
         "Lat": "40.878856",
         "Long": "-73.904834",
         "Directions": {
@@ -7163,7 +7163,6 @@ export const stations ={
     "106": {
         "Station ID": "296",
         "Complex ID": "296",
-        "GTFS Stop ID": "106",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7172,6 +7171,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Marble Hill-225 St",
+        "Id": "106",
         "Lat": "40.874561",
         "Long": "-73.909831",
         "Directions": {
@@ -7185,7 +7185,6 @@ export const stations ={
     "107": {
         "Station ID": "297",
         "Complex ID": "297",
-        "GTFS Stop ID": "107",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7194,6 +7193,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "215 St",
+        "Id": "107",
         "Lat": "40.869444",
         "Long": "-73.915279",
         "Directions": {
@@ -7207,7 +7207,6 @@ export const stations ={
     "108": {
         "Station ID": "298",
         "Complex ID": "298",
-        "GTFS Stop ID": "108",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7216,6 +7215,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "207 St",
+        "Id": "108",
         "Lat": "40.864621",
         "Long": "-73.918822",
         "Directions": {
@@ -7229,7 +7229,6 @@ export const stations ={
     "109": {
         "Station ID": "299",
         "Complex ID": "299",
-        "GTFS Stop ID": "109",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7238,6 +7237,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Downtown only",
         "Name": "Dyckman St",
+        "Id": "109",
         "Lat": "40.860531",
         "Long": "-73.925536",
         "Directions": {
@@ -7254,7 +7254,6 @@ export const stations ={
     "110": {
         "Station ID": "300",
         "Complex ID": "300",
-        "GTFS Stop ID": "110",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7263,6 +7262,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "191 St",
+        "Id": "110",
         "Lat": "40.855225",
         "Long": "-73.929412",
         "Directions": {
@@ -7281,7 +7281,6 @@ export const stations ={
     "111": {
         "Station ID": "301",
         "Complex ID": "301",
-        "GTFS Stop ID": "111",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7290,6 +7289,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "181 St",
+        "Id": "111",
         "Lat": "40.849505",
         "Long": "-73.933596",
         "Directions": {
@@ -7308,7 +7308,6 @@ export const stations ={
     "112": {
         "Station ID": "302",
         "Complex ID": "605",
-        "GTFS Stop ID": "112",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7317,6 +7316,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "168 St-Washington Hts",
+        "Id": "112",
         "Lat": "40.840556",
         "Long": "-73.940133",
         "Directions": {
@@ -7335,7 +7335,6 @@ export const stations ={
     "113": {
         "Station ID": "303",
         "Complex ID": "303",
-        "GTFS Stop ID": "113",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7344,6 +7343,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "157 St",
+        "Id": "113",
         "Lat": "40.834041",
         "Long": "-73.94489",
         "Directions": {
@@ -7357,7 +7357,6 @@ export const stations ={
     "114": {
         "Station ID": "304",
         "Complex ID": "304",
-        "GTFS Stop ID": "114",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7366,6 +7365,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "145 St",
+        "Id": "114",
         "Lat": "40.826551",
         "Long": "-73.95036",
         "Directions": {
@@ -7379,7 +7379,6 @@ export const stations ={
     "115": {
         "Station ID": "305",
         "Complex ID": "305",
-        "GTFS Stop ID": "115",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7388,6 +7387,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "137 St-City College",
+        "Id": "115",
         "Lat": "40.822008",
         "Long": "-73.953676",
         "Directions": {
@@ -7401,7 +7401,6 @@ export const stations ={
     "116": {
         "Station ID": "306",
         "Complex ID": "306",
-        "GTFS Stop ID": "116",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7410,6 +7409,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "125 St",
+        "Id": "116",
         "Lat": "40.815581",
         "Long": "-73.958372",
         "Directions": {
@@ -7427,7 +7427,6 @@ export const stations ={
     "117": {
         "Station ID": "307",
         "Complex ID": "307",
-        "GTFS Stop ID": "117",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7436,6 +7435,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "116 St-Columbia University",
+        "Id": "117",
         "Lat": "40.807722",
         "Long": "-73.96411",
         "Directions": {
@@ -7449,7 +7449,6 @@ export const stations ={
     "118": {
         "Station ID": "308",
         "Complex ID": "308",
-        "GTFS Stop ID": "118",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7458,6 +7457,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Cathedral Pkwy (110 St)",
+        "Id": "118",
         "Lat": "40.803967",
         "Long": "-73.966847",
         "Directions": {
@@ -7471,7 +7471,6 @@ export const stations ={
     "119": {
         "Station ID": "309",
         "Complex ID": "309",
-        "GTFS Stop ID": "119",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7480,6 +7479,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "103 St",
+        "Id": "119",
         "Lat": "40.799446",
         "Long": "-73.968379",
         "Directions": {
@@ -7493,7 +7493,6 @@ export const stations ={
     "120": {
         "Station ID": "310",
         "Complex ID": "310",
-        "GTFS Stop ID": "120",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7502,6 +7501,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "96 St",
+        "Id": "120",
         "Lat": "40.793919",
         "Long": "-73.972323",
         "Directions": {
@@ -7518,7 +7518,6 @@ export const stations ={
     "121": {
         "Station ID": "311",
         "Complex ID": "311",
-        "GTFS Stop ID": "121",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7527,6 +7526,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "86 St",
+        "Id": "121",
         "Lat": "40.788644",
         "Long": "-73.976218",
         "Directions": {
@@ -7540,7 +7540,6 @@ export const stations ={
     "122": {
         "Station ID": "312",
         "Complex ID": "312",
-        "GTFS Stop ID": "122",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7549,6 +7548,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "79 St",
+        "Id": "122",
         "Lat": "40.783934",
         "Long": "-73.979917",
         "Directions": {
@@ -7562,7 +7562,6 @@ export const stations ={
     "123": {
         "Station ID": "313",
         "Complex ID": "313",
-        "GTFS Stop ID": "123",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7571,6 +7570,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "72 St",
+        "Id": "123",
         "Lat": "40.778453",
         "Long": "-73.98197",
         "Directions": {
@@ -7587,7 +7587,6 @@ export const stations ={
     "124": {
         "Station ID": "314",
         "Complex ID": "314",
-        "GTFS Stop ID": "124",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7596,6 +7595,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "66 St-Lincoln Center",
+        "Id": "124",
         "Lat": "40.77344",
         "Long": "-73.982209",
         "Directions": {
@@ -7612,7 +7612,6 @@ export const stations ={
     "125": {
         "Station ID": "315",
         "Complex ID": "614",
-        "GTFS Stop ID": "125",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7621,6 +7620,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "59 St-Columbus Circle",
+        "Id": "125",
         "Lat": "40.768247",
         "Long": "-73.981929",
         "Directions": {
@@ -7643,7 +7643,6 @@ export const stations ={
     "126": {
         "Station ID": "316",
         "Complex ID": "316",
-        "GTFS Stop ID": "126",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7652,6 +7651,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "50 St",
+        "Id": "126",
         "Lat": "40.761728",
         "Long": "-73.983849",
         "Directions": {
@@ -7665,7 +7665,6 @@ export const stations ={
     "127": {
         "Station ID": "317",
         "Complex ID": "611",
-        "GTFS Stop ID": "127",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7674,6 +7673,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Times Sq-42 St",
+        "Id": "127",
         "Lat": "40.75529",
         "Long": "-73.987495",
         "Directions": {
@@ -7701,7 +7701,6 @@ export const stations ={
     "128": {
         "Station ID": "318",
         "Complex ID": "318",
-        "GTFS Stop ID": "128",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7710,6 +7709,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "34 St-Penn Station",
+        "Id": "128",
         "Lat": "40.750373",
         "Long": "-73.991057",
         "Directions": {
@@ -7729,7 +7729,6 @@ export const stations ={
     "129": {
         "Station ID": "319",
         "Complex ID": "319",
-        "GTFS Stop ID": "129",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7738,6 +7737,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "28 St",
+        "Id": "129",
         "Lat": "40.747215",
         "Long": "-73.993365",
         "Directions": {
@@ -7751,7 +7751,6 @@ export const stations ={
     "130": {
         "Station ID": "320",
         "Complex ID": "320",
-        "GTFS Stop ID": "130",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7760,6 +7759,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "23 St",
+        "Id": "130",
         "Lat": "40.744081",
         "Long": "-73.995657",
         "Directions": {
@@ -7773,7 +7773,6 @@ export const stations ={
     "131": {
         "Station ID": "321",
         "Complex ID": "321",
-        "GTFS Stop ID": "131",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7782,6 +7781,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "18 St",
+        "Id": "131",
         "Lat": "40.74104",
         "Long": "-73.997871",
         "Directions": {
@@ -7795,7 +7795,6 @@ export const stations ={
     "132": {
         "Station ID": "322",
         "Complex ID": "601",
-        "GTFS Stop ID": "132",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7804,6 +7803,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "14 St",
+        "Id": "132",
         "Lat": "40.737826",
         "Long": "-74.000201",
         "Directions": {
@@ -7817,7 +7817,6 @@ export const stations ={
     "133": {
         "Station ID": "323",
         "Complex ID": "323",
-        "GTFS Stop ID": "133",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7826,6 +7825,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Christopher St-Sheridan Sq",
+        "Id": "133",
         "Lat": "40.733422",
         "Long": "-74.002906",
         "Directions": {
@@ -7839,7 +7839,6 @@ export const stations ={
     "134": {
         "Station ID": "324",
         "Complex ID": "324",
-        "GTFS Stop ID": "134",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7848,6 +7847,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Houston St",
+        "Id": "134",
         "Lat": "40.728251",
         "Long": "-74.005367",
         "Directions": {
@@ -7861,7 +7861,6 @@ export const stations ={
     "135": {
         "Station ID": "325",
         "Complex ID": "325",
-        "GTFS Stop ID": "135",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7870,6 +7869,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Canal St",
+        "Id": "135",
         "Lat": "40.722854",
         "Long": "-74.006277",
         "Directions": {
@@ -7883,7 +7883,6 @@ export const stations ={
     "136": {
         "Station ID": "326",
         "Complex ID": "326",
-        "GTFS Stop ID": "136",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7892,6 +7891,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Franklin St",
+        "Id": "136",
         "Lat": "40.719318",
         "Long": "-74.006886",
         "Directions": {
@@ -7905,7 +7905,6 @@ export const stations ={
     "137": {
         "Station ID": "327",
         "Complex ID": "327",
-        "GTFS Stop ID": "137",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7914,6 +7913,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Chambers St",
+        "Id": "137",
         "Lat": "40.715478",
         "Long": "-74.009266",
         "Directions": {
@@ -7931,7 +7931,6 @@ export const stations ={
     "138": {
         "Station ID": "328",
         "Complex ID": "328",
-        "GTFS Stop ID": "138",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7940,6 +7939,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "WTC Cortlandt",
+        "Id": "138",
         "Lat": "40.711835",
         "Long": "-74.012188",
         "Directions": {
@@ -7963,7 +7963,6 @@ export const stations ={
     "139": {
         "Station ID": "329",
         "Complex ID": "329",
-        "GTFS Stop ID": "139",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7972,6 +7971,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Rector St",
+        "Id": "139",
         "Lat": "40.707513",
         "Long": "-74.013783",
         "Directions": {
@@ -7985,7 +7985,6 @@ export const stations ={
     "142": {
         "Station ID": "330",
         "Complex ID": "635",
-        "GTFS Stop ID": "142",
         "Division": "IRT",
         "Line": "Broadway - 7Av",
         "Borough": "M",
@@ -7994,6 +7993,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "South Ferry",
+        "Id": "142",
         "Lat": "40.702068",
         "Long": "-74.013664",
         "Directions": {
@@ -8018,7 +8018,6 @@ export const stations ={
     "228": {
         "Station ID": "331",
         "Complex ID": "624",
-        "GTFS Stop ID": "228",
         "Division": "IRT",
         "Line": "Clark St",
         "Borough": "M",
@@ -8027,6 +8026,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Park Place",
+        "Id": "228",
         "Lat": "40.713051",
         "Long": "-74.008811",
         "Directions": {
@@ -8043,7 +8043,6 @@ export const stations ={
     "229": {
         "Station ID": "332",
         "Complex ID": "628",
-        "GTFS Stop ID": "229",
         "Division": "IRT",
         "Line": "Clark St",
         "Borough": "M",
@@ -8052,6 +8051,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Fulton St",
+        "Id": "229",
         "Lat": "40.709416",
         "Long": "-74.006571",
         "Directions": {
@@ -8081,7 +8081,6 @@ export const stations ={
     "230": {
         "Station ID": "333",
         "Complex ID": "333",
-        "GTFS Stop ID": "230",
         "Division": "IRT",
         "Line": "Clark St",
         "Borough": "M",
@@ -8090,6 +8089,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Wall St",
+        "Id": "230",
         "Lat": "40.706821",
         "Long": "-74.0091",
         "Directions": {
@@ -8106,7 +8106,6 @@ export const stations ={
     "231": {
         "Station ID": "334",
         "Complex ID": "334",
-        "GTFS Stop ID": "231",
         "Division": "IRT",
         "Line": "Clark St",
         "Borough": "Bk",
@@ -8115,6 +8114,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Clark St",
+        "Id": "231",
         "Lat": "40.697466",
         "Long": "-73.993086",
         "Directions": {
@@ -8132,7 +8132,6 @@ export const stations ={
     "232": {
         "Station ID": "335",
         "Complex ID": "620",
-        "GTFS Stop ID": "232",
         "Division": "IRT",
         "Line": "Clark St",
         "Borough": "Bk",
@@ -8141,6 +8140,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Borough Hall",
+        "Id": "232",
         "Lat": "40.693219",
         "Long": "-73.989998",
         "Directions": {
@@ -8161,7 +8161,6 @@ export const stations ={
     "233": {
         "Station ID": "336",
         "Complex ID": "336",
-        "GTFS Stop ID": "233",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8170,6 +8169,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Hoyt St",
+        "Id": "233",
         "Lat": "40.690545",
         "Long": "-73.985065",
         "Directions": {
@@ -8185,7 +8185,6 @@ export const stations ={
     "234": {
         "Station ID": "337",
         "Complex ID": "337",
-        "GTFS Stop ID": "234",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8194,6 +8193,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Nevins St",
+        "Id": "234",
         "Lat": "40.688246",
         "Long": "-73.980492",
         "Directions": {
@@ -8207,7 +8207,6 @@ export const stations ={
     "235": {
         "Station ID": "338",
         "Complex ID": "617",
-        "GTFS Stop ID": "235",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8216,6 +8215,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Atlantic Av-Barclays Ctr",
+        "Id": "235",
         "Lat": "40.684359",
         "Long": "-73.977666",
         "Directions": {
@@ -8241,7 +8241,6 @@ export const stations ={
     "236": {
         "Station ID": "339",
         "Complex ID": "339",
-        "GTFS Stop ID": "236",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8250,6 +8249,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bergen St",
+        "Id": "236",
         "Lat": "40.680829",
         "Long": "-73.975098",
         "Directions": {
@@ -8263,7 +8263,6 @@ export const stations ={
     "237": {
         "Station ID": "340",
         "Complex ID": "340",
-        "GTFS Stop ID": "237",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8272,6 +8271,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Grand Army Plaza",
+        "Id": "237",
         "Lat": "40.675235",
         "Long": "-73.971046",
         "Directions": {
@@ -8285,7 +8285,6 @@ export const stations ={
     "238": {
         "Station ID": "341",
         "Complex ID": "341",
-        "GTFS Stop ID": "238",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8294,6 +8293,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Eastern Pkwy-Brooklyn Museum",
+        "Id": "238",
         "Lat": "40.671987",
         "Long": "-73.964375",
         "Directions": {
@@ -8311,7 +8311,6 @@ export const stations ={
     "239": {
         "Station ID": "342",
         "Complex ID": "626",
-        "GTFS Stop ID": "239",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8320,6 +8319,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Franklin Avenue-Medgar Evers College",
+        "Id": "239",
         "Lat": "40.670682",
         "Long": "-73.958131",
         "Directions": {
@@ -8333,7 +8333,6 @@ export const stations ={
     "248": {
         "Station ID": "343",
         "Complex ID": "343",
-        "GTFS Stop ID": "248",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8342,6 +8341,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Nostrand Av",
+        "Id": "248",
         "Lat": "40.669847",
         "Long": "-73.950466",
         "Directions": {
@@ -8355,7 +8355,6 @@ export const stations ={
     "249": {
         "Station ID": "344",
         "Complex ID": "344",
-        "GTFS Stop ID": "249",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8364,6 +8363,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Kingston Av",
+        "Id": "249",
         "Lat": "40.669399",
         "Long": "-73.942161",
         "Directions": {
@@ -8377,7 +8377,6 @@ export const stations ={
     "250": {
         "Station ID": "345",
         "Complex ID": "345",
-        "GTFS Stop ID": "250",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8386,6 +8385,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Crown Hts-Utica Av",
+        "Id": "250",
         "Lat": "40.668897",
         "Long": "-73.932942",
         "Directions": {
@@ -8402,7 +8402,6 @@ export const stations ={
     "251": {
         "Station ID": "346",
         "Complex ID": "346",
-        "GTFS Stop ID": "251",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8411,6 +8410,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Sutter Av-Rutland Rd",
+        "Id": "251",
         "Lat": "40.664717",
         "Long": "-73.92261",
         "Directions": {
@@ -8424,7 +8424,6 @@ export const stations ={
     "252": {
         "Station ID": "347",
         "Complex ID": "347",
-        "GTFS Stop ID": "252",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8433,6 +8432,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Saratoga Av",
+        "Id": "252",
         "Lat": "40.661453",
         "Long": "-73.916327",
         "Directions": {
@@ -8446,7 +8446,6 @@ export const stations ={
     "253": {
         "Station ID": "348",
         "Complex ID": "348",
-        "GTFS Stop ID": "253",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8455,6 +8454,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Rockaway Av",
+        "Id": "253",
         "Lat": "40.662549",
         "Long": "-73.908946",
         "Directions": {
@@ -8468,7 +8468,6 @@ export const stations ={
     "254": {
         "Station ID": "349",
         "Complex ID": "349",
-        "GTFS Stop ID": "254",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8477,6 +8476,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Junius St",
+        "Id": "254",
         "Lat": "40.663515",
         "Long": "-73.902447",
         "Directions": {
@@ -8490,7 +8490,6 @@ export const stations ={
     "255": {
         "Station ID": "350",
         "Complex ID": "350",
-        "GTFS Stop ID": "255",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8499,6 +8498,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Pennsylvania Av",
+        "Id": "255",
         "Lat": "40.664635",
         "Long": "-73.894895",
         "Directions": {
@@ -8512,7 +8512,6 @@ export const stations ={
     "256": {
         "Station ID": "351",
         "Complex ID": "351",
-        "GTFS Stop ID": "256",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8521,6 +8520,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Van Siclen Av",
+        "Id": "256",
         "Lat": "40.665449",
         "Long": "-73.889395",
         "Directions": {
@@ -8534,7 +8534,6 @@ export const stations ={
     "257": {
         "Station ID": "352",
         "Complex ID": "352",
-        "GTFS Stop ID": "257",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -8543,6 +8542,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "New Lots Av",
+        "Id": "257",
         "Lat": "40.666235",
         "Long": "-73.884079",
         "Directions": {
@@ -8556,7 +8556,6 @@ export const stations ={
     "241": {
         "Station ID": "353",
         "Complex ID": "353",
-        "GTFS Stop ID": "241",
         "Division": "IRT",
         "Line": "Nostrand",
         "Borough": "Bk",
@@ -8565,6 +8564,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "President Street-Medgar Evers College",
+        "Id": "241",
         "Lat": "40.667883",
         "Long": "-73.950683",
         "Directions": {
@@ -8580,7 +8580,6 @@ export const stations ={
     "242": {
         "Station ID": "354",
         "Complex ID": "354",
-        "GTFS Stop ID": "242",
         "Division": "IRT",
         "Line": "Nostrand",
         "Borough": "Bk",
@@ -8589,6 +8588,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Sterling St",
+        "Id": "242",
         "Lat": "40.662742",
         "Long": "-73.95085",
         "Directions": {
@@ -8602,7 +8602,6 @@ export const stations ={
     "243": {
         "Station ID": "355",
         "Complex ID": "355",
-        "GTFS Stop ID": "243",
         "Division": "IRT",
         "Line": "Nostrand",
         "Borough": "Bk",
@@ -8611,6 +8610,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Winthrop St",
+        "Id": "243",
         "Lat": "40.656652",
         "Long": "-73.9502",
         "Directions": {
@@ -8624,7 +8624,6 @@ export const stations ={
     "244": {
         "Station ID": "356",
         "Complex ID": "356",
-        "GTFS Stop ID": "244",
         "Division": "IRT",
         "Line": "Nostrand",
         "Borough": "Bk",
@@ -8633,6 +8632,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Church Av",
+        "Id": "244",
         "Lat": "40.650843",
         "Long": "-73.949575",
         "Directions": {
@@ -8649,7 +8649,6 @@ export const stations ={
     "245": {
         "Station ID": "357",
         "Complex ID": "357",
-        "GTFS Stop ID": "245",
         "Division": "IRT",
         "Line": "Nostrand",
         "Borough": "Bk",
@@ -8658,6 +8657,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Beverly Rd",
+        "Id": "245",
         "Lat": "40.645098",
         "Long": "-73.948959",
         "Directions": {
@@ -8671,7 +8671,6 @@ export const stations ={
     "246": {
         "Station ID": "358",
         "Complex ID": "358",
-        "GTFS Stop ID": "246",
         "Division": "IRT",
         "Line": "Nostrand",
         "Borough": "Bk",
@@ -8680,6 +8679,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Newkirk Av - Little Haiti",
+        "Id": "246",
         "Lat": "40.639967",
         "Long": "-73.948411",
         "Directions": {
@@ -8693,7 +8693,6 @@ export const stations ={
     "247": {
         "Station ID": "359",
         "Complex ID": "359",
-        "GTFS Stop ID": "247",
         "Division": "IRT",
         "Line": "Nostrand",
         "Borough": "Bk",
@@ -8702,6 +8701,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Flatbush Av-Brooklyn College",
+        "Id": "247",
         "Lat": "40.632836",
         "Long": "-73.947642",
         "Directions": {
@@ -8717,7 +8717,6 @@ export const stations ={
     "601": {
         "Station ID": "360",
         "Complex ID": "360",
-        "GTFS Stop ID": "601",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8726,6 +8725,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Pelham Bay Park",
+        "Id": "601",
         "Lat": "40.852462",
         "Long": "-73.828121",
         "Directions": {
@@ -8745,7 +8745,6 @@ export const stations ={
     "602": {
         "Station ID": "361",
         "Complex ID": "361",
-        "GTFS Stop ID": "602",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8754,6 +8753,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Buhre Av",
+        "Id": "602",
         "Lat": "40.84681",
         "Long": "-73.832569",
         "Directions": {
@@ -8767,7 +8767,6 @@ export const stations ={
     "603": {
         "Station ID": "362",
         "Complex ID": "362",
-        "GTFS Stop ID": "603",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8776,6 +8775,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Middletown Rd",
+        "Id": "603",
         "Lat": "40.843863",
         "Long": "-73.836322",
         "Directions": {
@@ -8789,7 +8789,6 @@ export const stations ={
     "604": {
         "Station ID": "363",
         "Complex ID": "363",
-        "GTFS Stop ID": "604",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8798,6 +8797,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Westchester Sq-E Tremont Av",
+        "Id": "604",
         "Lat": "40.839892",
         "Long": "-73.842952",
         "Directions": {
@@ -8811,7 +8811,6 @@ export const stations ={
     "606": {
         "Station ID": "364",
         "Complex ID": "364",
-        "GTFS Stop ID": "606",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8820,6 +8819,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Zerega Av",
+        "Id": "606",
         "Lat": "40.836488",
         "Long": "-73.847036",
         "Directions": {
@@ -8833,7 +8833,6 @@ export const stations ={
     "607": {
         "Station ID": "365",
         "Complex ID": "365",
-        "GTFS Stop ID": "607",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8842,6 +8841,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Castle Hill Av",
+        "Id": "607",
         "Lat": "40.834255",
         "Long": "-73.851222",
         "Directions": {
@@ -8855,7 +8855,6 @@ export const stations ={
     "608": {
         "Station ID": "366",
         "Complex ID": "366",
-        "GTFS Stop ID": "608",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8864,6 +8863,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Parkchester",
+        "Id": "608",
         "Lat": "40.833226",
         "Long": "-73.860816",
         "Directions": {
@@ -8879,7 +8879,6 @@ export const stations ={
     "609": {
         "Station ID": "367",
         "Complex ID": "367",
-        "GTFS Stop ID": "609",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8888,6 +8887,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "St Lawrence Av",
+        "Id": "609",
         "Lat": "40.831509",
         "Long": "-73.867618",
         "Directions": {
@@ -8901,7 +8901,6 @@ export const stations ={
     "610": {
         "Station ID": "368",
         "Complex ID": "368",
-        "GTFS Stop ID": "610",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8910,6 +8909,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Morrison Av-Soundview",
+        "Id": "610",
         "Lat": "40.829521",
         "Long": "-73.874516",
         "Directions": {
@@ -8923,7 +8923,6 @@ export const stations ={
     "611": {
         "Station ID": "369",
         "Complex ID": "369",
-        "GTFS Stop ID": "611",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8932,6 +8931,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Elder Av",
+        "Id": "611",
         "Lat": "40.828584",
         "Long": "-73.879159",
         "Directions": {
@@ -8945,7 +8945,6 @@ export const stations ={
     "612": {
         "Station ID": "370",
         "Complex ID": "370",
-        "GTFS Stop ID": "612",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8954,6 +8953,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Whitlock Av",
+        "Id": "612",
         "Lat": "40.826525",
         "Long": "-73.886283",
         "Directions": {
@@ -8967,7 +8967,6 @@ export const stations ={
     "613": {
         "Station ID": "371",
         "Complex ID": "371",
-        "GTFS Stop ID": "613",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -8976,6 +8975,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Hunts Point Av",
+        "Id": "613",
         "Lat": "40.820948",
         "Long": "-73.890549",
         "Directions": {
@@ -8993,7 +8993,6 @@ export const stations ={
     "614": {
         "Station ID": "372",
         "Complex ID": "372",
-        "GTFS Stop ID": "614",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -9002,6 +9001,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Longwood Av",
+        "Id": "614",
         "Lat": "40.816104",
         "Long": "-73.896435",
         "Directions": {
@@ -9015,7 +9015,6 @@ export const stations ={
     "615": {
         "Station ID": "373",
         "Complex ID": "373",
-        "GTFS Stop ID": "615",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -9024,6 +9023,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "E 149 St",
+        "Id": "615",
         "Lat": "40.812118",
         "Long": "-73.904098",
         "Directions": {
@@ -9040,7 +9040,6 @@ export const stations ={
     "616": {
         "Station ID": "374",
         "Complex ID": "374",
-        "GTFS Stop ID": "616",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -9049,6 +9048,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "E 143 St-St Mary's St",
+        "Id": "616",
         "Lat": "40.808719",
         "Long": "-73.907657",
         "Directions": {
@@ -9062,7 +9062,6 @@ export const stations ={
     "617": {
         "Station ID": "375",
         "Complex ID": "375",
-        "GTFS Stop ID": "617",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -9071,6 +9070,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Cypress Av",
+        "Id": "617",
         "Lat": "40.805368",
         "Long": "-73.914042",
         "Directions": {
@@ -9084,7 +9084,6 @@ export const stations ={
     "618": {
         "Station ID": "376",
         "Complex ID": "376",
-        "GTFS Stop ID": "618",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -9093,6 +9092,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Brook Av",
+        "Id": "618",
         "Lat": "40.807566",
         "Long": "-73.91924",
         "Directions": {
@@ -9106,7 +9106,6 @@ export const stations ={
     "619": {
         "Station ID": "377",
         "Complex ID": "377",
-        "GTFS Stop ID": "619",
         "Division": "IRT",
         "Line": "Pelham",
         "Borough": "Bx",
@@ -9115,6 +9114,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "3 Av-138 St",
+        "Id": "619",
         "Lat": "40.810476",
         "Long": "-73.926138",
         "Directions": {
@@ -9128,7 +9128,6 @@ export const stations ={
     "401": {
         "Station ID": "378",
         "Complex ID": "378",
-        "GTFS Stop ID": "401",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9137,6 +9136,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Woodlawn",
+        "Id": "401",
         "Lat": "40.886037",
         "Long": "-73.878751",
         "Directions": {
@@ -9150,7 +9150,6 @@ export const stations ={
     "402": {
         "Station ID": "379",
         "Complex ID": "379",
-        "GTFS Stop ID": "402",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9159,6 +9158,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Mosholu Pkwy",
+        "Id": "402",
         "Lat": "40.87975",
         "Long": "-73.884655",
         "Directions": {
@@ -9172,7 +9172,6 @@ export const stations ={
     "405": {
         "Station ID": "380",
         "Complex ID": "380",
-        "GTFS Stop ID": "405",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9181,6 +9180,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bedford Park Blvd-Lehman College",
+        "Id": "405",
         "Lat": "40.873412",
         "Long": "-73.890064",
         "Directions": {
@@ -9194,7 +9194,6 @@ export const stations ={
     "406": {
         "Station ID": "381",
         "Complex ID": "381",
-        "GTFS Stop ID": "406",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9203,6 +9202,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Kingsbridge Rd",
+        "Id": "406",
         "Lat": "40.86776",
         "Long": "-73.897174",
         "Directions": {
@@ -9216,7 +9216,6 @@ export const stations ={
     "407": {
         "Station ID": "382",
         "Complex ID": "382",
-        "GTFS Stop ID": "407",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9225,6 +9224,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Fordham Rd",
+        "Id": "407",
         "Lat": "40.862803",
         "Long": "-73.901034",
         "Directions": {
@@ -9242,7 +9242,6 @@ export const stations ={
     "408": {
         "Station ID": "383",
         "Complex ID": "383",
-        "GTFS Stop ID": "408",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9251,6 +9250,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "183 St",
+        "Id": "408",
         "Lat": "40.858407",
         "Long": "-73.903879",
         "Directions": {
@@ -9264,7 +9264,6 @@ export const stations ={
     "409": {
         "Station ID": "384",
         "Complex ID": "384",
-        "GTFS Stop ID": "409",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9273,6 +9272,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Burnside Av",
+        "Id": "409",
         "Lat": "40.853453",
         "Long": "-73.907684",
         "Directions": {
@@ -9286,7 +9286,6 @@ export const stations ={
     "410": {
         "Station ID": "385",
         "Complex ID": "385",
-        "GTFS Stop ID": "410",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9295,6 +9294,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "176 St",
+        "Id": "410",
         "Lat": "40.84848",
         "Long": "-73.911794",
         "Directions": {
@@ -9308,7 +9308,6 @@ export const stations ={
     "411": {
         "Station ID": "386",
         "Complex ID": "386",
-        "GTFS Stop ID": "411",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9317,6 +9316,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Mt Eden Av",
+        "Id": "411",
         "Lat": "40.844434",
         "Long": "-73.914685",
         "Directions": {
@@ -9330,7 +9330,6 @@ export const stations ={
     "412": {
         "Station ID": "387",
         "Complex ID": "387",
-        "GTFS Stop ID": "412",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9339,6 +9338,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "170 St",
+        "Id": "412",
         "Lat": "40.840075",
         "Long": "-73.917791",
         "Directions": {
@@ -9356,7 +9356,6 @@ export const stations ={
     "413": {
         "Station ID": "388",
         "Complex ID": "388",
-        "GTFS Stop ID": "413",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9365,6 +9364,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "167 St",
+        "Id": "413",
         "Lat": "40.835537",
         "Long": "-73.9214",
         "Directions": {
@@ -9378,7 +9378,6 @@ export const stations ={
     "414": {
         "Station ID": "389",
         "Complex ID": "604",
-        "GTFS Stop ID": "414",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9387,6 +9386,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "161 St-Yankee Stadium",
+        "Id": "414",
         "Lat": "40.827994",
         "Long": "-73.925831",
         "Directions": {
@@ -9405,7 +9405,6 @@ export const stations ={
     "415": {
         "Station ID": "390",
         "Complex ID": "603",
-        "GTFS Stop ID": "415",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9414,6 +9413,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "149 St-Grand Concourse",
+        "Id": "415",
         "Lat": "40.818375",
         "Long": "-73.927351",
         "Directions": {
@@ -9429,7 +9429,6 @@ export const stations ={
     "416": {
         "Station ID": "391",
         "Complex ID": "391",
-        "GTFS Stop ID": "416",
         "Division": "IRT",
         "Line": "Jerome Av",
         "Borough": "Bx",
@@ -9438,6 +9437,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "138 St-Grand Concourse",
+        "Id": "416",
         "Lat": "40.813224",
         "Long": "-73.929849",
         "Directions": {
@@ -9451,7 +9451,6 @@ export const stations ={
     "621": {
         "Station ID": "392",
         "Complex ID": "392",
-        "GTFS Stop ID": "621",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9460,6 +9459,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "125 St",
+        "Id": "621",
         "Lat": "40.804138",
         "Long": "-73.937594",
         "Directions": {
@@ -9476,7 +9476,6 @@ export const stations ={
     "622": {
         "Station ID": "393",
         "Complex ID": "393",
-        "GTFS Stop ID": "622",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9485,6 +9484,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "116 St",
+        "Id": "622",
         "Lat": "40.798629",
         "Long": "-73.941617",
         "Directions": {
@@ -9498,7 +9498,6 @@ export const stations ={
     "623": {
         "Station ID": "394",
         "Complex ID": "394",
-        "GTFS Stop ID": "623",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9507,6 +9506,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "110 St",
+        "Id": "623",
         "Lat": "40.79502",
         "Long": "-73.94425",
         "Directions": {
@@ -9520,7 +9520,6 @@ export const stations ={
     "624": {
         "Station ID": "395",
         "Complex ID": "395",
-        "GTFS Stop ID": "624",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9529,6 +9528,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "103 St",
+        "Id": "624",
         "Lat": "40.7906",
         "Long": "-73.947478",
         "Directions": {
@@ -9542,7 +9542,6 @@ export const stations ={
     "625": {
         "Station ID": "396",
         "Complex ID": "396",
-        "GTFS Stop ID": "625",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9551,6 +9550,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "96 St",
+        "Id": "625",
         "Lat": "40.785672",
         "Long": "-73.95107",
         "Directions": {
@@ -9564,7 +9564,6 @@ export const stations ={
     "626": {
         "Station ID": "397",
         "Complex ID": "397",
-        "GTFS Stop ID": "626",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9573,6 +9572,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Uptown 6 only",
         "Name": "86 St",
+        "Id": "626",
         "Lat": "40.779492",
         "Long": "-73.955589",
         "Directions": {
@@ -9588,7 +9588,6 @@ export const stations ={
     "627": {
         "Station ID": "398",
         "Complex ID": "398",
-        "GTFS Stop ID": "627",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9597,6 +9596,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "77 St",
+        "Id": "627",
         "Lat": "40.77362",
         "Long": "-73.959874",
         "Directions": {
@@ -9610,7 +9610,6 @@ export const stations ={
     "628": {
         "Station ID": "399",
         "Complex ID": "399",
-        "GTFS Stop ID": "628",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9619,6 +9618,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "68 St-Hunter College",
+        "Id": "628",
         "Lat": "40.768141",
         "Long": "-73.96387",
         "Directions": {
@@ -9632,7 +9632,6 @@ export const stations ={
     "629": {
         "Station ID": "400",
         "Complex ID": "613",
-        "GTFS Stop ID": "629",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9641,6 +9640,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "59 St",
+        "Id": "629",
         "Lat": "40.762526",
         "Long": "-73.967967",
         "Directions": {
@@ -9659,7 +9659,6 @@ export const stations ={
     "630": {
         "Station ID": "401",
         "Complex ID": "612",
-        "GTFS Stop ID": "630",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9668,6 +9667,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "51 St",
+        "Id": "630",
         "Lat": "40.757107",
         "Long": "-73.97192",
         "Directions": {
@@ -9687,7 +9687,6 @@ export const stations ={
     "631": {
         "Station ID": "402",
         "Complex ID": "610",
-        "GTFS Stop ID": "631",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9696,6 +9695,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Grand Central-42 St",
+        "Id": "631",
         "Lat": "40.751776",
         "Long": "-73.976848",
         "Directions": {
@@ -9728,7 +9728,6 @@ export const stations ={
     "632": {
         "Station ID": "403",
         "Complex ID": "403",
-        "GTFS Stop ID": "632",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9737,6 +9736,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "33 St",
+        "Id": "632",
         "Lat": "40.746081",
         "Long": "-73.982076",
         "Directions": {
@@ -9750,7 +9750,6 @@ export const stations ={
     "633": {
         "Station ID": "404",
         "Complex ID": "404",
-        "GTFS Stop ID": "633",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9759,6 +9758,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Downtown only",
         "Name": "28 St",
+        "Id": "633",
         "Lat": "40.74307",
         "Long": "-73.984264",
         "Directions": {
@@ -9774,7 +9774,6 @@ export const stations ={
     "634": {
         "Station ID": "405",
         "Complex ID": "405",
-        "GTFS Stop ID": "634",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9783,6 +9782,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "23 St",
+        "Id": "634",
         "Lat": "40.739864",
         "Long": "-73.986599",
         "Directions": {
@@ -9799,7 +9799,6 @@ export const stations ={
     "635": {
         "Station ID": "406",
         "Complex ID": "602",
-        "GTFS Stop ID": "635",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9808,6 +9807,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "14 St-Union Sq",
+        "Id": "635",
         "Lat": "40.734673",
         "Long": "-73.989951",
         "Directions": {
@@ -9822,7 +9822,6 @@ export const stations ={
     "636": {
         "Station ID": "407",
         "Complex ID": "407",
-        "GTFS Stop ID": "636",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9831,6 +9830,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Astor Pl",
+        "Id": "636",
         "Lat": "40.730054",
         "Long": "-73.99107",
         "Directions": {
@@ -9844,7 +9844,6 @@ export const stations ={
     "637": {
         "Station ID": "408",
         "Complex ID": "619",
-        "GTFS Stop ID": "637",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9853,6 +9852,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Bleecker St",
+        "Id": "637",
         "Lat": "40.725915",
         "Long": "-73.994659",
         "Directions": {
@@ -9874,7 +9874,6 @@ export const stations ={
     "638": {
         "Station ID": "409",
         "Complex ID": "409",
-        "GTFS Stop ID": "638",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9883,6 +9882,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Spring St",
+        "Id": "638",
         "Lat": "40.722301",
         "Long": "-73.997141",
         "Directions": {
@@ -9896,7 +9896,6 @@ export const stations ={
     "639": {
         "Station ID": "410",
         "Complex ID": "623",
-        "GTFS Stop ID": "639",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9905,6 +9904,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Canal St",
+        "Id": "639",
         "Lat": "40.718803",
         "Long": "-74.000193",
         "Directions": {
@@ -9922,7 +9922,6 @@ export const stations ={
     "640": {
         "Station ID": "411",
         "Complex ID": "622",
-        "GTFS Stop ID": "640",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9931,6 +9930,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Brooklyn Bridge-City Hall",
+        "Id": "640",
         "Lat": "40.713065",
         "Long": "-74.004131",
         "Directions": {
@@ -9948,7 +9948,6 @@ export const stations ={
     "418": {
         "Station ID": "412",
         "Complex ID": "628",
-        "GTFS Stop ID": "418",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9957,6 +9956,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Fulton St",
+        "Id": "418",
         "Lat": "40.710368",
         "Long": "-74.009509",
         "Directions": {
@@ -9989,7 +9989,6 @@ export const stations ={
     "419": {
         "Station ID": "413",
         "Complex ID": "413",
-        "GTFS Stop ID": "419",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -9998,6 +9997,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Wall St",
+        "Id": "419",
         "Lat": "40.707557",
         "Long": "-74.011862",
         "Directions": {
@@ -10011,7 +10011,6 @@ export const stations ={
     "420": {
         "Station ID": "414",
         "Complex ID": "414",
-        "GTFS Stop ID": "420",
         "Division": "IRT",
         "Line": "Lexington Av",
         "Borough": "M",
@@ -10020,6 +10019,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Bowling Green",
+        "Id": "420",
         "Lat": "40.704817",
         "Long": "-74.014065",
         "Directions": {
@@ -10046,7 +10046,6 @@ export const stations ={
     "423": {
         "Station ID": "415",
         "Complex ID": "620",
-        "GTFS Stop ID": "423",
         "Division": "IRT",
         "Line": "Eastern Pky",
         "Borough": "Bk",
@@ -10055,6 +10054,7 @@ export const stations ={
         "ADA": "2",
         "ADA Notes": "Manhattan-bound only",
         "Name": "Borough Hall",
+        "Id": "423",
         "Lat": "40.692404",
         "Long": "-73.990151",
         "Directions": {
@@ -10072,7 +10072,6 @@ export const stations ={
     "201": {
         "Station ID": "416",
         "Complex ID": "416",
-        "GTFS Stop ID": "201",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10081,6 +10080,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Wakefield-241 St",
+        "Id": "201",
         "Lat": "40.903125",
         "Long": "-73.85062",
         "Directions": {
@@ -10094,7 +10094,6 @@ export const stations ={
     "204": {
         "Station ID": "417",
         "Complex ID": "417",
-        "GTFS Stop ID": "204",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10103,6 +10102,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Nereid Av",
+        "Id": "204",
         "Lat": "40.898379",
         "Long": "-73.854376",
         "Directions": {
@@ -10116,7 +10116,6 @@ export const stations ={
     "205": {
         "Station ID": "418",
         "Complex ID": "418",
-        "GTFS Stop ID": "205",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10125,6 +10124,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "233 St",
+        "Id": "205",
         "Lat": "40.893193",
         "Long": "-73.857473",
         "Directions": {
@@ -10142,7 +10142,6 @@ export const stations ={
     "206": {
         "Station ID": "419",
         "Complex ID": "419",
-        "GTFS Stop ID": "206",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10151,6 +10150,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "225 St",
+        "Id": "206",
         "Lat": "40.888022",
         "Long": "-73.860341",
         "Directions": {
@@ -10164,7 +10164,6 @@ export const stations ={
     "207": {
         "Station ID": "420",
         "Complex ID": "420",
-        "GTFS Stop ID": "207",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10173,6 +10172,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "219 St",
+        "Id": "207",
         "Lat": "40.883895",
         "Long": "-73.862633",
         "Directions": {
@@ -10186,7 +10186,6 @@ export const stations ={
     "208": {
         "Station ID": "421",
         "Complex ID": "421",
-        "GTFS Stop ID": "208",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10195,6 +10194,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Gun Hill Rd",
+        "Id": "208",
         "Lat": "40.87785",
         "Long": "-73.866256",
         "Directions": {
@@ -10214,7 +10214,6 @@ export const stations ={
     "209": {
         "Station ID": "422",
         "Complex ID": "422",
-        "GTFS Stop ID": "209",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10223,6 +10222,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Burke Av",
+        "Id": "209",
         "Lat": "40.871356",
         "Long": "-73.867164",
         "Directions": {
@@ -10236,7 +10236,6 @@ export const stations ={
     "210": {
         "Station ID": "423",
         "Complex ID": "423",
-        "GTFS Stop ID": "210",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10245,6 +10244,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Allerton Av",
+        "Id": "210",
         "Lat": "40.865462",
         "Long": "-73.867352",
         "Directions": {
@@ -10258,7 +10258,6 @@ export const stations ={
     "211": {
         "Station ID": "424",
         "Complex ID": "424",
-        "GTFS Stop ID": "211",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10267,6 +10266,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Pelham Pkwy",
+        "Id": "211",
         "Lat": "40.857192",
         "Long": "-73.867615",
         "Directions": {
@@ -10287,7 +10287,6 @@ export const stations ={
     "212": {
         "Station ID": "425",
         "Complex ID": "425",
-        "GTFS Stop ID": "212",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10296,6 +10295,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bronx Park East",
+        "Id": "212",
         "Lat": "40.848828",
         "Long": "-73.868457",
         "Directions": {
@@ -10309,7 +10309,6 @@ export const stations ={
     "213": {
         "Station ID": "426",
         "Complex ID": "426",
-        "GTFS Stop ID": "213",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10318,6 +10317,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "E 180 St",
+        "Id": "213",
         "Lat": "40.841894",
         "Long": "-73.873488",
         "Directions": {
@@ -10334,7 +10334,6 @@ export const stations ={
     "214": {
         "Station ID": "427",
         "Complex ID": "427",
-        "GTFS Stop ID": "214",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10343,6 +10342,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "West Farms Sq-E Tremont Av",
+        "Id": "214",
         "Lat": "40.840295",
         "Long": "-73.880049",
         "Directions": {
@@ -10358,7 +10358,6 @@ export const stations ={
     "215": {
         "Station ID": "428",
         "Complex ID": "428",
-        "GTFS Stop ID": "215",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10367,6 +10366,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "174 St",
+        "Id": "215",
         "Lat": "40.837288",
         "Long": "-73.887734",
         "Directions": {
@@ -10380,7 +10380,6 @@ export const stations ={
     "216": {
         "Station ID": "429",
         "Complex ID": "429",
-        "GTFS Stop ID": "216",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10389,6 +10388,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Freeman St",
+        "Id": "216",
         "Lat": "40.829993",
         "Long": "-73.891865",
         "Directions": {
@@ -10402,7 +10402,6 @@ export const stations ={
     "217": {
         "Station ID": "430",
         "Complex ID": "430",
-        "GTFS Stop ID": "217",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10411,6 +10410,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Simpson St",
+        "Id": "217",
         "Lat": "40.824073",
         "Long": "-73.893064",
         "Directions": {
@@ -10427,7 +10427,6 @@ export const stations ={
     "218": {
         "Station ID": "431",
         "Complex ID": "431",
-        "GTFS Stop ID": "218",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10436,6 +10435,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Intervale Av",
+        "Id": "218",
         "Lat": "40.822181",
         "Long": "-73.896736",
         "Directions": {
@@ -10451,7 +10451,6 @@ export const stations ={
     "219": {
         "Station ID": "432",
         "Complex ID": "432",
-        "GTFS Stop ID": "219",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10460,6 +10459,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Prospect Av",
+        "Id": "219",
         "Lat": "40.819585",
         "Long": "-73.90177",
         "Directions": {
@@ -10473,7 +10473,6 @@ export const stations ={
     "220": {
         "Station ID": "433",
         "Complex ID": "433",
-        "GTFS Stop ID": "220",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10482,6 +10481,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Jackson Av",
+        "Id": "220",
         "Lat": "40.81649",
         "Long": "-73.907807",
         "Directions": {
@@ -10495,7 +10495,6 @@ export const stations ={
     "221": {
         "Station ID": "434",
         "Complex ID": "434",
-        "GTFS Stop ID": "221",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10504,6 +10503,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "3 Av-149 St",
+        "Id": "221",
         "Lat": "40.816109",
         "Long": "-73.917757",
         "Directions": {
@@ -10520,7 +10520,6 @@ export const stations ={
     "222": {
         "Station ID": "435",
         "Complex ID": "603",
-        "GTFS Stop ID": "222",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "Bx",
@@ -10529,6 +10528,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "149 St-Grand Concourse",
+        "Id": "222",
         "Lat": "40.81841",
         "Long": "-73.926718",
         "Directions": {
@@ -10543,7 +10543,6 @@ export const stations ={
     "301": {
         "Station ID": "436",
         "Complex ID": "436",
-        "GTFS Stop ID": "301",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "M",
@@ -10552,6 +10551,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Harlem-148 St",
+        "Id": "301",
         "Lat": "40.82388",
         "Long": "-73.93647",
         "Directions": {
@@ -10565,7 +10565,6 @@ export const stations ={
     "302": {
         "Station ID": "437",
         "Complex ID": "437",
-        "GTFS Stop ID": "302",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "M",
@@ -10574,6 +10573,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "145 St",
+        "Id": "302",
         "Lat": "40.820421",
         "Long": "-73.936245",
         "Directions": {
@@ -10587,7 +10587,6 @@ export const stations ={
     "224": {
         "Station ID": "438",
         "Complex ID": "438",
-        "GTFS Stop ID": "224",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "M",
@@ -10596,6 +10595,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "135 St",
+        "Id": "224",
         "Lat": "40.814229",
         "Long": "-73.94077",
         "Directions": {
@@ -10612,7 +10612,6 @@ export const stations ={
     "225": {
         "Station ID": "439",
         "Complex ID": "439",
-        "GTFS Stop ID": "225",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "M",
@@ -10621,6 +10620,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "125 St",
+        "Id": "225",
         "Lat": "40.807754",
         "Long": "-73.945495",
         "Directions": {
@@ -10634,7 +10634,6 @@ export const stations ={
     "226": {
         "Station ID": "440",
         "Complex ID": "440",
-        "GTFS Stop ID": "226",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "M",
@@ -10643,6 +10642,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "116 St",
+        "Id": "226",
         "Lat": "40.802098",
         "Long": "-73.949625",
         "Directions": {
@@ -10656,7 +10656,6 @@ export const stations ={
     "227": {
         "Station ID": "441",
         "Complex ID": "441",
-        "GTFS Stop ID": "227",
         "Division": "IRT",
         "Line": "Lenox - White Plains Rd",
         "Borough": "M",
@@ -10665,6 +10664,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Central Park North (110 St)",
+        "Id": "227",
         "Lat": "40.799075",
         "Long": "-73.951822",
         "Directions": {
@@ -10678,7 +10678,6 @@ export const stations ={
     "501": {
         "Station ID": "442",
         "Complex ID": "442",
-        "GTFS Stop ID": "501",
         "Division": "IRT",
         "Line": "Dyre Av",
         "Borough": "Bx",
@@ -10687,6 +10686,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Eastchester-Dyre Av",
+        "Id": "501",
         "Lat": "40.8883",
         "Long": "-73.830834",
         "Directions": {
@@ -10700,7 +10700,6 @@ export const stations ={
     "502": {
         "Station ID": "443",
         "Complex ID": "443",
-        "GTFS Stop ID": "502",
         "Division": "IRT",
         "Line": "Dyre Av",
         "Borough": "Bx",
@@ -10709,6 +10708,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Baychester Av",
+        "Id": "502",
         "Lat": "40.878663",
         "Long": "-73.838591",
         "Directions": {
@@ -10722,7 +10722,6 @@ export const stations ={
     "503": {
         "Station ID": "444",
         "Complex ID": "444",
-        "GTFS Stop ID": "503",
         "Division": "IRT",
         "Line": "Dyre Av",
         "Borough": "Bx",
@@ -10731,6 +10730,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Gun Hill Rd",
+        "Id": "503",
         "Lat": "40.869526",
         "Long": "-73.846384",
         "Directions": {
@@ -10747,7 +10747,6 @@ export const stations ={
     "504": {
         "Station ID": "445",
         "Complex ID": "445",
-        "GTFS Stop ID": "504",
         "Division": "IRT",
         "Line": "Dyre Av",
         "Borough": "Bx",
@@ -10756,6 +10755,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Pelham Pkwy",
+        "Id": "504",
         "Lat": "40.858985",
         "Long": "-73.855359",
         "Directions": {
@@ -10769,7 +10769,6 @@ export const stations ={
     "505": {
         "Station ID": "446",
         "Complex ID": "446",
-        "GTFS Stop ID": "505",
         "Division": "IRT",
         "Line": "Dyre Av",
         "Borough": "Bx",
@@ -10778,6 +10777,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Morris Park",
+        "Id": "505",
         "Lat": "40.854364",
         "Long": "-73.860495",
         "Directions": {
@@ -10791,7 +10791,6 @@ export const stations ={
     "701": {
         "Station ID": "447",
         "Complex ID": "447",
-        "GTFS Stop ID": "701",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10800,6 +10799,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Flushing-Main St",
+        "Id": "701",
         "Lat": "40.7596",
         "Long": "-73.83003",
         "Directions": {
@@ -10819,7 +10819,6 @@ export const stations ={
     "702": {
         "Station ID": "448",
         "Complex ID": "448",
-        "GTFS Stop ID": "702",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10828,6 +10827,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Mets-Willets Point",
+        "Id": "702",
         "Lat": "40.754622",
         "Long": "-73.845625",
         "Directions": {
@@ -10841,7 +10841,6 @@ export const stations ={
     "705": {
         "Station ID": "449",
         "Complex ID": "449",
-        "GTFS Stop ID": "705",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10850,6 +10849,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "111 St",
+        "Id": "705",
         "Lat": "40.75173",
         "Long": "-73.855334",
         "Directions": {
@@ -10863,7 +10863,6 @@ export const stations ={
     "706": {
         "Station ID": "450",
         "Complex ID": "450",
-        "GTFS Stop ID": "706",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10872,6 +10871,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "103 St-Corona Plaza",
+        "Id": "706",
         "Lat": "40.749865",
         "Long": "-73.8627",
         "Directions": {
@@ -10885,7 +10885,6 @@ export const stations ={
     "707": {
         "Station ID": "451",
         "Complex ID": "451",
-        "GTFS Stop ID": "707",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10894,6 +10893,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Junction Blvd",
+        "Id": "707",
         "Lat": "40.749145",
         "Long": "-73.869527",
         "Directions": {
@@ -10911,7 +10911,6 @@ export const stations ={
     "708": {
         "Station ID": "452",
         "Complex ID": "452",
-        "GTFS Stop ID": "708",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10920,6 +10919,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "90 St-Elmhurst Av",
+        "Id": "708",
         "Lat": "40.748408",
         "Long": "-73.876613",
         "Directions": {
@@ -10933,7 +10933,6 @@ export const stations ={
     "709": {
         "Station ID": "453",
         "Complex ID": "453",
-        "GTFS Stop ID": "709",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10942,6 +10941,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "82 St-Jackson Hts",
+        "Id": "709",
         "Lat": "40.747659",
         "Long": "-73.883697",
         "Directions": {
@@ -10955,7 +10955,6 @@ export const stations ={
     "710": {
         "Station ID": "454",
         "Complex ID": "616",
-        "GTFS Stop ID": "710",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10964,6 +10963,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "74 St-Broadway",
+        "Id": "710",
         "Lat": "40.746848",
         "Long": "-73.891394",
         "Directions": {
@@ -10986,7 +10986,6 @@ export const stations ={
     "711": {
         "Station ID": "455",
         "Complex ID": "455",
-        "GTFS Stop ID": "711",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -10995,6 +10994,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "69 St",
+        "Id": "711",
         "Lat": "40.746325",
         "Long": "-73.896403",
         "Directions": {
@@ -11008,7 +11008,6 @@ export const stations ={
     "712": {
         "Station ID": "456",
         "Complex ID": "456",
-        "GTFS Stop ID": "712",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11017,6 +11016,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Woodside-61 St",
+        "Id": "712",
         "Lat": "40.74563",
         "Long": "-73.902984",
         "Directions": {
@@ -11038,7 +11038,6 @@ export const stations ={
     "713": {
         "Station ID": "457",
         "Complex ID": "457",
-        "GTFS Stop ID": "713",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11047,6 +11046,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "52 St",
+        "Id": "713",
         "Lat": "40.744149",
         "Long": "-73.912549",
         "Directions": {
@@ -11060,7 +11060,6 @@ export const stations ={
     "714": {
         "Station ID": "458",
         "Complex ID": "458",
-        "GTFS Stop ID": "714",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11069,6 +11068,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "46 St-Bliss St",
+        "Id": "714",
         "Lat": "40.743132",
         "Long": "-73.918435",
         "Directions": {
@@ -11082,7 +11082,6 @@ export const stations ={
     "715": {
         "Station ID": "459",
         "Complex ID": "459",
-        "GTFS Stop ID": "715",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11091,6 +11090,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "40 St-Lowery St",
+        "Id": "715",
         "Lat": "40.743781",
         "Long": "-73.924016",
         "Directions": {
@@ -11104,7 +11104,6 @@ export const stations ={
     "716": {
         "Station ID": "460",
         "Complex ID": "460",
-        "GTFS Stop ID": "716",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11113,6 +11112,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "33 St-Rawson St",
+        "Id": "716",
         "Lat": "40.744587",
         "Long": "-73.930997",
         "Directions": {
@@ -11126,7 +11126,6 @@ export const stations ={
     "718": {
         "Station ID": "461",
         "Complex ID": "461",
-        "GTFS Stop ID": "718",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11135,6 +11134,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Queensboro Plaza",
+        "Id": "718",
         "Lat": "40.750582",
         "Long": "-73.940202",
         "Directions": {
@@ -11150,7 +11150,6 @@ export const stations ={
     "R09": {
         "Station ID": "461",
         "Complex ID": "461",
-        "GTFS Stop ID": "R09",
         "Division": "BMT",
         "Line": "Astoria",
         "Borough": "Q",
@@ -11159,6 +11158,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Queensboro Plaza",
+        "Id": "R09",
         "Lat": "40.750582",
         "Long": "-73.940202",
         "Directions": {
@@ -11173,7 +11173,6 @@ export const stations ={
     "719": {
         "Station ID": "462",
         "Complex ID": "606",
-        "GTFS Stop ID": "719",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11182,6 +11181,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Court Sq",
+        "Id": "719",
         "Lat": "40.747023",
         "Long": "-73.945264",
         "Directions": {
@@ -11205,7 +11205,6 @@ export const stations ={
     "720": {
         "Station ID": "463",
         "Complex ID": "463",
-        "GTFS Stop ID": "720",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11214,6 +11213,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Hunters Point Av",
+        "Id": "720",
         "Lat": "40.742216",
         "Long": "-73.948916",
         "Directions": {
@@ -11227,7 +11227,6 @@ export const stations ={
     "721": {
         "Station ID": "464",
         "Complex ID": "464",
-        "GTFS Stop ID": "721",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "Q",
@@ -11236,6 +11235,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Vernon Blvd-Jackson Av",
+        "Id": "721",
         "Lat": "40.742626",
         "Long": "-73.953581",
         "Directions": {
@@ -11249,7 +11249,6 @@ export const stations ={
     "723": {
         "Station ID": "465",
         "Complex ID": "610",
-        "GTFS Stop ID": "723",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "M",
@@ -11258,6 +11257,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Grand Central-42 St",
+        "Id": "723",
         "Lat": "40.751431",
         "Long": "-73.976041",
         "Directions": {
@@ -11293,7 +11293,6 @@ export const stations ={
     "724": {
         "Station ID": "466",
         "Complex ID": "609",
-        "GTFS Stop ID": "724",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "M",
@@ -11302,6 +11301,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "5 Av",
+        "Id": "724",
         "Lat": "40.753821",
         "Long": "-73.981963",
         "Directions": {
@@ -11315,7 +11315,6 @@ export const stations ={
     "725": {
         "Station ID": "467",
         "Complex ID": "611",
-        "GTFS Stop ID": "725",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "M",
@@ -11324,6 +11323,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Times Sq-42 St",
+        "Id": "725",
         "Lat": "40.755477",
         "Long": "-73.987691",
         "Directions": {
@@ -11350,7 +11350,6 @@ export const stations ={
     "902": {
         "Station ID": "468",
         "Complex ID": "611",
-        "GTFS Stop ID": "902",
         "Division": "IRT",
         "Line": "Lexington - Shuttle",
         "Borough": "M",
@@ -11359,6 +11358,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Times Sq-42 St",
+        "Id": "902",
         "Lat": "40.755983",
         "Long": "-73.986229",
         "Directions": {
@@ -11382,7 +11382,6 @@ export const stations ={
     "901": {
         "Station ID": "469",
         "Complex ID": "610",
-        "GTFS Stop ID": "901",
         "Division": "IRT",
         "Line": "Lexington - Shuttle",
         "Borough": "M",
@@ -11391,6 +11390,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Grand Central-42 St",
+        "Id": "901",
         "Lat": "40.752769",
         "Long": "-73.979189",
         "Directions": {
@@ -11412,7 +11412,6 @@ export const stations ={
     "726": {
         "Station ID": "471",
         "Complex ID": "471",
-        "GTFS Stop ID": "726",
         "Division": "IRT",
         "Line": "Flushing",
         "Borough": "M",
@@ -11421,6 +11420,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "34 St-Hudson Yards",
+        "Id": "726",
         "Lat": "40.755882",
         "Long": "-74.00191",
         "Directions": {
@@ -11456,7 +11456,6 @@ export const stations ={
     "Q05": {
         "Station ID": "475",
         "Complex ID": "475",
-        "GTFS Stop ID": "Q05",
         "Division": "IND",
         "Line": "Second Av",
         "Borough": "M",
@@ -11465,6 +11464,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "96 St",
+        "Id": "Q05",
         "Lat": "40.784318",
         "Long": "-73.947152",
         "Directions": {
@@ -11491,7 +11491,6 @@ export const stations ={
     "Q04": {
         "Station ID": "476",
         "Complex ID": "476",
-        "GTFS Stop ID": "Q04",
         "Division": "IND",
         "Line": "Second Av",
         "Borough": "M",
@@ -11500,6 +11499,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "86 St",
+        "Id": "Q04",
         "Lat": "40.777891",
         "Long": "-73.951787",
         "Directions": {
@@ -11530,7 +11530,6 @@ export const stations ={
     "Q03": {
         "Station ID": "477",
         "Complex ID": "477",
-        "GTFS Stop ID": "Q03",
         "Division": "IND",
         "Line": "Second Av",
         "Borough": "M",
@@ -11539,6 +11538,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "72 St",
+        "Id": "Q03",
         "Lat": "40.768799",
         "Long": "-73.958424",
         "Directions": {
@@ -11570,7 +11570,6 @@ export const stations ={
     "S31": {
         "Station ID": "501",
         "Complex ID": "501",
-        "GTFS Stop ID": "S31",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11579,6 +11578,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "St George",
+        "Id": "S31",
         "Lat": "40.643748",
         "Long": "-74.073643",
         "Directions": {
@@ -11592,7 +11592,6 @@ export const stations ={
     "S30": {
         "Station ID": "502",
         "Complex ID": "502",
-        "GTFS Stop ID": "S30",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11601,6 +11600,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Tompkinsville",
+        "Id": "S30",
         "Lat": "40.636949",
         "Long": "-74.074835",
         "Directions": {
@@ -11614,7 +11614,6 @@ export const stations ={
     "S29": {
         "Station ID": "503",
         "Complex ID": "503",
-        "GTFS Stop ID": "S29",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11623,6 +11622,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Stapleton",
+        "Id": "S29",
         "Lat": "40.627915",
         "Long": "-74.075162",
         "Directions": {
@@ -11636,7 +11636,6 @@ export const stations ={
     "S28": {
         "Station ID": "504",
         "Complex ID": "504",
-        "GTFS Stop ID": "S28",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11645,6 +11644,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Clifton",
+        "Id": "S28",
         "Lat": "40.621319",
         "Long": "-74.071402",
         "Directions": {
@@ -11658,7 +11658,6 @@ export const stations ={
     "S27": {
         "Station ID": "505",
         "Complex ID": "505",
-        "GTFS Stop ID": "S27",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11667,6 +11666,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Grasmere",
+        "Id": "S27",
         "Lat": "40.603117",
         "Long": "-74.084087",
         "Directions": {
@@ -11680,7 +11680,6 @@ export const stations ={
     "S26": {
         "Station ID": "506",
         "Complex ID": "506",
-        "GTFS Stop ID": "S26",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11689,6 +11688,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Old Town",
+        "Id": "S26",
         "Lat": "40.596612",
         "Long": "-74.087368",
         "Directions": {
@@ -11702,7 +11702,6 @@ export const stations ={
     "S25": {
         "Station ID": "507",
         "Complex ID": "507",
-        "GTFS Stop ID": "S25",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11711,6 +11710,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Dongan Hills",
+        "Id": "S25",
         "Lat": "40.588849",
         "Long": "-74.09609",
         "Directions": {
@@ -11724,7 +11724,6 @@ export const stations ={
     "S24": {
         "Station ID": "508",
         "Complex ID": "508",
-        "GTFS Stop ID": "S24",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11733,6 +11732,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Jefferson Av",
+        "Id": "S24",
         "Lat": "40.583591",
         "Long": "-74.103338",
         "Directions": {
@@ -11746,7 +11746,6 @@ export const stations ={
     "S23": {
         "Station ID": "509",
         "Complex ID": "509",
-        "GTFS Stop ID": "S23",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11755,6 +11754,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Grant City",
+        "Id": "S23",
         "Lat": "40.578965",
         "Long": "-74.109704",
         "Directions": {
@@ -11768,7 +11768,6 @@ export const stations ={
     "S22": {
         "Station ID": "510",
         "Complex ID": "510",
-        "GTFS Stop ID": "S22",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11777,6 +11776,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "New Dorp",
+        "Id": "S22",
         "Lat": "40.57348",
         "Long": "-74.11721",
         "Directions": {
@@ -11793,7 +11793,6 @@ export const stations ={
     "S21": {
         "Station ID": "511",
         "Complex ID": "511",
-        "GTFS Stop ID": "S21",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11802,6 +11801,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Oakwood Heights",
+        "Id": "S21",
         "Lat": "40.56511",
         "Long": "-74.12632",
         "Directions": {
@@ -11815,7 +11815,6 @@ export const stations ={
     "S20": {
         "Station ID": "512",
         "Complex ID": "512",
-        "GTFS Stop ID": "S20",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11824,6 +11823,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Bay Terrace",
+        "Id": "S20",
         "Lat": "40.5564",
         "Long": "-74.136907",
         "Directions": {
@@ -11837,7 +11837,6 @@ export const stations ={
     "S19": {
         "Station ID": "513",
         "Complex ID": "513",
-        "GTFS Stop ID": "S19",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11846,6 +11845,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Great Kills",
+        "Id": "S19",
         "Lat": "40.551231",
         "Long": "-74.151399",
         "Directions": {
@@ -11859,7 +11859,6 @@ export const stations ={
     "S18": {
         "Station ID": "514",
         "Complex ID": "514",
-        "GTFS Stop ID": "S18",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11868,6 +11867,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Eltingville",
+        "Id": "S18",
         "Lat": "40.544601",
         "Long": "-74.16457",
         "Directions": {
@@ -11881,7 +11881,6 @@ export const stations ={
     "S17": {
         "Station ID": "515",
         "Complex ID": "515",
-        "GTFS Stop ID": "S17",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11890,6 +11889,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Annadale",
+        "Id": "S17",
         "Lat": "40.54046",
         "Long": "-74.178217",
         "Directions": {
@@ -11903,7 +11903,6 @@ export const stations ={
     "S16": {
         "Station ID": "516",
         "Complex ID": "516",
-        "GTFS Stop ID": "S16",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11912,6 +11911,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Huguenot",
+        "Id": "S16",
         "Lat": "40.533674",
         "Long": "-74.191794",
         "Directions": {
@@ -11925,7 +11925,6 @@ export const stations ={
     "S15": {
         "Station ID": "517",
         "Complex ID": "517",
-        "GTFS Stop ID": "S15",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11934,6 +11933,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Prince's Bay",
+        "Id": "S15",
         "Lat": "40.525507",
         "Long": "-74.200064",
         "Directions": {
@@ -11947,7 +11947,6 @@ export const stations ={
     "S14": {
         "Station ID": "518",
         "Complex ID": "518",
-        "GTFS Stop ID": "S14",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11956,6 +11955,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Pleasant Plains",
+        "Id": "S14",
         "Lat": "40.52241",
         "Long": "-74.217847",
         "Directions": {
@@ -11969,7 +11969,6 @@ export const stations ={
     "S13": {
         "Station ID": "519",
         "Complex ID": "519",
-        "GTFS Stop ID": "S13",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -11978,6 +11977,7 @@ export const stations ={
         "ADA": "0",
         "ADA Notes": "",
         "Name": "Richmond Valley",
+        "Id": "S13",
         "Lat": "40.519631",
         "Long": "-74.229141",
         "Directions": {
@@ -11991,7 +11991,6 @@ export const stations ={
     "S09": {
         "Station ID": "522",
         "Complex ID": "522",
-        "GTFS Stop ID": "S09",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -12000,6 +11999,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Tottenville",
+        "Id": "S09",
         "Lat": "40.512764",
         "Long": "-74.251961",
         "Directions": {
@@ -12013,7 +12013,6 @@ export const stations ={
     "S11": {
         "Station ID": "523",
         "Complex ID": "523",
-        "GTFS Stop ID": "S11",
         "Division": "SIR",
         "Line": "Staten Island",
         "Borough": "SI",
@@ -12022,6 +12021,7 @@ export const stations ={
         "ADA": "1",
         "ADA Notes": "",
         "Name": "Arthur Kill",
+        "Id": "S11",
         "Lat": "40.516578",
         "Long": "-74.242096",
         "Directions": {
