@@ -1,0 +1,52 @@
+div.app {
+    --zoom-box: 1;
+    --zoom-text: 1;
+}
+
+div.station {
+    position: absolute;
+    border: .01in outset grey;
+    font-size: calc(.3in * var(--zoom-text));
+    width: calc(2in * var(--zoom-box));
+    white-space: pre;
+    overflow: hidden;
+    background: white;
+    opacity: 0.8;
+}
+
+div.station span.rn {
+    color: white;
+    text-shadow: 0 0 .1vw black;
+    font-weight: bold;
+    width: 1em;
+    display: inline-block;
+    text-align: center;
+}
+
+div.station span.half {
+    width: calc(50% - 0.5em);
+    overflow: hidden;
+    display: inline-block;
+    background: linear-gradient(to right, #fff, #fff 80%, #777 100%);
+    vertical-align: bottom;
+}
+
+div.station span.fragile {
+    width: 50%;
+    display: inline-block;
+    font-size: 80%;
+    text-align: center;
+    border: 1px solid #333;
+}
+
+div.ball {
+    width: calc(.2in * var(--zoom-text));
+    height: calc(.2in * var(--zoom-text));
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    font-size: calc(.2in * var(--zoom-text));
+    text-shadow: 0 0 .1vw black;
+    position: absolute;
+    z-index: -1;
+}
