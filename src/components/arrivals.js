@@ -33,10 +33,12 @@ export class Arrivals extends React.Component {
 		   </span>
 		   <span className="half">
 		       ↑
+		       <span className="hidden"> ({this.station.Directions.N}) </span>
 		       { this.state.N.map(t => Math.round((t-this.state.now)/60)).sort((a,b)=>a-b).filter(x => x>=0).join(', ') }
 		   </span>
 		   <span className="half">
 		       ↓
+		       <span className="hidden"> ({this.station.Directions.S}) </span>
 		       { this.state.S.map(t => Math.round((t-this.state.now)/60)).sort((a,b)=>a-b).filter(x => x>=0).join(', ') }
 		   </span>
 	       </div>;
@@ -69,7 +71,7 @@ export async function fetchgtfs(which) {
 		    arrivals[rid][sid] = {N:[], S:[]}
 		}
 		console.log({rid,sid,dir});
-		arrivals[rid][sid][dir].push(stu.arrival?.time || stu.departure.time);
+		arrivals[rid][sid][dir].push(stu.arrival?.time || stu.departure?.time || 0);
 	    }
 	}
     }

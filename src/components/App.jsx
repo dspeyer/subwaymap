@@ -26,8 +26,29 @@ function mapy(lat) {
     return 100 * (maxlat - lat) / (maxlat - minlat);
 }
 
+let maxz = 1;
+
+function stationClick(id, ev) {
+    console.log('clicked '+id);
+    let div = document.getElementById('station'+id);
+    div.style.zIndex = ++maxz;
+    div.classList.add('enlarged');
+}
+
+function stationShrink(id, ev) {
+    console.log('shrank '+id);
+    let div = document.getElementById('station'+id);    
+    div.classList.remove('enlarged');
+    ev.stopPropagation();
+}
+
 export function Station({s}) {
-    return <div className="station" style={{left:mapx(s.Long)+'in', top:mapy(s.Lat)+'in'}}>
+    return <div className="station"
+		style={{left:mapx(s.Long)+'in', top:mapy(s.Lat)+'in'}}
+		id={'station'+s.Id}
+		onClick={stationClick.bind(null,s.Id)}
+	   >
+	       <div className="hidden closebutton" onClick={stationShrink.bind(null,s.Id)}>↙</div>
 	       {s.Name}
 	       { Object.keys(data.routes).map( r => <Arrivals route={r} station={s.Id} key={r} /> ) }
 	       <div>

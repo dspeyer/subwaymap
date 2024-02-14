@@ -14,6 +14,12 @@ div.station {
     opacity: 0.8;
 }
 
+div.station.enlarged {
+    width: calc(6in * var(--zoom-box));
+    white-space: normal;
+    opacity: 1;
+}
+
 div.station span.rn {
     color: white;
     text-shadow: 0 0 .1vw black;
@@ -21,6 +27,11 @@ div.station span.rn {
     width: 1em;
     display: inline-block;
     text-align: center;
+}
+
+div.station.enlarged span.rn {
+    font-size: 190%;
+    float: left;
 }
 
 div.station span.half {
@@ -31,12 +42,42 @@ div.station span.half {
     vertical-align: bottom;
 }
 
+div.station.enlarged span.half {
+    width: calc(100% - 2em);
+    float: right;
+    white-space: pre;
+    overflow: hidden;
+}
+
 div.station span.fragile {
     width: 50%;
     display: inline-block;
     font-size: 80%;
     text-align: center;
     border: 1px solid #333;
+}
+
+div.station.enlarged span.fragile {
+    width: 100%;
+}
+
+div.station .hidden {
+    display: none;
+}
+
+div.station.enlarged span.hidden {
+    display: inline;
+}
+
+div.station.enlarged div.hidden {
+    display: block;
+}
+
+div.closebutton {
+    float: right;
+    background: #c00;
+    border: #c00 outset 1px;
+    font-size: 60%
 }
 
 div.ball {

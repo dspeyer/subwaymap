@@ -9,6 +9,11 @@ const emoji = {
     'ES': '𝆱'
 };
 
+const longform = {
+    'EL': 'Elevators',
+    'ES': 'Escalators'
+};
+
 export class Fragiles extends React.Component {
     constructor(props) {
         super(props);
@@ -32,8 +37,18 @@ export class Fragiles extends React.Component {
 	let total = Object.values(this.state).length;
 	if (total==0) return null;
 	let working = Object.values(this.state).reduce((a,b)=>a+b, 0);
-	return <span className="fragile" style={{background: (total==working ? '#7f7' : '#f77')}} >
-		   {emoji[this.typ]} {working} / {total}
+	return <span>
+		   <span className="fragile" style={{background: (total==working ? '#7f7' : '#f77')}} >
+		       <span className="hidden"> {longform[this.typ]} </span>
+		       {emoji[this.typ]} {working} / {total}
+		   </span>
+		   { Object.keys(this.state).map( (eq) =>
+		       <div className="hidden" key={this.station.Id+eq}>
+			   { this.state[eq] ? '✅' : '❌' }
+			   { data.fragiles[eq]?.shortdescription }
+			   { data.fragiles[eq]?.shortdescription.indexOf(data.fragiles[eq]?.linesservedbyelevator) == -1 ?
+			     ' ('+data.fragiles[eq]?.linesservedbyelevator+')' : '' }
+		       </div> ) }
 	       </span>;
     }
 }
@@ -48,6 +63,6 @@ export async function fetchfragiles(which) {
 	}
     }
     for (let eq in fragileMap) {
-	fragileMap[eq].setState({ eq: (eq in broken) ? 0 : 1 });
+	fragileMap[eq].setState({ [eq]: (eq in broken) ? 0 : 1 });
     }
 }
