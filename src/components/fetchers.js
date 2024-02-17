@@ -72,12 +72,12 @@ export class Jumper extends React.Component {
 
     render() {
 	if (this.state.callback) {
-	    return <div onClick={this.state.callback} class='Fetcher'>
-		       <div class="yahball">🚶</div>
+	    return <div onClick={this.state.callback} className='Fetcher'>
+		       <div className="yahball">🚶</div>
 		       jump
 		   </div>;
 	} else {
-	    return <div class='Fetcher' style={{color:'#555'}}>🚶<br/>No GPS</div>;
+	    return <div className='Fetcher' style={{color:'#555'}}>🚶<br/>No GPS</div>;
 	}
     }
 };

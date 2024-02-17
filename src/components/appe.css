@@ -6,9 +6,9 @@ div.app {
 
 div.station {
     position: absolute;
-    border: .01in outset grey;
-    font-size: calc(.3in * var(--zoom-text));
-    width: calc(2in * var(--zoom-box));
+    border: 1px outset grey;
+    font-size: calc(30px * var(--zoom-text));
+    width: calc(200px * var(--zoom-box));
     white-space: pre;
     overflow: hidden;
     background: white;
@@ -16,7 +16,7 @@ div.station {
 }
 
 div.station.enlarged {
-    width: calc(6in * var(--zoom-box));
+    width: calc(600px * var(--zoom-box));
     white-space: normal;
     opacity: 1;
 }
@@ -82,20 +82,20 @@ div.closebutton {
 }
 
 div.ball {
-    width: calc(.2in * var(--zoom-text));
-    height: calc(.2in * var(--zoom-text));
+    width: calc(20px * var(--zoom-text));
+    height: calc(20px * var(--zoom-text));
     border-radius: 50%;
     text-align: center;
     color: white;
-    font-size: calc(.2in * var(--zoom-text));
+    font-size: calc(20px * var(--zoom-text));
     text-shadow: 0 0 .1vw black;
     position: absolute;
     z-index: -1;
 }
 
 div.Fetcher {
-    border: .01in outset grey;
-    font-size: calc(.2in * var(--zoom-text));
+    border: 1px outset grey;
+    font-size: calc(20px * var(--zoom-text));
     white-space: pre;
     overflow: hidden;
     background: #ccc;
@@ -124,10 +124,11 @@ div.FetcherBox {
 }
 
 div.yahball {
-    font-size: calc(.6in * var(--zoom-text));
+    font-size: calc(50px * var(--zoom-text));
     background: #7af;
     border-radius: 50%;
     text-align: center;
+    width: fit-content;
 }
 
 				

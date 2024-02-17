@@ -31,10 +31,10 @@ function pad(x) {
 
 
 function mapx(lon) {
-    return 100 * (lon - minlong) / (maxlong - minlong);
+    return 10000 * (lon - minlong) / (maxlong - minlong);
 }
 function mapy(lat) {
-    return 100 * (maxlat - lat) / (maxlat - minlat);
+    return 10000 * (maxlat - lat) / (maxlat - minlat);
 }
 
 let maxz = 1;
@@ -53,7 +53,7 @@ function stationShrink(id, ev) {
 
 export function Station({s}) {
     return <div className="station"
-		style={{left:mapx(s.Long)+'in', top:mapy(s.Lat)+'in'}}
+		style={{left:mapx(s.Long)+'px', top:mapy(s.Lat)+'px'}}
 		id={'station'+s.Id}
 		onClick={stationClick.bind(null,s.Id)}
 	   >
@@ -89,18 +89,28 @@ export class YouAreHere extends React.Component {
 	    for (let jumper of jumpers) {
 		jumper.setState({callback: this.jump.bind(this)});
 	    }
-	    return <div id='youAreHere' class='yahball'
+	    let vvw = window.visualViewport.width;
+	    let vvh = window.visualViewport.height
+	    return <div id='yah-jump'
 			style={{position:'absolute',
-				left: mapx(this.state.Long)+'in',
-				top: mapy(this.state.Lat)+'in'
+				left: mapx(this.state.Long)-vvw*.4+'px',
+				top: mapy(this.state.Lat)-vvh*.4+'px',
+				width: vvw*.8+'px',
+				height: vvh*.8+'px',
 			       }}>
-		       🚶
-		       { age>10 ?
-			 <div style={{fontSize:'40%'}}>
-			     { Math.floor(age/60)}:{pad(age%60)}
-			 </div>
-			 : <span/> }
+		       <div className="yahball" style={{position:'absolute',
+							top: '50%',
+							left: '50%',
+							transform: 'translate(-50%, -50%);'}}>
+			   🚶
+			   { age>10 ?
+			     <div style={{fontSize:'40%'}}>
+				 { Math.floor(age/60)}:{pad(age%60)}
+			     </div>			      
+			     : <span/> }
+		       </div>
 		   </div>;
+		       
 	} else {
 	    for (let jumper of jumpers) {
 		jumper.setState({callback: null});
@@ -135,10 +145,9 @@ export class YouAreHere extends React.Component {
     }
 
     jump() {
-	let div = document.getElementById('youAreHere');
+	let div = document.getElementById('yah-jump');
 	if (div) {
-	    div.scrollIntoView({block: 'nearest'});
-	    window.scrollBy({top: window.visualViewport.height/3, left: window.visualViewport.width/2});
+	    div.scrollIntoView({block: 'nearest', behavior:'smooth'});
 	    this.hasJumped = true;
 	}
     }
@@ -161,9 +170,9 @@ export function Line({s1, s2, color, os, txt, zi}){
     return <div>
 	       <div style={{
 			background: color,
-			top: y1+'in',
-			left: (x1 + os*0.02)+'in',
-			width: l+'in',
+			top: y1+'px',
+			left: (x1 + os*0.02)+'px',
+			width: l+'px',
 			height: '0.03in',
 			transform: `rotate(${theta}rad)`,
 			transformOrigin: 'left',
