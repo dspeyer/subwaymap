@@ -1,9 +1,11 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import * as data from '../../static_info/data.js'
 import './appe.css'
 
 import {Arrivals, fetchgtfs} from './arrivals.js';
 import {Fragiles, fetchfragiles} from './fragiles.js';
+import {FetcherBox, fetchAllOnce, jumpers} from './fetchers.js';
+import {tickees, tick} from '../ticker.js';
 
 
 let minlat = 361;
@@ -18,9 +20,18 @@ for (let id in data.stations) {
     if (s.Lat < minlat) minlat = s.Lat;
     if (s.Lat > maxlat) maxlat = s.Lat;
 }
-    
+
+function pad(x) {
+    if (x < 10) {
+	return '0'+x;
+    } else {
+	return x;
+    }
+}
+
+
 function mapx(lon) {
-    return 100 * (maxlong - lon) / (maxlong - minlong);
+    return 100 * (lon - minlong) / (maxlong - minlong);
 }
 function mapy(lat) {
     return 100 * (maxlat - lat) / (maxlat - minlat);
@@ -29,14 +40,12 @@ function mapy(lat) {
 let maxz = 1;
 
 function stationClick(id, ev) {
-    console.log('clicked '+id);
     let div = document.getElementById('station'+id);
     div.style.zIndex = ++maxz;
     div.classList.add('enlarged');
 }
 
 function stationShrink(id, ev) {
-    console.log('shrank '+id);
     let div = document.getElementById('station'+id);    
     div.classList.remove('enlarged');
     ev.stopPropagation();
@@ -58,7 +67,87 @@ export function Station({s}) {
 	   </div>
 }
 
-export function Line({s1, s2, color, os, txt}){
+export class YouAreHere extends React.Component {
+    constructor(props) {
+        super(props);
+	this.state = {
+	    Lat: 0,
+	    Long: 0,
+	    updated: 0,
+	    now: 0,
+	}
+	this.hasJumped = false;
+	tickees.push(this);
+    }
+
+    render() {
+	let age = Math.round(this.state.now - this.state.updated);
+	if ( this.state.Lat < maxlat &&
+	     this.state.Lat > minlat &&
+	     this.state.Long < maxlong &&
+	     this.state.Long > minlong ) {
+	    for (let jumper of jumpers) {
+		jumper.setState({callback: this.jump.bind(this)});
+	    }
+	    return <div id='youAreHere' class='yahball'
+			style={{position:'absolute',
+				left: mapx(this.state.Long)+'in',
+				top: mapy(this.state.Lat)+'in'
+			       }}>
+		       🚶
+		       { age>10 ?
+			 <div style={{fontSize:'40%'}}>
+			     { Math.floor(age/60)}:{pad(age%60)}
+			 </div>
+			 : <span/> }
+		   </div>;
+	} else {
+	    for (let jumper of jumpers) {
+		jumper.setState({callback: null});
+	    }
+	    //theDbg.log('outside '+[minlat,maxlat,minlong,maxlong]);
+	    return null;
+	}
+    }
+
+    getLoc(pos) {
+	if (pos?.coords?.latitude) {
+	    this.setState({Lat: pos.coords.latitude,
+			   Long: pos.coords.longitude,
+			   updated: (new Date()).getTime() / 1000});
+	}
+    }
+    
+    err() {
+	//theDbg.log('geoerror:')
+	//theDbg.log(arguments);
+    }
+    
+    componentDidMount() {
+	navigator.geolocation.getCurrentPosition(this.getLoc.bind(this), this.err);
+	navigator.geolocation.watchPosition(this.getLoc.bind(this), this.err);
+    }
+
+    componentDidUpdate() {
+	if (! this.hasJumped) {
+	    this.jump();
+	}
+    }
+
+    jump() {
+	let div = document.getElementById('youAreHere');
+	if (div) {
+	    div.scrollIntoView({block: 'nearest'});
+	    window.scrollBy({top: window.visualViewport.height/3, left: window.visualViewport.width/2});
+	    this.hasJumped = true;
+	}
+    }
+};
+	    
+	    
+	
+
+export function Line({s1, s2, color, os, txt, zi}){
     if ( ! os) os=0;
     let x1 = mapx(s1.Long);
     let x2 = mapx(s2.Long)
@@ -79,16 +168,53 @@ export function Line({s1, s2, color, os, txt}){
 			transform: `rotate(${theta}rad)`,
 			transformOrigin: 'left',
 			position: 'absolute',
-			zIndex: -2}} />
-	       <div className="ball" style={{
-			background: color,
-			top: `calc(${ym}in - .1in * var(--zoom-text))`,
-			left: `calc(${xm}in -  .1in * var(--zoom-text))`}}>
-		   {txt}
-	       </div>
+			zIndex: zi || -2}} />
+	       { txt ? 
+		 <div className="ball" style={{
+			  background: color,
+			  top: `calc(${ym}in - .1in * var(--zoom-text))`,
+			  left: `calc(${xm}in -  .1in * var(--zoom-text))`}}>
+		     {txt}
+		 </div>
+		 : null }
 	   </div>;
 }
-	       
+
+
+class ErrorBoundary extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      hasError: false,
+      error: null,
+      errorInfo: null
+    };
+  }
+
+  componentDidCatch(error, errorInfo) {
+    this.setState({
+      hasError: true,
+      error: error,
+      errorInfo: errorInfo
+    });
+  }
+
+  render() {
+    if (this.state.hasError) {
+      // You can customize the error message or UI here
+      return (
+        <div>
+          <h2>Something went wrong.</h2>
+          <p>{this.state.error && this.state.error.toString()}</p>
+          <p>{this.state.errorInfo && this.state.errorInfo.componentStack}</p>
+        </div>
+      );
+    }
+    // Render children if there's no error
+    return this.props.children;
+  }
+}
+
 export default function App() {
     let pieces = [];
     for (let s of Object.values(data.stations)) {
@@ -96,7 +222,6 @@ export default function App() {
 	    pieces.push( <Station s={s} key={s.Id} /> );
 	}
     }
-    
     for (let t of data.transfers) {
 	let s1 = data.stations[t[0]];
 	let s2 = data.stations[t[1]];
@@ -125,17 +250,18 @@ export default function App() {
 	}
 	os += 1;
     }
-    window.setTimeout(()=>fetchgtfs('-ace'), 100);
-    window.setTimeout(()=>fetchgtfs('-g'), 100);
-    window.setTimeout(()=>fetchgtfs('-nqrw'), 100);
-    window.setTimeout(()=>fetchgtfs(''), 100);
-    window.setTimeout(()=>fetchgtfs('-bdfm'), 100);
-    window.setTimeout(()=>fetchgtfs('-jz'), 100);
-    window.setTimeout(()=>fetchgtfs('-l'), 100);
-    window.setTimeout(()=>fetchgtfs('-si'), 100);
-    window.setTimeout(()=>fetchfragiles(), 100);
+    let key=1000;
+    for (let c of data.coasts) {
+	for (let i=0; i<c.length-1; i++) {
+	    let s1 = c[i];
+	    let s2 = c[i+1];
+	    console.log({i,s1,s2,c})
+	    pieces.push( <Line s1={s1} s2={s2} color='#77f' key={key++} zi='-3' /> );
+	}
+    }	    
+    useEffect(fetchAllOnce);
     
-    return <div>Content:  <Dbg/> { pieces } </div>;
+    return <ErrorBoundary>Content:  <Dbg/> <FetcherBox/> <YouAreHere/> { pieces } </ErrorBoundary>;
 }
 
 let theDbg = null;
@@ -154,7 +280,7 @@ export class Dbg extends React.Component {
     }
     
     render() {
-	return <span>{this.state.msg}</span>;
+	return <span style={{marginLeft: 'calc(1in * var(--zoom-text))'}}>{this.state.msg}</span>;
     }
 }
 	
@@ -164,9 +290,11 @@ function teachCssZoom() {
     let zoom = window.devicePixelRatio * window.visualViewport.scale;
     app.style.setProperty('--zoom-box', Math.pow(zoom, -0.6));
     app.style.setProperty('--zoom-text', Math.pow(zoom, -0.9));
+    app.style.setProperty('--vvh', window.visualViewport.height+'px');
 }
 
 window.addEventListener('resize', teachCssZoom);
-window.addEventListener('wheel', teachCssZoom);
-window.addEventListener('touchend', teachCssZoom);
+window.visualViewport.addEventListener('resize',teachCssZoom);
 teachCssZoom();
+
+tick();

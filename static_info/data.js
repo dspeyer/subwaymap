@@ -11,8 +11,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Astoria-Ditmars Blvd",
         "Id": "R01",
-        "Lat": "40.775036",
-        "Long": "-73.912034",
+        "Lat": 40.775036,
+        "Long": -73.912034,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -33,8 +33,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Astoria Blvd",
         "Id": "R03",
-        "Lat": "40.770258",
-        "Long": "-73.917843",
+        "Lat": 40.770258,
+        "Long": -73.917843,
         "Directions": {
             "N": "Ditmars Blvd",
             "S": "Manhattan"
@@ -60,8 +60,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "30 Av",
         "Id": "R04",
-        "Lat": "40.766779",
-        "Long": "-73.921479",
+        "Lat": 40.766779,
+        "Long": -73.921479,
         "Directions": {
             "N": "Astoria - Ditmars Blvd",
             "S": "Manhattan"
@@ -82,8 +82,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Broadway",
         "Id": "R05",
-        "Lat": "40.76182",
-        "Long": "-73.925508",
+        "Lat": 40.76182,
+        "Long": -73.925508,
         "Directions": {
             "N": "Astoria - Ditmars Blvd",
             "S": "Manhattan"
@@ -104,8 +104,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "36 Av",
         "Id": "R06",
-        "Lat": "40.756804",
-        "Long": "-73.929575",
+        "Lat": 40.756804,
+        "Long": -73.929575,
         "Directions": {
             "N": "Astoria - Ditmars Blvd",
             "S": "Manhattan"
@@ -126,8 +126,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "39 Av-Dutch Kills",
         "Id": "R08",
-        "Lat": "40.752882",
-        "Long": "-73.932755",
+        "Lat": 40.752882,
+        "Long": -73.932755,
         "Directions": {
             "N": "Astoria - Ditmars Blvd",
             "S": "Manhattan"
@@ -148,8 +148,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Lexington Av/59 St",
         "Id": "R11",
-        "Lat": "40.76266",
-        "Long": "-73.967258",
+        "Lat": 40.76266,
+        "Long": -73.967258,
         "Directions": {
             "N": "Queens",
             "S": "Downtown & Brooklyn"
@@ -174,8 +174,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "5 Av/59 St",
         "Id": "R13",
-        "Lat": "40.764811",
-        "Long": "-73.973347",
+        "Lat": 40.764811,
+        "Long": -73.973347,
         "Directions": {
             "N": "Queens",
             "S": "Downtown & Brooklyn"
@@ -196,8 +196,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "57 St-7 Av",
         "Id": "R14",
-        "Lat": "40.764664",
-        "Long": "-73.980658",
+        "Lat": 40.764664,
+        "Long": -73.980658,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -223,8 +223,8 @@ export const stations ={
         "ADA Notes": "Uptown only",
         "Name": "49 St",
         "Id": "R15",
-        "Lat": "40.759901",
-        "Long": "-73.984139",
+        "Lat": 40.759901,
+        "Long": -73.984139,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -247,8 +247,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Times Sq-42 St",
         "Id": "R16",
-        "Lat": "40.754672",
-        "Long": "-73.986754",
+        "Lat": 40.754672,
+        "Long": -73.986754,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -284,8 +284,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "34 St-Herald Sq",
         "Id": "R17",
-        "Lat": "40.749567",
-        "Long": "-73.98795",
+        "Lat": 40.749567,
+        "Long": -73.98795,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -326,8 +326,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "28 St",
         "Id": "R18",
-        "Lat": "40.745494",
-        "Long": "-73.988691",
+        "Lat": 40.745494,
+        "Long": -73.988691,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -348,8 +348,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "23 St",
         "Id": "R19",
-        "Lat": "40.741303",
-        "Long": "-73.989344",
+        "Lat": 40.741303,
+        "Long": -73.989344,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -370,8 +370,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "14 St-Union Sq",
         "Id": "R20",
-        "Lat": "40.735736",
-        "Long": "-73.990568",
+        "Lat": 40.735736,
+        "Long": -73.990568,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -402,8 +402,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "8 St-NYU",
         "Id": "R21",
-        "Lat": "40.730328",
-        "Long": "-73.992629",
+        "Lat": 40.730328,
+        "Long": -73.992629,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -424,8 +424,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Prince St",
         "Id": "R22",
-        "Lat": "40.724329",
-        "Long": "-73.997702",
+        "Lat": 40.724329,
+        "Long": -73.997702,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -446,8 +446,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Canal St",
         "Id": "R23",
-        "Lat": "40.719527",
-        "Long": "-74.001775",
+        "Lat": 40.719527,
+        "Long": -74.001775,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -472,8 +472,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Canal St",
         "Id": "Q01",
-        "Lat": "40.718383",
-        "Long": "-74.00046",
+        "Lat": 40.718383,
+        "Long": -74.00046,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -495,8 +495,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "City Hall",
         "Id": "R24",
-        "Lat": "40.713282",
-        "Long": "-74.006978",
+        "Lat": 40.713282,
+        "Long": -74.006978,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -517,8 +517,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Cortlandt St",
         "Id": "R25",
-        "Lat": "40.710668",
-        "Long": "-74.011029",
+        "Lat": 40.710668,
+        "Long": -74.011029,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -549,8 +549,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Rector St",
         "Id": "R26",
-        "Lat": "40.70722",
-        "Long": "-74.013342",
+        "Lat": 40.70722,
+        "Long": -74.013342,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -571,8 +571,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Whitehall St-South Ferry",
         "Id": "R27",
-        "Lat": "40.703087",
-        "Long": "-74.012994",
+        "Lat": 40.703087,
+        "Long": -74.012994,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Brooklyn"
@@ -597,8 +597,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Court St",
         "Id": "R28",
-        "Lat": "40.6941",
-        "Long": "-73.991777",
+        "Lat": 40.6941,
+        "Long": -73.991777,
         "Directions": {
             "N": "Manhattan",
             "S": "Bay Ridge - 95 St"
@@ -625,8 +625,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jay St-MetroTech",
         "Id": "R29",
-        "Lat": "40.69218",
-        "Long": "-73.985942",
+        "Lat": 40.69218,
+        "Long": -73.985942,
         "Directions": {
             "N": "Manhattan",
             "S": "Bay Ridge - 95 St"
@@ -656,8 +656,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "DeKalb Av",
         "Id": "R30",
-        "Lat": "40.690635",
-        "Long": "-73.981824",
+        "Lat": 40.690635,
+        "Long": -73.981824,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island - Bay Ridge"
@@ -685,8 +685,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Atlantic Av-Barclays Ctr",
         "Id": "R31",
-        "Lat": "40.683666",
-        "Long": "-73.97881",
+        "Lat": 40.683666,
+        "Long": -73.97881,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island - Bay Ridge"
@@ -719,8 +719,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Union St",
         "Id": "R32",
-        "Lat": "40.677316",
-        "Long": "-73.98311",
+        "Lat": 40.677316,
+        "Long": -73.98311,
         "Directions": {
             "N": "Manhattan",
             "S": "Bay Ridge - 95 St"
@@ -741,8 +741,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "4 Av-9 St",
         "Id": "R33",
-        "Lat": "40.670847",
-        "Long": "-73.988302",
+        "Lat": 40.670847,
+        "Long": -73.988302,
         "Directions": {
             "N": "Manhattan",
             "S": "Bay Ridge - 95 St"
@@ -765,8 +765,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Prospect Av",
         "Id": "R34",
-        "Lat": "40.665414",
-        "Long": "-73.992872",
+        "Lat": 40.665414,
+        "Long": -73.992872,
         "Directions": {
             "N": "Manhattan",
             "S": "Bay Ridge - 95 St"
@@ -787,8 +787,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "25 St",
         "Id": "R35",
-        "Lat": "40.660397",
-        "Long": "-73.998091",
+        "Lat": 40.660397,
+        "Long": -73.998091,
         "Directions": {
             "N": "Manhattan",
             "S": "Bay Ridge - 95 St"
@@ -809,8 +809,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "36 St",
         "Id": "R36",
-        "Lat": "40.655144",
-        "Long": "-74.003549",
+        "Lat": 40.655144,
+        "Long": -74.003549,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island - Bay Ridge"
@@ -831,8 +831,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "45 St",
         "Id": "R39",
-        "Lat": "40.648939",
-        "Long": "-74.010006",
+        "Lat": 40.648939,
+        "Long": -74.010006,
         "Directions": {
             "N": "Manhattan",
             "S": "Bay Ridge - 95 St"
@@ -853,8 +853,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "53 St",
         "Id": "R40",
-        "Lat": "40.645069",
-        "Long": "-74.014034",
+        "Lat": 40.645069,
+        "Long": -74.014034,
         "Directions": {
             "N": "Manhattan",
             "S": "Bay Ridge - 95 St"
@@ -875,8 +875,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "59 St",
         "Id": "R41",
-        "Lat": "40.641362",
-        "Long": "-74.017881",
+        "Lat": 40.641362,
+        "Long": -74.017881,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island - Bay Ridge"
@@ -901,8 +901,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bay Ridge Av",
         "Id": "R42",
-        "Lat": "40.634967",
-        "Long": "-74.023377",
+        "Lat": 40.634967,
+        "Long": -74.023377,
         "Directions": {
             "N": "Manhattan",
             "S": "95 St"
@@ -923,8 +923,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "77 St",
         "Id": "R43",
-        "Lat": "40.629742",
-        "Long": "-74.02551",
+        "Lat": 40.629742,
+        "Long": -74.02551,
         "Directions": {
             "N": "Manhattan",
             "S": "95 St"
@@ -945,8 +945,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "86 St",
         "Id": "R44",
-        "Lat": "40.622687",
-        "Long": "-74.028398",
+        "Lat": 40.622687,
+        "Long": -74.028398,
         "Directions": {
             "N": "Manhattan",
             "S": "95 St"
@@ -970,8 +970,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bay Ridge-95 St",
         "Id": "R45",
-        "Lat": "40.616622",
-        "Long": "-74.030876",
+        "Lat": 40.616622,
+        "Long": -74.030876,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -992,8 +992,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Atlantic Av-Barclays Ctr",
         "Id": "D24",
-        "Lat": "40.68446",
-        "Long": "-73.97689",
+        "Lat": 40.68446,
+        "Long": -73.97689,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1023,8 +1023,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "7 Av",
         "Id": "D25",
-        "Lat": "40.67705",
-        "Long": "-73.972367",
+        "Lat": 40.67705,
+        "Long": -73.972367,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1045,8 +1045,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Prospect Park",
         "Id": "D26",
-        "Lat": "40.661614",
-        "Long": "-73.962246",
+        "Lat": 40.661614,
+        "Long": -73.962246,
         "Directions": {
             "N": "Manhattan & Franklin Av",
             "S": "Brighton Beach & Coney Island"
@@ -1070,8 +1070,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Parkside Av",
         "Id": "D27",
-        "Lat": "40.655292",
-        "Long": "-73.961495",
+        "Lat": 40.655292,
+        "Long": -73.961495,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1092,8 +1092,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Church Av",
         "Id": "D28",
-        "Lat": "40.650527",
-        "Long": "-73.962982",
+        "Lat": 40.650527,
+        "Long": -73.962982,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1114,8 +1114,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beverley Rd",
         "Id": "D29",
-        "Lat": "40.644031",
-        "Long": "-73.964492",
+        "Lat": 40.644031,
+        "Long": -73.964492,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1136,8 +1136,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Cortelyou Rd",
         "Id": "D30",
-        "Lat": "40.640927",
-        "Long": "-73.963891",
+        "Lat": 40.640927,
+        "Long": -73.963891,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1158,8 +1158,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Newkirk Plaza",
         "Id": "D31",
-        "Lat": "40.635082",
-        "Long": "-73.962793",
+        "Lat": 40.635082,
+        "Long": -73.962793,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1180,8 +1180,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue H",
         "Id": "D32",
-        "Lat": "40.62927",
-        "Long": "-73.961639",
+        "Lat": 40.62927,
+        "Long": -73.961639,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1202,8 +1202,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue J",
         "Id": "D33",
-        "Lat": "40.625039",
-        "Long": "-73.960803",
+        "Lat": 40.625039,
+        "Long": -73.960803,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1224,8 +1224,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue M",
         "Id": "D34",
-        "Lat": "40.617618",
-        "Long": "-73.959399",
+        "Lat": 40.617618,
+        "Long": -73.959399,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1246,8 +1246,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kings Hwy",
         "Id": "D35",
-        "Lat": "40.60867",
-        "Long": "-73.957734",
+        "Lat": 40.60867,
+        "Long": -73.957734,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1271,8 +1271,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue U",
         "Id": "D37",
-        "Lat": "40.5993",
-        "Long": "-73.955929",
+        "Lat": 40.5993,
+        "Long": -73.955929,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1293,8 +1293,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Neck Rd",
         "Id": "D38",
-        "Lat": "40.595246",
-        "Long": "-73.955161",
+        "Lat": 40.595246,
+        "Long": -73.955161,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1315,8 +1315,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Sheepshead Bay",
         "Id": "D39",
-        "Lat": "40.586896",
-        "Long": "-73.954155",
+        "Lat": 40.586896,
+        "Long": -73.954155,
         "Directions": {
             "N": "Manhattan",
             "S": "Brighton Beach & Coney Island"
@@ -1337,8 +1337,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Brighton Beach",
         "Id": "D40",
-        "Lat": "40.577621",
-        "Long": "-73.961376",
+        "Lat": 40.577621,
+        "Long": -73.961376,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1361,8 +1361,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Ocean Pkwy",
         "Id": "D41",
-        "Lat": "40.576312",
-        "Long": "-73.968501",
+        "Lat": 40.576312,
+        "Long": -73.968501,
         "Directions": {
             "N": "Manhattan",
             "S": "Stillwell Av"
@@ -1383,8 +1383,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "W 8 St-NY Aquarium",
         "Id": "D42",
-        "Lat": "40.576127",
-        "Long": "-73.975939",
+        "Lat": 40.576127,
+        "Long": -73.975939,
         "Directions": {
             "N": "Manhattan",
             "S": "Stillwell Av"
@@ -1407,8 +1407,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Coney Island-Stillwell Av",
         "Id": "D43",
-        "Lat": "40.577422",
-        "Long": "-73.981233",
+        "Lat": 40.577422,
+        "Long": -73.981233,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -1432,8 +1432,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "9 Av",
         "Id": "B12",
-        "Lat": "40.646292",
-        "Long": "-73.994324",
+        "Lat": 40.646292,
+        "Long": -73.994324,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1454,8 +1454,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fort Hamilton Pkwy",
         "Id": "B13",
-        "Lat": "40.640914",
-        "Long": "-73.994304",
+        "Lat": 40.640914,
+        "Long": -73.994304,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1476,8 +1476,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "50 St",
         "Id": "B14",
-        "Lat": "40.63626",
-        "Long": "-73.994791",
+        "Lat": 40.63626,
+        "Long": -73.994791,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1498,8 +1498,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "55 St",
         "Id": "B15",
-        "Lat": "40.631435",
-        "Long": "-73.995476",
+        "Lat": 40.631435,
+        "Long": -73.995476,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1520,8 +1520,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "62 St",
         "Id": "B16",
-        "Lat": "40.626472",
-        "Long": "-73.996895",
+        "Lat": 40.626472,
+        "Long": -73.996895,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1546,8 +1546,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "71 St",
         "Id": "B17",
-        "Lat": "40.619589",
-        "Long": "-73.998864",
+        "Lat": 40.619589,
+        "Long": -73.998864,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1568,8 +1568,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "79 St",
         "Id": "B18",
-        "Lat": "40.613501",
-        "Long": "-74.00061",
+        "Lat": 40.613501,
+        "Long": -74.00061,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1590,8 +1590,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "18 Av",
         "Id": "B19",
-        "Lat": "40.607954",
-        "Long": "-74.001736",
+        "Lat": 40.607954,
+        "Long": -74.001736,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1612,8 +1612,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "20 Av",
         "Id": "B20",
-        "Lat": "40.604556",
-        "Long": "-73.998168",
+        "Lat": 40.604556,
+        "Long": -73.998168,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1634,8 +1634,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bay Pkwy",
         "Id": "B21",
-        "Lat": "40.601875",
-        "Long": "-73.993728",
+        "Lat": 40.601875,
+        "Long": -73.993728,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1660,8 +1660,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "25 Av",
         "Id": "B22",
-        "Lat": "40.597704",
-        "Long": "-73.986829",
+        "Lat": 40.597704,
+        "Long": -73.986829,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1682,8 +1682,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bay 50 St",
         "Id": "B23",
-        "Lat": "40.588841",
-        "Long": "-73.983765",
+        "Lat": 40.588841,
+        "Long": -73.983765,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1704,8 +1704,8 @@ export const stations ={
         "ADA Notes": "Manhattan-bound only",
         "Name": "8 Av",
         "Id": "N02",
-        "Lat": "40.635064",
-        "Long": "-74.011719",
+        "Lat": 40.635064,
+        "Long": -74.011719,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1729,8 +1729,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fort Hamilton Pkwy",
         "Id": "N03",
-        "Lat": "40.631386",
-        "Long": "-74.005351",
+        "Lat": 40.631386,
+        "Long": -74.005351,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1751,8 +1751,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "New Utrecht Av",
         "Id": "N04",
-        "Lat": "40.624842",
-        "Long": "-73.996353",
+        "Lat": 40.624842,
+        "Long": -73.996353,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1776,8 +1776,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "18 Av",
         "Id": "N05",
-        "Lat": "40.620671",
-        "Long": "-73.990414",
+        "Lat": 40.620671,
+        "Long": -73.990414,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1798,8 +1798,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "20 Av",
         "Id": "N06",
-        "Lat": "40.61741",
-        "Long": "-73.985026",
+        "Lat": 40.61741,
+        "Long": -73.985026,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1820,8 +1820,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bay Pkwy",
         "Id": "N07",
-        "Lat": "40.611815",
-        "Long": "-73.981848",
+        "Lat": 40.611815,
+        "Long": -73.981848,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1842,8 +1842,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kings Hwy",
         "Id": "N08",
-        "Lat": "40.603923",
-        "Long": "-73.980353",
+        "Lat": 40.603923,
+        "Long": -73.980353,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1864,8 +1864,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue U",
         "Id": "N09",
-        "Lat": "40.597473",
-        "Long": "-73.979137",
+        "Lat": 40.597473,
+        "Long": -73.979137,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1886,8 +1886,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "86 St",
         "Id": "N10",
-        "Lat": "40.592721",
-        "Long": "-73.97823",
+        "Lat": 40.592721,
+        "Long": -73.97823,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -1908,8 +1908,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "121 St",
         "Id": "J12",
-        "Lat": "40.700492",
-        "Long": "-73.828294",
+        "Lat": 40.700492,
+        "Long": -73.828294,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -1930,8 +1930,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "111 St",
         "Id": "J13",
-        "Lat": "40.697418",
-        "Long": "-73.836345",
+        "Lat": 40.697418,
+        "Long": -73.836345,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -1952,8 +1952,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "104 St",
         "Id": "J14",
-        "Lat": "40.695178",
-        "Long": "-73.84433",
+        "Lat": 40.695178,
+        "Long": -73.84433,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -1974,8 +1974,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Woodhaven Blvd",
         "Id": "J15",
-        "Lat": "40.693879",
-        "Long": "-73.851576",
+        "Lat": 40.693879,
+        "Long": -73.851576,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -1996,8 +1996,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "85 St-Forest Pkwy",
         "Id": "J16",
-        "Lat": "40.692435",
-        "Long": "-73.86001",
+        "Lat": 40.692435,
+        "Long": -73.86001,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2018,8 +2018,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "75 St-Elderts Ln",
         "Id": "J17",
-        "Lat": "40.691324",
-        "Long": "-73.867139",
+        "Lat": 40.691324,
+        "Long": -73.867139,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2040,8 +2040,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Cypress Hills",
         "Id": "J19",
-        "Lat": "40.689941",
-        "Long": "-73.87255",
+        "Lat": 40.689941,
+        "Long": -73.87255,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2062,8 +2062,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Crescent St",
         "Id": "J20",
-        "Lat": "40.683194",
-        "Long": "-73.873785",
+        "Lat": 40.683194,
+        "Long": -73.873785,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2084,8 +2084,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Norwood Av",
         "Id": "J21",
-        "Lat": "40.68141",
-        "Long": "-73.880039",
+        "Lat": 40.68141,
+        "Long": -73.880039,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2106,8 +2106,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Cleveland St",
         "Id": "J22",
-        "Lat": "40.679947",
-        "Long": "-73.884639",
+        "Lat": 40.679947,
+        "Long": -73.884639,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2128,8 +2128,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Van Siclen Av",
         "Id": "J23",
-        "Lat": "40.678024",
-        "Long": "-73.891688",
+        "Lat": 40.678024,
+        "Long": -73.891688,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2150,8 +2150,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Alabama Av",
         "Id": "J24",
-        "Lat": "40.676992",
-        "Long": "-73.898654",
+        "Lat": 40.676992,
+        "Long": -73.898654,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2172,8 +2172,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Broadway Junction",
         "Id": "J27",
-        "Lat": "40.679498",
-        "Long": "-73.904512",
+        "Lat": 40.679498,
+        "Long": -73.904512,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2201,8 +2201,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Chauncey St",
         "Id": "J28",
-        "Lat": "40.682893",
-        "Long": "-73.910456",
+        "Lat": 40.682893,
+        "Long": -73.910456,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2223,8 +2223,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Halsey St",
         "Id": "J29",
-        "Lat": "40.68637",
-        "Long": "-73.916559",
+        "Lat": 40.68637,
+        "Long": -73.916559,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2245,8 +2245,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Gates Av",
         "Id": "J30",
-        "Lat": "40.68963",
-        "Long": "-73.92227",
+        "Lat": 40.68963,
+        "Long": -73.92227,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2267,8 +2267,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kosciuszko St",
         "Id": "J31",
-        "Lat": "40.693342",
-        "Long": "-73.928814",
+        "Lat": 40.693342,
+        "Long": -73.928814,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -2289,8 +2289,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Myrtle Av",
         "Id": "M11",
-        "Lat": "40.697207",
-        "Long": "-73.935657",
+        "Lat": 40.697207,
+        "Long": -73.935657,
         "Directions": {
             "N": "Jamaica - Middle Village",
             "S": "Manhattan"
@@ -2311,8 +2311,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Flushing Av",
         "Id": "M12",
-        "Lat": "40.70026",
-        "Long": "-73.941126",
+        "Lat": 40.70026,
+        "Long": -73.941126,
         "Directions": {
             "N": "Jamaica - Middle Village",
             "S": "Manhattan"
@@ -2337,8 +2337,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Lorimer St",
         "Id": "M13",
-        "Lat": "40.703869",
-        "Long": "-73.947408",
+        "Lat": 40.703869,
+        "Long": -73.947408,
         "Directions": {
             "N": "Jamaica - Middle Village",
             "S": "Manhattan"
@@ -2359,8 +2359,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Hewes St",
         "Id": "M14",
-        "Lat": "40.70687",
-        "Long": "-73.953431",
+        "Lat": 40.70687,
+        "Long": -73.953431,
         "Directions": {
             "N": "Jamaica - Middle Village",
             "S": "Manhattan"
@@ -2381,8 +2381,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Marcy Av",
         "Id": "M16",
-        "Lat": "40.708359",
-        "Long": "-73.957757",
+        "Lat": 40.708359,
+        "Long": -73.957757,
         "Directions": {
             "N": "Jamaica - Middle Village",
             "S": "Manhattan"
@@ -2406,8 +2406,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Delancey St-Essex St",
         "Id": "M18",
-        "Lat": "40.718315",
-        "Long": "-73.987437",
+        "Lat": 40.718315,
+        "Long": -73.987437,
         "Directions": {
             "N": "Brooklyn",
             "S": "Broad St (JZ) - Uptown (M)"
@@ -2433,8 +2433,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bowery",
         "Id": "M19",
-        "Lat": "40.72028",
-        "Long": "-73.993915",
+        "Lat": 40.72028,
+        "Long": -73.993915,
         "Directions": {
             "N": "Brooklyn",
             "S": "Broad St"
@@ -2457,8 +2457,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Canal St",
         "Id": "M20",
-        "Lat": "40.718092",
-        "Long": "-73.999892",
+        "Lat": 40.718092,
+        "Long": -73.999892,
         "Directions": {
             "N": "Brooklyn",
             "S": "Broad St"
@@ -2480,8 +2480,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Chambers St",
         "Id": "M21",
-        "Lat": "40.713243",
-        "Long": "-74.003401",
+        "Lat": 40.713243,
+        "Long": -74.003401,
         "Directions": {
             "N": "Brooklyn",
             "S": "Broad St"
@@ -2506,8 +2506,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fulton St",
         "Id": "M22",
-        "Lat": "40.710374",
-        "Long": "-74.007582",
+        "Lat": 40.710374,
+        "Long": -74.007582,
         "Directions": {
             "N": "Brooklyn",
             "S": "Broad St"
@@ -2551,8 +2551,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Broad St",
         "Id": "M23",
-        "Lat": "40.706476",
-        "Long": "-74.011056",
+        "Lat": 40.706476,
+        "Long": -74.011056,
         "Directions": {
             "N": "Brooklyn",
             "S": "Downtown"
@@ -2573,8 +2573,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Middle Village-Metropolitan Av",
         "Id": "M01",
-        "Lat": "40.711396",
-        "Long": "-73.889601",
+        "Lat": 40.711396,
+        "Long": -73.889601,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -2595,8 +2595,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fresh Pond Rd",
         "Id": "M04",
-        "Lat": "40.706186",
-        "Long": "-73.895877",
+        "Lat": 40.706186,
+        "Long": -73.895877,
         "Directions": {
             "N": "Manhattan",
             "S": "Metropolitan Av"
@@ -2617,8 +2617,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Forest Av",
         "Id": "M05",
-        "Lat": "40.704423",
-        "Long": "-73.903077",
+        "Lat": 40.704423,
+        "Long": -73.903077,
         "Directions": {
             "N": "Manhattan",
             "S": "Metropolitan Av"
@@ -2639,8 +2639,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Seneca Av",
         "Id": "M06",
-        "Lat": "40.702762",
-        "Long": "-73.90774",
+        "Lat": 40.702762,
+        "Long": -73.90774,
         "Directions": {
             "N": "Manhattan",
             "S": "Metropolitan Av"
@@ -2661,8 +2661,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Myrtle-Wyckoff Avs",
         "Id": "M08",
-        "Lat": "40.69943",
-        "Long": "-73.912385",
+        "Lat": 40.69943,
+        "Long": -73.912385,
         "Directions": {
             "N": "Manhattan",
             "S": "Metropolitan Av"
@@ -2691,8 +2691,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Knickerbocker Av",
         "Id": "M09",
-        "Lat": "40.698664",
-        "Long": "-73.919711",
+        "Lat": 40.698664,
+        "Long": -73.919711,
         "Directions": {
             "N": "Manhattan",
             "S": "Metropolitan Av"
@@ -2713,8 +2713,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Central Av",
         "Id": "M10",
-        "Lat": "40.697857",
-        "Long": "-73.927397",
+        "Lat": 40.697857,
+        "Long": -73.927397,
         "Directions": {
             "N": "Manhattan",
             "S": "Metropolitan Av"
@@ -2735,8 +2735,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "8 Av",
         "Id": "L01",
-        "Lat": "40.739777",
-        "Long": "-74.002578",
+        "Lat": 40.739777,
+        "Long": -74.002578,
         "Directions": {
             "N": "Uptown",
             "S": "Brooklyn"
@@ -2760,8 +2760,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "6 Av",
         "Id": "L02",
-        "Lat": "40.737335",
-        "Long": "-73.996786",
+        "Lat": 40.737335,
+        "Long": -73.996786,
         "Directions": {
             "N": "8 Av",
             "S": "Brooklyn"
@@ -2782,8 +2782,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "14 St-Union Sq.",
         "Id": "L03",
-        "Lat": "40.734789",
-        "Long": "-73.99073",
+        "Lat": 40.734789,
+        "Long": -73.99073,
         "Directions": {
             "N": "8 Av",
             "S": "Brooklyn"
@@ -2811,8 +2811,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "3 Av",
         "Id": "L05",
-        "Lat": "40.732849",
-        "Long": "-73.986122",
+        "Lat": 40.732849,
+        "Long": -73.986122,
         "Directions": {
             "N": "8 Av",
             "S": "Brooklyn"
@@ -2833,8 +2833,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "1 Av",
         "Id": "L06",
-        "Lat": "40.730953",
-        "Long": "-73.981628",
+        "Lat": 40.730953,
+        "Long": -73.981628,
         "Directions": {
             "N": "8 Av",
             "S": "Brooklyn"
@@ -2858,8 +2858,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bedford Av",
         "Id": "L08",
-        "Lat": "40.717304",
-        "Long": "-73.956872",
+        "Lat": 40.717304,
+        "Long": -73.956872,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -2883,8 +2883,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Lorimer St",
         "Id": "L10",
-        "Lat": "40.714063",
-        "Long": "-73.950275",
+        "Lat": 40.714063,
+        "Long": -73.950275,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -2905,8 +2905,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Graham Av",
         "Id": "L11",
-        "Lat": "40.714565",
-        "Long": "-73.944053",
+        "Lat": 40.714565,
+        "Long": -73.944053,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -2927,8 +2927,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grand St",
         "Id": "L12",
-        "Lat": "40.711926",
-        "Long": "-73.94067",
+        "Lat": 40.711926,
+        "Long": -73.94067,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -2952,8 +2952,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Montrose Av",
         "Id": "L13",
-        "Lat": "40.707739",
-        "Long": "-73.93985",
+        "Lat": 40.707739,
+        "Long": -73.93985,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -2974,8 +2974,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Morgan Av",
         "Id": "L14",
-        "Lat": "40.706152",
-        "Long": "-73.933147",
+        "Lat": 40.706152,
+        "Long": -73.933147,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -2996,8 +2996,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jefferson St",
         "Id": "L15",
-        "Lat": "40.706607",
-        "Long": "-73.922913",
+        "Lat": 40.706607,
+        "Long": -73.922913,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3018,8 +3018,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "DeKalb Av",
         "Id": "L16",
-        "Lat": "40.703811",
-        "Long": "-73.918425",
+        "Lat": 40.703811,
+        "Long": -73.918425,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3040,8 +3040,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Myrtle-Wyckoff Avs",
         "Id": "L17",
-        "Lat": "40.699814",
-        "Long": "-73.911586",
+        "Lat": 40.699814,
+        "Long": -73.911586,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3069,8 +3069,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Halsey St",
         "Id": "L19",
-        "Lat": "40.695602",
-        "Long": "-73.904084",
+        "Lat": 40.695602,
+        "Long": -73.904084,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3091,8 +3091,8 @@ export const stations ={
         "ADA Notes": "Manhattan-bound only",
         "Name": "Wilson Av",
         "Id": "L20",
-        "Lat": "40.688764",
-        "Long": "-73.904046",
+        "Lat": 40.688764,
+        "Long": -73.904046,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3113,8 +3113,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bushwick Av-Aberdeen St",
         "Id": "L21",
-        "Lat": "40.682829",
-        "Long": "-73.905249",
+        "Lat": 40.682829,
+        "Long": -73.905249,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3135,8 +3135,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Broadway Junction",
         "Id": "L22",
-        "Lat": "40.678856",
-        "Long": "-73.90324",
+        "Lat": 40.678856,
+        "Long": -73.90324,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3162,8 +3162,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Atlantic Av",
         "Id": "L24",
-        "Lat": "40.675345",
-        "Long": "-73.903097",
+        "Lat": 40.675345,
+        "Long": -73.903097,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3184,8 +3184,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Sutter Av",
         "Id": "L25",
-        "Lat": "40.669367",
-        "Long": "-73.901975",
+        "Lat": 40.669367,
+        "Long": -73.901975,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3206,8 +3206,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Livonia Av",
         "Id": "L26",
-        "Lat": "40.664038",
-        "Long": "-73.900571",
+        "Lat": 40.664038,
+        "Long": -73.900571,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3231,8 +3231,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "New Lots Av",
         "Id": "L27",
-        "Lat": "40.658733",
-        "Long": "-73.899232",
+        "Lat": 40.658733,
+        "Long": -73.899232,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3253,8 +3253,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "East 105 St",
         "Id": "L28",
-        "Lat": "40.650573",
-        "Long": "-73.899485",
+        "Lat": 40.650573,
+        "Long": -73.899485,
         "Directions": {
             "N": "Manhattan",
             "S": "Canarsie - Rockaway Parkway"
@@ -3275,8 +3275,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Canarsie-Rockaway Pkwy",
         "Id": "L29",
-        "Lat": "40.646654",
-        "Long": "-73.90185",
+        "Lat": 40.646654,
+        "Long": -73.90185,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -3297,8 +3297,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Franklin Av",
         "Id": "S01",
-        "Lat": "40.680596",
-        "Long": "-73.955827",
+        "Lat": 40.680596,
+        "Long": -73.955827,
         "Directions": {
             "N": "Uptown",
             "S": "Prospect Park"
@@ -3325,8 +3325,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Park Pl",
         "Id": "S03",
-        "Lat": "40.674772",
-        "Long": "-73.957624",
+        "Lat": 40.674772,
+        "Long": -73.957624,
         "Directions": {
             "N": "Franklin Av",
             "S": "Prospect Park"
@@ -3347,8 +3347,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Botanic Garden",
         "Id": "S04",
-        "Lat": "40.670343",
-        "Long": "-73.959245",
+        "Lat": 40.670343,
+        "Long": -73.959245,
         "Directions": {
             "N": "Franklin Av",
             "S": "Prospect Park"
@@ -3369,8 +3369,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Inwood-207 St",
         "Id": "A02",
-        "Lat": "40.868072",
-        "Long": "-73.919899",
+        "Lat": 40.868072,
+        "Long": -73.919899,
         "Directions": {
             "N": "Uptown",
             "S": "Downtown & Brooklyn"
@@ -3394,8 +3394,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Dyckman St",
         "Id": "A03",
-        "Lat": "40.865491",
-        "Long": "-73.927271",
+        "Lat": 40.865491,
+        "Long": -73.927271,
         "Directions": {
             "N": "207 St",
             "S": "Downtown & Brooklyn"
@@ -3416,8 +3416,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "190 St",
         "Id": "A05",
-        "Lat": "40.859022",
-        "Long": "-73.93418",
+        "Lat": 40.859022,
+        "Long": -73.93418,
         "Directions": {
             "N": "207 St",
             "S": "Downtown & Brooklyn"
@@ -3442,8 +3442,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "181 St",
         "Id": "A06",
-        "Lat": "40.851695",
-        "Long": "-73.937969",
+        "Lat": 40.851695,
+        "Long": -73.937969,
         "Directions": {
             "N": "207 St",
             "S": "Downtown & Brooklyn"
@@ -3474,8 +3474,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "175 St",
         "Id": "A07",
-        "Lat": "40.847391",
-        "Long": "-73.939704",
+        "Lat": 40.847391,
+        "Long": -73.939704,
         "Directions": {
             "N": "207 St",
             "S": "Downtown & Brooklyn"
@@ -3499,8 +3499,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "168 St",
         "Id": "A09",
-        "Lat": "40.840719",
-        "Long": "-73.939561",
+        "Lat": 40.840719,
+        "Long": -73.939561,
         "Directions": {
             "N": "207 St",
             "S": "Downtown & Brooklyn"
@@ -3525,8 +3525,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "163 St-Amsterdam Av",
         "Id": "A10",
-        "Lat": "40.836013",
-        "Long": "-73.939892",
+        "Lat": 40.836013,
+        "Long": -73.939892,
         "Directions": {
             "N": "Uptown",
             "S": "Downtown & Brooklyn"
@@ -3547,8 +3547,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "155 St",
         "Id": "A11",
-        "Lat": "40.830518",
-        "Long": "-73.941514",
+        "Lat": 40.830518,
+        "Long": -73.941514,
         "Directions": {
             "N": "Uptown",
             "S": "Downtown & Brooklyn"
@@ -3569,8 +3569,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "145 St",
         "Id": "A12",
-        "Lat": "40.824783",
-        "Long": "-73.944216",
+        "Lat": 40.824783,
+        "Long": -73.944216,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3596,8 +3596,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "145 St",
         "Id": "D13",
-        "Lat": "40.824783",
-        "Long": "-73.944216",
+        "Lat": 40.824783,
+        "Long": -73.944216,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3622,8 +3622,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "135 St",
         "Id": "A14",
-        "Lat": "40.817894",
-        "Long": "-73.947649",
+        "Lat": 40.817894,
+        "Long": -73.947649,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3644,8 +3644,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "125 St",
         "Id": "A15",
-        "Lat": "40.811109",
-        "Long": "-73.952343",
+        "Lat": 40.811109,
+        "Long": -73.952343,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3670,8 +3670,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "116 St",
         "Id": "A16",
-        "Lat": "40.805085",
-        "Long": "-73.954882",
+        "Lat": 40.805085,
+        "Long": -73.954882,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3692,8 +3692,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Cathedral Pkwy (110 St)",
         "Id": "A17",
-        "Lat": "40.800603",
-        "Long": "-73.958161",
+        "Lat": 40.800603,
+        "Long": -73.958161,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3714,8 +3714,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "103 St",
         "Id": "A18",
-        "Lat": "40.796092",
-        "Long": "-73.961454",
+        "Lat": 40.796092,
+        "Long": -73.961454,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3736,8 +3736,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "96 St",
         "Id": "A19",
-        "Lat": "40.791642",
-        "Long": "-73.964696",
+        "Lat": 40.791642,
+        "Long": -73.964696,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3758,8 +3758,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "86 St",
         "Id": "A20",
-        "Lat": "40.785868",
-        "Long": "-73.968916",
+        "Lat": 40.785868,
+        "Long": -73.968916,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3780,8 +3780,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "81 St-Museum of Natural History",
         "Id": "A21",
-        "Lat": "40.781433",
-        "Long": "-73.972143",
+        "Lat": 40.781433,
+        "Long": -73.972143,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3802,8 +3802,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "72 St",
         "Id": "A22",
-        "Lat": "40.775594",
-        "Long": "-73.97641",
+        "Lat": 40.775594,
+        "Long": -73.97641,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3824,8 +3824,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "59 St-Columbus Circle",
         "Id": "A24",
-        "Lat": "40.768296",
-        "Long": "-73.981736",
+        "Lat": 40.768296,
+        "Long": -73.981736,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -3858,8 +3858,8 @@ export const stations ={
         "ADA Notes": "Downtown only",
         "Name": "50 St",
         "Id": "A25",
-        "Lat": "40.762456",
-        "Long": "-73.985984",
+        "Lat": 40.762456,
+        "Long": -73.985984,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -3886,8 +3886,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "42 St-Port Authority Bus Terminal",
         "Id": "A27",
-        "Lat": "40.757308",
-        "Long": "-73.989735",
+        "Lat": 40.757308,
+        "Long": -73.989735,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -3916,8 +3916,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "34 St-Penn Station",
         "Id": "A28",
-        "Lat": "40.752287",
-        "Long": "-73.993391",
+        "Lat": 40.752287,
+        "Long": -73.993391,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -3943,8 +3943,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "23 St",
         "Id": "A30",
-        "Lat": "40.745906",
-        "Long": "-73.998041",
+        "Lat": 40.745906,
+        "Long": -73.998041,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -3965,8 +3965,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "14 St",
         "Id": "A31",
-        "Lat": "40.740893",
-        "Long": "-74.00169",
+        "Lat": 40.740893,
+        "Long": -74.00169,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -3991,8 +3991,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "W 4 St-Wash Sq",
         "Id": "A32",
-        "Lat": "40.732338",
-        "Long": "-74.000495",
+        "Lat": 40.732338,
+        "Long": -74.000495,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -4020,8 +4020,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "W 4 St-Wash Sq",
         "Id": "D20",
-        "Lat": "40.732338",
-        "Long": "-74.000495",
+        "Lat": 40.732338,
+        "Long": -74.000495,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -4050,8 +4050,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Spring St",
         "Id": "A33",
-        "Lat": "40.726227",
-        "Long": "-74.003739",
+        "Lat": 40.726227,
+        "Long": -74.003739,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -4072,8 +4072,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Canal St",
         "Id": "A34",
-        "Lat": "40.720824",
-        "Long": "-74.005229",
+        "Lat": 40.720824,
+        "Long": -74.005229,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -4094,8 +4094,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Chambers St",
         "Id": "A36",
-        "Lat": "40.714111",
-        "Long": "-74.008585",
+        "Lat": 40.714111,
+        "Long": -74.008585,
         "Directions": {
             "N": "Uptown",
             "S": "Downtown & Brooklyn"
@@ -4116,8 +4116,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "World Trade Center",
         "Id": "E01",
-        "Lat": "40.712582",
-        "Long": "-74.009781",
+        "Lat": 40.712582,
+        "Long": -74.009781,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown"
@@ -4141,8 +4141,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fulton St",
         "Id": "A38",
-        "Lat": "40.710197",
-        "Long": "-74.007691",
+        "Lat": 40.710197,
+        "Long": -74.007691,
         "Directions": {
             "N": "Uptown",
             "S": "Brooklyn"
@@ -4183,8 +4183,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "High St",
         "Id": "A40",
-        "Lat": "40.699337",
-        "Long": "-73.990531",
+        "Lat": 40.699337,
+        "Long": -73.990531,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid - Lefferts - Rockaways"
@@ -4211,8 +4211,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jay St-MetroTech",
         "Id": "A41",
-        "Lat": "40.692338",
-        "Long": "-73.987342",
+        "Lat": 40.692338,
+        "Long": -73.987342,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid - Lefferts - Rockaways - Coney Island"
@@ -4243,8 +4243,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Hoyt-Schermerhorn Sts",
         "Id": "A42",
-        "Lat": "40.688484",
-        "Long": "-73.985001",
+        "Lat": 40.688484,
+        "Long": -73.985001,
         "Directions": {
             "N": "Manhattan - Church Av",
             "S": "Euclid Av & Queens - Court Sq"
@@ -4267,8 +4267,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Lafayette Av",
         "Id": "A43",
-        "Lat": "40.686113",
-        "Long": "-73.973946",
+        "Lat": 40.686113,
+        "Long": -73.973946,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4289,8 +4289,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Clinton-Washington Avs",
         "Id": "A44",
-        "Lat": "40.683263",
-        "Long": "-73.965838",
+        "Lat": 40.683263,
+        "Long": -73.965838,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4311,8 +4311,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Franklin Av",
         "Id": "A45",
-        "Lat": "40.68138",
-        "Long": "-73.956848",
+        "Lat": 40.68138,
+        "Long": -73.956848,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4337,8 +4337,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Nostrand Av",
         "Id": "A46",
-        "Lat": "40.680438",
-        "Long": "-73.950426",
+        "Lat": 40.680438,
+        "Long": -73.950426,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid - Lefferts - Rockaways"
@@ -4359,8 +4359,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kingston-Throop Avs",
         "Id": "A47",
-        "Lat": "40.679921",
-        "Long": "-73.940858",
+        "Lat": 40.679921,
+        "Long": -73.940858,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4381,8 +4381,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Utica Av",
         "Id": "A48",
-        "Lat": "40.679364",
-        "Long": "-73.930729",
+        "Lat": 40.679364,
+        "Long": -73.930729,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid - Lefferts - Rockaways"
@@ -4407,8 +4407,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Ralph Av",
         "Id": "A49",
-        "Lat": "40.678822",
-        "Long": "-73.920786",
+        "Lat": 40.678822,
+        "Long": -73.920786,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4429,8 +4429,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Rockaway Av",
         "Id": "A50",
-        "Lat": "40.67834",
-        "Long": "-73.911946",
+        "Lat": 40.67834,
+        "Long": -73.911946,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4451,8 +4451,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Broadway Junction",
         "Id": "A51",
-        "Lat": "40.678334",
-        "Long": "-73.905316",
+        "Lat": 40.678334,
+        "Long": -73.905316,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid - Lefferts - Rockaways"
@@ -4478,8 +4478,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Liberty Av",
         "Id": "A52",
-        "Lat": "40.674542",
-        "Long": "-73.896548",
+        "Lat": 40.674542,
+        "Long": -73.896548,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4500,8 +4500,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Van Siclen Av",
         "Id": "A53",
-        "Lat": "40.67271",
-        "Long": "-73.890358",
+        "Lat": 40.67271,
+        "Long": -73.890358,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4522,8 +4522,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Shepherd Av",
         "Id": "A54",
-        "Lat": "40.67413",
-        "Long": "-73.88075",
+        "Lat": 40.67413,
+        "Long": -73.88075,
         "Directions": {
             "N": "Manhattan",
             "S": "Euclid Av"
@@ -4544,8 +4544,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Euclid Av",
         "Id": "A55",
-        "Lat": "40.675377",
-        "Long": "-73.872106",
+        "Lat": 40.675377,
+        "Long": -73.872106,
         "Directions": {
             "N": "Manhattan",
             "S": "Lefferts - Rockaways"
@@ -4570,8 +4570,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grant Av",
         "Id": "A57",
-        "Lat": "40.677044",
-        "Long": "-73.86505",
+        "Lat": 40.677044,
+        "Long": -73.86505,
         "Directions": {
             "N": "Manhattan",
             "S": "Lefferts - Rockaways"
@@ -4592,8 +4592,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "80 St",
         "Id": "A59",
-        "Lat": "40.679371",
-        "Long": "-73.858992",
+        "Lat": 40.679371,
+        "Long": -73.858992,
         "Directions": {
             "N": "Manhattan",
             "S": "Lefferts - Rockaways"
@@ -4614,8 +4614,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "88 St",
         "Id": "A60",
-        "Lat": "40.679843",
-        "Long": "-73.85147",
+        "Lat": 40.679843,
+        "Long": -73.85147,
         "Directions": {
             "N": "Manhattan",
             "S": "Lefferts - Rockaways"
@@ -4636,8 +4636,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Rockaway Blvd",
         "Id": "A61",
-        "Lat": "40.680429",
-        "Long": "-73.843853",
+        "Lat": 40.680429,
+        "Long": -73.843853,
         "Directions": {
             "N": "Manhattan",
             "S": "Lefferts - Rockaways"
@@ -4658,8 +4658,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "104 St",
         "Id": "A63",
-        "Lat": "40.681711",
-        "Long": "-73.837683",
+        "Lat": 40.681711,
+        "Long": -73.837683,
         "Directions": {
             "N": "Manhattan",
             "S": "Lefferts Blvd"
@@ -4680,8 +4680,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "111 St",
         "Id": "A64",
-        "Lat": "40.684331",
-        "Long": "-73.832163",
+        "Lat": 40.684331,
+        "Long": -73.832163,
         "Directions": {
             "N": "Manhattan",
             "S": "Lefferts Blvd"
@@ -4702,8 +4702,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Ozone Park-Lefferts Blvd",
         "Id": "A65",
-        "Lat": "40.685951",
-        "Long": "-73.825798",
+        "Lat": 40.685951,
+        "Long": -73.825798,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -4727,8 +4727,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Aqueduct Racetrack",
         "Id": "H01",
-        "Lat": "40.672097",
-        "Long": "-73.835919",
+        "Lat": 40.672097,
+        "Long": -73.835919,
         "Directions": {
             "N": "Manhattan",
             "S": "Rockaways"
@@ -4751,8 +4751,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Aqueduct-N Conduit Av",
         "Id": "H02",
-        "Lat": "40.668234",
-        "Long": "-73.834058",
+        "Lat": 40.668234,
+        "Long": -73.834058,
         "Directions": {
             "N": "Manhattan",
             "S": "Rockaways"
@@ -4773,8 +4773,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Howard Beach-JFK Airport",
         "Id": "H03",
-        "Lat": "40.660476",
-        "Long": "-73.830301",
+        "Lat": 40.660476,
+        "Long": -73.830301,
         "Directions": {
             "N": "Manhattan",
             "S": "Rockaways"
@@ -4807,8 +4807,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Broad Channel",
         "Id": "H04",
-        "Lat": "40.608382",
-        "Long": "-73.815925",
+        "Lat": 40.608382,
+        "Long": -73.815925,
         "Directions": {
             "N": "Manhattan",
             "S": "Rockaways"
@@ -4829,8 +4829,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beach 90 St",
         "Id": "H12",
-        "Lat": "40.588034",
-        "Long": "-73.813641",
+        "Lat": 40.588034,
+        "Long": -73.813641,
         "Directions": {
             "N": "Manhattan",
             "S": "Rockaway Park"
@@ -4851,8 +4851,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beach 98 St",
         "Id": "H13",
-        "Lat": "40.585307",
-        "Long": "-73.820558",
+        "Lat": 40.585307,
+        "Long": -73.820558,
         "Directions": {
             "N": "Manhattan",
             "S": "Rockaway Park"
@@ -4873,8 +4873,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beach 105 St",
         "Id": "H14",
-        "Lat": "40.583209",
-        "Long": "-73.827559",
+        "Lat": 40.583209,
+        "Long": -73.827559,
         "Directions": {
             "N": "Manhattan",
             "S": "Rockaway Park"
@@ -4895,8 +4895,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Rockaway Park-Beach 116 St",
         "Id": "H15",
-        "Lat": "40.580903",
-        "Long": "-73.835592",
+        "Lat": 40.580903,
+        "Long": -73.835592,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -4917,8 +4917,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beach 67 St",
         "Id": "H06",
-        "Lat": "40.590927",
-        "Long": "-73.796924",
+        "Lat": 40.590927,
+        "Long": -73.796924,
         "Directions": {
             "N": "Manhattan",
             "S": "Far Rockaway"
@@ -4942,8 +4942,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beach 60 St",
         "Id": "H07",
-        "Lat": "40.592374",
-        "Long": "-73.788522",
+        "Lat": 40.592374,
+        "Long": -73.788522,
         "Directions": {
             "N": "Manhattan",
             "S": "Far Rockaway"
@@ -4964,8 +4964,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beach 44 St",
         "Id": "H08",
-        "Lat": "40.592943",
-        "Long": "-73.776013",
+        "Lat": 40.592943,
+        "Long": -73.776013,
         "Directions": {
             "N": "Manhattan",
             "S": "Far Rockaway"
@@ -4986,8 +4986,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beach 36 St",
         "Id": "H09",
-        "Lat": "40.595398",
-        "Long": "-73.768175",
+        "Lat": 40.595398,
+        "Long": -73.768175,
         "Directions": {
             "N": "Manhattan",
             "S": "Far Rockaway"
@@ -5008,8 +5008,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beach 25 St",
         "Id": "H10",
-        "Lat": "40.600066",
-        "Long": "-73.761353",
+        "Lat": 40.600066,
+        "Long": -73.761353,
         "Directions": {
             "N": "Manhattan",
             "S": "Far Rockaway"
@@ -5030,8 +5030,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Far Rockaway-Mott Av",
         "Id": "H11",
-        "Lat": "40.603995",
-        "Long": "-73.755405",
+        "Lat": 40.603995,
+        "Long": -73.755405,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -5055,8 +5055,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Norwood-205 St",
         "Id": "D01",
-        "Lat": "40.874811",
-        "Long": "-73.878855",
+        "Lat": 40.874811,
+        "Long": -73.878855,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -5079,8 +5079,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bedford Park Blvd",
         "Id": "D03",
-        "Lat": "40.873244",
-        "Long": "-73.887138",
+        "Lat": 40.873244,
+        "Long": -73.887138,
         "Directions": {
             "N": "Norwood - 205 St",
             "S": "Manhattan"
@@ -5105,8 +5105,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kingsbridge Rd",
         "Id": "D04",
-        "Lat": "40.866978",
-        "Long": "-73.893509",
+        "Lat": 40.866978,
+        "Long": -73.893509,
         "Directions": {
             "N": "Bedford Pk Blvd & 205 St",
             "S": "Manhattan"
@@ -5131,8 +5131,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fordham Rd",
         "Id": "D05",
-        "Lat": "40.861296",
-        "Long": "-73.897749",
+        "Lat": 40.861296,
+        "Long": -73.897749,
         "Directions": {
             "N": "Bedford Pk Blvd & 205 St",
             "S": "Manhattan"
@@ -5153,8 +5153,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "182-183 Sts",
         "Id": "D06",
-        "Lat": "40.856093",
-        "Long": "-73.900741",
+        "Lat": 40.856093,
+        "Long": -73.900741,
         "Directions": {
             "N": "Bedford Pk Blvd & 205 St",
             "S": "Manhattan"
@@ -5175,8 +5175,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Tremont Av",
         "Id": "D07",
-        "Lat": "40.85041",
-        "Long": "-73.905227",
+        "Lat": 40.85041,
+        "Long": -73.905227,
         "Directions": {
             "N": "Bedford Pk Blvd & 205 St",
             "S": "Manhattan"
@@ -5197,8 +5197,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "174-175 Sts",
         "Id": "D08",
-        "Lat": "40.8459",
-        "Long": "-73.910136",
+        "Lat": 40.8459,
+        "Long": -73.910136,
         "Directions": {
             "N": "Bedford Pk Blvd & 205 St",
             "S": "Manhattan"
@@ -5219,8 +5219,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "170 St",
         "Id": "D09",
-        "Lat": "40.839306",
-        "Long": "-73.9134",
+        "Lat": 40.839306,
+        "Long": -73.9134,
         "Directions": {
             "N": "Bedford Pk Blvd & 205 St",
             "S": "Manhattan"
@@ -5241,8 +5241,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "167 St",
         "Id": "D10",
-        "Lat": "40.833771",
-        "Long": "-73.91844",
+        "Lat": 40.833771,
+        "Long": -73.91844,
         "Directions": {
             "N": "Bedford Pk Blvd & 205 St",
             "S": "Manhattan"
@@ -5263,8 +5263,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "161 St-Yankee Stadium",
         "Id": "D11",
-        "Lat": "40.827905",
-        "Long": "-73.925651",
+        "Lat": 40.827905,
+        "Long": -73.925651,
         "Directions": {
             "N": "Bedford Pk Blvd & 205 St",
             "S": "Manhattan"
@@ -5294,8 +5294,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "155 St",
         "Id": "D12",
-        "Lat": "40.830135",
-        "Long": "-73.938209",
+        "Lat": 40.830135,
+        "Long": -73.938209,
         "Directions": {
             "N": "The Bronx",
             "S": "Downtown & Brooklyn"
@@ -5316,8 +5316,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "21 St-Queensbridge",
         "Id": "B04",
-        "Lat": "40.754203",
-        "Long": "-73.942836",
+        "Lat": 40.754203,
+        "Long": -73.942836,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -5349,8 +5349,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Roosevelt Island",
         "Id": "B06",
-        "Lat": "40.759145",
-        "Long": "-73.95326",
+        "Lat": 40.759145,
+        "Long": -73.95326,
         "Directions": {
             "N": "Queens",
             "S": "Manhattan"
@@ -5385,8 +5385,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Lexington Av/63 St",
         "Id": "B08",
-        "Lat": "40.764629",
-        "Long": "-73.966113",
+        "Lat": 40.764629,
+        "Long": -73.966113,
         "Directions": {
             "N": "Uptown - Queens",
             "S": "Downtown & Brooklyn"
@@ -5428,8 +5428,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "57 St",
         "Id": "B10",
-        "Lat": "40.763972",
-        "Long": "-73.97745",
+        "Lat": 40.763972,
+        "Long": -73.97745,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -5450,8 +5450,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "47-50 Sts-Rockefeller Ctr",
         "Id": "D15",
-        "Lat": "40.758663",
-        "Long": "-73.981329",
+        "Lat": 40.758663,
+        "Long": -73.981329,
         "Directions": {
             "N": "Uptown & The Bronx - Queens",
             "S": "Downtown & Brooklyn"
@@ -5476,8 +5476,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "42 St-Bryant Pk",
         "Id": "D16",
-        "Lat": "40.754222",
-        "Long": "-73.984569",
+        "Lat": 40.754222,
+        "Long": -73.984569,
         "Directions": {
             "N": "Uptown & The Bronx - Queens",
             "S": "Downtown & Brooklyn"
@@ -5502,8 +5502,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "34 St-Herald Sq",
         "Id": "D17",
-        "Lat": "40.749719",
-        "Long": "-73.987823",
+        "Lat": 40.749719,
+        "Long": -73.987823,
         "Directions": {
             "N": "Uptown & The Bronx - Queens",
             "S": "Downtown & Brooklyn"
@@ -5543,8 +5543,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "23 St",
         "Id": "D18",
-        "Lat": "40.742878",
-        "Long": "-73.992821",
+        "Lat": 40.742878,
+        "Long": -73.992821,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -5565,8 +5565,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "14 St",
         "Id": "D19",
-        "Lat": "40.738228",
-        "Long": "-73.996209",
+        "Lat": 40.738228,
+        "Long": -73.996209,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -5587,8 +5587,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Broadway-Lafayette St",
         "Id": "D21",
-        "Lat": "40.725297",
-        "Long": "-73.996204",
+        "Lat": 40.725297,
+        "Long": -73.996204,
         "Directions": {
             "N": "Uptown & The Bronx - Queens",
             "S": "Downtown & Brooklyn"
@@ -5615,8 +5615,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grand St",
         "Id": "D22",
-        "Lat": "40.718267",
-        "Long": "-73.993753",
+        "Lat": 40.718267,
+        "Long": -73.993753,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Brooklyn"
@@ -5637,8 +5637,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "2 Av",
         "Id": "F14",
-        "Lat": "40.723402",
-        "Long": "-73.989938",
+        "Lat": 40.723402,
+        "Long": -73.989938,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -5659,8 +5659,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Delancey St-Essex St",
         "Id": "F15",
-        "Lat": "40.718611",
-        "Long": "-73.988114",
+        "Lat": 40.718611,
+        "Long": -73.988114,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Downtown & Brooklyn"
@@ -5685,8 +5685,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "East Broadway",
         "Id": "F16",
-        "Lat": "40.713715",
-        "Long": "-73.990173",
+        "Lat": 40.713715,
+        "Long": -73.990173,
         "Directions": {
             "N": "Uptown & Queens",
             "S": "Brooklyn"
@@ -5709,8 +5709,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "York St",
         "Id": "F18",
-        "Lat": "40.701397",
-        "Long": "-73.986751",
+        "Lat": 40.701397,
+        "Long": -73.986751,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -5731,8 +5731,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bergen St",
         "Id": "F20",
-        "Lat": "40.686145",
-        "Long": "-73.990862",
+        "Lat": 40.686145,
+        "Long": -73.990862,
         "Directions": {
             "N": "Manhattan - Queens",
             "S": "Church Av - Coney Island"
@@ -5753,8 +5753,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Carroll St",
         "Id": "F21",
-        "Lat": "40.680303",
-        "Long": "-73.995048",
+        "Lat": 40.680303,
+        "Long": -73.995048,
         "Directions": {
             "N": "Manhattan - Queens",
             "S": "Church Av - Coney Island"
@@ -5775,8 +5775,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Smith-9 Sts",
         "Id": "F22",
-        "Lat": "40.67358",
-        "Long": "-73.995959",
+        "Lat": 40.67358,
+        "Long": -73.995959,
         "Directions": {
             "N": "Manhattan - Queens",
             "S": "Church Av - Coney Island"
@@ -5804,8 +5804,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "4 Av-9 St",
         "Id": "F23",
-        "Lat": "40.670272",
-        "Long": "-73.989779",
+        "Lat": 40.670272,
+        "Long": -73.989779,
         "Directions": {
             "N": "Manhattan - Queens",
             "S": "Church Av - Coney Island"
@@ -5827,8 +5827,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "7 Av",
         "Id": "F24",
-        "Lat": "40.666271",
-        "Long": "-73.980305",
+        "Lat": 40.666271,
+        "Long": -73.980305,
         "Directions": {
             "N": "Manhattan - Queens",
             "S": "Church Av - Coney Island"
@@ -5853,8 +5853,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "15 St-Prospect Park",
         "Id": "F25",
-        "Lat": "40.660365",
-        "Long": "-73.979493",
+        "Lat": 40.660365,
+        "Long": -73.979493,
         "Directions": {
             "N": "Manhattan - Queens",
             "S": "Church Av - Coney Island"
@@ -5875,8 +5875,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fort Hamilton Pkwy",
         "Id": "F26",
-        "Lat": "40.650782",
-        "Long": "-73.975776",
+        "Lat": 40.650782,
+        "Long": -73.975776,
         "Directions": {
             "N": "Manhattan - Queens",
             "S": "Church Av - Coney Island"
@@ -5897,8 +5897,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Church Av",
         "Id": "F27",
-        "Lat": "40.644041",
-        "Long": "-73.979678",
+        "Lat": 40.644041,
+        "Long": -73.979678,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -5923,8 +5923,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Ditmas Av",
         "Id": "F29",
-        "Lat": "40.636119",
-        "Long": "-73.978172",
+        "Lat": 40.636119,
+        "Long": -73.978172,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -5945,8 +5945,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "18 Av",
         "Id": "F30",
-        "Lat": "40.629755",
-        "Long": "-73.976971",
+        "Lat": 40.629755,
+        "Long": -73.976971,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -5967,8 +5967,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue I",
         "Id": "F31",
-        "Lat": "40.625322",
-        "Long": "-73.976127",
+        "Lat": 40.625322,
+        "Long": -73.976127,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -5989,8 +5989,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bay Pkwy",
         "Id": "F32",
-        "Lat": "40.620769",
-        "Long": "-73.975264",
+        "Lat": 40.620769,
+        "Long": -73.975264,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -6011,8 +6011,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue N",
         "Id": "F33",
-        "Lat": "40.61514",
-        "Long": "-73.974197",
+        "Lat": 40.61514,
+        "Long": -73.974197,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -6033,8 +6033,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue P",
         "Id": "F34",
-        "Lat": "40.608944",
-        "Long": "-73.973022",
+        "Lat": 40.608944,
+        "Long": -73.973022,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -6055,8 +6055,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kings Hwy",
         "Id": "F35",
-        "Lat": "40.603217",
-        "Long": "-73.972361",
+        "Lat": 40.603217,
+        "Long": -73.972361,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -6077,8 +6077,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue U",
         "Id": "F36",
-        "Lat": "40.596063",
-        "Long": "-73.973357",
+        "Lat": 40.596063,
+        "Long": -73.973357,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -6099,8 +6099,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Avenue X",
         "Id": "F38",
-        "Lat": "40.58962",
-        "Long": "-73.97425",
+        "Lat": 40.58962,
+        "Long": -73.97425,
         "Directions": {
             "N": "Manhattan",
             "S": "Coney Island"
@@ -6121,8 +6121,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Neptune Av",
         "Id": "F39",
-        "Lat": "40.581011",
-        "Long": "-73.974574",
+        "Lat": 40.581011,
+        "Long": -73.974574,
         "Directions": {
             "N": "Manhattan",
             "S": "Stillwell Av"
@@ -6143,8 +6143,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jamaica-179 St",
         "Id": "F01",
-        "Lat": "40.712646",
-        "Long": "-73.783817",
+        "Lat": 40.712646,
+        "Long": -73.783817,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -6169,8 +6169,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "169 St",
         "Id": "F02",
-        "Lat": "40.71047",
-        "Long": "-73.793604",
+        "Lat": 40.71047,
+        "Long": -73.793604,
         "Directions": {
             "N": "179 St",
             "S": "Manhattan"
@@ -6191,8 +6191,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Parsons Blvd",
         "Id": "F03",
-        "Lat": "40.707564",
-        "Long": "-73.803326",
+        "Lat": 40.707564,
+        "Long": -73.803326,
         "Directions": {
             "N": "179 St",
             "S": "Manhattan"
@@ -6213,8 +6213,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Sutphin Blvd",
         "Id": "F04",
-        "Lat": "40.70546",
-        "Long": "-73.810708",
+        "Lat": 40.70546,
+        "Long": -73.810708,
         "Directions": {
             "N": "179 St",
             "S": "Manhattan"
@@ -6235,8 +6235,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Briarwood",
         "Id": "F05",
-        "Lat": "40.709179",
-        "Long": "-73.820574",
+        "Lat": 40.709179,
+        "Long": -73.820574,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -6259,8 +6259,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kew Gardens-Union Tpke",
         "Id": "F06",
-        "Lat": "40.714441",
-        "Long": "-73.831008",
+        "Lat": 40.714441,
+        "Long": -73.831008,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -6285,8 +6285,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "75 Av",
         "Id": "F07",
-        "Lat": "40.718331",
-        "Long": "-73.837324",
+        "Lat": 40.718331,
+        "Long": -73.837324,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -6307,8 +6307,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Forest Hills-71 Av",
         "Id": "G08",
-        "Lat": "40.721691",
-        "Long": "-73.844521",
+        "Lat": 40.721691,
+        "Long": -73.844521,
         "Directions": {
             "N": "Jamaica",
             "S": "Manhattan"
@@ -6333,8 +6333,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "67 Av",
         "Id": "G09",
-        "Lat": "40.726523",
-        "Long": "-73.852719",
+        "Lat": 40.726523,
+        "Long": -73.852719,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6355,8 +6355,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "63 Dr-Rego Park",
         "Id": "G10",
-        "Lat": "40.729846",
-        "Long": "-73.861604",
+        "Lat": 40.729846,
+        "Long": -73.861604,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6377,8 +6377,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Woodhaven Blvd",
         "Id": "G11",
-        "Lat": "40.733106",
-        "Long": "-73.869229",
+        "Lat": 40.733106,
+        "Long": -73.869229,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6399,8 +6399,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grand Av-Newtown",
         "Id": "G12",
-        "Lat": "40.737015",
-        "Long": "-73.877223",
+        "Lat": 40.737015,
+        "Long": -73.877223,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6421,8 +6421,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Elmhurst Av",
         "Id": "G13",
-        "Lat": "40.742454",
-        "Long": "-73.882017",
+        "Lat": 40.742454,
+        "Long": -73.882017,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6443,8 +6443,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jackson Hts-Roosevelt Av",
         "Id": "G14",
-        "Lat": "40.746644",
-        "Long": "-73.891338",
+        "Lat": 40.746644,
+        "Long": -73.891338,
         "Directions": {
             "N": "Forest Hills - Jamaica",
             "S": "Manhattan"
@@ -6475,8 +6475,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "65 St",
         "Id": "G15",
-        "Lat": "40.749669",
-        "Long": "-73.898453",
+        "Lat": 40.749669,
+        "Long": -73.898453,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6497,8 +6497,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Northern Blvd",
         "Id": "G16",
-        "Lat": "40.752885",
-        "Long": "-73.906006",
+        "Lat": 40.752885,
+        "Long": -73.906006,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6519,8 +6519,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "46 St",
         "Id": "G18",
-        "Lat": "40.756312",
-        "Long": "-73.913333",
+        "Lat": 40.756312,
+        "Long": -73.913333,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6541,8 +6541,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Steinway St",
         "Id": "G19",
-        "Lat": "40.756879",
-        "Long": "-73.92074",
+        "Lat": 40.756879,
+        "Long": -73.92074,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6563,8 +6563,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "36 St",
         "Id": "G20",
-        "Lat": "40.752039",
-        "Long": "-73.928781",
+        "Lat": 40.752039,
+        "Long": -73.928781,
         "Directions": {
             "N": "Forest Hills",
             "S": "Manhattan"
@@ -6585,8 +6585,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Queens Plaza",
         "Id": "G21",
-        "Lat": "40.748973",
-        "Long": "-73.937243",
+        "Lat": 40.748973,
+        "Long": -73.937243,
         "Directions": {
             "N": "Forest Hills - Jamaica",
             "S": "Manhattan"
@@ -6611,8 +6611,8 @@ export const stations ={
         "ADA Notes": "Manhattan-bound only",
         "Name": "Court Sq-23 St",
         "Id": "F09",
-        "Lat": "40.747846",
-        "Long": "-73.946",
+        "Lat": 40.747846,
+        "Long": -73.946,
         "Directions": {
             "N": "Forest Hills - Jamaica",
             "S": "Manhattan"
@@ -6639,8 +6639,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Lexington Av/53 St",
         "Id": "F11",
-        "Lat": "40.757552",
-        "Long": "-73.969055",
+        "Lat": 40.757552,
+        "Long": -73.969055,
         "Directions": {
             "N": "Queens",
             "S": "Downtown & Brooklyn"
@@ -6674,8 +6674,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "5 Av/53 St",
         "Id": "F12",
-        "Lat": "40.760167",
-        "Long": "-73.975224",
+        "Lat": 40.760167,
+        "Long": -73.975224,
         "Directions": {
             "N": "Queens",
             "S": "Downtown & Brooklyn"
@@ -6701,8 +6701,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "7 Av",
         "Id": "D14",
-        "Lat": "40.762862",
-        "Long": "-73.981637",
+        "Lat": 40.762862,
+        "Long": -73.981637,
         "Directions": {
             "N": "Uptown & The Bronx - Queens",
             "S": "Downtown & Brooklyn"
@@ -6726,8 +6726,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jamaica Center-Parsons/Archer",
         "Id": "G05",
-        "Lat": "40.702147",
-        "Long": "-73.801109",
+        "Lat": 40.702147,
+        "Long": -73.801109,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -6762,8 +6762,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Sutphin Blvd-Archer Av-JFK Airport",
         "Id": "G06",
-        "Lat": "40.700486",
-        "Long": "-73.807969",
+        "Lat": 40.700486,
+        "Long": -73.807969,
         "Directions": {
             "N": "Jamaica Center",
             "S": "Manhattan"
@@ -6796,8 +6796,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jamaica-Van Wyck",
         "Id": "G07",
-        "Lat": "40.702566",
-        "Long": "-73.816859",
+        "Lat": 40.702566,
+        "Long": -73.816859,
         "Directions": {
             "N": "Jamaica Center",
             "S": "Manhattan"
@@ -6827,8 +6827,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Court Sq",
         "Id": "G22",
-        "Lat": "40.746554",
-        "Long": "-73.943832",
+        "Lat": 40.746554,
+        "Long": -73.943832,
         "Directions": {
             "N": "Uptown",
             "S": "Brooklyn"
@@ -6857,8 +6857,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "21 St",
         "Id": "G24",
-        "Lat": "40.744065",
-        "Long": "-73.949724",
+        "Lat": 40.744065,
+        "Long": -73.949724,
         "Directions": {
             "N": "Court Sq",
             "S": "Brooklyn"
@@ -6879,8 +6879,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Greenpoint Av",
         "Id": "G26",
-        "Lat": "40.731352",
-        "Long": "-73.954449",
+        "Lat": 40.731352,
+        "Long": -73.954449,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -6905,8 +6905,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Nassau Av",
         "Id": "G28",
-        "Lat": "40.724635",
-        "Long": "-73.951277",
+        "Lat": 40.724635,
+        "Long": -73.951277,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -6927,8 +6927,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Metropolitan Av",
         "Id": "G29",
-        "Lat": "40.712792",
-        "Long": "-73.951418",
+        "Lat": 40.712792,
+        "Long": -73.951418,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -6949,8 +6949,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Broadway",
         "Id": "G30",
-        "Lat": "40.706092",
-        "Long": "-73.950308",
+        "Lat": 40.706092,
+        "Long": -73.950308,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -6971,8 +6971,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Flushing Av",
         "Id": "G31",
-        "Lat": "40.700377",
-        "Long": "-73.950234",
+        "Lat": 40.700377,
+        "Long": -73.950234,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -6993,8 +6993,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Myrtle-Willoughby Avs",
         "Id": "G32",
-        "Lat": "40.694568",
-        "Long": "-73.949046",
+        "Lat": 40.694568,
+        "Long": -73.949046,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -7015,8 +7015,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bedford-Nostrand Avs",
         "Id": "G33",
-        "Lat": "40.689627",
-        "Long": "-73.953522",
+        "Lat": 40.689627,
+        "Long": -73.953522,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -7037,8 +7037,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Classon Av",
         "Id": "G34",
-        "Lat": "40.688873",
-        "Long": "-73.96007",
+        "Lat": 40.688873,
+        "Long": -73.96007,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -7059,8 +7059,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Clinton-Washington Avs",
         "Id": "G35",
-        "Lat": "40.688089",
-        "Long": "-73.966839",
+        "Lat": 40.688089,
+        "Long": -73.966839,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -7081,8 +7081,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fulton St",
         "Id": "G36",
-        "Lat": "40.687119",
-        "Long": "-73.975375",
+        "Lat": 40.687119,
+        "Long": -73.975375,
         "Directions": {
             "N": "Queens",
             "S": "Church Av"
@@ -7103,8 +7103,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Van Cortlandt Park-242 St",
         "Id": "101",
-        "Lat": "40.889248",
-        "Long": "-73.898583",
+        "Lat": 40.889248,
+        "Long": -73.898583,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -7125,8 +7125,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "238 St",
         "Id": "103",
-        "Lat": "40.884667",
-        "Long": "-73.90087",
+        "Lat": 40.884667,
+        "Long": -73.90087,
         "Directions": {
             "N": "242 St",
             "S": "Manhattan"
@@ -7147,8 +7147,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "231 St",
         "Id": "104",
-        "Lat": "40.878856",
-        "Long": "-73.904834",
+        "Lat": 40.878856,
+        "Long": -73.904834,
         "Directions": {
             "N": "242 St",
             "S": "Manhattan"
@@ -7172,8 +7172,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Marble Hill-225 St",
         "Id": "106",
-        "Lat": "40.874561",
-        "Long": "-73.909831",
+        "Lat": 40.874561,
+        "Long": -73.909831,
         "Directions": {
             "N": "242 St",
             "S": "Downtown"
@@ -7194,8 +7194,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "215 St",
         "Id": "107",
-        "Lat": "40.869444",
-        "Long": "-73.915279",
+        "Lat": 40.869444,
+        "Long": -73.915279,
         "Directions": {
             "N": "The Bronx",
             "S": "Downtown"
@@ -7216,8 +7216,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "207 St",
         "Id": "108",
-        "Lat": "40.864621",
-        "Long": "-73.918822",
+        "Lat": 40.864621,
+        "Long": -73.918822,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7238,8 +7238,8 @@ export const stations ={
         "ADA Notes": "Downtown only",
         "Name": "Dyckman St",
         "Id": "109",
-        "Lat": "40.860531",
-        "Long": "-73.925536",
+        "Lat": 40.860531,
+        "Long": -73.925536,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7263,8 +7263,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "191 St",
         "Id": "110",
-        "Lat": "40.855225",
-        "Long": "-73.929412",
+        "Lat": 40.855225,
+        "Long": -73.929412,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7290,8 +7290,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "181 St",
         "Id": "111",
-        "Lat": "40.849505",
-        "Long": "-73.933596",
+        "Lat": 40.849505,
+        "Long": -73.933596,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7317,8 +7317,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "168 St-Washington Hts",
         "Id": "112",
-        "Lat": "40.840556",
-        "Long": "-73.940133",
+        "Lat": 40.840556,
+        "Long": -73.940133,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7344,8 +7344,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "157 St",
         "Id": "113",
-        "Lat": "40.834041",
-        "Long": "-73.94489",
+        "Lat": 40.834041,
+        "Long": -73.94489,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7366,8 +7366,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "145 St",
         "Id": "114",
-        "Lat": "40.826551",
-        "Long": "-73.95036",
+        "Lat": 40.826551,
+        "Long": -73.95036,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7388,8 +7388,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "137 St-City College",
         "Id": "115",
-        "Lat": "40.822008",
-        "Long": "-73.953676",
+        "Lat": 40.822008,
+        "Long": -73.953676,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7410,8 +7410,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "125 St",
         "Id": "116",
-        "Lat": "40.815581",
-        "Long": "-73.958372",
+        "Lat": 40.815581,
+        "Long": -73.958372,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7436,8 +7436,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "116 St-Columbia University",
         "Id": "117",
-        "Lat": "40.807722",
-        "Long": "-73.96411",
+        "Lat": 40.807722,
+        "Long": -73.96411,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7458,8 +7458,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Cathedral Pkwy (110 St)",
         "Id": "118",
-        "Lat": "40.803967",
-        "Long": "-73.966847",
+        "Lat": 40.803967,
+        "Long": -73.966847,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7480,8 +7480,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "103 St",
         "Id": "119",
-        "Lat": "40.799446",
-        "Long": "-73.968379",
+        "Lat": 40.799446,
+        "Long": -73.968379,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7502,8 +7502,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "96 St",
         "Id": "120",
-        "Lat": "40.793919",
-        "Long": "-73.972323",
+        "Lat": 40.793919,
+        "Long": -73.972323,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -7527,8 +7527,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "86 St",
         "Id": "121",
-        "Lat": "40.788644",
-        "Long": "-73.976218",
+        "Lat": 40.788644,
+        "Long": -73.976218,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7549,8 +7549,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "79 St",
         "Id": "122",
-        "Lat": "40.783934",
-        "Long": "-73.979917",
+        "Lat": 40.783934,
+        "Long": -73.979917,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7571,8 +7571,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "72 St",
         "Id": "123",
-        "Lat": "40.778453",
-        "Long": "-73.98197",
+        "Lat": 40.778453,
+        "Long": -73.98197,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -7596,8 +7596,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "66 St-Lincoln Center",
         "Id": "124",
-        "Lat": "40.77344",
-        "Long": "-73.982209",
+        "Lat": 40.77344,
+        "Long": -73.982209,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7621,8 +7621,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "59 St-Columbus Circle",
         "Id": "125",
-        "Lat": "40.768247",
-        "Long": "-73.981929",
+        "Lat": 40.768247,
+        "Long": -73.981929,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7652,8 +7652,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "50 St",
         "Id": "126",
-        "Lat": "40.761728",
-        "Long": "-73.983849",
+        "Lat": 40.761728,
+        "Long": -73.983849,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7674,8 +7674,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Times Sq-42 St",
         "Id": "127",
-        "Lat": "40.75529",
-        "Long": "-73.987495",
+        "Lat": 40.75529,
+        "Long": -73.987495,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -7710,8 +7710,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "34 St-Penn Station",
         "Id": "128",
-        "Lat": "40.750373",
-        "Long": "-73.991057",
+        "Lat": 40.750373,
+        "Long": -73.991057,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -7738,8 +7738,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "28 St",
         "Id": "129",
-        "Lat": "40.747215",
-        "Long": "-73.993365",
+        "Lat": 40.747215,
+        "Long": -73.993365,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7760,8 +7760,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "23 St",
         "Id": "130",
-        "Lat": "40.744081",
-        "Long": "-73.995657",
+        "Lat": 40.744081,
+        "Long": -73.995657,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7782,8 +7782,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "18 St",
         "Id": "131",
-        "Lat": "40.74104",
-        "Long": "-73.997871",
+        "Lat": 40.74104,
+        "Long": -73.997871,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7804,8 +7804,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "14 St",
         "Id": "132",
-        "Lat": "40.737826",
-        "Long": "-74.000201",
+        "Lat": 40.737826,
+        "Long": -74.000201,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -7826,8 +7826,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Christopher St-Sheridan Sq",
         "Id": "133",
-        "Lat": "40.733422",
-        "Long": "-74.002906",
+        "Lat": 40.733422,
+        "Long": -74.002906,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7848,8 +7848,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Houston St",
         "Id": "134",
-        "Lat": "40.728251",
-        "Long": "-74.005367",
+        "Lat": 40.728251,
+        "Long": -74.005367,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7870,8 +7870,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Canal St",
         "Id": "135",
-        "Lat": "40.722854",
-        "Long": "-74.006277",
+        "Lat": 40.722854,
+        "Long": -74.006277,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7892,8 +7892,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Franklin St",
         "Id": "136",
-        "Lat": "40.719318",
-        "Long": "-74.006886",
+        "Lat": 40.719318,
+        "Long": -74.006886,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7914,8 +7914,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Chambers St",
         "Id": "137",
-        "Lat": "40.715478",
-        "Long": "-74.009266",
+        "Lat": 40.715478,
+        "Long": -74.009266,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -7940,8 +7940,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "WTC Cortlandt",
         "Id": "138",
-        "Lat": "40.711835",
-        "Long": "-74.012188",
+        "Lat": 40.711835,
+        "Long": -74.012188,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7972,8 +7972,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Rector St",
         "Id": "139",
-        "Lat": "40.707513",
-        "Long": "-74.013783",
+        "Lat": 40.707513,
+        "Long": -74.013783,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -7994,8 +7994,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "South Ferry",
         "Id": "142",
-        "Lat": "40.702068",
-        "Long": "-74.013664",
+        "Lat": 40.702068,
+        "Long": -74.013664,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -8027,8 +8027,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Park Place",
         "Id": "228",
-        "Lat": "40.713051",
-        "Long": "-74.008811",
+        "Lat": 40.713051,
+        "Long": -74.008811,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -8052,8 +8052,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fulton St",
         "Id": "229",
-        "Lat": "40.709416",
-        "Long": "-74.006571",
+        "Lat": 40.709416,
+        "Long": -74.006571,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -8090,8 +8090,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Wall St",
         "Id": "230",
-        "Lat": "40.706821",
-        "Long": "-74.0091",
+        "Lat": 40.706821,
+        "Long": -74.0091,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Brooklyn"
@@ -8115,8 +8115,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Clark St",
         "Id": "231",
-        "Lat": "40.697466",
-        "Long": "-73.993086",
+        "Lat": 40.697466,
+        "Long": -73.993086,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - New Lots"
@@ -8141,8 +8141,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Borough Hall",
         "Id": "232",
-        "Lat": "40.693219",
-        "Long": "-73.989998",
+        "Lat": 40.693219,
+        "Long": -73.989998,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - New Lots"
@@ -8170,8 +8170,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Hoyt St",
         "Id": "233",
-        "Lat": "40.690545",
-        "Long": "-73.985065",
+        "Lat": 40.690545,
+        "Long": -73.985065,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - New Lots"
@@ -8194,8 +8194,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Nevins St",
         "Id": "234",
-        "Lat": "40.688246",
-        "Long": "-73.980492",
+        "Lat": 40.688246,
+        "Long": -73.980492,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - Utica - New Lots"
@@ -8216,8 +8216,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Atlantic Av-Barclays Ctr",
         "Id": "235",
-        "Lat": "40.684359",
-        "Long": "-73.977666",
+        "Lat": 40.684359,
+        "Long": -73.977666,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - New Lots"
@@ -8250,8 +8250,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bergen St",
         "Id": "236",
-        "Lat": "40.680829",
-        "Long": "-73.975098",
+        "Lat": 40.680829,
+        "Long": -73.975098,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - New Lots"
@@ -8272,8 +8272,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grand Army Plaza",
         "Id": "237",
-        "Lat": "40.675235",
-        "Long": "-73.971046",
+        "Lat": 40.675235,
+        "Long": -73.971046,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - New Lots"
@@ -8294,8 +8294,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Eastern Pkwy-Brooklyn Museum",
         "Id": "238",
-        "Lat": "40.671987",
-        "Long": "-73.964375",
+        "Lat": 40.671987,
+        "Long": -73.964375,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - New Lots"
@@ -8320,8 +8320,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Franklin Avenue-Medgar Evers College",
         "Id": "239",
-        "Lat": "40.670682",
-        "Long": "-73.958131",
+        "Lat": 40.670682,
+        "Long": -73.958131,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - Utica - New Lots"
@@ -8342,8 +8342,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Nostrand Av",
         "Id": "248",
-        "Lat": "40.669847",
-        "Long": "-73.950466",
+        "Lat": 40.669847,
+        "Long": -73.950466,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8364,8 +8364,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kingston Av",
         "Id": "249",
-        "Lat": "40.669399",
-        "Long": "-73.942161",
+        "Lat": 40.669399,
+        "Long": -73.942161,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8386,8 +8386,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Crown Hts-Utica Av",
         "Id": "250",
-        "Lat": "40.668897",
-        "Long": "-73.932942",
+        "Lat": 40.668897,
+        "Long": -73.932942,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8411,8 +8411,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Sutter Av-Rutland Rd",
         "Id": "251",
-        "Lat": "40.664717",
-        "Long": "-73.92261",
+        "Lat": 40.664717,
+        "Long": -73.92261,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8433,8 +8433,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Saratoga Av",
         "Id": "252",
-        "Lat": "40.661453",
-        "Long": "-73.916327",
+        "Lat": 40.661453,
+        "Long": -73.916327,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8455,8 +8455,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Rockaway Av",
         "Id": "253",
-        "Lat": "40.662549",
-        "Long": "-73.908946",
+        "Lat": 40.662549,
+        "Long": -73.908946,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8477,8 +8477,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Junius St",
         "Id": "254",
-        "Lat": "40.663515",
-        "Long": "-73.902447",
+        "Lat": 40.663515,
+        "Long": -73.902447,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8499,8 +8499,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Pennsylvania Av",
         "Id": "255",
-        "Lat": "40.664635",
-        "Long": "-73.894895",
+        "Lat": 40.664635,
+        "Long": -73.894895,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8521,8 +8521,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Van Siclen Av",
         "Id": "256",
-        "Lat": "40.665449",
-        "Long": "-73.889395",
+        "Lat": 40.665449,
+        "Long": -73.889395,
         "Directions": {
             "N": "Manhattan",
             "S": "New Lots"
@@ -8543,8 +8543,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "New Lots Av",
         "Id": "257",
-        "Lat": "40.666235",
-        "Long": "-73.884079",
+        "Lat": 40.666235,
+        "Long": -73.884079,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -8565,8 +8565,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "President Street-Medgar Evers College",
         "Id": "241",
-        "Lat": "40.667883",
-        "Long": "-73.950683",
+        "Lat": 40.667883,
+        "Long": -73.950683,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush"
@@ -8589,8 +8589,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Sterling St",
         "Id": "242",
-        "Lat": "40.662742",
-        "Long": "-73.95085",
+        "Lat": 40.662742,
+        "Long": -73.95085,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush"
@@ -8611,8 +8611,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Winthrop St",
         "Id": "243",
-        "Lat": "40.656652",
-        "Long": "-73.9502",
+        "Lat": 40.656652,
+        "Long": -73.9502,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush"
@@ -8633,8 +8633,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Church Av",
         "Id": "244",
-        "Lat": "40.650843",
-        "Long": "-73.949575",
+        "Lat": 40.650843,
+        "Long": -73.949575,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush"
@@ -8658,8 +8658,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Beverly Rd",
         "Id": "245",
-        "Lat": "40.645098",
-        "Long": "-73.948959",
+        "Lat": 40.645098,
+        "Long": -73.948959,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush"
@@ -8680,8 +8680,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Newkirk Av - Little Haiti",
         "Id": "246",
-        "Lat": "40.639967",
-        "Long": "-73.948411",
+        "Lat": 40.639967,
+        "Long": -73.948411,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush"
@@ -8702,8 +8702,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Flatbush Av-Brooklyn College",
         "Id": "247",
-        "Lat": "40.632836",
-        "Long": "-73.947642",
+        "Lat": 40.632836,
+        "Long": -73.947642,
         "Directions": {
             "N": "Manhattan",
             "S": "Downtown"
@@ -8726,8 +8726,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Pelham Bay Park",
         "Id": "601",
-        "Lat": "40.852462",
-        "Long": "-73.828121",
+        "Lat": 40.852462,
+        "Long": -73.828121,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -8754,8 +8754,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Buhre Av",
         "Id": "602",
-        "Lat": "40.84681",
-        "Long": "-73.832569",
+        "Lat": 40.84681,
+        "Long": -73.832569,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8776,8 +8776,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Middletown Rd",
         "Id": "603",
-        "Lat": "40.843863",
-        "Long": "-73.836322",
+        "Lat": 40.843863,
+        "Long": -73.836322,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8798,8 +8798,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Westchester Sq-E Tremont Av",
         "Id": "604",
-        "Lat": "40.839892",
-        "Long": "-73.842952",
+        "Lat": 40.839892,
+        "Long": -73.842952,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8820,8 +8820,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Zerega Av",
         "Id": "606",
-        "Lat": "40.836488",
-        "Long": "-73.847036",
+        "Lat": 40.836488,
+        "Long": -73.847036,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8842,8 +8842,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Castle Hill Av",
         "Id": "607",
-        "Lat": "40.834255",
-        "Long": "-73.851222",
+        "Lat": 40.834255,
+        "Long": -73.851222,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8864,8 +8864,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Parkchester",
         "Id": "608",
-        "Lat": "40.833226",
-        "Long": "-73.860816",
+        "Lat": 40.833226,
+        "Long": -73.860816,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8888,8 +8888,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "St Lawrence Av",
         "Id": "609",
-        "Lat": "40.831509",
-        "Long": "-73.867618",
+        "Lat": 40.831509,
+        "Long": -73.867618,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8910,8 +8910,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Morrison Av-Soundview",
         "Id": "610",
-        "Lat": "40.829521",
-        "Long": "-73.874516",
+        "Lat": 40.829521,
+        "Long": -73.874516,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8932,8 +8932,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Elder Av",
         "Id": "611",
-        "Lat": "40.828584",
-        "Long": "-73.879159",
+        "Lat": 40.828584,
+        "Long": -73.879159,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8954,8 +8954,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Whitlock Av",
         "Id": "612",
-        "Lat": "40.826525",
-        "Long": "-73.886283",
+        "Lat": 40.826525,
+        "Long": -73.886283,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -8976,8 +8976,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Hunts Point Av",
         "Id": "613",
-        "Lat": "40.820948",
-        "Long": "-73.890549",
+        "Lat": 40.820948,
+        "Long": -73.890549,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -9002,8 +9002,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Longwood Av",
         "Id": "614",
-        "Lat": "40.816104",
-        "Long": "-73.896435",
+        "Lat": 40.816104,
+        "Long": -73.896435,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -9024,8 +9024,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "E 149 St",
         "Id": "615",
-        "Lat": "40.812118",
-        "Long": "-73.904098",
+        "Lat": 40.812118,
+        "Long": -73.904098,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -9049,8 +9049,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "E 143 St-St Mary's St",
         "Id": "616",
-        "Lat": "40.808719",
-        "Long": "-73.907657",
+        "Lat": 40.808719,
+        "Long": -73.907657,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -9071,8 +9071,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Cypress Av",
         "Id": "617",
-        "Lat": "40.805368",
-        "Long": "-73.914042",
+        "Lat": 40.805368,
+        "Long": -73.914042,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -9093,8 +9093,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Brook Av",
         "Id": "618",
-        "Lat": "40.807566",
-        "Long": "-73.91924",
+        "Lat": 40.807566,
+        "Long": -73.91924,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -9115,8 +9115,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "3 Av-138 St",
         "Id": "619",
-        "Lat": "40.810476",
-        "Long": "-73.926138",
+        "Lat": 40.810476,
+        "Long": -73.926138,
         "Directions": {
             "N": "Pelham Bay Park",
             "S": "Manhattan"
@@ -9137,8 +9137,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Woodlawn",
         "Id": "401",
-        "Lat": "40.886037",
-        "Long": "-73.878751",
+        "Lat": 40.886037,
+        "Long": -73.878751,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -9159,8 +9159,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Mosholu Pkwy",
         "Id": "402",
-        "Lat": "40.87975",
-        "Long": "-73.884655",
+        "Lat": 40.87975,
+        "Long": -73.884655,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9181,8 +9181,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bedford Park Blvd-Lehman College",
         "Id": "405",
-        "Lat": "40.873412",
-        "Long": "-73.890064",
+        "Lat": 40.873412,
+        "Long": -73.890064,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9203,8 +9203,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Kingsbridge Rd",
         "Id": "406",
-        "Lat": "40.86776",
-        "Long": "-73.897174",
+        "Lat": 40.86776,
+        "Long": -73.897174,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9225,8 +9225,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fordham Rd",
         "Id": "407",
-        "Lat": "40.862803",
-        "Long": "-73.901034",
+        "Lat": 40.862803,
+        "Long": -73.901034,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9251,8 +9251,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "183 St",
         "Id": "408",
-        "Lat": "40.858407",
-        "Long": "-73.903879",
+        "Lat": 40.858407,
+        "Long": -73.903879,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9273,8 +9273,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Burnside Av",
         "Id": "409",
-        "Lat": "40.853453",
-        "Long": "-73.907684",
+        "Lat": 40.853453,
+        "Long": -73.907684,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9295,8 +9295,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "176 St",
         "Id": "410",
-        "Lat": "40.84848",
-        "Long": "-73.911794",
+        "Lat": 40.84848,
+        "Long": -73.911794,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9317,8 +9317,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Mt Eden Av",
         "Id": "411",
-        "Lat": "40.844434",
-        "Long": "-73.914685",
+        "Lat": 40.844434,
+        "Long": -73.914685,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9339,8 +9339,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "170 St",
         "Id": "412",
-        "Lat": "40.840075",
-        "Long": "-73.917791",
+        "Lat": 40.840075,
+        "Long": -73.917791,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9365,8 +9365,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "167 St",
         "Id": "413",
-        "Lat": "40.835537",
-        "Long": "-73.9214",
+        "Lat": 40.835537,
+        "Long": -73.9214,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9387,8 +9387,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "161 St-Yankee Stadium",
         "Id": "414",
-        "Lat": "40.827994",
-        "Long": "-73.925831",
+        "Lat": 40.827994,
+        "Long": -73.925831,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9414,8 +9414,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "149 St-Grand Concourse",
         "Id": "415",
-        "Lat": "40.818375",
-        "Long": "-73.927351",
+        "Lat": 40.818375,
+        "Long": -73.927351,
         "Directions": {
             "N": "Woodlawn",
             "S": "Manhattan"
@@ -9438,8 +9438,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "138 St-Grand Concourse",
         "Id": "416",
-        "Lat": "40.813224",
-        "Long": "-73.929849",
+        "Lat": 40.813224,
+        "Long": -73.929849,
         "Directions": {
             "N": "Woodlawn - Eastchester Dyre Av",
             "S": "Manhattan"
@@ -9460,8 +9460,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "125 St",
         "Id": "621",
-        "Lat": "40.804138",
-        "Long": "-73.937594",
+        "Lat": 40.804138,
+        "Long": -73.937594,
         "Directions": {
             "N": "The Bronx",
             "S": "Downtown & Brooklyn"
@@ -9485,8 +9485,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "116 St",
         "Id": "622",
-        "Lat": "40.798629",
-        "Long": "-73.941617",
+        "Lat": 40.798629,
+        "Long": -73.941617,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9507,8 +9507,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "110 St",
         "Id": "623",
-        "Lat": "40.79502",
-        "Long": "-73.94425",
+        "Lat": 40.79502,
+        "Long": -73.94425,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9529,8 +9529,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "103 St",
         "Id": "624",
-        "Lat": "40.7906",
-        "Long": "-73.947478",
+        "Lat": 40.7906,
+        "Long": -73.947478,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9551,8 +9551,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "96 St",
         "Id": "625",
-        "Lat": "40.785672",
-        "Long": "-73.95107",
+        "Lat": 40.785672,
+        "Long": -73.95107,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9573,8 +9573,8 @@ export const stations ={
         "ADA Notes": "Uptown 6 only",
         "Name": "86 St",
         "Id": "626",
-        "Lat": "40.779492",
-        "Long": "-73.955589",
+        "Lat": 40.779492,
+        "Long": -73.955589,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -9597,8 +9597,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "77 St",
         "Id": "627",
-        "Lat": "40.77362",
-        "Long": "-73.959874",
+        "Lat": 40.77362,
+        "Long": -73.959874,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9619,8 +9619,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "68 St-Hunter College",
         "Id": "628",
-        "Lat": "40.768141",
-        "Long": "-73.96387",
+        "Lat": 40.768141,
+        "Long": -73.96387,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9641,8 +9641,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "59 St",
         "Id": "629",
-        "Lat": "40.762526",
-        "Long": "-73.967967",
+        "Lat": 40.762526,
+        "Long": -73.967967,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -9668,8 +9668,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "51 St",
         "Id": "630",
-        "Lat": "40.757107",
-        "Long": "-73.97192",
+        "Lat": 40.757107,
+        "Long": -73.97192,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9696,8 +9696,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grand Central-42 St",
         "Id": "631",
-        "Lat": "40.751776",
-        "Long": "-73.976848",
+        "Lat": 40.751776,
+        "Long": -73.976848,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -9737,8 +9737,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "33 St",
         "Id": "632",
-        "Lat": "40.746081",
-        "Long": "-73.982076",
+        "Lat": 40.746081,
+        "Long": -73.982076,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9759,8 +9759,8 @@ export const stations ={
         "ADA Notes": "Downtown only",
         "Name": "28 St",
         "Id": "633",
-        "Lat": "40.74307",
-        "Long": "-73.984264",
+        "Lat": 40.74307,
+        "Long": -73.984264,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9783,8 +9783,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "23 St",
         "Id": "634",
-        "Lat": "40.739864",
-        "Long": "-73.986599",
+        "Lat": 40.739864,
+        "Long": -73.986599,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9808,8 +9808,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "14 St-Union Sq",
         "Id": "635",
-        "Lat": "40.734673",
-        "Long": "-73.989951",
+        "Lat": 40.734673,
+        "Long": -73.989951,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -9831,8 +9831,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Astor Pl",
         "Id": "636",
-        "Lat": "40.730054",
-        "Long": "-73.99107",
+        "Lat": 40.730054,
+        "Long": -73.99107,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9853,8 +9853,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bleecker St",
         "Id": "637",
-        "Lat": "40.725915",
-        "Long": "-73.994659",
+        "Lat": 40.725915,
+        "Long": -73.994659,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9883,8 +9883,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Spring St",
         "Id": "638",
-        "Lat": "40.722301",
-        "Long": "-73.997141",
+        "Lat": 40.722301,
+        "Long": -73.997141,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9905,8 +9905,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Canal St",
         "Id": "639",
-        "Lat": "40.718803",
-        "Long": "-74.000193",
+        "Lat": 40.718803,
+        "Long": -74.000193,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown"
@@ -9931,8 +9931,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Brooklyn Bridge-City Hall",
         "Id": "640",
-        "Lat": "40.713065",
-        "Long": "-74.004131",
+        "Lat": 40.713065,
+        "Long": -74.004131,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -9957,8 +9957,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Fulton St",
         "Id": "418",
-        "Lat": "40.710368",
-        "Long": "-74.009509",
+        "Lat": 40.710368,
+        "Long": -74.009509,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -9998,8 +9998,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Wall St",
         "Id": "419",
-        "Lat": "40.707557",
-        "Long": "-74.011862",
+        "Lat": 40.707557,
+        "Long": -74.011862,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -10020,8 +10020,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bowling Green",
         "Id": "420",
-        "Lat": "40.704817",
-        "Long": "-74.014065",
+        "Lat": 40.704817,
+        "Long": -74.014065,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Brooklyn"
@@ -10055,8 +10055,8 @@ export const stations ={
         "ADA Notes": "Manhattan-bound only",
         "Name": "Borough Hall",
         "Id": "423",
-        "Lat": "40.692404",
-        "Long": "-73.990151",
+        "Lat": 40.692404,
+        "Long": -73.990151,
         "Directions": {
             "N": "Manhattan",
             "S": "Flatbush - Utica"
@@ -10081,8 +10081,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Wakefield-241 St",
         "Id": "201",
-        "Lat": "40.903125",
-        "Long": "-73.85062",
+        "Lat": 40.903125,
+        "Long": -73.85062,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -10103,8 +10103,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Nereid Av",
         "Id": "204",
-        "Lat": "40.898379",
-        "Long": "-73.854376",
+        "Lat": 40.898379,
+        "Long": -73.854376,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10125,8 +10125,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "233 St",
         "Id": "205",
-        "Lat": "40.893193",
-        "Long": "-73.857473",
+        "Lat": 40.893193,
+        "Long": -73.857473,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10151,8 +10151,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "225 St",
         "Id": "206",
-        "Lat": "40.888022",
-        "Long": "-73.860341",
+        "Lat": 40.888022,
+        "Long": -73.860341,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10173,8 +10173,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "219 St",
         "Id": "207",
-        "Lat": "40.883895",
-        "Long": "-73.862633",
+        "Lat": 40.883895,
+        "Long": -73.862633,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10195,8 +10195,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Gun Hill Rd",
         "Id": "208",
-        "Lat": "40.87785",
-        "Long": "-73.866256",
+        "Lat": 40.87785,
+        "Long": -73.866256,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10223,8 +10223,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Burke Av",
         "Id": "209",
-        "Lat": "40.871356",
-        "Long": "-73.867164",
+        "Lat": 40.871356,
+        "Long": -73.867164,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10245,8 +10245,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Allerton Av",
         "Id": "210",
-        "Lat": "40.865462",
-        "Long": "-73.867352",
+        "Lat": 40.865462,
+        "Long": -73.867352,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10267,8 +10267,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Pelham Pkwy",
         "Id": "211",
-        "Lat": "40.857192",
-        "Long": "-73.867615",
+        "Lat": 40.857192,
+        "Long": -73.867615,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10296,8 +10296,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bronx Park East",
         "Id": "212",
-        "Lat": "40.848828",
-        "Long": "-73.868457",
+        "Lat": 40.848828,
+        "Long": -73.868457,
         "Directions": {
             "N": "Wakefield - 241 St",
             "S": "Manhattan"
@@ -10318,8 +10318,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "E 180 St",
         "Id": "213",
-        "Lat": "40.841894",
-        "Long": "-73.873488",
+        "Lat": 40.841894,
+        "Long": -73.873488,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10343,8 +10343,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "West Farms Sq-E Tremont Av",
         "Id": "214",
-        "Lat": "40.840295",
-        "Long": "-73.880049",
+        "Lat": 40.840295,
+        "Long": -73.880049,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10367,8 +10367,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "174 St",
         "Id": "215",
-        "Lat": "40.837288",
-        "Long": "-73.887734",
+        "Lat": 40.837288,
+        "Long": -73.887734,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10389,8 +10389,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Freeman St",
         "Id": "216",
-        "Lat": "40.829993",
-        "Long": "-73.891865",
+        "Lat": 40.829993,
+        "Long": -73.891865,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10411,8 +10411,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Simpson St",
         "Id": "217",
-        "Lat": "40.824073",
-        "Long": "-73.893064",
+        "Lat": 40.824073,
+        "Long": -73.893064,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10436,8 +10436,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Intervale Av",
         "Id": "218",
-        "Lat": "40.822181",
-        "Long": "-73.896736",
+        "Lat": 40.822181,
+        "Long": -73.896736,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10460,8 +10460,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Prospect Av",
         "Id": "219",
-        "Lat": "40.819585",
-        "Long": "-73.90177",
+        "Lat": 40.819585,
+        "Long": -73.90177,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10482,8 +10482,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jackson Av",
         "Id": "220",
-        "Lat": "40.81649",
-        "Long": "-73.907807",
+        "Lat": 40.81649,
+        "Long": -73.907807,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10504,8 +10504,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "3 Av-149 St",
         "Id": "221",
-        "Lat": "40.816109",
-        "Long": "-73.917757",
+        "Lat": 40.816109,
+        "Long": -73.917757,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10529,8 +10529,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "149 St-Grand Concourse",
         "Id": "222",
-        "Lat": "40.81841",
-        "Long": "-73.926718",
+        "Lat": 40.81841,
+        "Long": -73.926718,
         "Directions": {
             "N": "Wakefield - Eastchester",
             "S": "Manhattan"
@@ -10552,8 +10552,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Harlem-148 St",
         "Id": "301",
-        "Lat": "40.82388",
-        "Long": "-73.93647",
+        "Lat": 40.82388,
+        "Long": -73.93647,
         "Directions": {
             "N": "Uptown",
             "S": "Downtown & Brooklyn"
@@ -10574,8 +10574,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "145 St",
         "Id": "302",
-        "Lat": "40.820421",
-        "Long": "-73.936245",
+        "Lat": 40.820421,
+        "Long": -73.936245,
         "Directions": {
             "N": "148 St",
             "S": "Downtown & Brooklyn"
@@ -10596,8 +10596,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "135 St",
         "Id": "224",
-        "Lat": "40.814229",
-        "Long": "-73.94077",
+        "Lat": 40.814229,
+        "Long": -73.94077,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -10621,8 +10621,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "125 St",
         "Id": "225",
-        "Lat": "40.807754",
-        "Long": "-73.945495",
+        "Lat": 40.807754,
+        "Long": -73.945495,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -10643,8 +10643,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "116 St",
         "Id": "226",
-        "Lat": "40.802098",
-        "Long": "-73.949625",
+        "Lat": 40.802098,
+        "Long": -73.949625,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -10665,8 +10665,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Central Park North (110 St)",
         "Id": "227",
-        "Lat": "40.799075",
-        "Long": "-73.951822",
+        "Lat": 40.799075,
+        "Long": -73.951822,
         "Directions": {
             "N": "Uptown & The Bronx",
             "S": "Downtown & Brooklyn"
@@ -10687,8 +10687,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Eastchester-Dyre Av",
         "Id": "501",
-        "Lat": "40.8883",
-        "Long": "-73.830834",
+        "Lat": 40.8883,
+        "Long": -73.830834,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -10709,8 +10709,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Baychester Av",
         "Id": "502",
-        "Lat": "40.878663",
-        "Long": "-73.838591",
+        "Lat": 40.878663,
+        "Long": -73.838591,
         "Directions": {
             "N": "Eastchester - Dyre Av",
             "S": "Manhattan"
@@ -10731,8 +10731,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Gun Hill Rd",
         "Id": "503",
-        "Lat": "40.869526",
-        "Long": "-73.846384",
+        "Lat": 40.869526,
+        "Long": -73.846384,
         "Directions": {
             "N": "Eastchester - Dyre Av",
             "S": "Manhattan"
@@ -10756,8 +10756,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Pelham Pkwy",
         "Id": "504",
-        "Lat": "40.858985",
-        "Long": "-73.855359",
+        "Lat": 40.858985,
+        "Long": -73.855359,
         "Directions": {
             "N": "Eastchester - Dyre Av",
             "S": "Manhattan"
@@ -10778,8 +10778,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Morris Park",
         "Id": "505",
-        "Lat": "40.854364",
-        "Long": "-73.860495",
+        "Lat": 40.854364,
+        "Long": -73.860495,
         "Directions": {
             "N": "Eastchester - Dyre Av",
             "S": "Manhattan"
@@ -10800,8 +10800,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Flushing-Main St",
         "Id": "701",
-        "Lat": "40.7596",
-        "Long": "-73.83003",
+        "Lat": 40.7596,
+        "Long": -73.83003,
         "Directions": {
             "N": "Uptown",
             "S": "Manhattan"
@@ -10828,8 +10828,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Mets-Willets Point",
         "Id": "702",
-        "Lat": "40.754622",
-        "Long": "-73.845625",
+        "Lat": 40.754622,
+        "Long": -73.845625,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -10850,8 +10850,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "111 St",
         "Id": "705",
-        "Lat": "40.75173",
-        "Long": "-73.855334",
+        "Lat": 40.75173,
+        "Long": -73.855334,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -10872,8 +10872,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "103 St-Corona Plaza",
         "Id": "706",
-        "Lat": "40.749865",
-        "Long": "-73.8627",
+        "Lat": 40.749865,
+        "Long": -73.8627,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -10894,8 +10894,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Junction Blvd",
         "Id": "707",
-        "Lat": "40.749145",
-        "Long": "-73.869527",
+        "Lat": 40.749145,
+        "Long": -73.869527,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -10920,8 +10920,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "90 St-Elmhurst Av",
         "Id": "708",
-        "Lat": "40.748408",
-        "Long": "-73.876613",
+        "Lat": 40.748408,
+        "Long": -73.876613,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -10942,8 +10942,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "82 St-Jackson Hts",
         "Id": "709",
-        "Lat": "40.747659",
-        "Long": "-73.883697",
+        "Lat": 40.747659,
+        "Long": -73.883697,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -10964,8 +10964,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "74 St-Broadway",
         "Id": "710",
-        "Lat": "40.746848",
-        "Long": "-73.891394",
+        "Lat": 40.746848,
+        "Long": -73.891394,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -10995,8 +10995,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "69 St",
         "Id": "711",
-        "Lat": "40.746325",
-        "Long": "-73.896403",
+        "Lat": 40.746325,
+        "Long": -73.896403,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11017,8 +11017,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Woodside-61 St",
         "Id": "712",
-        "Lat": "40.74563",
-        "Long": "-73.902984",
+        "Lat": 40.74563,
+        "Long": -73.902984,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11047,8 +11047,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "52 St",
         "Id": "713",
-        "Lat": "40.744149",
-        "Long": "-73.912549",
+        "Lat": 40.744149,
+        "Long": -73.912549,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11069,8 +11069,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "46 St-Bliss St",
         "Id": "714",
-        "Lat": "40.743132",
-        "Long": "-73.918435",
+        "Lat": 40.743132,
+        "Long": -73.918435,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11091,8 +11091,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "40 St-Lowery St",
         "Id": "715",
-        "Lat": "40.743781",
-        "Long": "-73.924016",
+        "Lat": 40.743781,
+        "Long": -73.924016,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11113,8 +11113,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "33 St-Rawson St",
         "Id": "716",
-        "Lat": "40.744587",
-        "Long": "-73.930997",
+        "Lat": 40.744587,
+        "Long": -73.930997,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11135,8 +11135,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Queensboro Plaza",
         "Id": "718",
-        "Lat": "40.750582",
-        "Long": "-73.940202",
+        "Lat": 40.750582,
+        "Long": -73.940202,
         "Directions": {
             "N": "Astoria - Flushing",
             "S": "Manhattan"
@@ -11159,8 +11159,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Queensboro Plaza",
         "Id": "R09",
-        "Lat": "40.750582",
-        "Long": "-73.940202",
+        "Lat": 40.750582,
+        "Long": -73.940202,
         "Directions": {
             "N": "Astoria - Flushing",
             "S": "Manhattan"
@@ -11182,8 +11182,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Court Sq",
         "Id": "719",
-        "Lat": "40.747023",
-        "Long": "-73.945264",
+        "Lat": 40.747023,
+        "Long": -73.945264,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11214,8 +11214,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Hunters Point Av",
         "Id": "720",
-        "Lat": "40.742216",
-        "Long": "-73.948916",
+        "Lat": 40.742216,
+        "Long": -73.948916,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11236,8 +11236,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Vernon Blvd-Jackson Av",
         "Id": "721",
-        "Lat": "40.742626",
-        "Long": "-73.953581",
+        "Lat": 40.742626,
+        "Long": -73.953581,
         "Directions": {
             "N": "Flushing",
             "S": "Manhattan"
@@ -11258,8 +11258,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grand Central-42 St",
         "Id": "723",
-        "Lat": "40.751431",
-        "Long": "-73.976041",
+        "Lat": 40.751431,
+        "Long": -73.976041,
         "Directions": {
             "N": "Queens",
             "S": "34 St - Hudson Yards"
@@ -11302,8 +11302,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "5 Av",
         "Id": "724",
-        "Lat": "40.753821",
-        "Long": "-73.981963",
+        "Lat": 40.753821,
+        "Long": -73.981963,
         "Directions": {
             "N": "Queens",
             "S": "34 St - Hudson Yards"
@@ -11324,8 +11324,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Times Sq-42 St",
         "Id": "725",
-        "Lat": "40.755477",
-        "Long": "-73.987691",
+        "Lat": 40.755477,
+        "Long": -73.987691,
         "Directions": {
             "N": "Queens",
             "S": "34 St - Hudson Yards"
@@ -11359,8 +11359,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Times Sq-42 St",
         "Id": "902",
-        "Lat": "40.755983",
-        "Long": "-73.986229",
+        "Lat": 40.755983,
+        "Long": -73.986229,
         "Directions": {
             "N": "Uptown",
             "S": "Grand Central"
@@ -11391,8 +11391,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grand Central-42 St",
         "Id": "901",
-        "Lat": "40.752769",
-        "Long": "-73.979189",
+        "Lat": 40.752769,
+        "Long": -73.979189,
         "Directions": {
             "N": "Times Sq",
             "S": "Downtown"
@@ -11421,8 +11421,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "34 St-Hudson Yards",
         "Id": "726",
-        "Lat": "40.755882",
-        "Long": "-74.00191",
+        "Lat": 40.755882,
+        "Long": -74.00191,
         "Directions": {
             "N": "Queens",
             "S": "Downtown"
@@ -11465,8 +11465,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "96 St",
         "Id": "Q05",
-        "Lat": "40.784318",
-        "Long": "-73.947152",
+        "Lat": 40.784318,
+        "Long": -73.947152,
         "Directions": {
             "N": "Uptown",
             "S": "Downtown & Brooklyn"
@@ -11500,8 +11500,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "86 St",
         "Id": "Q04",
-        "Lat": "40.777891",
-        "Long": "-73.951787",
+        "Lat": 40.777891,
+        "Long": -73.951787,
         "Directions": {
             "N": "Uptown",
             "S": "Downtown & Brooklyn"
@@ -11539,8 +11539,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "72 St",
         "Id": "Q03",
-        "Lat": "40.768799",
-        "Long": "-73.958424",
+        "Lat": 40.768799,
+        "Long": -73.958424,
         "Directions": {
             "N": "Uptown",
             "S": "Downtown & Brooklyn"
@@ -11579,8 +11579,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "St George",
         "Id": "S31",
-        "Lat": "40.643748",
-        "Long": "-74.073643",
+        "Lat": 40.643748,
+        "Long": -74.073643,
         "Directions": {
             "N": "Uptown",
             "S": "Tottenville"
@@ -11601,8 +11601,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Tompkinsville",
         "Id": "S30",
-        "Lat": "40.636949",
-        "Long": "-74.074835",
+        "Lat": 40.636949,
+        "Long": -74.074835,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11623,8 +11623,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Stapleton",
         "Id": "S29",
-        "Lat": "40.627915",
-        "Long": "-74.075162",
+        "Lat": 40.627915,
+        "Long": -74.075162,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11645,8 +11645,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Clifton",
         "Id": "S28",
-        "Lat": "40.621319",
-        "Long": "-74.071402",
+        "Lat": 40.621319,
+        "Long": -74.071402,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11667,8 +11667,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grasmere",
         "Id": "S27",
-        "Lat": "40.603117",
-        "Long": "-74.084087",
+        "Lat": 40.603117,
+        "Long": -74.084087,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11689,8 +11689,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Old Town",
         "Id": "S26",
-        "Lat": "40.596612",
-        "Long": "-74.087368",
+        "Lat": 40.596612,
+        "Long": -74.087368,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11711,8 +11711,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Dongan Hills",
         "Id": "S25",
-        "Lat": "40.588849",
-        "Long": "-74.09609",
+        "Lat": 40.588849,
+        "Long": -74.09609,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11733,8 +11733,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Jefferson Av",
         "Id": "S24",
-        "Lat": "40.583591",
-        "Long": "-74.103338",
+        "Lat": 40.583591,
+        "Long": -74.103338,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11755,8 +11755,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Grant City",
         "Id": "S23",
-        "Lat": "40.578965",
-        "Long": "-74.109704",
+        "Lat": 40.578965,
+        "Long": -74.109704,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11777,8 +11777,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "New Dorp",
         "Id": "S22",
-        "Lat": "40.57348",
-        "Long": "-74.11721",
+        "Lat": 40.57348,
+        "Long": -74.11721,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11802,8 +11802,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Oakwood Heights",
         "Id": "S21",
-        "Lat": "40.56511",
-        "Long": "-74.12632",
+        "Lat": 40.56511,
+        "Long": -74.12632,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11824,8 +11824,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Bay Terrace",
         "Id": "S20",
-        "Lat": "40.5564",
-        "Long": "-74.136907",
+        "Lat": 40.5564,
+        "Long": -74.136907,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11846,8 +11846,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Great Kills",
         "Id": "S19",
-        "Lat": "40.551231",
-        "Long": "-74.151399",
+        "Lat": 40.551231,
+        "Long": -74.151399,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11868,8 +11868,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Eltingville",
         "Id": "S18",
-        "Lat": "40.544601",
-        "Long": "-74.16457",
+        "Lat": 40.544601,
+        "Long": -74.16457,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11890,8 +11890,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Annadale",
         "Id": "S17",
-        "Lat": "40.54046",
-        "Long": "-74.178217",
+        "Lat": 40.54046,
+        "Long": -74.178217,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11912,8 +11912,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Huguenot",
         "Id": "S16",
-        "Lat": "40.533674",
-        "Long": "-74.191794",
+        "Lat": 40.533674,
+        "Long": -74.191794,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11934,8 +11934,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Prince's Bay",
         "Id": "S15",
-        "Lat": "40.525507",
-        "Long": "-74.200064",
+        "Lat": 40.525507,
+        "Long": -74.200064,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11956,8 +11956,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Pleasant Plains",
         "Id": "S14",
-        "Lat": "40.52241",
-        "Long": "-74.217847",
+        "Lat": 40.52241,
+        "Long": -74.217847,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -11978,8 +11978,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Richmond Valley",
         "Id": "S13",
-        "Lat": "40.519631",
-        "Long": "-74.229141",
+        "Lat": 40.519631,
+        "Long": -74.229141,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -12000,8 +12000,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Tottenville",
         "Id": "S09",
-        "Lat": "40.512764",
-        "Long": "-74.251961",
+        "Lat": 40.512764,
+        "Long": -74.251961,
         "Directions": {
             "N": "St George",
             "S": "Downtown"
@@ -12022,8 +12022,8 @@ export const stations ={
         "ADA Notes": "",
         "Name": "Arthur Kill",
         "Id": "S11",
-        "Lat": "40.516578",
-        "Long": "-74.242096",
+        "Lat": 40.516578,
+        "Long": -74.242096,
         "Directions": {
             "N": "St George",
             "S": "Tottenville"
@@ -27112,3 +27112,1574 @@ export const stations ={
         ]
     }
 }
+
+ export const coasts =[
+    [
+        {
+            "Lat": 40.7666,
+            "Long": -73.9504
+        },
+        {
+            "Lat": 40.7594,
+            "Long": -73.9575
+        },
+        {
+            "Lat": 40.7518,
+            "Long": -73.9646
+        },
+        {
+            "Lat": 40.7442,
+            "Long": -73.9711
+        },
+        {
+            "Lat": 40.7342,
+            "Long": -73.9741
+        },
+        {
+            "Lat": 40.7244,
+            "Long": -73.972
+        },
+        {
+            "Lat": 40.7146,
+            "Long": -73.9751
+        },
+        {
+            "Lat": 40.7095,
+            "Long": -73.9839
+        },
+        {
+            "Lat": 40.7092,
+            "Long": -73.9939
+        },
+        {
+            "Lat": 40.7056,
+            "Long": -74.0033
+        },
+        {
+            "Lat": 40.7006,
+            "Long": -74.012
+        },
+        {
+            "Lat": 40.708,
+            "Long": -74.0188
+        },
+        {
+            "Lat": 40.7179,
+            "Long": -74.0168
+        },
+        {
+            "Lat": 40.7264,
+            "Long": -74.0115
+        },
+        {
+            "Lat": 40.7364,
+            "Long": -74.0106
+        },
+        {
+            "Lat": 40.7466,
+            "Long": -74.0092
+        },
+        {
+            "Lat": 40.7565,
+            "Long": -74.0059
+        },
+        {
+            "Lat": 40.7642,
+            "Long": -73.9991
+        },
+        {
+            "Lat": 40.7729,
+            "Long": -73.9938
+        },
+        {
+            "Lat": 40.7812,
+            "Long": -73.9882
+        },
+        {
+            "Lat": 40.7895,
+            "Long": -73.9825
+        },
+        {
+            "Lat": 40.7977,
+            "Long": -73.9767
+        },
+        {
+            "Lat": 40.8068,
+            "Long": -73.9703
+        },
+        {
+            "Lat": 40.8155,
+            "Long": -73.9643
+        },
+        {
+            "Lat": 40.8254,
+            "Long": -73.9583
+        },
+        {
+            "Lat": 40.8326,
+            "Long": -73.9511
+        },
+        {
+            "Lat": 40.8419,
+            "Long": -73.9473
+        },
+        {
+            "Lat": 40.8517,
+            "Long": -73.945
+        },
+        {
+            "Lat": 40.8592,
+            "Long": -73.9383
+        },
+        {
+            "Lat": 40.8674,
+            "Long": -73.9325
+        },
+        {
+            "Lat": 40.8766,
+            "Long": -73.9279
+        },
+        {
+            "Lat": 40.8731,
+            "Long": -73.9185
+        },
+        {
+            "Lat": 40.8722,
+            "Long": -73.9106
+        }
+    ],
+    [
+        {
+            "Lat": 40.6759,
+            "Long": -73.9939
+        },
+        {
+            "Lat": 40.6689,
+            "Long": -74.0011
+        },
+        {
+            "Lat": 40.6664,
+            "Long": -74.0108
+        },
+        {
+            "Lat": 40.6739,
+            "Long": -74.0177
+        },
+        {
+            "Lat": 40.6834,
+            "Long": -74.0131
+        },
+        {
+            "Lat": 40.6884,
+            "Long": -74.0044
+        },
+        {
+            "Lat": 40.6968,
+            "Long": -73.9988
+        },
+        {
+            "Lat": 40.7046,
+            "Long": -73.9925
+        },
+        {
+            "Lat": 40.7054,
+            "Long": -73.9825
+        },
+        {
+            "Lat": 40.7008,
+            "Long": -73.9735
+        },
+        {
+            "Lat": 40.7061,
+            "Long": -73.9725
+        }
+    ],
+    [
+        {
+            "Lat": 40.5568,
+            "Long": -73.8991
+        },
+        {
+            "Lat": 40.5592,
+            "Long": -73.8893
+        },
+        {
+            "Lat": 40.5621,
+            "Long": -73.8797
+        },
+        {
+            "Lat": 40.5656,
+            "Long": -73.8697
+        },
+        {
+            "Lat": 40.5681,
+            "Long": -73.86
+        },
+        {
+            "Lat": 40.5718,
+            "Long": -73.8505
+        },
+        {
+            "Lat": 40.5753,
+            "Long": -73.8406
+        },
+        {
+            "Lat": 40.5785,
+            "Long": -73.8311
+        },
+        {
+            "Lat": 40.5813,
+            "Long": -73.8215
+        },
+        {
+            "Lat": 40.5839,
+            "Long": -73.8114
+        },
+        {
+            "Lat": 40.5853,
+            "Long": -73.8014
+        },
+        {
+            "Lat": 40.5874,
+            "Long": -73.7916
+        },
+        {
+            "Lat": 40.5893,
+            "Long": -73.7817
+        },
+        {
+            "Lat": 40.5909,
+            "Long": -73.7714
+        },
+        {
+            "Lat": 40.5912,
+            "Long": -73.7614
+        },
+        {
+            "Lat": 40.5918,
+            "Long": -73.7514
+        },
+        {
+            "Lat": 40.5949,
+            "Long": -73.7418
+        },
+        {
+            "Lat": 40.5947,
+            "Long": -73.7362
+        }
+    ],
+    [
+        {
+            "Lat": 40.6091,
+            "Long": -73.7614
+        },
+        {
+            "Lat": 40.6156,
+            "Long": -73.769
+        },
+        {
+            "Lat": 40.6221,
+            "Long": -73.7614
+        },
+        {
+            "Lat": 40.6269,
+            "Long": -73.7526
+        },
+        {
+            "Lat": 40.6312,
+            "Long": -73.7453
+        }
+    ],
+    [
+        {
+            "Lat": 40.6263,
+            "Long": -73.8704
+        },
+        {
+            "Lat": 40.6208,
+            "Long": -73.8788
+        },
+        {
+            "Lat": 40.6171,
+            "Long": -73.8695
+        },
+        {
+            "Lat": 40.6259,
+            "Long": -73.8647
+        },
+        {
+            "Lat": 40.6263,
+            "Long": -73.8704
+        }
+    ],
+    [
+        {
+            "Lat": 40.5869,
+            "Long": -73.9973
+        },
+        {
+            "Lat": 40.5804,
+            "Long": -73.9897
+        },
+        {
+            "Lat": 40.5805,
+            "Long": -73.9797
+        },
+        {
+            "Lat": 40.5792,
+            "Long": -73.9897
+        },
+        {
+            "Lat": 40.5814,
+            "Long": -73.9995
+        },
+        {
+            "Lat": 40.5809,
+            "Long": -74.0095
+        },
+        {
+            "Lat": 40.5725,
+            "Long": -74.0038
+        },
+        {
+            "Lat": 40.5704,
+            "Long": -73.994
+        },
+        {
+            "Lat": 40.5714,
+            "Long": -73.984
+        },
+        {
+            "Lat": 40.5723,
+            "Long": -73.9737
+        },
+        {
+            "Lat": 40.5735,
+            "Long": -73.9637
+        },
+        {
+            "Lat": 40.5742,
+            "Long": -73.9537
+        },
+        {
+            "Lat": 40.5758,
+            "Long": -73.9437
+        },
+        {
+            "Lat": 40.5756,
+            "Long": -73.9337
+        },
+        {
+            "Lat": 40.5809,
+            "Long": -73.9427
+        },
+        {
+            "Lat": 40.582,
+            "Long": -73.9533
+        },
+        {
+            "Lat": 40.5831,
+            "Long": -73.9432
+        },
+        {
+            "Lat": 40.5829,
+            "Long": -73.9331
+        },
+        {
+            "Lat": 40.583,
+            "Long": -73.9231
+        },
+        {
+            "Lat": 40.5815,
+            "Long": -73.9132
+        },
+        {
+            "Lat": 40.5847,
+            "Long": -73.9228
+        },
+        {
+            "Lat": 40.5902,
+            "Long": -73.9312
+        },
+        {
+            "Lat": 40.5858,
+            "Long": -73.9221
+        },
+        {
+            "Lat": 40.5958,
+            "Long": -73.9224
+        },
+        {
+            "Lat": 40.6015,
+            "Long": -73.9307
+        },
+        {
+            "Lat": 40.6014,
+            "Long": -73.9207
+        },
+        {
+            "Lat": 40.5955,
+            "Long": -73.9126
+        },
+        {
+            "Lat": 40.5868,
+            "Long": -73.9076
+        },
+        {
+            "Lat": 40.5847,
+            "Long": -73.8977
+        },
+        {
+            "Lat": 40.5778,
+            "Long": -73.8903
+        },
+        {
+            "Lat": 40.5799,
+            "Long": -73.8803
+        },
+        {
+            "Lat": 40.5899,
+            "Long": -73.8793
+        },
+        {
+            "Lat": 40.5996,
+            "Long": -73.8821
+        },
+        {
+            "Lat": 40.6034,
+            "Long": -73.8914
+        },
+        {
+            "Lat": 40.6032,
+            "Long": -73.9014
+        },
+        {
+            "Lat": 40.6021,
+            "Long": -73.9114
+        },
+        {
+            "Lat": 40.61,
+            "Long": -73.918
+        },
+        {
+            "Lat": 40.6036,
+            "Long": -73.9103
+        },
+        {
+            "Lat": 40.6095,
+            "Long": -73.902
+        },
+        {
+            "Lat": 40.6163,
+            "Long": -73.9095
+        },
+        {
+            "Lat": 40.6109,
+            "Long": -73.901
+        },
+        {
+            "Lat": 40.6097,
+            "Long": -73.891
+        },
+        {
+            "Lat": 40.6182,
+            "Long": -73.8963
+        },
+        {
+            "Lat": 40.6248,
+            "Long": -73.9039
+        },
+        {
+            "Lat": 40.6288,
+            "Long": -73.9131
+        },
+        {
+            "Lat": 40.632,
+            "Long": -73.9163
+        }
+    ],
+    [
+        {
+            "Lat": 40.6447,
+            "Long": -73.8705
+        },
+        {
+            "Lat": 40.643,
+            "Long": -73.8603
+        },
+        {
+            "Lat": 40.653,
+            "Long": -73.859
+        },
+        {
+            "Lat": 40.6628,
+            "Long": -73.857
+        },
+        {
+            "Lat": 40.6577,
+            "Long": -73.8577
+        }
+    ],
+    [
+        {
+            "Lat": 40.5953,
+            "Long": -73.8253
+        },
+        {
+            "Lat": 40.6027,
+            "Long": -73.8185
+        },
+        {
+            "Lat": 40.6125,
+            "Long": -73.8159
+        },
+        {
+            "Lat": 40.6221,
+            "Long": -73.8187
+        },
+        {
+            "Lat": 40.6317,
+            "Long": -73.8217
+        },
+        {
+            "Lat": 40.6375,
+            "Long": -73.83
+        },
+        {
+            "Lat": 40.6279,
+            "Long": -73.833
+        },
+        {
+            "Lat": 40.6231,
+            "Long": -73.8308
+        }
+    ],
+    [
+        {
+            "Lat": 40.6551,
+            "Long": -73.8382
+        },
+        {
+            "Lat": 40.6453,
+            "Long": -73.8362
+        },
+        {
+            "Lat": 40.6442,
+            "Long": -73.8462
+        },
+        {
+            "Lat": 40.6507,
+            "Long": -73.8539
+        },
+        {
+            "Lat": 40.658,
+            "Long": -73.8582
+        }
+    ],
+    [
+        {
+            "Lat": 40.7113,
+            "Long": -73.9313
+        },
+        {
+            "Lat": 40.7159,
+            "Long": -73.9224
+        },
+        {
+            "Lat": 40.7254,
+            "Long": -73.9261
+        },
+        {
+            "Lat": 40.7293,
+            "Long": -73.9354
+        },
+        {
+            "Lat": 40.7363,
+            "Long": -73.9426
+        },
+        {
+            "Lat": 40.7395,
+            "Long": -73.9521
+        },
+        {
+            "Lat": 40.7383,
+            "Long": -73.9621
+        },
+        {
+            "Lat": 40.741,
+            "Long": -73.9617
+        }
+    ],
+    [
+        {
+            "Lat": 40.7573,
+            "Long": -73.7452
+        },
+        {
+            "Lat": 40.764,
+            "Long": -73.7527
+        },
+        {
+            "Lat": 40.7699,
+            "Long": -73.7608
+        },
+        {
+            "Lat": 40.7775,
+            "Long": -73.7674
+        },
+        {
+            "Lat": 40.783,
+            "Long": -73.7716
+        }
+    ],
+    [
+        {
+            "Lat": 40.7113,
+            "Long": -73.9313
+        },
+        {
+            "Lat": 40.7189,
+            "Long": -73.9246
+        },
+        {
+            "Lat": 40.7276,
+            "Long": -73.9299
+        },
+        {
+            "Lat": 40.7309,
+            "Long": -73.9396
+        },
+        {
+            "Lat": 40.7369,
+            "Long": -73.9465
+        }
+    ],
+    [
+        {
+            "Lat": 40.7641,
+            "Long": -73.9436
+        },
+        {
+            "Lat": 40.7696,
+            "Long": -73.9352
+        },
+        {
+            "Lat": 40.7769,
+            "Long": -73.9282
+        },
+        {
+            "Lat": 40.7826,
+            "Long": -73.9199
+        },
+        {
+            "Lat": 40.7891,
+            "Long": -73.9122
+        },
+        {
+            "Lat": 40.7894,
+            "Long": -73.9021
+        },
+        {
+            "Lat": 40.7825,
+            "Long": -73.9013
+        }
+    ],
+    [
+        {
+            "Lat": 40.7648,
+            "Long": -73.8423
+        },
+        {
+            "Lat": 40.7594,
+            "Long": -73.8508
+        },
+        {
+            "Lat": 40.7633,
+            "Long": -73.8601
+        },
+        {
+            "Lat": 40.772,
+            "Long": -73.855
+        },
+        {
+            "Lat": 40.7763,
+            "Long": -73.8641
+        },
+        {
+            "Lat": 40.7797,
+            "Long": -73.8707
+        }
+    ],
+    [
+        {
+            "Lat": 40.8226,
+            "Long": -73.8839
+        },
+        {
+            "Lat": 40.8161,
+            "Long": -73.8762
+        },
+        {
+            "Lat": 40.8106,
+            "Long": -73.8677
+        },
+        {
+            "Lat": 40.8069,
+            "Long": -73.8584
+        },
+        {
+            "Lat": 40.8049,
+            "Long": -73.8486
+        },
+        {
+            "Lat": 40.8121,
+            "Long": -73.8491
+        }
+    ],
+    [
+        {
+            "Lat": 40.8367,
+            "Long": -73.7842
+        },
+        {
+            "Lat": 40.8449,
+            "Long": -73.79
+        },
+        {
+            "Lat": 40.855,
+            "Long": -73.7915
+        },
+        {
+            "Lat": 40.8491,
+            "Long": -73.7834
+        },
+        {
+            "Lat": 40.8393,
+            "Long": -73.7812
+        },
+        {
+            "Lat": 40.8367,
+            "Long": -73.7842
+        }
+    ],
+    [
+        {
+            "Lat": 40.791,
+            "Long": -73.9267
+        },
+        {
+            "Lat": 40.7856,
+            "Long": -73.9357
+        },
+        {
+            "Lat": 40.7817,
+            "Long": -73.9263
+        },
+        {
+            "Lat": 40.7894,
+            "Long": -73.9184
+        },
+        {
+            "Lat": 40.7965,
+            "Long": -73.915
+        }
+    ],
+    [
+        {
+            "Lat": 40.8666,
+            "Long": -73.7923
+        },
+        {
+            "Lat": 40.8568,
+            "Long": -73.7945
+        },
+        {
+            "Lat": 40.8485,
+            "Long": -73.8001
+        },
+        {
+            "Lat": 40.8579,
+            "Long": -73.804
+        },
+        {
+            "Lat": 40.8632,
+            "Long": -73.8129
+        },
+        {
+            "Lat": 40.8643,
+            "Long": -73.8167
+        }
+    ],
+    [
+        {
+            "Lat": 40.8144,
+            "Long": -73.9339
+        },
+        {
+            "Lat": 40.8048,
+            "Long": -73.931
+        },
+        {
+            "Lat": 40.7947,
+            "Long": -73.93
+        },
+        {
+            "Lat": 40.7879,
+            "Long": -73.9377
+        },
+        {
+            "Lat": 40.7792,
+            "Long": -73.9432
+        },
+        {
+            "Lat": 40.7694,
+            "Long": -73.9481
+        },
+        {
+            "Lat": 40.7675,
+            "Long": -73.9496
+        }
+    ],
+    [
+        {
+            "Lat": 40.8241,
+            "Long": -73.9318
+        },
+        {
+            "Lat": 40.834,
+            "Long": -73.9333
+        },
+        {
+            "Lat": 40.8431,
+            "Long": -73.9291
+        },
+        {
+            "Lat": 40.8516,
+            "Long": -73.9236
+        },
+        {
+            "Lat": 40.8591,
+            "Long": -73.9169
+        },
+        {
+            "Lat": 40.8667,
+            "Long": -73.9103
+        },
+        {
+            "Lat": 40.8755,
+            "Long": -73.9152
+        },
+        {
+            "Lat": 40.879,
+            "Long": -73.9246
+        },
+        {
+            "Lat": 40.8881,
+            "Long": -73.9201
+        },
+        {
+            "Lat": 40.8975,
+            "Long": -73.9166
+        },
+        {
+            "Lat": 40.9069,
+            "Long": -73.913
+        },
+        {
+            "Lat": 40.9171,
+            "Long": -73.9158
+        },
+        {
+            "Lat": 40.9171,
+            "Long": -73.9158
+        }
+    ],
+    [
+        {
+            "Lat": 40.8155,
+            "Long": -73.9339
+        },
+        {
+            "Lat": 40.826,
+            "Long": -73.9344
+        },
+        {
+            "Lat": 40.8362,
+            "Long": -73.9343
+        },
+        {
+            "Lat": 40.8451,
+            "Long": -73.9297
+        },
+        {
+            "Lat": 40.8536,
+            "Long": -73.9238
+        },
+        {
+            "Lat": 40.8573,
+            "Long": -73.9216
+        }
+    ],
+    [
+        {
+            "Lat": 40.791,
+            "Long": -73.8723
+        },
+        {
+            "Lat": 40.795,
+            "Long": -73.8818
+        },
+        {
+            "Lat": 40.7968,
+            "Long": -73.8917
+        },
+        {
+            "Lat": 40.7872,
+            "Long": -73.8888
+        },
+        {
+            "Lat": 40.7871,
+            "Long": -73.8885
+        }
+    ],
+    [
+        {
+            "Lat": 40.861,
+            "Long": -73.8206
+        },
+        {
+            "Lat": 40.8706,
+            "Long": -73.8236
+        },
+        {
+            "Lat": 40.8804,
+            "Long": -73.8214
+        },
+        {
+            "Lat": 40.8891,
+            "Long": -73.8265
+        },
+        {
+            "Lat": 40.887,
+            "Long": -73.8207
+        }
+    ],
+    [
+        {
+            "Lat": 40.6401,
+            "Long": -74.1281
+        },
+        {
+            "Lat": 40.6409,
+            "Long": -74.1381
+        },
+        {
+            "Lat": 40.6389,
+            "Long": -74.148
+        },
+        {
+            "Lat": 40.6379,
+            "Long": -74.1581
+        },
+        {
+            "Lat": 40.6379,
+            "Long": -74.1581
+        }
+    ],
+    [
+        {
+            "Lat": 40.5532,
+            "Long": -74.105
+        },
+        {
+            "Lat": 40.5602,
+            "Long": -74.0978
+        },
+        {
+            "Lat": 40.5671,
+            "Long": -74.0905
+        },
+        {
+            "Lat": 40.5732,
+            "Long": -74.0824
+        },
+        {
+            "Lat": 40.5795,
+            "Long": -74.0746
+        },
+        {
+            "Lat": 40.5865,
+            "Long": -74.0674
+        },
+        {
+            "Lat": 40.5935,
+            "Long": -74.0602
+        },
+        {
+            "Lat": 40.5997,
+            "Long": -74.0523
+        },
+        {
+            "Lat": 40.6086,
+            "Long": -74.0571
+        },
+        {
+            "Lat": 40.6164,
+            "Long": -74.0635
+        },
+        {
+            "Lat": 40.6229,
+            "Long": -74.0711
+        },
+        {
+            "Lat": 40.6327,
+            "Long": -74.0731
+        },
+        {
+            "Lat": 40.6427,
+            "Long": -74.0719
+        },
+        {
+            "Lat": 40.6468,
+            "Long": -74.0763
+        }
+    ],
+    [
+        {
+            "Lat": 40.5918,
+            "Long": -74.1843
+        },
+        {
+            "Lat": 40.5821,
+            "Long": -74.1814
+        },
+        {
+            "Lat": 40.5775,
+            "Long": -74.1903
+        },
+        {
+            "Lat": 40.58,
+            "Long": -74.2
+        },
+        {
+            "Lat": 40.5891,
+            "Long": -74.2043
+        },
+        {
+            "Lat": 40.5965,
+            "Long": -74.1975
+        },
+        {
+            "Lat": 40.6065,
+            "Long": -74.1977
+        },
+        {
+            "Lat": 40.608,
+            "Long": -74.1878
+        },
+        {
+            "Lat": 40.6142,
+            "Long": -74.1957
+        },
+        {
+            "Lat": 40.6164,
+            "Long": -74.1947
+        }
+    ],
+    [
+        {
+            "Lat": 40.5557,
+            "Long": -74.221
+        },
+        {
+            "Lat": 40.5594,
+            "Long": -74.2116
+        },
+        {
+            "Lat": 40.569,
+            "Long": -74.2087
+        },
+        {
+            "Lat": 40.5732,
+            "Long": -74.1996
+        },
+        {
+            "Lat": 40.5763,
+            "Long": -74.19
+        },
+        {
+            "Lat": 40.5723,
+            "Long": -74.1808
+        },
+        {
+            "Lat": 40.5643,
+            "Long": -74.1747
+        },
+        {
+            "Lat": 40.5655,
+            "Long": -74.1647
+        },
+        {
+            "Lat": 40.5696,
+            "Long": -74.1555
+        },
+        {
+            "Lat": 40.5722,
+            "Long": -74.1458
+        },
+        {
+            "Lat": 40.5702,
+            "Long": -74.1556
+        },
+        {
+            "Lat": 40.5697,
+            "Long": -74.1593
+        }
+    ],
+    [
+        {
+            "Lat": 40.5449,
+            "Long": -74.1386
+        },
+        {
+            "Lat": 40.5366,
+            "Long": -74.1442
+        },
+        {
+            "Lat": 40.5316,
+            "Long": -74.1529
+        },
+        {
+            "Lat": 40.5271,
+            "Long": -74.1619
+        },
+        {
+            "Lat": 40.5235,
+            "Long": -74.1713
+        },
+        {
+            "Lat": 40.5207,
+            "Long": -74.181
+        },
+        {
+            "Lat": 40.5153,
+            "Long": -74.1895
+        },
+        {
+            "Lat": 40.5112,
+            "Long": -74.1987
+        },
+        {
+            "Lat": 40.5113,
+            "Long": -74.2087
+        },
+        {
+            "Lat": 40.5048,
+            "Long": -74.2163
+        },
+        {
+            "Lat": 40.5019,
+            "Long": -74.2259
+        },
+        {
+            "Lat": 40.5003,
+            "Long": -74.2358
+        },
+        {
+            "Lat": 40.497,
+            "Long": -74.2454
+        },
+        {
+            "Lat": 40.502,
+            "Long": -74.2541
+        },
+        {
+            "Lat": 40.512,
+            "Long": -74.253
+        },
+        {
+            "Lat": 40.5181,
+            "Long": -74.245
+        },
+        {
+            "Lat": 40.5194,
+            "Long": -74.2408
+        }
+    ],
+    [
+        {
+            "Lat": 40.5532,
+            "Long": -74.105
+        },
+        {
+            "Lat": 40.548,
+            "Long": -74.1136
+        },
+        {
+            "Lat": 40.5441,
+            "Long": -74.123
+        },
+        {
+            "Lat": 40.5363,
+            "Long": -74.1293
+        },
+        {
+            "Lat": 40.5293,
+            "Long": -74.1365
+        },
+        {
+            "Lat": 40.5378,
+            "Long": -74.1311
+        },
+        {
+            "Lat": 40.5399,
+            "Long": -74.1288
+        }
+    ],
+    [
+        {
+            "Lat": 40.5697,
+            "Long": -74.1593
+        },
+        {
+            "Lat": 40.5669,
+            "Long": -74.169
+        },
+        {
+            "Lat": 40.5718,
+            "Long": -74.1778
+        },
+        {
+            "Lat": 40.5818,
+            "Long": -74.1785
+        },
+        {
+            "Lat": 40.5899,
+            "Long": -74.1726
+        },
+        {
+            "Lat": 40.5913,
+            "Long": -74.1669
+        }
+    ],
+    [
+        {
+            "Lat": 40.5194,
+            "Long": -74.2408
+        },
+        {
+            "Lat": 40.5294,
+            "Long": -74.2421
+        },
+        {
+            "Lat": 40.539,
+            "Long": -74.2451
+        },
+        {
+            "Lat": 40.5478,
+            "Long": -74.2402
+        },
+        {
+            "Lat": 40.5536,
+            "Long": -74.232
+        },
+        {
+            "Lat": 40.5556,
+            "Long": -74.2231
+        }
+    ],
+    [
+        {
+            "Lat": 40.5869,
+            "Long": -73.9973
+        },
+        {
+            "Lat": 40.5953,
+            "Long": -74.0028
+        },
+        {
+            "Lat": 40.6009,
+            "Long": -74.0113
+        },
+        {
+            "Lat": 40.6034,
+            "Long": -74.021
+        },
+        {
+            "Lat": 40.6051,
+            "Long": -74.0309
+        },
+        {
+            "Lat": 40.6123,
+            "Long": -74.038
+        },
+        {
+            "Lat": 40.6217,
+            "Long": -74.0416
+        },
+        {
+            "Lat": 40.6317,
+            "Long": -74.0404
+        },
+        {
+            "Lat": 40.6406,
+            "Long": -74.0357
+        },
+        {
+            "Lat": 40.6446,
+            "Long": -74.031
+        }
+    ],
+    [
+        {
+            "Lat": 40.632,
+            "Long": -73.9163
+        },
+        {
+            "Lat": 40.6278,
+            "Long": -73.9072
+        },
+        {
+            "Lat": 40.6237,
+            "Long": -73.898
+        },
+        {
+            "Lat": 40.6275,
+            "Long": -73.8886
+        },
+        {
+            "Lat": 40.6331,
+            "Long": -73.8803
+        },
+        {
+            "Lat": 40.6379,
+            "Long": -73.8784
+        }
+    ],
+    [
+        {
+            "Lat": 40.6379,
+            "Long": -73.8784
+        },
+        {
+            "Lat": 40.6441,
+            "Long": -73.8863
+        },
+        {
+            "Lat": 40.6388,
+            "Long": -73.8778
+        },
+        {
+            "Lat": 40.6486,
+            "Long": -73.8755
+        },
+        {
+            "Lat": 40.6447,
+            "Long": -73.8705
+        }
+    ],
+    [
+        {
+            "Lat": 40.5568,
+            "Long": -73.9007
+        },
+        {
+            "Lat": 40.5541,
+            "Long": -73.9104
+        },
+        {
+            "Lat": 40.5506,
+            "Long": -73.9198
+        },
+        {
+            "Lat": 40.5469,
+            "Long": -73.9291
+        },
+        {
+            "Lat": 40.5431,
+            "Long": -73.9385
+        },
+        {
+            "Lat": 40.5529,
+            "Long": -73.9411
+        },
+        {
+            "Lat": 40.5576,
+            "Long": -73.9322
+        },
+        {
+            "Lat": 40.5619,
+            "Long": -73.9231
+        },
+        {
+            "Lat": 40.5645,
+            "Long": -73.9134
+        },
+        {
+            "Lat": 40.5631,
+            "Long": -73.9034
+        },
+        {
+            "Lat": 40.5673,
+            "Long": -73.8943
+        },
+        {
+            "Lat": 40.5679,
+            "Long": -73.8841
+        },
+        {
+            "Lat": 40.5704,
+            "Long": -73.8741
+        },
+        {
+            "Lat": 40.5751,
+            "Long": -73.8646
+        },
+        {
+            "Lat": 40.5798,
+            "Long": -73.8557
+        },
+        {
+            "Lat": 40.5816,
+            "Long": -73.8457
+        },
+        {
+            "Lat": 40.5829,
+            "Long": -73.8354
+        },
+        {
+            "Lat": 40.5867,
+            "Long": -73.8258
+        },
+        {
+            "Lat": 40.5895,
+            "Long": -73.8162
+        },
+        {
+            "Lat": 40.5922,
+            "Long": -73.8065
+        },
+        {
+            "Lat": 40.5992,
+            "Long": -73.7993
+        },
+        {
+            "Lat": 40.6016,
+            "Long": -73.7895
+        },
+        {
+            "Lat": 40.6073,
+            "Long": -73.7812
+        },
+        {
+            "Lat": 40.5973,
+            "Long": -73.7809
+        },
+        {
+            "Lat": 40.5981,
+            "Long": -73.7709
+        },
+        {
+            "Lat": 40.608,
+            "Long": -73.7694
+        },
+        {
+            "Lat": 40.6091,
+            "Long": -73.7614
+        }
+    ],
+    [
+        {
+            "Lat": 40.6119,
+            "Long": -73.785
+        },
+        {
+            "Lat": 40.6219,
+            "Long": -73.784
+        },
+        {
+            "Lat": 40.6275,
+            "Long": -73.7757
+        },
+        {
+            "Lat": 40.6287,
+            "Long": -73.7657
+        },
+        {
+            "Lat": 40.6324,
+            "Long": -73.7564
+        },
+        {
+            "Lat": 40.6368,
+            "Long": -73.747
+        },
+        {
+            "Lat": 40.6349,
+            "Long": -73.742
+        }
+    ],
+    [
+        {
+            "Lat": 40.6157,
+            "Long": -73.7981
+        },
+        {
+            "Lat": 40.6223,
+            "Long": -73.7905
+        },
+        {
+            "Lat": 40.6288,
+            "Long": -73.7829
+        },
+        {
+            "Lat": 40.6344,
+            "Long": -73.7912
+        },
+        {
+            "Lat": 40.6389,
+            "Long": -73.8002
+        },
+        {
+            "Lat": 40.6431,
+            "Long": -73.8093
+        },
+        {
+            "Lat": 40.6466,
+            "Long": -73.8187
+        },
+        {
+            "Lat": 40.6555,
+            "Long": -73.8233
+        },
+        {
+            "Lat": 40.6605,
+            "Long": -73.8146
+        },
+        {
+            "Lat": 40.6607,
+            "Long": -73.8115
+        }
+    ],
+    [
+        {
+            "Lat": 40.6446,
+            "Long": -74.031
+        },
+        {
+            "Lat": 40.6512,
+            "Long": -74.0234
+        },
+        {
+            "Lat": 40.6571,
+            "Long": -74.0153
+        },
+        {
+            "Lat": 40.6619,
+            "Long": -74.0064
+        },
+        {
+            "Lat": 40.6627,
+            "Long": -74.0036
+        }
+    ]
+]

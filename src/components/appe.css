@@ -1,6 +1,7 @@
 div.app {
     --zoom-box: 1;
     --zoom-text: 1;
+    --vvh: 1024px;
 }
 
 div.station {
@@ -91,3 +92,42 @@ div.ball {
     position: absolute;
     z-index: -1;
 }
+
+div.Fetcher {
+    border: .01in outset grey;
+    font-size: calc(.2in * var(--zoom-text));
+    white-space: pre;
+    overflow: hidden;
+    background: #ccc;
+    text-align: center;
+    cursor: pointer;
+    padding: .5em 0;
+    min-width: 4em;
+}
+
+div.Fetcher b {
+    color: white;
+    text-shadow: 0 0 .1vw black;
+    padding: 0.1em .4em;
+    border-radius: 33%;
+}
+
+div.FetcherBox {
+    position: fixed;
+    z-index: 99999;
+    display: flex;
+    flex-wrap: wrap;
+    height: var(--vvh);
+    justify-content: space-around;
+    background: grey;
+    flex-direction: column;
+}
+
+div.yahball {
+    font-size: calc(.6in * var(--zoom-text));
+    background: #7af;
+    border-radius: 50%;
+    text-align: center;
+}
+
+				

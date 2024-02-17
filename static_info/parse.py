@@ -11,8 +11,8 @@ canon = {}
 for s in stations:
     s['Name'] = s['Stop Name']
     s['Id'] = s['GTFS Stop ID']
-    s['Lat'] = s['GTFS Latitude']
-    s['Long'] = s['GTFS Longitude']
+    s['Lat'] = float(s['GTFS Latitude'])
+    s['Long'] = float(s['GTFS Longitude'])
     s['Directions'] = {
         'N': s['North Direction Label'] or 'Uptown',
         'S': s['South Direction Label'] or 'Downtown'
@@ -71,6 +71,24 @@ for r in DictReader(open('routes.csv')):
             "stops": [ s['stopId'].replace('MTASBWY:','') for s in ss ]
         }
 
+coasts = []
+for rawcoast in json.load(open('shoreline.json'))['data']:
+    #if float(rawcoast['SHAPE_Leng']) < 70000:
+    #    continue
+    coasts.append([]);
+    ln = rawcoast[9].replace('LINESTRING (','').replace(')','').split(', ')
+    llt = 0
+    llg = 0
+    for c in ln:
+        Long, Lat = tuple(int(float(t)*10000)/10000 for t in c.split(' '))
+        if ( (Lat-llt)**2 + (Long-llg)**2 ) ** .5 > .01:
+            coasts[-1].append({'Lat':Lat, 'Long':Long})
+            llt = Lat
+            llg = Long
+    coasts[-1].append({'Lat':Lat, 'Long':Long})
+            
+coasts = [ c for c in coasts if len(c)>4 ]
+            
 outf = open('data.js','w')
 outf.write('export const stations =')
 json.dump(smap, outf, indent=4)
@@ -80,3 +98,5 @@ outf.write('\n\n export const transfers =')
 json.dump(transfers, outf, indent=4)
 outf.write('\n\n export const routes =')
 json.dump(routes, outf, indent=4)
+outf.write('\n\n export const coasts =')
+json.dump(coasts, outf, indent=4)

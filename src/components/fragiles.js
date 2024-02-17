@@ -54,8 +54,8 @@ export class Fragiles extends React.Component {
 }
 
 
-export async function fetchfragiles(which) {
-    let res = await fetch('nyct_ene.json', 'json');
+export async function fetchfragiles(which, cb) {
+    let res = await fetch('nyct_ene.json', 'json', cb);
     let broken = {};
     for (let problem of res) {
 	if (problem.isupcomingoutage == 'N') {
