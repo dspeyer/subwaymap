@@ -2,7 +2,7 @@ import React from 'react';
 import * as data from '../../static_info/data.js'
 import {fetch} from '../net.js';
 
-fragileMap = {};
+let fragileMap = {};
 
 const emoji = {
     'EL': '🛗',

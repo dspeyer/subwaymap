@@ -16,7 +16,7 @@ function pad(x) {
 }
 
 
-arrivalMap = {};
+let arrivalMap = {};
 for (let r in data.routes) {
     arrivalMap[r] = {};
 }

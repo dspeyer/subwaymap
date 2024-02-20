@@ -41,7 +41,7 @@ export class Fetcher extends React.Component {
     }
     
     fetch() {
-	fetchgtfs(this.which,
+	this.rawfetch(this.which,
 		  (xhttp) => { this.setState({readyState:xhttp.readyState}) }).
 	    then(() => {
 		this.setState({lastFetched: (new Date()).getTime() / 1000});

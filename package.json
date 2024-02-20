@@ -18,7 +18,7 @@
     "bugs": {
         "url": "https://github.com/dspeyer/subwaymap/issues"
     },
-    "homepage": "https://github.com/dspeyer/subwaymap#readme",
+    "homepage": ".",
     "dependencies": {
         "goog": "^0.2.1",
         "google-protobuf": "^3.21.2",

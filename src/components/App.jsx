@@ -264,7 +264,6 @@ export default function App() {
 	for (let i=0; i<c.length-1; i++) {
 	    let s1 = c[i];
 	    let s2 = c[i+1];
-	    console.log({i,s1,s2,c})
 	    pieces.push( <Line s1={s1} s2={s2} color='#77f' key={key++} zi='-3' /> );
 	}
     }	    
