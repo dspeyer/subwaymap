@@ -196,8 +196,8 @@ export function Line({s1, s2, color, os, txt, zi}){
 	       { txt ? 
 		 <div className="ball" style={{
 			  background: color,
-			  top: `calc(${ym}in - .1in * var(--zoom-text))`,
-			  left: `calc(${xm}in -  .1in * var(--zoom-text))`}}>
+			  top: `calc(${ym}px - 10px * var(--zoom-text))`,
+			  left: `calc(${xm}px -  10px * var(--zoom-text))`}}>
 		     {txt}
 		 </div>
 		 : null }
