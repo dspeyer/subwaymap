@@ -68,13 +68,19 @@ function stationShrink(id, ev) {
 
 export function Station({s}) {
     let {x,y} = mapCoords(s);
+    let routes = s.AlsoShow.concat([s.Id]).map(x => data.stations[x]['Daytime Routes']).join(' ');
+    let colors = routes.split(' ').map(r => '#'+(data.routes[r]?.color || '777'));
+    let grad = colors.length>1 ? `linear-gradient(to right, ${colors.join(',')})` : colors[0];
+    if (s.AlsoShow.length) {
+	console.log({s,routes,colors,grad});
+    }
     return <div className="station"
 		style={{left:x+'px', top:y+'px'}}
 		id={'station'+s.Id}
 		onClick={stationClick.bind(null,s.Id)}
 	   >
 	       <div className="hidden closebutton" onClick={stationShrink.bind(null,s.Id)}>↙</div>
-	       {s.Name}
+	       <h3 style={{background:grad}}>{s.Name}</h3>
 	       { Object.keys(data.routes).map( r => <Arrivals route={r} station={s.Id} key={r} /> ) }
 	       <div>
 		   <Fragiles station={s} typ="EL" />
