@@ -2,6 +2,9 @@
 
 from csv import DictReader
 import json
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
 
 
 stations = list(DictReader(open('Stations.csv')))
@@ -32,6 +35,36 @@ for s in stations:
         s['ShowAs'] = canon[key]['Id']
     else:
         canon[key] = s
+
+kernel = np.ones((5,5), dtype=np.uint8)
+onecold = np.ones((200,200), dtype=np.uint8)
+onecold[100,100] = 0
+goal = cv2.distanceTransform(onecold, cv2.DIST_L2, 3, cv2.DIST_LABEL_CCOMP)
+for s in stations:
+    mask = np.ones((200,200), dtype=np.uint8)
+    for s2 in stations:
+        if s == s2:
+            continue
+        s2c = s2.get('DisplayAt', s2)
+        x = int((s2c['Long'] - s['Long'])*1000) + 100
+        y = int((s2c['Lat'] - s['Lat'])*1000) + 100
+        if x>=0 and x<200 and y>=0 and y<200:
+            mask[x,y] = 0
+    mask = cv2.erode(mask, kernel)
+    if not mask[100,100]:
+        mask = cv2.erode(mask, kernel)
+        opts = goal * mask + 255 * (1-mask)
+        if np.min(opts) < 10:
+            best = np.argmin(opts)
+            bx,by = (best//200, best%200)
+            opts[bx,by]=127
+            # plt.imshow(opts)
+            # plt.show()
+            nlg = (bx - 100) / 1000 + s['Long']
+            nlt = (by - 100) / 1000 + s['Lat']
+            s['DisplayAt'] = { 'Lat': nlt, 'Long': nlg }
+
+        
 smap = { s['Id']: s for s in stations }
 
 fragiles = json.load(open('tmp/nyct_ene_equipments.json'))

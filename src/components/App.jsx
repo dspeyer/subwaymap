@@ -67,26 +67,41 @@ function stationShrink(id, ev) {
 }
 
 export function Station({s}) {
-    let {x,y} = mapCoords(s);
+    let {x,y} = mapCoords(s.DisplayAt || s);
     let routes = s.AlsoShow.concat([s.Id]).map(x => data.stations[x]['Daytime Routes']).join(' ');
     let colors = routes.split(' ').map(r => '#'+(data.routes[r]?.color || '777'));
     let grad = colors.length>1 ? `linear-gradient(to right, ${colors.join(',')})` : colors[0];
     if (s.AlsoShow.length) {
 	console.log({s,routes,colors,grad});
     }
-    return <div className="station"
-		style={{left:x+'px', top:y+'px'}}
-		id={'station'+s.Id}
-		onClick={stationClick.bind(null,s.Id)}
-	   >
-	       <div className="hidden closebutton" onClick={stationShrink.bind(null,s.Id)}>↙</div>
-	       <h3 style={{background:grad}}>{s.Name}</h3>
-	       { Object.keys(data.routes).map( r => <Arrivals route={r} station={s.Id} key={r} /> ) }
-	       <div>
-		   <Fragiles station={s} typ="EL" />
-		   <Fragiles station={s} typ="ES" />
-	       </div>
-	   </div>
+    let station = (
+	<div className="station"
+	     style={{left:x+'px', top:y+'px'}}
+	     id={'station'+s.Id}
+	     onClick={stationClick.bind(null,s.Id)}
+	>
+	    <div className="hidden closebutton" onClick={stationShrink.bind(null,s.Id)}>↙</div>
+	    <h3 style={{background:grad}}>{s.Name}</h3>
+	    { Object.keys(data.routes).map( r => <Arrivals route={r} station={s.Id} key={r} /> ) }
+	    <div>
+		<Fragiles station={s} typ="EL" />
+		<Fragiles station={s} typ="ES" />
+	    </div>
+	</div>);
+    if (s.DisplayAt) {
+	let c2 = mapCoords(s);
+	return <div>
+		   {station}
+		   <div className="station"
+			style={{left:c2.x+'px', top:c2.y+'px', width:'calc(50px * var(--zoom-box)'}}>
+		       <h3 style={{background:grad}}>{s.Name}</h3>
+		   </div>
+		   <Line s1={s} s2={s.DisplayAt} color={grad} zi="-1" dashy="true" />
+	       </div>;
+    } else {
+	return station;
+    }
+    
 }
 
 export class YouAreHere extends React.Component {
@@ -179,7 +194,7 @@ export class YouAreHere extends React.Component {
 	    
 	
 
-export function Line({s1, s2, color, os, txt, zi}){
+export function Line({s1, s2, color, os, txt, zi, dashy}){
     if ( ! os) os=0;
     let {x,y} = mapCoords(s1);
     let p2 = mapCoords(s2);
@@ -194,11 +209,12 @@ export function Line({s1, s2, color, os, txt, zi}){
 			top: y+'px',
 			left: (x + os*0.02)+'px',
 			width: l+'px',
-			height: '0.03in',
+			height: '3px',
 			transform: `rotate(${theta}rad)`,
 			transformOrigin: 'left',
 			position: 'absolute',
-			zIndex: zi || -2}} />
+			zIndex: zi || -2,
+			border: dashy ? '1px grey dashed' : 'none'}} />
 	       { txt ? 
 		 <div className="ball" style={{
 			  background: color,

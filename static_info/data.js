@@ -160,7 +160,11 @@ export const stations ={
             "ES215"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.76266,
+            "Long": -73.961258
+        }
     },
     "R13": {
         "Station ID": "8",
@@ -209,7 +213,11 @@ export const stations ={
             "EL282",
             "EL281"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.769664000000006,
+            "Long": -73.976658
+        }
     },
     "R15": {
         "Station ID": "10",
@@ -233,7 +241,11 @@ export const stations ={
         "EL": [
             "EL268X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.762901,
+            "Long": -73.990139
+        }
     },
     "R16": {
         "Station ID": "11",
@@ -270,7 +282,11 @@ export const stations ={
             "127",
             "725",
             "902"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.757672,
+            "Long": -73.99375400000001
+        }
     },
     "R17": {
         "Station ID": "12",
@@ -356,7 +372,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.737303000000004,
+            "Long": -73.981344
+        }
     },
     "R20": {
         "Station ID": "15",
@@ -410,7 +430,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.725328,
+            "Long": -73.98562899999999
+        }
     },
     "R22": {
         "Station ID": "17",
@@ -458,7 +482,11 @@ export const stations ={
             "Q01",
             "M20",
             "639"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.713527,
+            "Long": -73.99777499999999
+        }
     },
     "Q01": {
         "Station ID": "19",
@@ -481,7 +509,11 @@ export const stations ={
         "ES": [],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "R23"
+        "ShowAs": "R23",
+        "DisplayAt": {
+            "Lat": 40.708383000000005,
+            "Long": -74.00046
+        }
     },
     "R24": {
         "Station ID": "20",
@@ -503,7 +535,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.717282,
+            "Long": -74.01397800000001
+        }
     },
     "R25": {
         "Station ID": "21",
@@ -535,7 +571,11 @@ export const stations ={
             "EL22X",
             "EL23X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.710668,
+            "Long": -74.018029
+        }
     },
     "R26": {
         "Station ID": "22",
@@ -557,7 +597,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.70522,
+            "Long": -74.01834199999999
+        }
     },
     "R27": {
         "Station ID": "23",
@@ -583,7 +627,11 @@ export const stations ={
             "ES311"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.701086999999994,
+            "Long": -74.00799400000001
+        }
     },
     "R28": {
         "Station ID": "24",
@@ -611,7 +659,11 @@ export const stations ={
             "EL309",
             "EL308"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.692099999999996,
+            "Long": -73.995777
+        }
     },
     "R29": {
         "Station ID": "25",
@@ -642,7 +694,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "A41"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.69618,
+            "Long": -73.98194199999999
+        }
     },
     "R30": {
         "Station ID": "26",
@@ -671,7 +727,11 @@ export const stations ={
             "EL371",
             "EL370"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.693635,
+            "Long": -73.97682400000001
+        }
     },
     "R31": {
         "Station ID": "27",
@@ -705,7 +765,11 @@ export const stations ={
         "AlsoShow": [
             "D24",
             "235"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.682666000000005,
+            "Long": -73.98281
+        }
     },
     "R32": {
         "Station ID": "28",
@@ -751,7 +815,11 @@ export const stations ={
         "EL": [],
         "AlsoShow": [
             "F23"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.671847,
+            "Long": -73.984302
+        }
     },
     "R34": {
         "Station ID": "30",
@@ -1009,7 +1077,11 @@ export const stations ={
             "EL700X"
         ],
         "AlsoShow": [],
-        "ShowAs": "R31"
+        "ShowAs": "R31",
+        "DisplayAt": {
+            "Lat": 40.67646,
+            "Long": -73.97789
+        }
     },
     "D25": {
         "Station ID": "41",
@@ -1031,7 +1103,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.67105,
+            "Long": -73.972367
+        }
     },
     "D26": {
         "Station ID": "42",
@@ -1532,7 +1608,11 @@ export const stations ={
             "EL740",
             "EL739"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.625472,
+            "Long": -74.00189499999999
+        }
     },
     "B17": {
         "Station ID": "64",
@@ -2158,7 +2238,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.679992,
+            "Long": -73.89765399999999
+        }
     },
     "J27": {
         "Station ID": "92",
@@ -2187,7 +2271,11 @@ export const stations ={
         "AlsoShow": [
             "L22",
             "A51"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.684498000000005,
+            "Long": -73.899512
+        }
     },
     "J28": {
         "Station ID": "93",
@@ -2345,7 +2433,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.701868999999995,
+            "Long": -73.954408
+        }
     },
     "M14": {
         "Station ID": "100",
@@ -2419,7 +2511,11 @@ export const stations ={
         "EL": [],
         "AlsoShow": [
             "F15"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.718315,
+            "Long": -73.982437
+        }
     },
     "M19": {
         "Station ID": "103",
@@ -2492,7 +2588,11 @@ export const stations ={
             "EL743",
             "EL742"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.708242999999996,
+            "Long": -73.99640099999999
+        }
     },
     "M22": {
         "Station ID": "106",
@@ -2537,7 +2637,11 @@ export const stations ={
             "A38",
             "229",
             "418"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.704374,
+            "Long": -74.002582
+        }
     },
     "M23": {
         "Station ID": "107",
@@ -2559,7 +2663,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.700476,
+            "Long": -74.018056
+        }
     },
     "M01": {
         "Station ID": "108",
@@ -2677,7 +2785,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "L17"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.69443,
+            "Long": -73.912385
+        }
     },
     "M09": {
         "Station ID": "113",
@@ -2746,7 +2858,11 @@ export const stations ={
             "EL221",
             "EL224"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.739777,
+            "Long": -74.007578
+        }
     },
     "L02": {
         "Station ID": "116",
@@ -2891,7 +3007,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.718063,
+            "Long": -73.950275
+        }
     },
     "L11": {
         "Station ID": "122",
@@ -3148,7 +3268,11 @@ export const stations ={
         ],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "J27"
+        "ShowAs": "J27",
+        "DisplayAt": {
+            "Lat": 40.673856,
+            "Long": -73.90823999999999
+        }
     },
     "L24": {
         "Station ID": "133",
@@ -3170,7 +3294,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.669345,
+            "Long": -73.90709700000001
+        }
     },
     "L25": {
         "Station ID": "134",
@@ -3217,7 +3345,11 @@ export const stations ={
             "EL772",
             "EL771"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.669038,
+            "Long": -73.896571
+        }
     },
     "L27": {
         "Station ID": "136",
@@ -3311,7 +3443,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "A45"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.675596,
+            "Long": -73.951827
+        }
     },
     "S03": {
         "Station ID": "141",
@@ -3355,7 +3491,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.665343,
+            "Long": -73.957245
+        }
     },
     "A02": {
         "Station ID": "143",
@@ -3511,7 +3651,11 @@ export const stations ={
             "EL140",
             "EL139"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.840719,
+            "Long": -73.944561
+        }
     },
     "A10": {
         "Station ID": "149",
@@ -3582,7 +3726,11 @@ export const stations ={
         "EL": [],
         "AlsoShow": [
             "D13"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.819782999999994,
+            "Long": -73.942216
+        }
     },
     "D13": {
         "Station ID": "151",
@@ -3844,7 +3992,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "125"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.768296,
+            "Long": -73.986736
+        }
     },
     "A25": {
         "Station ID": "162",
@@ -3872,7 +4024,11 @@ export const stations ={
             "EL207X",
             "EL208X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.767456,
+            "Long": -73.990984
+        }
     },
     "A27": {
         "Station ID": "163",
@@ -3902,7 +4058,11 @@ export const stations ={
             "EL288X",
             "EL289X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.762308000000004,
+            "Long": -73.99473499999999
+        }
     },
     "A28": {
         "Station ID": "164",
@@ -3929,7 +4089,11 @@ export const stations ={
             "EL228",
             "EL227"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.752287,
+            "Long": -73.996391
+        }
     },
     "A30": {
         "Station ID": "165",
@@ -3951,7 +4115,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.746905999999996,
+            "Long": -74.001041
+        }
     },
     "A31": {
         "Station ID": "166",
@@ -4006,7 +4174,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "D20"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.733337999999996,
+            "Long": -74.007495
+        }
     },
     "D20": {
         "Station ID": "167",
@@ -4036,7 +4208,11 @@ export const stations ={
             "EL333"
         ],
         "AlsoShow": [],
-        "ShowAs": "A32"
+        "ShowAs": "A32",
+        "DisplayAt": {
+            "Lat": 40.731338,
+            "Long": -73.997495
+        }
     },
     "A33": {
         "Station ID": "168",
@@ -4058,7 +4234,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.728227000000004,
+            "Long": -74.009739
+        }
     },
     "A34": {
         "Station ID": "169",
@@ -4080,7 +4260,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.722824,
+            "Long": -74.011229
+        }
     },
     "A36": {
         "Station ID": "170",
@@ -4197,7 +4381,11 @@ export const stations ={
             "ES322"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.699337,
+            "Long": -73.99753100000001
+        }
     },
     "A41": {
         "Station ID": "174",
@@ -4229,7 +4417,11 @@ export const stations ={
             "EL706"
         ],
         "AlsoShow": [],
-        "ShowAs": "R29"
+        "ShowAs": "R29",
+        "DisplayAt": {
+            "Lat": 40.687338,
+            "Long": -73.995342
+        }
     },
     "A42": {
         "Station ID": "175",
@@ -4253,7 +4445,11 @@ export const stations ={
         "EL": [
             "EL747X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.681484000000005,
+            "Long": -73.989001
+        }
     },
     "A43": {
         "Station ID": "176",
@@ -4275,7 +4471,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.692113,
+            "Long": -73.970946
+        }
     },
     "A44": {
         "Station ID": "177",
@@ -5091,7 +5291,11 @@ export const stations ={
             "EL500",
             "EL502"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.873244,
+            "Long": -73.884138
+        }
     },
     "D04": {
         "Station ID": "212",
@@ -5205,7 +5409,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.8429,
+            "Long": -73.908136
+        }
     },
     "D09": {
         "Station ID": "217",
@@ -5249,7 +5457,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.833771,
+            "Long": -73.91544
+        }
     },
     "D11": {
         "Station ID": "219",
@@ -5280,7 +5492,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "414"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.827905,
+            "Long": -73.930651
+        }
     },
     "D12": {
         "Station ID": "220",
@@ -5414,7 +5630,11 @@ export const stations ={
             "EL402",
             "EL401"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.769629,
+            "Long": -73.96911300000001
+        }
     },
     "B10": {
         "Station ID": "224",
@@ -5488,7 +5708,11 @@ export const stations ={
             "EL295X",
             "EL287X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.747222,
+            "Long": -73.97756899999999
+        }
     },
     "D17": {
         "Station ID": "227",
@@ -5623,7 +5847,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.713266999999995,
+            "Long": -73.985753
+        }
     },
     "F14": {
         "Station ID": "232",
@@ -6461,7 +6689,11 @@ export const stations ={
             "EL422",
             "EL421"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.741644,
+            "Long": -73.891338
+        }
     },
     "G15": {
         "Station ID": "268",
@@ -6597,7 +6829,11 @@ export const stations ={
             "EL429",
             "EL428"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.744973,
+            "Long": -73.937243
+        }
     },
     "F09": {
         "Station ID": "274",
@@ -6625,7 +6861,11 @@ export const stations ={
         "EL": [
             "EL482X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.749846000000005,
+            "Long": -73.951
+        }
     },
     "F11": {
         "Station ID": "275",
@@ -6660,7 +6900,11 @@ export const stations ={
             "EL203X",
             "EL245"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.756552,
+            "Long": -73.966055
+        }
     },
     "F12": {
         "Station ID": "276",
@@ -6843,7 +7087,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "719"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.741554,
+            "Long": -73.943832
+        }
     },
     "G24": {
         "Station ID": "282",
@@ -6865,7 +7113,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.738065,
+            "Long": -73.949724
+        }
     },
     "G26": {
         "Station ID": "283",
@@ -7089,7 +7341,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.686119000000005,
+            "Long": -73.972375
+        }
     },
     "101": {
         "Station ID": "293",
@@ -7790,7 +8046,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.745039999999996,
+            "Long": -74.005871
+        }
     },
     "132": {
         "Station ID": "322",
@@ -7926,7 +8186,11 @@ export const stations ={
             "EL338",
             "EL337"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.721478,
+            "Long": -74.015266
+        }
     },
     "138": {
         "Station ID": "328",
@@ -7958,7 +8222,11 @@ export const stations ={
             "EL12X",
             "EL11X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.715835,
+            "Long": -74.018188
+        }
     },
     "139": {
         "Station ID": "329",
@@ -7980,7 +8248,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.707513,
+            "Long": -74.022783
+        }
     },
     "142": {
         "Station ID": "330",
@@ -8013,7 +8285,11 @@ export const stations ={
             "EL731",
             "EL730"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.697067999999994,
+            "Long": -74.012664
+        }
     },
     "228": {
         "Station ID": "331",
@@ -8101,7 +8377,11 @@ export const stations ={
             "ES378X"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.699821,
+            "Long": -74.0031
+        }
     },
     "231": {
         "Station ID": "334",
@@ -8156,7 +8436,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "423"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.702219,
+            "Long": -73.991998
+        }
     },
     "233": {
         "Station ID": "336",
@@ -8350,7 +8634,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.674847,
+            "Long": -73.946466
+        }
     },
     "249": {
         "Station ID": "344",
@@ -9424,7 +9712,11 @@ export const stations ={
         "EL": [],
         "AlsoShow": [
             "222"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.821375,
+            "Long": -73.922351
+        }
     },
     "416": {
         "Station ID": "391",
@@ -9723,7 +10015,11 @@ export const stations ={
         "AlsoShow": [
             "723",
             "901"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.751776,
+            "Long": -73.97184800000001
+        }
     },
     "632": {
         "Station ID": "403",
@@ -10041,7 +10337,11 @@ export const stations ={
             "EL710",
             "EL711"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "DisplayAt": {
+            "Lat": 40.699816999999996,
+            "Long": -74.022065
+        }
     },
     "423": {
         "Station ID": "415",
@@ -11145,7 +11445,11 @@ export const stations ={
         "EL": [],
         "AlsoShow": [
             "R09"
-        ]
+        ],
+        "DisplayAt": {
+            "Lat": 40.758582000000004,
+            "Long": -73.940202
+        }
     },
     "R09": {
         "Station ID": "461",
@@ -11407,7 +11711,11 @@ export const stations ={
             "EL608X"
         ],
         "AlsoShow": [],
-        "ShowAs": "631"
+        "ShowAs": "631",
+        "DisplayAt": {
+            "Lat": 40.746769,
+            "Long": -73.973189
+        }
     },
     "726": {
         "Station ID": "471",
