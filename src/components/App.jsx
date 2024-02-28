@@ -30,13 +30,28 @@ function pad(x) {
 }
 
 
-function mapx(lon) {
-    return 10000 * (lon - minlong) / (maxlong - minlong);
-}
-function mapy(lat) {
-    return 10000 * (maxlat - lat) / (maxlat - minlat);
+function sigmoid(x) {
+    return 1/(1+Math.exp(-x));
 }
 
+function mapCoords({Lat, Long}) {
+    let x1 = (Long - minlong) / (maxlong - minlong);
+    let y1 = (maxlat - Lat) / (maxlat - minlat);
+    const theta = - Math.PI / 8;
+    let x = Math.cos(theta) * x1 - Math.sin(theta) * y1;
+    let y = Math.sin(theta) * x1 + Math.cos(theta) * y1;
+    y -= Math.sin(theta);
+    let siness = sigmoid((40.67-Lat)/.015) * sigmoid((-74.05-Long)/.02);
+    y -= 0.25 * siness;
+    x += Math.max(2*(.61-x)/3, 0) * siness;
+    // TODO: something more principled
+    x -= .5;
+    y -= .07;
+    x *= 10000;
+    y *= 10000;
+    return {x,y};
+}
+    
 let maxz = 1;
 
 function stationClick(id, ev) {
@@ -52,8 +67,9 @@ function stationShrink(id, ev) {
 }
 
 export function Station({s}) {
+    let {x,y} = mapCoords(s);
     return <div className="station"
-		style={{left:mapx(s.Long)+'px', top:mapy(s.Lat)+'px'}}
+		style={{left:x+'px', top:y+'px'}}
 		id={'station'+s.Id}
 		onClick={stationClick.bind(null,s.Id)}
 	   >
@@ -91,10 +107,11 @@ export class YouAreHere extends React.Component {
 	    }
 	    let vvw = window.visualViewport.width;
 	    let vvh = window.visualViewport.height
+	    let {x,y} = mapCoords(this.state);
 	    return <div id='yah-jump'
 			style={{position:'absolute',
-				left: mapx(this.state.Long)-vvw*.4+'px',
-				top: mapy(this.state.Lat)-vvh*.4+'px',
+				left: x-vvw*.4+'px',
+				top: y-vvh*.4+'px',
 				width: vvw*.8+'px',
 				height: vvh*.8+'px',
 			       }}>
@@ -158,20 +175,18 @@ export class YouAreHere extends React.Component {
 
 export function Line({s1, s2, color, os, txt, zi}){
     if ( ! os) os=0;
-    let x1 = mapx(s1.Long);
-    let x2 = mapx(s2.Long)
-    let y1 = mapy(s1.Lat);
-    let y2 = mapy(s2.Lat);
-    let l = Math.sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1));
-    let theta = Math.atan2(y2-y1, x2-x1);
+    let {x,y} = mapCoords(s1);
+    let p2 = mapCoords(s2);
+    let l = Math.sqrt((p2.x-x)*(p2.x-x)+(p2.y-y)*(p2.y-y));
+    let theta = Math.atan2(p2.y-y, p2.x-x);
     let f = 0.1 * ((os + 4) % 8 + 1);
-    let xm = x1 + os * .02 + f * l * Math.cos(theta);
-    let ym = y1 + f * l * Math.sin(theta);
+    let xm = x + os * .02 + f * l * Math.cos(theta);
+    let ym = y + f * l * Math.sin(theta);
     return <div>
 	       <div style={{
 			background: color,
-			top: y1+'px',
-			left: (x1 + os*0.02)+'px',
+			top: y+'px',
+			left: (x + os*0.02)+'px',
 			width: l+'px',
 			height: '0.03in',
 			transform: `rotate(${theta}rad)`,

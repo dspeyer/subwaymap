@@ -21,7 +21,13 @@ for (let r in data.routes) {
     arrivalMap[r] = {};
 }
 
-let key=9999999;
+function setHilite(v) {
+    for (let r in arrivalMap) {
+	for (let s in arrivalMap[r]) {
+	    arrivalMap[r][s].setState({hilite: v});
+	}
+    }
+}
 
 export class Arrivals extends React.Component {
     constructor(props) {
@@ -31,7 +37,8 @@ export class Arrivals extends React.Component {
 	this.state = {
 	    now: (new Date()).getTime() / 1000,
 	    N: [],
-	    S: []
+	    S: [],
+	    hilite: null
 	};
 	arrivalMap[props.route][props.station] = this;
 	tickees.push(this);
@@ -53,13 +60,15 @@ export class Arrivals extends React.Component {
 			       ({this.station.Directions[dir]})
 			   </span>
 			   { (this.state[dir]
-			      .map(t => Math.round(t-this.state.now))
-			      .sort((a,b)=>a-b)
-			      .filter(x => x>=0)
-			      .map( (t, i) => 
-				  <span key={i}>
-				      {Math.floor(t/60)
-				      }{ i<2 ? <span className="hidden">:{pad(t%60)}</span> : null
+			      .sort((a,b) => a.time - b.time)
+			      .map(a => ({time: Math.round(a.time-this.state.now), id:a.id}))
+			      .filter(a => a.time>=0)
+			      .map( (a, i) => 
+				  <span key={i}
+					className={a.id==this.state.hilite ? 'hilite' : ''}
+					onClick={setHilite.bind(null,a.id)} >
+				      {Math.floor(a.time/60)
+				      }{ i<2 ? <span className="hidden">:{pad(a.time%60)}</span> : null
 				       }, </span> )
 			     ) }
 		       </span>
@@ -71,9 +80,11 @@ export class Arrivals extends React.Component {
 export async function fetchgtfs(which, cb) {
     let res = await fetch('gtfs'+which, 'arraybuffer', cb);
     let msg = FeedMessage.FeedMessage.deserializeBinary(res).toObject();
+    console.log(msg);
     let arrivals = {};
     for (let entity of msg.entityList) {
 	if (entity.tripUpdate?.stopTimeUpdateList) {
+	    let id = entity.tripUpdate.trip.tripId;
 	    let rid = entity.tripUpdate.trip.routeId;
 	    if ( ! (rid in arrivals)) {
 		arrivals[rid] = {};
@@ -90,7 +101,8 @@ export async function fetchgtfs(which, cb) {
 		if ( ! (sid in arrivals[rid])) {
 		    arrivals[rid][sid] = {N:[], S:[]}
 		}
-		arrivals[rid][sid][dir].push(stu.arrival?.time || stu.departure?.time || 0);
+		let time = stu.arrival?.time || stu.departure?.time || 0;
+		arrivals[rid][sid][dir].push({time,id});
 	    }
 	}
     }

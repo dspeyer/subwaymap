@@ -132,3 +132,7 @@ div.yahball {
 }
 
 				
+span.hilite {
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #444, 0 0 2px yellow;
+}
