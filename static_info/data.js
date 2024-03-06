@@ -14346,7 +14346,8 @@ export const stations ={
         "nextadasouth": "120, L",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M14A SBS, M14D SBS",
-        "alternativeroute": "If you are on the street: Take a westbound M14A SBS or M14D SBS (E 14 St and 1 Av) to 4 Av for Union Sq-14 St station. Then use elevators for Canarsie-bound L service. If you are on the platform: Take a Canarsie-bound L to Bedford Av. Then transfer across the platform to an 8 Av-bound L to 1 Av."
+        "alternativeroute": "If you are on the street: Take a westbound M14A SBS or M14D SBS (E 14 St and 1 Av) to 4 Av for Union Sq-14 St station. Then use elevators for Canarsie-bound L service. If you are on the platform: Take a Canarsie-bound L to Bedford Av. Then transfer across the platform to an 8 Av-bound L to 1 Av.",
+        "mergeddescription": "Street (E14 and A SW) to Canarsie-bound platform"
     },
     "EL292": {
         "station": "1 Av",
@@ -14367,7 +14368,8 @@ export const stations ={
         "nextadasouth": "120, L",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M14A SBS, M14D SBS",
-        "alternativeroute": "If you are on the street: Take a West Side-bound M14A SBS or M14D SBS (E 14 St and 1 Av) to 4 Av for Union Sq-14 St station. Then use elevators for 8 Av-bound L service. If you are on the platform: Take an 8 Av-bound L to Union Sq-14 St. Then either: transfer across the platform to a Canarsie-bound L train to 1 Av. Or, use elevators to exit station and take an M14A SBSS or M14D SBS to 1 Av."
+        "alternativeroute": "If you are on the street: Take a West Side-bound M14A SBS or M14D SBS (E 14 St and 1 Av) to 4 Av for Union Sq-14 St station. Then use elevators for 8 Av-bound L service. If you are on the platform: Take an 8 Av-bound L to Union Sq-14 St. Then either: transfer across the platform to a Canarsie-bound L train to 1 Av. Or, use elevators to exit station and take an M14A SBSS or M14D SBS to 1 Av.",
+        "mergeddescription": "Street (E14 and A NW) to 8 Av-bound platform"
     },
     "ES103": {
         "station": "125 St",
@@ -14388,7 +14390,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (125 & Broadway SE) to mezz\n"
     },
     "ES101": {
         "station": "125 St",
@@ -14409,7 +14412,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezz to street (125 & Broadway SW)"
     },
     "ES102": {
         "station": "125 St",
@@ -14430,7 +14434,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (125 & Broadway SW) to mezz"
     },
     "EL144": {
         "station": "125 St",
@@ -14451,7 +14456,8 @@ export const stations ={
         "nextadasouth": "315, A, C, B, D",
         "redundant": 0,
         "busconnections": "M3, M10, M60 SBS, M100, M101, M104, Bx15",
-        "alternativeroute": "If you are on the mezzanine: Take a downtown A, C, B or D to 59 St-Columbus Circle and use elevators to transfer to an uptown A, C, B or D.\nIf you are on the platform: Take an uptown A or C to 168 St, and then: Use elevators to transfer to a downtown A or C to 125 St. Or, use elevators to exit the station and take an East Village-bound M3 bus (Broadway and 168 St) to St. Nicholas Av and 125 St or Manhattanville-bound M100 (Broadway and W 168 St) to St. Nicholas Av and 124 St."
+        "alternativeroute": "If you are on the mezzanine: Take a downtown A, C, B or D to 59 St-Columbus Circle and use elevators to transfer to an uptown A, C, B or D.\nIf you are on the platform: Take an uptown A or C to 168 St, and then: Use elevators to transfer to a downtown A or C to 125 St. Or, use elevators to exit the station and take an East Village-bound M3 bus (Broadway and 168 St) to St. Nicholas Av and 125 St or Manhattanville-bound M100 (Broadway and W 168 St) to St. Nicholas Av and 124 St.",
+        "mergeddescription": "mezzanine to uptown platform"
     },
     "EL143": {
         "station": "125 St",
@@ -14472,7 +14478,8 @@ export const stations ={
         "nextadasouth": "315, A, C, B, D",
         "redundant": 0,
         "busconnections": "M3, M10, M60 SBS, M100, M101, M104, Bx15",
-        "alternativeroute": "If you are on the mezzanine: For A/C, take an uptown A or C to 168 St and use elevators to transfer to a downtown A or C. For B/D, take an uptown B or D to 161 St-Yankee Stadium and use elevators to transfer to a downtown B or D.\nIf you are on the platform: Take a downtown A, C, B or D to 59 St-Columbus Circle and use elevators to transfer to an uptown A, C, B or D to 125 St. Or, take a downtown A, C, B or D to 59 St-Columbus Circle. Use elevators to exit the station and take a Harlem-bound M10 bus (Central Park West and Columbus Circle) to Fredrick Douglass Blvd and 125 St. Proceed one block west to St. Nicholas Av."
+        "alternativeroute": "If you are on the mezzanine: For A/C, take an uptown A or C to 168 St and use elevators to transfer to a downtown A or C. For B/D, take an uptown B or D to 161 St-Yankee Stadium and use elevators to transfer to a downtown B or D.\nIf you are on the platform: Take a downtown A, C, B or D to 59 St-Columbus Circle and use elevators to transfer to an uptown A, C, B or D to 125 St. Or, take a downtown A, C, B or D to 59 St-Columbus Circle. Use elevators to exit the station and take a Harlem-bound M10 bus (Central Park West and Columbus Circle) to Fredrick Douglass Blvd and 125 St. Proceed one block west to St. Nicholas Av.",
+        "mergeddescription": "mezzanine to downtown platform"
     },
     "EL142": {
         "station": "125 St",
@@ -14493,7 +14500,8 @@ export const stations ={
         "nextadasouth": "315, A, C, B, D",
         "redundant": 0,
         "busconnections": "M3, M10, M60 SBS, M100, M101, M104, Bx15",
-        "alternativeroute": "If you are on the street: Take a Fort George-bound M3 bus (St Nicholas Av and 124 St) to 167 St for 168 St A/C Station. For B/D, take a downtown A or C from 168 St to 125 St and transfer.\nIf you are on the mezzanine: Take an uptown A or C to 168 St. Use elevators to exit the station and take an East Village-bound M3 bus (Broadway and 168 St) to St. Nicholas Av and 125 St or Manhattanville-bound M100 (Broadway and W 168 St) to St. Nicholas Av and 124 St."
+        "alternativeroute": "If you are on the street: Take a Fort George-bound M3 bus (St Nicholas Av and 124 St) to 167 St for 168 St A/C Station. For B/D, take a downtown A or C from 168 St to 125 St and transfer.\nIf you are on the mezzanine: Take an uptown A or C to 168 St. Use elevators to exit the station and take an East Village-bound M3 bus (Broadway and 168 St) to St. Nicholas Av and 125 St or Manhattanville-bound M100 (Broadway and W 168 St) to St. Nicholas Av and 124 St.",
+        "mergeddescription": "Street (125 & Nicholas SW) to mezz"
     },
     "EL126": {
         "station": "125 St",
@@ -14514,7 +14522,8 @@ export const stations ={
         "nextadasouth": "401, 6 / 402, 4, 5",
         "redundant": 0,
         "busconnections": "M35, M60 SBS, M100, M101, M103, Bx15, M98 (weekdays only; southbound along Park Avenue; northbound along Third Avenue); Metro-North Railroad",
-        "alternativeroute": "If you are on the mezzanine:  Use elevator to exit station and take a downtown M101 or M103 (Lexington Av and E 124 St). Then either:  For Pelham Bay Park-bound 6 service, take bus to 86 St and use elevator to enter station.  Transfer across the platform at 125th St for Woodlawn-bound 4 or Dyre Av-bound 5 service.   For downtown 6 service, take bus to 51st St and use elevators to enter station.  For downtown 4, 5 or 6, take bus to 42 St-Grand Central and use elevators to enter station.  If you are on the Bronx-bound platform:  Take a Woodlawn-bound 4 to 161 St-Yankee Stadium. Then, use elevators to transfer to a downtown 4 to 125 St. Or, take a Dyre Av-bound 5 to 3 Av-149 St. Then, use elevator to exit station and take a Manhattan-bound M125 (Bergen Av and Westchester Av) to 125 St and Lexington Av.  If you are on the downtown platform:  Take a downtown 6 to 51 St. Then either:  Use elevators to transfer to a Pelham Bay Park-bound 6 to 125 St.  Or, use elevators to exit station and take an uptown M101 or M103 (50 St and 3 Av) to 125 St."
+        "alternativeroute": "If you are on the mezzanine:  Use elevator to exit station and take a downtown M101 or M103 (Lexington Av and E 124 St). Then either:  For Pelham Bay Park-bound 6 service, take bus to 86 St and use elevator to enter station.  Transfer across the platform at 125th St for Woodlawn-bound 4 or Dyre Av-bound 5 service.   For downtown 6 service, take bus to 51st St and use elevators to enter station.  For downtown 4, 5 or 6, take bus to 42 St-Grand Central and use elevators to enter station.  If you are on the Bronx-bound platform:  Take a Woodlawn-bound 4 to 161 St-Yankee Stadium. Then, use elevators to transfer to a downtown 4 to 125 St. Or, take a Dyre Av-bound 5 to 3 Av-149 St. Then, use elevator to exit station and take a Manhattan-bound M125 (Bergen Av and Westchester Av) to 125 St and Lexington Av.  If you are on the downtown platform:  Take a downtown 6 to 51 St. Then either:  Use elevators to transfer to a Pelham Bay Park-bound 6 to 125 St.  Or, use elevators to exit station and take an uptown M101 or M103 (50 St and 3 Av) to 125 St.",
+        "mergeddescription": "Mezzanine to platforms"
     },
     "EL125": {
         "station": "125 St",
@@ -14535,7 +14544,8 @@ export const stations ={
         "nextadasouth": "401, 6 / 402, 4, 5",
         "redundant": 0,
         "busconnections": "M35, M60 SBS, M100, M101, M103, Bx15, M98 (weekdays only; southbound along Park Avenue; northbound along Third Avenue); Metro-North Railroad",
-        "alternativeroute": "If you are on the street: Take a downtown M101 or M103 (Lexington Av and E 124 St). Then either:  For Pelham Bay Park-bound 6 service, take bus to 86 St and use elevator to enter station. Transfer across the platform at 125th St for Woodlawn-bound 4 or Dyre Av-bound 5 service.  For downtown 6 service, take bus to 51st St and use elevators to enter station. For downtown 4, 5 or 6, take bus to 42 St-Grand Central and use elevators to enter station. If you are on the mezzanine:  See a station agent to re-enter faregate, then either: Take a Dyre Av-bound 5 to 3 Av-149 St. Use elevator to exit station and take a Manhattan-bound M125 (Bergen Av and Westchester Av) to 125 St and Lexington Av. Or, take a downtown 6 to 51st St. Use elevators to exit station and take an uptown M101 or M103 (50 St and 3 Av) to 125 St. "
+        "alternativeroute": "If you are on the street: Take a downtown M101 or M103 (Lexington Av and E 124 St). Then either:  For Pelham Bay Park-bound 6 service, take bus to 86 St and use elevator to enter station. Transfer across the platform at 125th St for Woodlawn-bound 4 or Dyre Av-bound 5 service.  For downtown 6 service, take bus to 51st St and use elevators to enter station. For downtown 4, 5 or 6, take bus to 42 St-Grand Central and use elevators to enter station. If you are on the mezzanine:  See a station agent to re-enter faregate, then either: Take a Dyre Av-bound 5 to 3 Av-149 St. Use elevator to exit station and take a Manhattan-bound M125 (Bergen Av and Westchester Av) to 125 St and Lexington Av. Or, take a downtown 6 to 51st St. Use elevators to exit station and take an uptown M101 or M103 (50 St and 3 Av) to 125 St. ",
+        "mergeddescription": "Street (125 & Lex NE) to mezzanine"
     },
     "EL181": {
         "station": "135 St",
@@ -14556,7 +14566,8 @@ export const stations ={
         "nextadasouth": "310, 2",
         "redundant": 0,
         "busconnections": "M7, M102, Bx33",
-        "alternativeroute": "If you are on the street: Take an uptown 2 to 3 Av-149 St and use elevators to transfer to a downtown 2. Or, take a 14 St-bound M7 bus (Malcolm X Blvd and 135 St) to Columbus Av and 97 St, and transfer to a West Side-bound M96 or M106 bus to Broadway for 96 St 1/2/3. If you are on the platform: See a station agent to re-enter through the faregate and take a downtown 2 or 3 to 96 St, then either: Use elevators to transfer to an uptown 2 or 3 to 135 St. Or, use elevators to exit the station and take a Harlem-bound M7 bus (Amsterdam Av and 96 St) to 135 St."
+        "alternativeroute": "If you are on the street: Take an uptown 2 to 3 Av-149 St and use elevators to transfer to a downtown 2. Or, take a 14 St-bound M7 bus (Malcolm X Blvd and 135 St) to Columbus Av and 97 St, and transfer to a West Side-bound M96 or M106 bus to Broadway for 96 St 1/2/3. If you are on the platform: See a station agent to re-enter through the faregate and take a downtown 2 or 3 to 96 St, then either: Use elevators to transfer to an uptown 2 or 3 to 135 St. Or, use elevators to exit the station and take a Harlem-bound M7 bus (Amsterdam Av and 96 St) to 135 St.",
+        "mergeddescription": "Street (135 & Lenox SW) to downtown platform"
     },
     "EL180": {
         "station": "135 St",
@@ -14577,7 +14588,8 @@ export const stations ={
         "nextadasouth": "310, 2",
         "redundant": 0,
         "busconnections": "M7, M102, Bx33",
-        "alternativeroute": "If you are on the street: Take a downtown 2 or 3 to 96 St and use elevators to transfer to an uptown 2 or 3. Or, take a Harlem-bound M7 or M102 bus (Lenox Av and 135 St) to 145 St. Then transfer to a Botanic Garden-bound Bx19 bus to E 149 St and Bergen Av for 3 Av-149 St 2/5. If you are on the platform: Contact a station agent to re-enter through the faregate and take an uptown 2 to 3 Av-149 St, then either: Use elevators to transfer to a downtown 2 to 135 St.  Or, use elevators to exit the station and take a Riverbank Park-bound Bx19 bus (E 149 St and Melrose Av) to W 145 St and Malcolm X Blvd (Lenox Av). Then transfer to a 14 St-bound M7 or East Village-bound M102 bus to 135 St. Or, contact a station agent to re-enter through the faregate and take an uptown 3 to Harlem-148 St. Then remain on the train or wait at the platform for downtown service to 135 St."
+        "alternativeroute": "If you are on the street: Take a downtown 2 or 3 to 96 St and use elevators to transfer to an uptown 2 or 3. Or, take a Harlem-bound M7 or M102 bus (Lenox Av and 135 St) to 145 St. Then transfer to a Botanic Garden-bound Bx19 bus to E 149 St and Bergen Av for 3 Av-149 St 2/5. If you are on the platform: Contact a station agent to re-enter through the faregate and take an uptown 2 to 3 Av-149 St, then either: Use elevators to transfer to a downtown 2 to 135 St.  Or, use elevators to exit the station and take a Riverbank Park-bound Bx19 bus (E 149 St and Melrose Av) to W 145 St and Malcolm X Blvd (Lenox Av). Then transfer to a 14 St-bound M7 or East Village-bound M102 bus to 135 St. Or, contact a station agent to re-enter through the faregate and take an uptown 3 to Harlem-148 St. Then remain on the train or wait at the platform for downtown service to 135 St.",
+        "mergeddescription": "Street (135 & Lenox NE) to uptown platform"
     },
     "EL223": {
         "station": "14 St",
@@ -14598,7 +14610,8 @@ export const stations ={
         "nextadasouth": "167, A, C, E",
         "redundant": 0,
         "busconnections": "M14A, M14D, M20 (northbound at 8th Av and southbound at 7 Av), M11 (northbound at 9th Av), M12 (northbound at 8 Av)",
-        "alternativeroute": "If you are on the mezzanine: Take a downtown A, C or E to W 4 St and use ramps to transfer to an uptown A, C or E. If you are on the uptown A/C/E platform: Take an uptown A to 34 St-Penn Station and transfer across the platform to a downtown A to 14 St."
+        "alternativeroute": "If you are on the mezzanine: Take a downtown A, C or E to W 4 St and use ramps to transfer to an uptown A, C or E. If you are on the uptown A/C/E platform: Take an uptown A to 34 St-Penn Station and transfer across the platform to a downtown A to 14 St.",
+        "mergeddescription": "mezzanine to uptown A/C/E platform"
     },
     "EL222": {
         "station": "14 St",
@@ -14619,7 +14632,8 @@ export const stations ={
         "nextadasouth": "167, A, C, E",
         "redundant": 0,
         "busconnections": "M14A, M14D, M20 (northbound at 8th Av and southbound at 7 Av), M11 (northbound at 9th Av), M12 (northbound at 8 Av)",
-        "alternativeroute": "If you are on the mezzanine:  Take an uptown A to 34 St-Penn Station and transfer across the platform to a downtown A. Or, exit through the faregates and use the elevator to exit the station. Then take a Lincoln Center-bound M20 bus to 34 St-Penn Station for downtown A, C or E service. If you are on the downtown A/C/E platform: Take a downtown A, C or E to W 4 St and use ramps to transfer to an uptown A, C or E to 14 St."
+        "alternativeroute": "If you are on the mezzanine:  Take an uptown A to 34 St-Penn Station and transfer across the platform to a downtown A. Or, exit through the faregates and use the elevator to exit the station. Then take a Lincoln Center-bound M20 bus to 34 St-Penn Station for downtown A, C or E service. If you are on the downtown A/C/E platform: Take a downtown A, C or E to W 4 St and use ramps to transfer to an uptown A, C or E to 14 St.",
+        "mergeddescription": "mezz to downtown A/C/E platform"
     },
     "EL221": {
         "station": "14 St",
@@ -14640,7 +14654,8 @@ export const stations ={
         "nextadasouth": "117, L / 167, A, C, E",
         "redundant": 0,
         "busconnections": "M14A, M14D, M20 (northbound at 8th Av and southbound at 7 Av), M11 (northbound at 9th Av), M12 (northbound at 8 Av)",
-        "alternativeroute": "If you are on the street:  For L service, take a Lower East Side-bound M14A bus or M14D bus to Irving Pl for 14 St-Union Sq Station.  For A/C/E service, take a Lincoln Center-bound M20 bus to 34 St-Penn Station.  If you are on the mezzanine:  Take a Brooklyn-bound L to 14 St-Union Sq. Use elevators to exit the station and take an Abingdon Sq-bound M14A bus or Chelsea Piers-bound M14D bus (14 St and Irving Pl) to 8 Av.  Or, take an uptown A, C or E to 34 St-Penn Station. Use elevators to exit the station and take a 14 St-bound M7 bus or South Ferry-bound M20 bus (7 Av and 34 St) to 7 Av and 14 St. Proceed one block west to 8 Av."
+        "alternativeroute": "If you are on the street:  For L service, take a Lower East Side-bound M14A bus or M14D bus to Irving Pl for 14 St-Union Sq Station.  For A/C/E service, take a Lincoln Center-bound M20 bus to 34 St-Penn Station.  If you are on the mezzanine:  Take a Brooklyn-bound L to 14 St-Union Sq. Use elevators to exit the station and take an Abingdon Sq-bound M14A bus or Chelsea Piers-bound M14D bus (14 St and Irving Pl) to 8 Av.  Or, take an uptown A, C or E to 34 St-Penn Station. Use elevators to exit the station and take a 14 St-bound M7 bus or South Ferry-bound M20 bus (7 Av and 34 St) to 7 Av and 14 St. Proceed one block west to 8 Av.",
+        "mergeddescription": "Street (8th & 14 SW) to ACEL mezz"
     },
     "EL220": {
         "station": "14 St-Union Sq",
@@ -14661,7 +14676,8 @@ export const stations ={
         "nextadasouth": "21, R, W / 26, Q / 27, N",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M14A SBS, M14D SBS",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown N, Q, R or W to 34 St-Herald Sq and use elevators to transfer to a downtown N, Q, R or W. Or, exit station and take a westbound M14A or M14D bus to 14 St and 6 Av and transfer to a northbound M7 or M55 bus to 34 St-Herald Sq. If you are on the platform: Take a downtown R or W to City Hall, see agent to cross the platform and transfer to an uptown R or W to 14 St-Union Sq."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown N, Q, R or W to 34 St-Herald Sq and use elevators to transfer to a downtown N, Q, R or W. Or, exit station and take a westbound M14A or M14D bus to 14 St and 6 Av and transfer to a northbound M7 or M55 bus to 34 St-Herald Sq. If you are on the platform: Take a downtown R or W to City Hall, see agent to cross the platform and transfer to an uptown R or W to 14 St-Union Sq.",
+        "mergeddescription": "mezzanine to downtown N/Q/R/W"
     },
     "ES258X": {
         "station": "14 St-Union Sq",
@@ -14682,7 +14698,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M14A SBS, M14D SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (14 & 4th NE) to 456L(+NQRW) mezz"
     },
     "EL219": {
         "station": "14 St-Union Sq",
@@ -14703,7 +14720,8 @@ export const stations ={
         "nextadasouth": "21, R, W / 26, Q / 27, N",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M14A SBS, M14D SBS",
-        "alternativeroute": "If you are on the mezzanine: Take a downtown R or W to City Hall, see agent to cross the platform and transfer to an uptown R or W to 14 St-Union Sq. Or, exit station and take a westbound M14A or M14D bus to 14 St and 6 Av and transfer to a northbound M7 or M55 bus to 34 St-Herald Sq. If you are on the platform: Take an uptown N, Q, R or W to 34 St-Herald Sq and use elevators to transfer to a downtown N, Q, R or W to 14 St-Union Sq."
+        "alternativeroute": "If you are on the mezzanine: Take a downtown R or W to City Hall, see agent to cross the platform and transfer to an uptown R or W to 14 St-Union Sq. Or, exit station and take a westbound M14A or M14D bus to 14 St and 6 Av and transfer to a northbound M7 or M55 bus to 34 St-Herald Sq. If you are on the platform: Take an uptown N, Q, R or W to 34 St-Herald Sq and use elevators to transfer to a downtown N, Q, R or W to 14 St-Union Sq.",
+        "mergeddescription": "mezz to uptown N/Q/R/W platform"
     },
     "EL218": {
         "station": "14 St-Union Sq",
@@ -14724,7 +14742,8 @@ export const stations ={
         "nextadasouth": "119, L",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M14A SBS, M14D SBS",
-        "alternativeroute": "If you are on the mezzanine: Exit through the faregate at the opposite end of the mezzanine and use the elevator to exit the station. Then, for 8 Av, take an M14A or M14D bus to 8 Av. Or, for Brooklyn-bound L, take an M14A or M14D bus to 1 Av. If you are on the platform: Take a Brooklyn-bound L to 1 Av. Then exit station and take an westbound M14A or M14D bus (E 14 St and 1 Av) to 4 Av."
+        "alternativeroute": "If you are on the mezzanine: Exit through the faregate at the opposite end of the mezzanine and use the elevator to exit the station. Then, for 8 Av, take an M14A or M14D bus to 8 Av. Or, for Brooklyn-bound L, take an M14A or M14D bus to 1 Av. If you are on the platform: Take a Brooklyn-bound L to 1 Av. Then exit station and take an westbound M14A or M14D bus (E 14 St and 1 Av) to 4 Av.",
+        "mergeddescription": "mezzanine to L platform"
     },
     "EL217": {
         "station": "14 St-Union Sq",
@@ -14745,7 +14764,8 @@ export const stations ={
         "nextadasouth": "119, L / 21, R, W / 26, Q / 27, N",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M14A SBS, M14D SBS",
-        "alternativeroute": "If you are on the street: For 8 Av, take an M14A or M14D bus to 8 Av. Or, for Brooklyn-bound L, take an M14A or M14D bus to 1 Av. Then, for N, Q, R or W, take an 8 Av-bound L to 14 St-Union Sq and transfer to an uptown or downtown N, Q, R or W. If you are on the mezzanine: See a station agent to re-enter through faregate and take a Brooklyn-bound L to 1 Av. Then exit station and take a westbound M14A or M14D bus (E 14 St and 1 Av) to 4 Av."
+        "alternativeroute": "If you are on the street: For 8 Av, take an M14A or M14D bus to 8 Av. Or, for Brooklyn-bound L, take an M14A or M14D bus to 1 Av. Then, for N, Q, R or W, take an 8 Av-bound L to 14 St-Union Sq and transfer to an uptown or downtown N, Q, R or W. If you are on the mezzanine: See a station agent to re-enter through faregate and take a Brooklyn-bound L to 1 Av. Then exit station and take a westbound M14A or M14D bus (E 14 St and 1 Av) to 4 Av.",
+        "mergeddescription": "Street (4th & 14 NE) to LNQRW mezz"
     },
     "ES257X": {
         "station": "14 St-Union Sq",
@@ -14766,7 +14786,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M14A SBS, M14D SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "4/5/6 mezz to street (14 & 4th NE) (+LQR)"
     },
     "ES219": {
         "station": "14 St-Union Sq",
@@ -14787,7 +14808,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M14A SBS, M14D SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "L platform to 456 & NQRW(+St) mezz"
     },
     "ES115": {
         "station": "145 St",
@@ -14808,7 +14830,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown B/D platform to mezz (+AC)"
     },
     "ES116": {
         "station": "145 St",
@@ -14829,7 +14852,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown B/D platform to mezz (+AC)"
     },
     "ES114": {
         "station": "161 St-Yankee Stadium",
@@ -14850,7 +14874,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx6, Bx6 SBS, Bx13",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "4 upper mezzanine to B/D mezzanine"
     },
     "ES113": {
         "station": "161 St-Yankee Stadium",
@@ -14871,7 +14896,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx6, Bx6 SBS, Bx13",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "B/D lower mezzanine to 4 mezzanine"
     },
     "EL135": {
         "station": "161 St-Yankee Stadium",
@@ -14892,7 +14918,8 @@ export const stations ={
         "nextadasouth": "153, B, D",
         "redundant": 0,
         "busconnections": "Bx6, Bx6 SBS, Bx13",
-        "alternativeroute": "If you are on the mezzanine:\nTake a downtown B or D to 125 St and use elevators to transfer to an uptown B or D. \nOr, exit through the faregate to use the elevator to exit the station and proceed east, \nthree blocks uphill, to Grand Concourse. Take a Riverdale-bound Bx1, Bx1 LTD or \nKingsbridge Heights-bound Bx2 bus to Kingsbridge Rd B/D. \nOr, take a Woodlawn-bound 4 to Fordham Rd. Use the elevator to exit the station and \ntake Bay Plaza-bound Bx12 SBS (Fordham Rd and Jerome Av) to Valentine Av. Proceed \nto Grand Concourse and transfer to a Riverdale-bound Bx1, Bx1 LTD, or Kingsbridge \nHeights-bound Bx2 bus to Kingsbridge Rd B/D. \nIf you are on the platform:\nTake an uptown B or D to Kingsbridge Rd,\nThen either:\nUse elevators to transfer to a downtown D to 161 St-Yankee Stadium. \nOR \nUse elevators to exit the station and take a Mott Haven-bound Bx1, Bx1 LTD or Bx2 bus \n(Grand Concourse and Kingsbridge Rd) to 161 St. Proceed three blocks west to 161 St-Yankee Stadium 4/B/D"
+        "alternativeroute": "If you are on the mezzanine:\nTake a downtown B or D to 125 St and use elevators to transfer to an uptown B or D. \nOr, exit through the faregate to use the elevator to exit the station and proceed east, \nthree blocks uphill, to Grand Concourse. Take a Riverdale-bound Bx1, Bx1 LTD or \nKingsbridge Heights-bound Bx2 bus to Kingsbridge Rd B/D. \nOr, take a Woodlawn-bound 4 to Fordham Rd. Use the elevator to exit the station and \ntake Bay Plaza-bound Bx12 SBS (Fordham Rd and Jerome Av) to Valentine Av. Proceed \nto Grand Concourse and transfer to a Riverdale-bound Bx1, Bx1 LTD, or Kingsbridge \nHeights-bound Bx2 bus to Kingsbridge Rd B/D. \nIf you are on the platform:\nTake an uptown B or D to Kingsbridge Rd,\nThen either:\nUse elevators to transfer to a downtown D to 161 St-Yankee Stadium. \nOR \nUse elevators to exit the station and take a Mott Haven-bound Bx1, Bx1 LTD or Bx2 bus \n(Grand Concourse and Kingsbridge Rd) to 161 St. Proceed three blocks west to 161 St-Yankee Stadium 4/B/D",
+        "mergeddescription": "mezzanine to Bronx-bound B/D"
     },
     "EL134": {
         "station": "161 St-Yankee Stadium",
@@ -14913,7 +14940,8 @@ export const stations ={
         "nextadasouth": "153, B, D",
         "redundant": 0,
         "busconnections": "Bx6, Bx6 SBS, Bx13",
-        "alternativeroute": "If you are on the mezzanine:\nTake an uptown B or D to Kingsbridge Rd and use elevators to transfer to a downtown B \nor D. \nOr, exit through the faregate to use the elevator to the exit station and take a Riverside \nDr-bound Bx6 bus or Bx6 SBS (161 St and River Av) to Amsterdam Av. Transfer to an \nWest Harlem-bound M100 bus or East Village-bound M101 LTD bus and take to 125 St \nand St. Nicholas Av for 125 St A/C/B/D. \nIf you are on the platform: \nTake a downtown B or D to 125 St. \nThen either: \nUse elevators to transfer to an uptown D to 161 St -Yankee Stadium. \nOR\nUse elevators to exit the station and take an Inwood-bound M100 or Fort George-bound \nM101 LTD bus (125 St and St Nicholas Av) to 155 St. Transfer to a Bronx-bound Bx6 bus \nor Bx6 SBS and take to River Av."
+        "alternativeroute": "If you are on the mezzanine:\nTake an uptown B or D to Kingsbridge Rd and use elevators to transfer to a downtown B \nor D. \nOr, exit through the faregate to use the elevator to the exit station and take a Riverside \nDr-bound Bx6 bus or Bx6 SBS (161 St and River Av) to Amsterdam Av. Transfer to an \nWest Harlem-bound M100 bus or East Village-bound M101 LTD bus and take to 125 St \nand St. Nicholas Av for 125 St A/C/B/D. \nIf you are on the platform: \nTake a downtown B or D to 125 St. \nThen either: \nUse elevators to transfer to an uptown D to 161 St -Yankee Stadium. \nOR\nUse elevators to exit the station and take an Inwood-bound M100 or Fort George-bound \nM101 LTD bus (125 St and St Nicholas Av) to 155 St. Transfer to a Bronx-bound Bx6 bus \nor Bx6 SBS and take to River Av.",
+        "mergeddescription": "mezzanine to Manhattan-bound B/D"
     },
     "EL133": {
         "station": "161 St-Yankee Stadium",
@@ -14934,7 +14962,8 @@ export const stations ={
         "nextadasouth": "392, 4",
         "redundant": 0,
         "busconnections": "Bx6, Bx6 SBS, Bx13",
-        "alternativeroute": "If you are on the mezzanine:\nTake a Woodlawn-bound 4 to Fordham Rd and use elevators to transfer to a downtown \n4. \nOr, take a downtown B or D to 125 St. Use the elevator to exit the station and take \nLaGuardia-bound M60 SBS, Hub-bound M125 or an East Village-bound M101 LTD bus \n(125 St and St Nicholas Av) to Lexington Av for 125 St 4/5/6. \nIf you are on the platform:\nTake a downtown 4 to 125 St. \nThen either: \nUse the elevator to transfer to an uptown 4 to 161 St-Yankee Stadium. \nOR\nUse elevators to exit the station and take a Hub-bound M125 (125 St and Lexington Av) \nto Bergen Av and E 149 St. Transfer to Fordham Plaza-bound Bx15 LTD to 3 Av and 163 \nSt. Transfer to a Riverside Dr-bound Bx6 bus or Bx6 SBS to River Av and 161 St.\n"
+        "alternativeroute": "If you are on the mezzanine:\nTake a Woodlawn-bound 4 to Fordham Rd and use elevators to transfer to a downtown \n4. \nOr, take a downtown B or D to 125 St. Use the elevator to exit the station and take \nLaGuardia-bound M60 SBS, Hub-bound M125 or an East Village-bound M101 LTD bus \n(125 St and St Nicholas Av) to Lexington Av for 125 St 4/5/6. \nIf you are on the platform:\nTake a downtown 4 to 125 St. \nThen either: \nUse the elevator to transfer to an uptown 4 to 161 St-Yankee Stadium. \nOR\nUse elevators to exit the station and take a Hub-bound M125 (125 St and Lexington Av) \nto Bergen Av and E 149 St. Transfer to Fordham Plaza-bound Bx15 LTD to 3 Av and 163 \nSt. Transfer to a Riverside Dr-bound Bx6 bus or Bx6 SBS to River Av and 161 St.\n",
+        "mergeddescription": "mezzanine to Manhattan-bound 4"
     },
     "EL132": {
         "station": "161 St-Yankee Stadium",
@@ -14955,7 +14984,8 @@ export const stations ={
         "nextadasouth": "392, 4",
         "redundant": 0,
         "busconnections": "Bx6, Bx6 SBS, Bx13",
-        "alternativeroute": "If you are on the B/D mezzanine: \nTo Fordham Rd, exit through the faregate and use the elevator to exit the station. Take a \nHunts Pt-bound Bx6 Local bus (161 St and River Av) to Concourse Village E (Morris Av) \nand transfer to a Kingsbridge-bound Bx32 bus to Fordham Rd 4. \nTo Manhattan, take a Manhattan-bound B or D to 125 St and use elevators to exit the \nstation. Take LaGuardia-bound M60 SBS, Hub-bound M125 or an East Village-bound \nM101 LTD bus (125 St and St. Nicholas Av) to Lexington Av for 125 St 4/5/6. \nIf you are on the Manhattan-bound 4 mezzanine: \nFor Woodlawn-bound 4 service, take a downtown 4 to 125 St and use the elevator to \ntransfer to an uptown 4. \nTo exit or access B/D service, take a Manhattan-bound 4 to 125 St. Use elevators to exit \nthe station and take West Side-bound M60 SBS, a West Harlem-bound M125, or Ft. \nGeorge-bound M101 LTD bus (E 125 St and Lexington Av) to St. Nicholas Av for 125 St \nA/C/B/D. For 161 St-Yankee Stadium, take a Bronx-bound B/D. \nIf you are on the Woodlawn-bound 4 platform: \nTake a Woodlawn-bound 4 to 170 St and use the elevator to exit the station. Take a \nMott Haven-bound Bx1, Bx1 LTD, or Bx2 from Grand Concourse/E 170 St to Grand \nConcourse/E 161 St. Then proceed to the 161 St-Yankee Stadium station at River Ave \nand E 161 St."
+        "alternativeroute": "If you are on the B/D mezzanine: \nTo Fordham Rd, exit through the faregate and use the elevator to exit the station. Take a \nHunts Pt-bound Bx6 Local bus (161 St and River Av) to Concourse Village E (Morris Av) \nand transfer to a Kingsbridge-bound Bx32 bus to Fordham Rd 4. \nTo Manhattan, take a Manhattan-bound B or D to 125 St and use elevators to exit the \nstation. Take LaGuardia-bound M60 SBS, Hub-bound M125 or an East Village-bound \nM101 LTD bus (125 St and St. Nicholas Av) to Lexington Av for 125 St 4/5/6. \nIf you are on the Manhattan-bound 4 mezzanine: \nFor Woodlawn-bound 4 service, take a downtown 4 to 125 St and use the elevator to \ntransfer to an uptown 4. \nTo exit or access B/D service, take a Manhattan-bound 4 to 125 St. Use elevators to exit \nthe station and take West Side-bound M60 SBS, a West Harlem-bound M125, or Ft. \nGeorge-bound M101 LTD bus (E 125 St and Lexington Av) to St. Nicholas Av for 125 St \nA/C/B/D. For 161 St-Yankee Stadium, take a Bronx-bound B/D. \nIf you are on the Woodlawn-bound 4 platform: \nTake a Woodlawn-bound 4 to 170 St and use the elevator to exit the station. Take a \nMott Haven-bound Bx1, Bx1 LTD, or Bx2 from Grand Concourse/E 170 St to Grand \nConcourse/E 161 St. Then proceed to the 161 St-Yankee Stadium station at River Ave \nand E 161 St.",
+        "mergeddescription": "B/D mezzanine to 4 train"
     },
     "EL131": {
         "station": "161 St-Yankee Stadium",
@@ -14976,7 +15006,8 @@ export const stations ={
         "nextadasouth": "153, B, D / 392, 4",
         "redundant": 0,
         "busconnections": "Bx6, Bx6 SBS, Bx13",
-        "alternativeroute": "If you are on the street: \nFor Manhattan-bound 4, take a Hunts Pt-bound Bx6 bus or Bx6 SBS (161 St and River Av) \nto 163 St and 3 Av. Transfer to a West Harlem-bound Bx15 bus and take it to 125 St and \nLexington Av for 125 St 4/5/6. \nFor Woodlawn-bound 4, take a Riverdale-bound Bx1 or Bx1 LTD, or a Kingsbridge-bound \nBx2 from Grand Concourse/E 170 St to Grand Concourse/Fordham Rd. Then proceed to \nthe Fordham Rd 4 station at Fordham Rd and Jerome Ave.\nFor Bedford Park Blvd-bound B/D, take a Hunts Pt-bound Bx6 Local bus (161 St and River \nAv) to Concourse Village E (Morris Av). Transfer to a Kingsbridge-bound Bx32 bus and \ntake it to Jerome Av and Kingsbridge Rd for B or D. \nFor Manhattan-bound B/D, take a Riverside Dr-bound Bx6 bus or Bx6 SBS (161 St and \nRiver Av) to Amsterdam Av. Transfer to an East Harlem-bound M100 or East Villagebound M101 LTD bus and take it to 125 St and St. Nicholas Av for 125 St A/C/B/D. \nIf you are on the mezzanine:\nTake a Manhattan-bound 4 to 125 St. Use elevators to exit the station and take a Hubbound M125 bus (125 St and Lexington Av) to Bergen AV and E 149 St. Transfer to a \nFordham Plaza-bound BX15 LTD bus ( 3 Av E 150 St) to 3 Av and 163 St. Transfer to a \nRiverside Dr-bound Bx6 bus or Bx6 SBS to 161 St and River Av. \nOr, take a Manhattan-bound B or D to 125 St. Use elevators to exit the station and take \nan Inwood-bound M100 or Ft. George-bound M101 LTD bus (125 St and St. Nicholas Av) \nto 155 St. Transfer to a Hunts Point-bound Bx6 bus or Bx6 SBS to 161 St and River Av."
+        "alternativeroute": "If you are on the street: \nFor Manhattan-bound 4, take a Hunts Pt-bound Bx6 bus or Bx6 SBS (161 St and River Av) \nto 163 St and 3 Av. Transfer to a West Harlem-bound Bx15 bus and take it to 125 St and \nLexington Av for 125 St 4/5/6. \nFor Woodlawn-bound 4, take a Riverdale-bound Bx1 or Bx1 LTD, or a Kingsbridge-bound \nBx2 from Grand Concourse/E 170 St to Grand Concourse/Fordham Rd. Then proceed to \nthe Fordham Rd 4 station at Fordham Rd and Jerome Ave.\nFor Bedford Park Blvd-bound B/D, take a Hunts Pt-bound Bx6 Local bus (161 St and River \nAv) to Concourse Village E (Morris Av). Transfer to a Kingsbridge-bound Bx32 bus and \ntake it to Jerome Av and Kingsbridge Rd for B or D. \nFor Manhattan-bound B/D, take a Riverside Dr-bound Bx6 bus or Bx6 SBS (161 St and \nRiver Av) to Amsterdam Av. Transfer to an East Harlem-bound M100 or East Villagebound M101 LTD bus and take it to 125 St and St. Nicholas Av for 125 St A/C/B/D. \nIf you are on the mezzanine:\nTake a Manhattan-bound 4 to 125 St. Use elevators to exit the station and take a Hubbound M125 bus (125 St and Lexington Av) to Bergen AV and E 149 St. Transfer to a \nFordham Plaza-bound BX15 LTD bus ( 3 Av E 150 St) to 3 Av and 163 St. Transfer to a \nRiverside Dr-bound Bx6 bus or Bx6 SBS to 161 St and River Av. \nOr, take a Manhattan-bound B or D to 125 St. Use elevators to exit the station and take \nan Inwood-bound M100 or Ft. George-bound M101 LTD bus (125 St and St. Nicholas Av) \nto 155 St. Transfer to a Hunts Point-bound Bx6 bus or Bx6 SBS to 161 St and River Av.",
+        "mergeddescription": "Street (161 & River NE) to 4BD mezz"
     },
     "EL141": {
         "station": "168 St",
@@ -14997,7 +15028,8 @@ export const stations ={
         "nextadasouth": "153, A",
         "redundant": 0,
         "busconnections": "M2, M3, M5, M100, Bx7",
-        "alternativeroute": "If you are on the mezzanine: Take a downtown A or C to 125 St and use elevators to transfer to an uptown A. Or, use the elevator to exit the station and take an uptown Bx7 or M100 bus (St. Nicholas Av and 167 St) to 175 St. Proceed to Ft. Washington Av and 177 St for A service. If you are on the platform: Take an uptown A to 175 St, then either: Transfer across the platform for a downtown A to 168 St. Or, use the elevators to exit the station and proceed to Broadway and 176 St. Take a downtown Bx7 or M100 bus to 168 St or downtown M5 LTD bus to 167 St."
+        "alternativeroute": "If you are on the mezzanine: Take a downtown A or C to 125 St and use elevators to transfer to an uptown A. Or, use the elevator to exit the station and take an uptown Bx7 or M100 bus (St. Nicholas Av and 167 St) to 175 St. Proceed to Ft. Washington Av and 177 St for A service. If you are on the platform: Take an uptown A to 175 St, then either: Transfer across the platform for a downtown A to 168 St. Or, use the elevators to exit the station and proceed to Broadway and 176 St. Take a downtown Bx7 or M100 bus to 168 St or downtown M5 LTD bus to 167 St.",
+        "mergeddescription": "mezzanine to downtown A/C platform"
     },
     "EL140": {
         "station": "168 St",
@@ -15018,7 +15050,8 @@ export const stations ={
         "nextadasouth": "153, A",
         "redundant": 0,
         "busconnections": "M2, M3, M5, M100, Bx7",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown A to 175 St and transfer across the platform for downtown A. If you are on the platform: Take a downtown A or C to 125 St, then either: Use elevators to transfer to an uptown A or C to 168 St. Or, use elevators to exit the station and take a Ft. George-bound M3 bus (St. Nicholas Av and 124 St) to 167 St."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown A to 175 St and transfer across the platform for downtown A. If you are on the platform: Take a downtown A or C to 125 St, then either: Use elevators to transfer to an uptown A or C to 168 St. Or, use elevators to exit the station and take a Ft. George-bound M3 bus (St. Nicholas Av and 124 St) to 167 St.",
+        "mergeddescription": "mezzanine to uptown A/C"
     },
     "EL139": {
         "station": "168 St",
@@ -15039,7 +15072,8 @@ export const stations ={
         "nextadasouth": "153, A",
         "redundant": 0,
         "busconnections": "M2, M3, M5, M100, Bx7",
-        "alternativeroute": "If you are on the street: Take an uptown Bx7 or M100 bus (St. Nicholas Av and 167 St) to 175 St. Proceed to Ft. Washington Av and 177 St for A service. If you are on the mezzanine: Take an uptown A to 175 St. Use elevators to exit the station and proceed to Broadway and 176 St and take a downtown Bx7 or M100 bus to 168 St, or downtown M5 LTD bus to 167 St."
+        "alternativeroute": "If you are on the street: Take an uptown Bx7 or M100 bus (St. Nicholas Av and 167 St) to 175 St. Proceed to Ft. Washington Av and 177 St for A service. If you are on the mezzanine: Take an uptown A to 175 St. Use elevators to exit the station and proceed to Broadway and 176 St and take a downtown Bx7 or M100 bus to 168 St, or downtown M5 LTD bus to 167 St.",
+        "mergeddescription": "Street (168 & Nicholas SE) to AC mezz"
     },
     "EL114": {
         "station": "168 St",
@@ -15060,7 +15094,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M2, M3, M5, M100, Bx7",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "transfer mezz to 1 train overpass"
     },
     "EL113": {
         "station": "168 St",
@@ -15081,7 +15116,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M2, M3, M5, M100, Bx7",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "transfer mezz to 1 train overpass"
     },
     "EL112": {
         "station": "168 St",
@@ -15102,7 +15138,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M2, M3, M5, M100, Bx7",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "transfer mezz to 1 train overpass"
     },
     "EL111": {
         "station": "168 St",
@@ -15123,7 +15160,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M2, M3, M5, M100, Bx7",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "transfer mezz to 1 train overpass"
     },
     "EL508": {
         "station": "170 St",
@@ -15144,7 +15182,8 @@ export const stations ={
         "nextadasouth": "389, 4",
         "redundant": 0,
         "busconnections": "Bx11, Bx18",
-        "alternativeroute": "If you are on the mezzanine:\nTake a northbound 4 to Fordham Rd and use elevators to transfer to a southbound 4.\nOr, use elevator to exit the station and take a Mott Haven-bound Bx1, Bx1 LTD, or Bx2 \nfrom Grand Concourse/E 170 St to Grand Concourse/E 161 St. Then proceed to the 161 \nSt-Yankee Stadium 4 station at River Ave and E 161 St.\nIf you are on the platform:\nTake a southbound 4 to 161 St-Yankee Stadium.\nThen either:\nUse elevators to transfer to a northbound 4.\nOR\nUse elevators to exit the station and take a Riverdale-bound Bx1 or Bx1 LTD, or a \nKingsbridge-bound Bx2 from Grand Concourse/ E 161 St to Grand Concourse/E 170 St."
+        "alternativeroute": "If you are on the mezzanine:\nTake a northbound 4 to Fordham Rd and use elevators to transfer to a southbound 4.\nOr, use elevator to exit the station and take a Mott Haven-bound Bx1, Bx1 LTD, or Bx2 \nfrom Grand Concourse/E 170 St to Grand Concourse/E 161 St. Then proceed to the 161 \nSt-Yankee Stadium 4 station at River Ave and E 161 St.\nIf you are on the platform:\nTake a southbound 4 to 161 St-Yankee Stadium.\nThen either:\nUse elevators to transfer to a northbound 4.\nOR\nUse elevators to exit the station and take a Riverdale-bound Bx1 or Bx1 LTD, or a \nKingsbridge-bound Bx2 from Grand Concourse/ E 161 St to Grand Concourse/E 170 St.",
+        "mergeddescription": "Mezzanine to southbound service"
     },
     "EL507": {
         "station": "170 St",
@@ -15165,7 +15204,8 @@ export const stations ={
         "nextadasouth": "389, 4",
         "redundant": 0,
         "busconnections": "Bx11, Bx18",
-        "alternativeroute": "If you are on the mezzanine:\nTake a southbound 4 to 161 St-Yankee Stadium. Then use elevators to transfer to a \nnorthbound 4.\nOr, use elevator to exit the station and take a Riverdale-bound Bx1 or Bx1 LTD, or a \nKingsbridge-bound Bx2 from Grand Concourse/E 170 St to Grand Concourse/Fordham \nRd. Then proceed to the Fordham Rd 4 station at Fordham Rd and Jerome Ave.\nIf you are on the platform:\nTake a northbound 4 to Fordham Rd.\nThen either:\nUse elevators to transfer to a southbound 4.\nOR\nUse elevators to exit the station and take a Mott Haven-bound Bx1, Bx1 LTD, or Bx2 \nfrom Grand Concourse/E Fordham Rd to Grand Concourse/E 170 St."
+        "alternativeroute": "If you are on the mezzanine:\nTake a southbound 4 to 161 St-Yankee Stadium. Then use elevators to transfer to a \nnorthbound 4.\nOr, use elevator to exit the station and take a Riverdale-bound Bx1 or Bx1 LTD, or a \nKingsbridge-bound Bx2 from Grand Concourse/E 170 St to Grand Concourse/Fordham \nRd. Then proceed to the Fordham Rd 4 station at Fordham Rd and Jerome Ave.\nIf you are on the platform:\nTake a northbound 4 to Fordham Rd.\nThen either:\nUse elevators to transfer to a southbound 4.\nOR\nUse elevators to exit the station and take a Mott Haven-bound Bx1, Bx1 LTD, or Bx2 \nfrom Grand Concourse/E Fordham Rd to Grand Concourse/E 170 St.",
+        "mergeddescription": "Mezzanine to northbound service"
     },
     "EL506": {
         "station": "170 St",
@@ -15186,7 +15226,8 @@ export const stations ={
         "nextadasouth": "389, 4",
         "redundant": 0,
         "busconnections": "Bx11, Bx18",
-        "alternativeroute": "If you are on the street:\nFor service to Fordham Rd, take a Riverdale-bound Bx1 or Bx1 LTD, or a Kingsbridgebound Bx2 from Grand Concourse/E 170 St to Grand Concourse/Fordham Rd. Then \nproceed to Fordham Rd and Jerome Ave.\nFor southbound service, take a Mott Haven-bound Bx1, Bx1 LTD, or Bx2 from Grand \nConcourse/E 170 St to Grand Concourse/E 161 St. Then proceed to the 161 St-Yankee \nStadium 4 station at River Ave and E 161 St.\nIf you are on the mezzanine:\nSee a station agent to re-enter through the faregate and take a Manhattan-bound 4 to \n161 St-Yankee Stadium. Use elevators to exit the station to take a Riverdale-bound Bx1 \nor Bx1 LTD, or a Kingsbridge-bound Bx2 from Grand Concourse/E 161 St to Grand \nConcourse/E 170 St."
+        "alternativeroute": "If you are on the street:\nFor service to Fordham Rd, take a Riverdale-bound Bx1 or Bx1 LTD, or a Kingsbridgebound Bx2 from Grand Concourse/E 170 St to Grand Concourse/Fordham Rd. Then \nproceed to Fordham Rd and Jerome Ave.\nFor southbound service, take a Mott Haven-bound Bx1, Bx1 LTD, or Bx2 from Grand \nConcourse/E 170 St to Grand Concourse/E 161 St. Then proceed to the 161 St-Yankee \nStadium 4 station at River Ave and E 161 St.\nIf you are on the mezzanine:\nSee a station agent to re-enter through the faregate and take a Manhattan-bound 4 to \n161 St-Yankee Stadium. Use elevators to exit the station to take a Riverdale-bound Bx1 \nor Bx1 LTD, or a Kingsbridge-bound Bx2 from Grand Concourse/E 161 St to Grand \nConcourse/E 170 St.",
+        "mergeddescription": "Street (170th & Jerome SE) to mezz"
     },
     "EL124": {
         "station": "175 St",
@@ -15207,7 +15248,8 @@ export const stations ={
         "nextadasouth": "148, A",
         "redundant": 0,
         "busconnections": "M4, M5, M98 (weekdays only), M100, Bx3, Bx7, Bx11, Bx13, Bx35, Bx36; GWB Bus Station",
-        "alternativeroute": "If you are on the mezzanine:  Exit through faregate and use elevator to street. Then take a downtown Bx7, M5 or M100 (176 St and Broadway) to 168 St A/C Station.   If you are on the platform:  Take downtown A to 168 St. Then use elevators to exit station and take an uptown M5 (167 St and Broadway), uptown M100, or Riverdale-bound Bx7 (167 St and St. Nicholas Av.)  to 175 St and Broadway. Proceed one block west to Ft Washington Av."
+        "alternativeroute": "If you are on the mezzanine:  Exit through faregate and use elevator to street. Then take a downtown Bx7, M5 or M100 (176 St and Broadway) to 168 St A/C Station.   If you are on the platform:  Take downtown A to 168 St. Then use elevators to exit station and take an uptown M5 (167 St and Broadway), uptown M100, or Riverdale-bound Bx7 (167 St and St. Nicholas Av.)  to 175 St and Broadway. Proceed one block west to Ft Washington Av.",
+        "mergeddescription": "Mezzanine to platform"
     },
     "EL123": {
         "station": "175 St",
@@ -15228,7 +15270,8 @@ export const stations ={
         "nextadasouth": "148, A",
         "redundant": 0,
         "busconnections": "M4, M5, M98 (weekdays only), M100, Bx3, Bx7, Bx11, Bx13, Bx35, Bx36; GWB Bus Station",
-        "alternativeroute": "If you are on the street:  Proceed to 176 St and Broadway. Then take a downtown Bx7, M5 or M100 (176 St and Broadway) to 168 St station.  If you are on the mezzanine:  See a station agent to re-enter faregate and take a downtown A to 168 St. Use elevators to exit station and take an uptown M5 (167 St and Broadway), uptown M100, or Riverdale-bound Bx7 (167 St and St Nicholas Av) to 175 St and Broadway. Proceed one block west to Ft Washinton Av."
+        "alternativeroute": "If you are on the street:  Proceed to 176 St and Broadway. Then take a downtown Bx7, M5 or M100 (176 St and Broadway) to 168 St station.  If you are on the mezzanine:  See a station agent to re-enter faregate and take a downtown A to 168 St. Use elevators to exit station and take an uptown M5 (167 St and Broadway), uptown M100, or Riverdale-bound Bx7 (167 St and St Nicholas Av) to 175 St and Broadway. Proceed one block west to Ft Washinton Av.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL109": {
         "station": "181 St",
@@ -15249,7 +15292,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M3, Bx3, Bx11, Bx13, Bx35, Bx36",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "mezzanine to overpass"
     },
     "EL108": {
         "station": "181 St",
@@ -15270,7 +15314,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M3, Bx3, Bx11, Bx13, Bx35, Bx36",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "mezzanine to overpass"
     },
     "EL107": {
         "station": "181 St",
@@ -15291,7 +15336,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M3, Bx3, Bx11, Bx13, Bx35, Bx36",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "mezzanine to overpass"
     },
     "EL518": {
         "station": "181 St",
@@ -15312,7 +15358,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx3, Bx7, Bx11, Bx13, Bx35, Bx36, M4, M98, M100; GWB Bus Station",
-        "alternativeroute": "If you\u2019re on the platform: \nTake a Downtown and Brooklyn-bound A to 175 St. Then, transfer across the platform to an Inwood-207 St-bound A. \nIf you\u2019re on the mezzanine:\nUse EL517 to take an Inwood-207 St-bound A to Inwood-207 St. Then, stay on the train or transfer across the platform for the next Downtown and Brooklyn-bound A to 181st St. "
+        "alternativeroute": "If you\u2019re on the platform: \nTake a Downtown and Brooklyn-bound A to 175 St. Then, transfer across the platform to an Inwood-207 St-bound A. \nIf you\u2019re on the mezzanine:\nUse EL517 to take an Inwood-207 St-bound A to Inwood-207 St. Then, stay on the train or transfer across the platform for the next Downtown and Brooklyn-bound A to 181st St. ",
+        "mergeddescription": "Mezzanine to platform"
     },
     "EL517": {
         "station": "181 St",
@@ -15333,7 +15380,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx3, Bx7, Bx11, Bx13, Bx35, Bx36, M4, M98, M100; GWB Bus Station",
-        "alternativeroute": "If you\u2019re on the platform: \nTake an Inwood-207 St-bound A to Inwood-207 St. Then, stay on the train or transfer across the platform for the next Downtown and Brooklyn-bound A to 181st St. \nIf you\u2019re on the mezzanine: \nUse EL518 to take a Downtown and Brooklyn-bound A to 175 St. Then, transfer across the platform to an Inwood-207 St-bound A."
+        "alternativeroute": "If you\u2019re on the platform: \nTake an Inwood-207 St-bound A to Inwood-207 St. Then, stay on the train or transfer across the platform for the next Downtown and Brooklyn-bound A to 181st St. \nIf you\u2019re on the mezzanine: \nUse EL518 to take a Downtown and Brooklyn-bound A to 175 St. Then, transfer across the platform to an Inwood-207 St-bound A.",
+        "mergeddescription": "Mezzanine to platform"
     },
     "ES118": {
         "station": "181 St",
@@ -15354,7 +15402,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx3, Bx7, Bx11, Bx13, Bx35, Bx36, M4, M98, M100; GWB Bus Station",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES119": {
         "station": "181 St",
@@ -15375,7 +15424,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx3, Bx7, Bx11, Bx13, Bx35, Bx36, M4, M98, M100; GWB Bus Station",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES117": {
         "station": "181 St",
@@ -15396,7 +15446,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx3, Bx7, Bx11, Bx13, Bx35, Bx36, M4, M98, M100; GWB Bus Station",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "EL110": {
         "station": "181 St",
@@ -15417,7 +15468,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M3, Bx3, Bx11, Bx13, Bx35, Bx36",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "mezzanine to overpass"
     },
     "EL119": {
         "station": "181 St",
@@ -15438,7 +15490,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "Bx3, Bx7, Bx11, Bx13, Bx35, Bx36, M4, M98, M100; GWB Bus Station",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Upper to lower mezzanine"
     },
     "EL118": {
         "station": "181 St",
@@ -15459,7 +15512,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "Bx3, Bx7, Bx11, Bx13, Bx35, Bx36, M4, M98, M100; GWB Bus Station",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Upper to lower mezzanine"
     },
     "EL117": {
         "station": "181 St",
@@ -15480,7 +15534,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "Bx3, Bx7, Bx11, Bx13, Bx35, Bx36, M4, M98, M100; GWB Bus Station",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Upper to lower mezzanine"
     },
     "EL120": {
         "station": "190 St",
@@ -15501,7 +15556,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M4, M98",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Upper to lower mezzanine"
     },
     "EL116": {
         "station": "190 St",
@@ -15522,7 +15578,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M4, M98",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Upper to lower mezzanine"
     },
     "EL115": {
         "station": "190 St",
@@ -15543,7 +15600,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M4, M98",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Upper to lower mezzanine"
     },
     "EL105": {
         "station": "191 St",
@@ -15564,7 +15622,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M3, M101",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street (191 & Nicholas SW) to mezz"
     },
     "EL104": {
         "station": "191 St",
@@ -15585,7 +15644,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M3, M101",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street (191 & Nicholas SW) to mezz"
     },
     "EL103": {
         "station": "191 St",
@@ -15606,7 +15666,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M3, M101",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street (191 & Nicholas SW) to mezz"
     },
     "EL106": {
         "station": "191 St",
@@ -15627,7 +15688,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M3, M101",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street (191 & Nicholas SW) to mezz"
     },
     "EL407": {
         "station": "21 St-Queensbridge",
@@ -15648,7 +15710,8 @@ export const stations ={
         "nextadasouth": "222, F",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Manhattan-bound F to Roosevelt Island.  Then use elevators to take a Jamaica-bound F. If you are on the platform: Take a Jamaica-bound F to Jackson Hts-Roosevelt Av.  Then use elevators to transfer to a Manhattan-bound F to 21 St-Queensbridge."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Manhattan-bound F to Roosevelt Island.  Then use elevators to take a Jamaica-bound F. If you are on the platform: Take a Jamaica-bound F to Jackson Hts-Roosevelt Av.  Then use elevators to transfer to a Manhattan-bound F to 21 St-Queensbridge.",
+        "mergeddescription": "mezzanine to Jamaica-bound platform"
     },
     "EL406": {
         "station": "21 St-Queensbridge",
@@ -15669,7 +15732,8 @@ export const stations ={
         "nextadasouth": "222, F",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Jamaica-bound F to the Jackson Hts-Roosevelt Av.  Then use elevators to transfer to a Manhattan-bound F.   If you are on the platform: Take a Manhattan-bound F to Roosevelt Island.   Use elevators to take a Jamaica-bound F to 21 St-Queensbridge F Station."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Jamaica-bound F to the Jackson Hts-Roosevelt Av.  Then use elevators to transfer to a Manhattan-bound F.   If you are on the platform: Take a Manhattan-bound F to Roosevelt Island.   Use elevators to take a Jamaica-bound F to 21 St-Queensbridge F Station.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL405": {
         "station": "21 St-Queensbridge",
@@ -15690,7 +15754,8 @@ export const stations ={
         "nextadasouth": "222, F",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": "If you are on the street: Take an Astoria-bound Q102 (41st Av and 21st St) to Queens Plaza South and 27 St.  Then transfer to a Jackson Heights-bound Q32 (Queens Plaza South and 28 St) to the Jackson Hts-Roosevelt Av E/F/M/R/7 Station. If you are on the mezzanine: Use elevator to take a Jamaica-bound F to the Jackson Hts.  Use elevators to exit station and take a Midtown-bound Q32 (Roosevelt Av and 74 St) to Queens Plaza North and 27 St.  Then transfer to a Roosevelt Island-bound Q102 at the same stop and travel to 21st St and 41st Av."
+        "alternativeroute": "If you are on the street: Take an Astoria-bound Q102 (41st Av and 21st St) to Queens Plaza South and 27 St.  Then transfer to a Jackson Heights-bound Q32 (Queens Plaza South and 28 St) to the Jackson Hts-Roosevelt Av E/F/M/R/7 Station. If you are on the mezzanine: Use elevator to take a Jamaica-bound F to the Jackson Hts.  Use elevators to exit station and take a Midtown-bound Q32 (Roosevelt Av and 74 St) to Queens Plaza North and 27 St.  Then transfer to a Roosevelt Island-bound Q102 at the same stop and travel to 21st St and 41st Av.",
+        "mergeddescription": "Street (21 & 41 NE) to mezzanine"
     },
     "ES422": {
         "station": "21 St-Queensbridge",
@@ -15711,7 +15776,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street (21 & 41 NE)"
     },
     "ES423": {
         "station": "21 St-Queensbridge",
@@ -15732,7 +15798,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "ES421": {
         "station": "21 St-Queensbridge",
@@ -15753,7 +15820,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (21 & 41 NE) to mezzanine"
     },
     "ES426": {
         "station": "21 St-Queensbridge",
@@ -15774,7 +15842,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Queens-bound platform to mezzanine"
     },
     "ES424": {
         "station": "21 St-Queensbridge",
@@ -15795,7 +15864,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Manhattan-bound platform to mezz"
     },
     "ES425": {
         "station": "21 St-Queensbridge",
@@ -15816,7 +15886,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q66, Q69, Q100, Q102, Q103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to Queens-bound platform"
     },
     "EL299": {
         "station": "23 St",
@@ -15837,7 +15908,8 @@ export const stations ={
         "nextadasouth": "230, 6",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M23 SBS, BM1, BM2, BM3, BM4, BxM6, BxM7, BxM8, BxM9, BxM10, BxM11 (southbound only), QM21, SIM3, SIM10, SIM31, X37, X38",
-        "alternativeroute": "If you are on the street: Cross the street and use elevator to take uptown 6 to Grand Central-42 St. Transfer to downtown 6. Or, take a downtown M1 or M55 (5 Av & 23 St) to Houston St.  Proceed 1 block east to Broadway-Lafayette Bleecker Station. (Elevator on north side of Houston St.) Or, take an uptown M1, M2 or M3 (Park Av South & E 23 St) to Madison Av & E 28 St.  Proceed east one block to Park Av and use elevator to take southbound 6. If you are at the platform: Take downtown 6 to Bleecker St. Then either: Use elevators to transfer to and uptown 6  to 23 St. Or, take an uptown M1 (Lafayette St between E. Houston St & Bleecker St) to E 23 St."
+        "alternativeroute": "If you are on the street: Cross the street and use elevator to take uptown 6 to Grand Central-42 St. Transfer to downtown 6. Or, take a downtown M1 or M55 (5 Av & 23 St) to Houston St.  Proceed 1 block east to Broadway-Lafayette Bleecker Station. (Elevator on north side of Houston St.) Or, take an uptown M1, M2 or M3 (Park Av South & E 23 St) to Madison Av & E 28 St.  Proceed east one block to Park Av and use elevator to take southbound 6. If you are at the platform: Take downtown 6 to Bleecker St. Then either: Use elevators to transfer to and uptown 6  to 23 St. Or, take an uptown M1 (Lafayette St between E. Houston St & Bleecker St) to E 23 St.",
+        "mergeddescription": "Street (Park & 23 NW) to downtown platform"
     },
     "EL298": {
         "station": "23 St",
@@ -15858,7 +15930,8 @@ export const stations ={
         "nextadasouth": "230, 6",
         "redundant": 0,
         "busconnections": "M1, M2, M3 (all northbound), M23 SBS, BM1, BM2, BM3, BM4, BxM6, BxM7, BxM8, BxM9, BxM10, BxM11 (southbound only), QM21, SIM3, SIM10, SIM31, X37, X38",
-        "alternativeroute": "If you are on the street: Cross the street and use elevator to take a downtown 6 to Bleecker St. Use elevators to transfer to an uptown 6 .  Or, take an uptown M1, M2LTD, or M3 (Park Av South & 23 St) to Madison Av & E 42 St. Proceed 1 block east to Grand Central. If you are at the platform: Take uptown 6 to Grand Central-42 St. Then either: Use elevators to transfer to a downtown 6  to 23 St. Or, use elevators to exit station and take to downtown M101LTD, M102, or M103 (Lexington Av & 42 St) to 23 St and Park Av S."
+        "alternativeroute": "If you are on the street: Cross the street and use elevator to take a downtown 6 to Bleecker St. Use elevators to transfer to an uptown 6 .  Or, take an uptown M1, M2LTD, or M3 (Park Av South & 23 St) to Madison Av & E 42 St. Proceed 1 block east to Grand Central. If you are at the platform: Take uptown 6 to Grand Central-42 St. Then either: Use elevators to transfer to a downtown 6  to 23 St. Or, use elevators to exit station and take to downtown M101LTD, M102, or M103 (Lexington Av & 42 St) to 23 St and Park Av S.",
+        "mergeddescription": "Street (Park & 23 NE) to uptown platform"
     },
     "EL185": {
         "station": "231 St",
@@ -15879,7 +15952,8 @@ export const stations ={
         "nextadasouth": "299, 1",
         "redundant": 0,
         "busconnections": "Bx1, Bx7 (northbound), Bx9, Bx10, Bx20 (northbound)",
-        "alternativeroute": "If you are on the street: \nTake a Riverdale-bound Bx9 bus (Broadway and 231 St) to 238 St or 242 St.\nIf you are on the platform: \nContact a station agent to re-enter through the faregate and take an uptown 1 to 242 \nSt. Then remain on the train or wait at the platform for a downtown 1."
+        "alternativeroute": "If you are on the street: \nTake a Riverdale-bound Bx9 bus (Broadway and 231 St) to 238 St or 242 St.\nIf you are on the platform: \nContact a station agent to re-enter through the faregate and take an uptown 1 to 242 \nSt. Then remain on the train or wait at the platform for a downtown 1.",
+        "mergeddescription": "Street (231 & Broadway SE) to Bronx-bound platform"
     },
     "EL184": {
         "station": "231 St",
@@ -15900,7 +15974,8 @@ export const stations ={
         "nextadasouth": "299, 1",
         "redundant": 0,
         "busconnections": "Bx1, Bx7 (northbound), Bx9, Bx10, Bx20 (northbound)",
-        "alternativeroute": "If you are on the street: \nTake an uptown 1 to 242 St and transfer via the platform to a downtown 1. \nOr, take a Washington Heights-bound Bx7 or Inwood-bound Bx20 bus (W 231 St and \nCorlear Av) to Broadway and 220 St. Then cross Broadway and take an West Harlembound M100 bus to Dyckman St and Nagle Av for downtown 1 service at Dyckman St \nstation.\nIf you are on the platform:\nSee a station agent to re-enter through the faregate.\nThen either: \nTake a downtown 1 to 96 St and use elevators to transfer to an uptown 1 to 231 St. \nOr, \nTake a Manhattan-bound 1 to Dyckman St and use the elevator to exit the station. Then \ntake an Inwood-bound M100 bus (Dyckman St and Nagle Av) to W 219 St and Broadway \nand transfer to a Riverdale-bound Bx7or Bx20 bus to W 231 St and Broadway."
+        "alternativeroute": "If you are on the street: \nTake an uptown 1 to 242 St and transfer via the platform to a downtown 1. \nOr, take a Washington Heights-bound Bx7 or Inwood-bound Bx20 bus (W 231 St and \nCorlear Av) to Broadway and 220 St. Then cross Broadway and take an West Harlembound M100 bus to Dyckman St and Nagle Av for downtown 1 service at Dyckman St \nstation.\nIf you are on the platform:\nSee a station agent to re-enter through the faregate.\nThen either: \nTake a downtown 1 to 96 St and use elevators to transfer to an uptown 1 to 231 St. \nOr, \nTake a Manhattan-bound 1 to Dyckman St and use the elevator to exit the station. Then \ntake an Inwood-bound M100 bus (Dyckman St and Nagle Av) to W 219 St and Broadway \nand transfer to a Riverdale-bound Bx7or Bx20 bus to W 231 St and Broadway.",
+        "mergeddescription": "Street (231 & Broadway SW) to Manhattan-bound platform"
     },
     "EL194": {
         "station": "233 St",
@@ -15921,7 +15996,8 @@ export const stations ={
         "nextadasouth": "421, 2, 5",
         "redundant": 0,
         "busconnections": "Bx1, Bx7, Bx9, Bx10, Bx20",
-        "alternativeroute": "If you are on the mezzanine: \nUse the elevator at the other end of the mezzanine to take an uptown 2 to 241 St. \nRemain on the train or wait at the platform for the next downtown 2. \nOr, exit the station through the faregate and take a Clasons Pt-bound Bx39 bus (233 St \nand White Plans Rd) to Gun Hill Rd 2/5 Station. \nIf you are on the platform:\nTake a downtown 2 or 5 to Gun Hill Rd, \nthen either: \nUse elevators to transfer to an uptown 2 or 5 to 233 St. \nOr, \nuse the elevator to exit the station and take a Wakefield-bound Bx39 bus (E Gun Hill Rd \nand White Plains Rd) to 233 St and White Plains Rd."
+        "alternativeroute": "If you are on the mezzanine: \nUse the elevator at the other end of the mezzanine to take an uptown 2 to 241 St. \nRemain on the train or wait at the platform for the next downtown 2. \nOr, exit the station through the faregate and take a Clasons Pt-bound Bx39 bus (233 St \nand White Plans Rd) to Gun Hill Rd 2/5 Station. \nIf you are on the platform:\nTake a downtown 2 or 5 to Gun Hill Rd, \nthen either: \nUse elevators to transfer to an uptown 2 or 5 to 233 St. \nOr, \nuse the elevator to exit the station and take a Wakefield-bound Bx39 bus (E Gun Hill Rd \nand White Plains Rd) to 233 St and White Plains Rd.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL193": {
         "station": "233 St",
@@ -15942,7 +16018,8 @@ export const stations ={
         "nextadasouth": "421, 2, 5",
         "redundant": 0,
         "busconnections": "Bx1, Bx7, Bx9, Bx10, Bx20",
-        "alternativeroute": "If you are on the mezzanine: \nUse the elevator at the other end of the mezzanine to take a downtown 2 or 5 to Gun \nHill Rd. Use elevators to transfer to an uptown 2 or 5. \nOr, exit the station and take a Wakefield-bound Bx39 bus (E Gun Hill Rd and White \nPlains Rd) to 233 St and White Plains Rd. \nIf you are on the platform:\nTake an uptown 2 to 241 St. Remain on the train or wait at the platform for the next \ndowntown 2 to 233 St."
+        "alternativeroute": "If you are on the mezzanine: \nUse the elevator at the other end of the mezzanine to take a downtown 2 or 5 to Gun \nHill Rd. Use elevators to transfer to an uptown 2 or 5. \nOr, exit the station and take a Wakefield-bound Bx39 bus (E Gun Hill Rd and White \nPlains Rd) to 233 St and White Plains Rd. \nIf you are on the platform:\nTake an uptown 2 to 241 St. Remain on the train or wait at the platform for the next \ndowntown 2 to 233 St.",
+        "mergeddescription": "mezzanine to Bronx-bound platform"
     },
     "EL192": {
         "station": "233 St",
@@ -15963,7 +16040,8 @@ export const stations ={
         "nextadasouth": "421, 2, 5",
         "redundant": 0,
         "busconnections": "Bx1, Bx7, Bx9, Bx10, Bx20",
-        "alternativeroute": "If you are on the street: \nTake a Clasons Pt-bound Bx39 bus (233 St and White Plans Rd) to Gun Hill Rd 25 Station. \nIf you are on the mezzanine:\nSee a station agent to re-enter through the faregate and use the elevator to take a \ndowntown 2 or 5 to Gun Hill Rd. Then use the elevator to exit the station and take a \nWakefield-bound Bx39 bus (E Gun Hill Rd and White Plains Rd) to 233 St and White \nPlains Rd."
+        "alternativeroute": "If you are on the street: \nTake a Clasons Pt-bound Bx39 bus (233 St and White Plans Rd) to Gun Hill Rd 25 Station. \nIf you are on the mezzanine:\nSee a station agent to re-enter through the faregate and use the elevator to take a \ndowntown 2 or 5 to Gun Hill Rd. Then use the elevator to exit the station and take a \nWakefield-bound Bx39 bus (E Gun Hill Rd and White Plains Rd) to 233 St and White \nPlains Rd.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL279X": {
         "station": "28 St",
@@ -15984,7 +16062,8 @@ export const stations ={
         "nextadasouth": "405, 6",
         "redundant": 0,
         "busconnections": "One block west to Madison Ave for uptown M1, M2, M3, BM1, BM2, BM3, BM4, X63, X64, X68, BxM3, BxM4, BxM11, BxM18, and QM21. One block east to Lexington Ave for downtown M101, M102, M103, SIM6, SIM11",
-        "alternativeroute": "If you are on the street: Take a M101, M102 or M103 (Lexington Av between 28th and 27th St) to 23 St.  Proceed to 23 St and Park Av for 23 St 6 Station. If you are on the platform: Take a southbound 6 to 23rd St.  Use elevator to exit station and then an uptown M1, M2 or M3 (Park Av South between 23 St and 24 St) to 28th St."
+        "alternativeroute": "If you are on the street: Take a M101, M102 or M103 (Lexington Av between 28th and 27th St) to 23 St.  Proceed to 23 St and Park Av for 23 St 6 Station. If you are on the platform: Take a southbound 6 to 23rd St.  Use elevator to exit station and then an uptown M1, M2 or M3 (Park Av South between 23 St and 24 St) to 28th St.",
+        "mergeddescription": "Street (28 & Park SW) to downtown platform"
     },
     "EL130": {
         "station": "3 Av-149 St",
@@ -16005,7 +16084,8 @@ export const stations ={
         "nextadasouth": "392, 5 / 438, 2",
         "redundant": 0,
         "busconnections": "Bx2, Bx4, Bx4A, Bx15, Bx19, Bx21, Bx41, Bx41 SBS",
-        "alternativeroute": "If you are on the street:\nFor downtown 5 service, take a West Harlem-bound M125 bus (Bergen Av and E 149 St) \nto Lexington Av and 125 St.\nFor downtown 2 service, take a Riverbank Pk-bound Bx19 bus (E 149 St and Melrose Av) \nto 145 St and Malcolm X Blvd. Transfer to a 14 St-bound M7 bus to 135 St. \nIf you are on the platform:\nTake a Manhattan-bound 2 to 135 St. Use elevators to exit and re-enter the station to \ntransfer to a Bronx-bound 2 to 3 Av-149 St. \nOr, take a Manhattan-bound 5 to 125 St. Use the elevator to transfer to a Bronx-bound \n5 to 3 Av-149 St. \nOr, take a Manhattan-bound 5 to 125 St. Use elevators to exit the station and take a \nHub-bound M125 bus (125 St and Lexington Av) to 3 Av and 149 St."
+        "alternativeroute": "If you are on the street:\nFor downtown 5 service, take a West Harlem-bound M125 bus (Bergen Av and E 149 St) \nto Lexington Av and 125 St.\nFor downtown 2 service, take a Riverbank Pk-bound Bx19 bus (E 149 St and Melrose Av) \nto 145 St and Malcolm X Blvd. Transfer to a 14 St-bound M7 bus to 135 St. \nIf you are on the platform:\nTake a Manhattan-bound 2 to 135 St. Use elevators to exit and re-enter the station to \ntransfer to a Bronx-bound 2 to 3 Av-149 St. \nOr, take a Manhattan-bound 5 to 125 St. Use the elevator to transfer to a Bronx-bound \n5 to 3 Av-149 St. \nOr, take a Manhattan-bound 5 to 125 St. Use elevators to exit the station and take a \nHub-bound M125 bus (125 St and Lexington Av) to 3 Av and 149 St.",
+        "mergeddescription": "Street (Melrose & 149 NW) to Manhattan-bound platform"
     },
     "EL129": {
         "station": "3 Av-149 St",
@@ -16026,7 +16106,8 @@ export const stations ={
         "nextadasouth": "392, 5 / 438, 2",
         "redundant": 0,
         "busconnections": "Bx2, Bx4, Bx4A, Bx15, Bx19, Bx21, Bx41, Bx41 SBS",
-        "alternativeroute": "If you are on the street:\nTake a Westchester Square-bound Bx4 (Bergen Av and 149 St) to Simpson St 2/5. \nIf you are on the platform:\nTake an uptown 2 or 5 to Simpson St.\nThen either:\nUse elevators to transfer to a downtown 2 or 5 to 3 Av-149 St. \nOR\nUse the elevator to exit the station and take a Hub-bound Bx4bus (Westchester Av and \nSimpson St) to 149 St and Bergen Av."
+        "alternativeroute": "If you are on the street:\nTake a Westchester Square-bound Bx4 (Bergen Av and 149 St) to Simpson St 2/5. \nIf you are on the platform:\nTake an uptown 2 or 5 to Simpson St.\nThen either:\nUse elevators to transfer to a downtown 2 or 5 to 3 Av-149 St. \nOR\nUse the elevator to exit the station and take a Hub-bound Bx4bus (Westchester Av and \nSimpson St) to 149 St and Bergen Av.",
+        "mergeddescription": "Street (3rd & 149 SW) to Bronx-bound platform"
     },
     "EL200X": {
         "station": "34 St-Herald Sq",
@@ -16047,7 +16128,8 @@ export const stations ={
         "nextadasouth": "15, N, Q, R, W / 167, B, D, F",
         "redundant": 1,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (6th & 32 NW) to PATH & subways (+BDFMQR)"
     },
     "EL213": {
         "station": "34 St-Herald Sq",
@@ -16068,7 +16150,8 @@ export const stations ={
         "nextadasouth": "15, N, Q, R, W / 167, B, D, F",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": "If you are on the street: For uptown or downtown B/D/F/M, take a northbound M5 or M7 bus to 50 St. Proceed to 47-50 Sts-Rockefeller Ctr. For uptown or downtown N/Q/R/W, take eastbound M34 SBS to 34 St and Lexington Av. Transfer to a southbound M101, M102 or M103 bus to 14 St. Proceed to 14 St-Union Sq. If you are on the mezzanine: Proceed down the hall to the PATH concourse and take the elevator to street. Or, take a downtown N, Q, R or W to 14 St-Union Sq. Exit station and take a westbound M14 or M14D bus (14 St and Irving Pl) to 14 St and 6 Av. Transfer to a northbound M7 or M55 bus to 34 St and 6 Av. Or, take an uptown N, Q, R or W to Times Sq-42 St. Exit station and take a southbound M7 or M20 bus (7 Av and 41 St) to 34 St. Proceed one block east to 34 St-Herald Sq."
+        "alternativeroute": "If you are on the street: For uptown or downtown B/D/F/M, take a northbound M5 or M7 bus to 50 St. Proceed to 47-50 Sts-Rockefeller Ctr. For uptown or downtown N/Q/R/W, take eastbound M34 SBS to 34 St and Lexington Av. Transfer to a southbound M101, M102 or M103 bus to 14 St. Proceed to 14 St-Union Sq. If you are on the mezzanine: Proceed down the hall to the PATH concourse and take the elevator to street. Or, take a downtown N, Q, R or W to 14 St-Union Sq. Exit station and take a westbound M14 or M14D bus (14 St and Irving Pl) to 14 St and 6 Av. Transfer to a northbound M7 or M55 bus to 34 St and 6 Av. Or, take an uptown N, Q, R or W to Times Sq-42 St. Exit station and take a southbound M7 or M20 bus (7 Av and 41 St) to 34 St. Proceed one block east to 34 St-Herald Sq.",
+        "mergeddescription": "Street to mezzanine (+BDFMNQRW)"
     },
     "EL212": {
         "station": "34 St-Herald Sq",
@@ -16089,7 +16172,8 @@ export const stations ={
         "nextadasouth": "15, N, Q, R, W",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": "If you are on the mezzanine: Take a downtown N, Q, R or W to 14 St-Union Sq and use elevators to transfer to an uptown N, Q, R, or W. Or, exit station and take a northbound M5, M7, or M55 bus to 42 St and 6 Av. Times Sq-42 St is one block west. If you are on the platform: Take an uptown N, Q, R or W to Times Sq-42 St then either: Use elevators to transfer to a downtown N, Q, R or W to 34 St-Herald Sq. Or, exit station and take a southbound M20 bus (41 St and 7 Av) to 34 St and 7 Av. Transfer to eastbound M34 SBS to 34 St and Broadway."
+        "alternativeroute": "If you are on the mezzanine: Take a downtown N, Q, R or W to 14 St-Union Sq and use elevators to transfer to an uptown N, Q, R, or W. Or, exit station and take a northbound M5, M7, or M55 bus to 42 St and 6 Av. Times Sq-42 St is one block west. If you are on the platform: Take an uptown N, Q, R or W to Times Sq-42 St then either: Use elevators to transfer to a downtown N, Q, R or W to 34 St-Herald Sq. Or, exit station and take a southbound M20 bus (41 St and 7 Av) to 34 St and 7 Av. Transfer to eastbound M34 SBS to 34 St and Broadway.",
+        "mergeddescription": "mezz to uptown N/Q/R/W platform\n"
     },
     "EL211": {
         "station": "34 St-Herald Sq",
@@ -16110,7 +16194,8 @@ export const stations ={
         "nextadasouth": "15, N, Q, R, W",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown N, Q, R or W to Times Sq-42 St and use elevators to transfer to a downtown N, Q, R or W. Or, exit station and take a northbound M5, M7, or M55 bus to 42 St and 6 Av. Times Sq-42 St is one block west. If you are on platform: Take a downtown N, Q, R or W to 14 St-Union Sq then either: Use elevators to transfer to an uptown N, Q, R or W to 34 St-Herald Sq. Or, exit station and take a westbound M14A or M14D bus to 14 St and 6 Av. Transfer to a northbound M7 or M55 bus to 34 St-Herald Sq."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown N, Q, R or W to Times Sq-42 St and use elevators to transfer to a downtown N, Q, R or W. Or, exit station and take a northbound M5, M7, or M55 bus to 42 St and 6 Av. Times Sq-42 St is one block west. If you are on platform: Take a downtown N, Q, R or W to 14 St-Union Sq then either: Use elevators to transfer to an uptown N, Q, R or W to 34 St-Herald Sq. Or, exit station and take a westbound M14A or M14D bus to 14 St and 6 Av. Transfer to a northbound M7 or M55 bus to 34 St-Herald Sq.",
+        "mergeddescription": "mezzanine to downtown N/Q/R/W"
     },
     "EL210": {
         "station": "34 St-Herald Sq",
@@ -16131,7 +16216,8 @@ export const stations ={
         "nextadasouth": "167, B, D, F",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": "If you are on the mezzanine: Take a downtown B, D, F or M to W 4 St-Washington Sq and use elevators to transfer to an uptown B, D, F or M to 34 St-Herald Sq. Or, take a northbound M5 or M7 bus to 50 St. Transfer to an uptown B, D, F or M. If you are on the platform: Take an uptown B, D, F or M to 47-50 Sts Rockefeller Ctr then either: Use elevators to transfer to a downtown B, D, F or M to 34 St-Herald Sq. Or, exit station and take an eastbound M50 bus (50 St and 6 Av) to 50 St and 5 Av. Transfer to a southbound M2 LTD, M3, or M5 LTD bus and exit at 33 St and 5 Av. Proceed one block west to 34 St-Herald Sq."
+        "alternativeroute": "If you are on the mezzanine: Take a downtown B, D, F or M to W 4 St-Washington Sq and use elevators to transfer to an uptown B, D, F or M to 34 St-Herald Sq. Or, take a northbound M5 or M7 bus to 50 St. Transfer to an uptown B, D, F or M. If you are on the platform: Take an uptown B, D, F or M to 47-50 Sts Rockefeller Ctr then either: Use elevators to transfer to a downtown B, D, F or M to 34 St-Herald Sq. Or, exit station and take an eastbound M50 bus (50 St and 6 Av) to 50 St and 5 Av. Transfer to a southbound M2 LTD, M3, or M5 LTD bus and exit at 33 St and 5 Av. Proceed one block west to 34 St-Herald Sq.",
+        "mergeddescription": "mezz to uptown B/D/F/M platform"
     },
     "EL209": {
         "station": "34 St-Herald Sq",
@@ -16152,7 +16238,8 @@ export const stations ={
         "nextadasouth": "167, B, D, F",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown B, D, F or M to 47-50 Sts-Rockefeller Ctr and use elevators to transfer to a downtown B, D, F or M. Or, take a northbound M5 or M7 bus to 50 St. Transfer to a downtown B, D, F or M at 47-50 Sts-Rockefeller Ctr. If you are on the platform:  Take a downtown B, D, F or M to W 4 St-Washington Sq then either: Use elevators to transfer to an uptown B, D, F or M to 34 St-Herald Sq. Or, exit station and take a northbound M55 bus (6 Av and W 3 St) to 34 St-Herald Sq."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown B, D, F or M to 47-50 Sts-Rockefeller Ctr and use elevators to transfer to a downtown B, D, F or M. Or, take a northbound M5 or M7 bus to 50 St. Transfer to a downtown B, D, F or M at 47-50 Sts-Rockefeller Ctr. If you are on the platform:  Take a downtown B, D, F or M to W 4 St-Washington Sq then either: Use elevators to transfer to an uptown B, D, F or M to 34 St-Herald Sq. Or, exit station and take a northbound M55 bus (6 Av and W 3 St) to 34 St-Herald Sq.",
+        "mergeddescription": "mezzanine to downtown B/D/F/M"
     },
     "ES231": {
         "station": "34 St-Herald Sq",
@@ -16173,7 +16260,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/Q/R/W mezz to downtown B/D/F/M"
     },
     "ES232": {
         "station": "34 St-Herald Sq",
@@ -16194,7 +16282,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Downtown B/D/F/M to N/Q/R/W mezz"
     },
     "ES230": {
         "station": "34 St-Herald Sq",
@@ -16215,7 +16304,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown B/D/F/M platform to N/Q/R/W mezz"
     },
     "ES235": {
         "station": "34 St-Herald Sq",
@@ -16236,7 +16326,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/Q/R/W mezz to downtown B/D/F/M"
     },
     "ES236": {
         "station": "34 St-Herald Sq",
@@ -16257,7 +16348,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Downtown B/D/F/M to N/Q/R/W mezz"
     },
     "ES233": {
         "station": "34 St-Herald Sq",
@@ -16278,7 +16370,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/Q/R/W mezz to uptown B/D/F/M platform"
     },
     "ES234": {
         "station": "34 St-Herald Sq",
@@ -16299,7 +16392,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown B/D/F/M platform to N/Q/R/W mezz"
     },
     "ES221": {
         "station": "34 St-Herald Sq",
@@ -16320,7 +16414,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (32 & 6th NW) to intermediate mezz (+BDFMQR)"
     },
     "ES224": {
         "station": "34 St-Herald Sq",
@@ -16341,7 +16436,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intemediate mezz to PATH mezz (+BDFMNQRW)"
     },
     "ES222": {
         "station": "34 St-Herald Sq",
@@ -16362,7 +16458,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to street (32 & 6th NW) (+BDFMQR)"
     },
     "ES223": {
         "station": "34 St-Herald Sq",
@@ -16383,7 +16480,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "PATH mezz to intermediate mezz (+BDFMNQRW)"
     },
     "ES229": {
         "station": "34 St-Herald Sq",
@@ -16404,7 +16502,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M4, M5, M7, M34 SBS, M34A SBS, M55, Q32, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2; PATH",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/Q/R/W mezz to uptown B/D/F/M platform"
     },
     "EL600": {
         "station": "34 St-Hudson Yards",
@@ -16425,7 +16524,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": "If you are on the Lower Mezzanine:  Use another elevator to exit the station and take East Side-bound M34 SBS (34 St and 11 Av) to 8 Av. Then transfer to an M20 bus or M34 SBS to 41 St and proceed to 42 St and 7 Av for Times Sq-42 St 7. If you are on the Platform: Take a Flushing-bound 7 to Times Sq-42 St. Use the elevator to exit the station and take an M7 or M20 bus (7 Av and 41 St) to 34 St and 7 Av. Then transfer to Hudson Yards-bound M34 SBS on 34 St to Hudson Blvd East."
+        "alternativeroute": "If you are on the Lower Mezzanine:  Use another elevator to exit the station and take East Side-bound M34 SBS (34 St and 11 Av) to 8 Av. Then transfer to an M20 bus or M34 SBS to 41 St and proceed to 42 St and 7 Av for Times Sq-42 St 7. If you are on the Platform: Take a Flushing-bound 7 to Times Sq-42 St. Use the elevator to exit the station and take an M7 or M20 bus (7 Av and 41 St) to 34 St and 7 Av. Then transfer to Hudson Yards-bound M34 SBS on 34 St to Hudson Blvd East.",
+        "mergeddescription": "mezzanine to platform"
     },
     "EL603": {
         "station": "34 St-Hudson Yards",
@@ -16446,7 +16546,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": "If you are on the Street:  Take East Side-bound M34 SBS (34 St and 11 Av) to 8 Av and transfer to an M20 bus or M34A SBS to 41 St. Then proceed to 42 St and 7 Av for Times Sq-42 St 7. If you are on the Upper Mezzanine:  Take a Flushing-bound 7 to Times Sq-42 St. Use the elevator to exit the station and take an M7 or M20 bus (7 Av and 41 St) to 34 St and 7 Av. Then transfer to Hudson Yards-bound M34 SBS on 34 St to Hudson Blvd East."
+        "alternativeroute": "If you are on the Street:  Take East Side-bound M34 SBS (34 St and 11 Av) to 8 Av and transfer to an M20 bus or M34A SBS to 41 St. Then proceed to 42 St and 7 Av for Times Sq-42 St 7. If you are on the Upper Mezzanine:  Take a Flushing-bound 7 to Times Sq-42 St. Use the elevator to exit the station and take an M7 or M20 bus (7 Av and 41 St) to 34 St and 7 Av. Then transfer to Hudson Yards-bound M34 SBS on 34 St to Hudson Blvd East.",
+        "mergeddescription": "Street to upper mezzanine"
     },
     "EL602": {
         "station": "34 St-Hudson Yards",
@@ -16467,7 +16568,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "upper mezzanine to lower mezzanine"
     },
     "EL601": {
         "station": "34 St-Hudson Yards",
@@ -16488,7 +16590,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "upper mezzanine to lower mezzanine"
     },
     "ES631": {
         "station": "34 St-Hudson Yards",
@@ -16509,7 +16612,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to upper mezzanine"
     },
     "ES632": {
         "station": "34 St-Hudson Yards",
@@ -16530,7 +16634,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezzanine to street"
     },
     "ES630": {
         "station": "34 St-Hudson Yards",
@@ -16551,7 +16656,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezzanine to street"
     },
     "ES635": {
         "station": "34 St-Hudson Yards",
@@ -16572,7 +16678,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES636": {
         "station": "34 St-Hudson Yards",
@@ -16593,7 +16700,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES633": {
         "station": "34 St-Hudson Yards",
@@ -16614,7 +16722,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES634": {
         "station": "34 St-Hudson Yards",
@@ -16635,7 +16744,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES621": {
         "station": "34 St-Hudson Yards",
@@ -16656,7 +16766,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES624": {
         "station": "34 St-Hudson Yards",
@@ -16677,7 +16788,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES625": {
         "station": "34 St-Hudson Yards",
@@ -16698,7 +16810,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES622": {
         "station": "34 St-Hudson Yards",
@@ -16719,7 +16832,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES623": {
         "station": "34 St-Hudson Yards",
@@ -16740,7 +16854,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES628": {
         "station": "34 St-Hudson Yards",
@@ -16761,7 +16876,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezzanine to street"
     },
     "ES629": {
         "station": "34 St-Hudson Yards",
@@ -16782,7 +16898,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezzanine to street"
     },
     "ES626": {
         "station": "34 St-Hudson Yards",
@@ -16803,7 +16920,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to upper mezzanine"
     },
     "ES627": {
         "station": "34 St-Hudson Yards",
@@ -16824,7 +16942,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M11, M12, M34 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to upper mezzanine"
     },
     "EL226": {
         "station": "34 St-Penn Station",
@@ -16845,7 +16964,8 @@ export const stations ={
         "nextadasouth": "166, A, C, E",
         "redundant": 0,
         "busconnections": "M20 (northbound), M34 SBS; M34A SBS",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown A to 42 St/Port Authority Bus Terminal and transfer to an uptown C or E across the platform. To exit the station, follow signage to enter the Penn Station complex and use the elevator to exit to street. If you are on the uptown C/E platform: Take an uptown C or E to 42 St/Port Authority Bus Terminal and use the ramps to transfer to a downtown A, C or E to 34 St-Penn Station."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown A to 42 St/Port Authority Bus Terminal and transfer to an uptown C or E across the platform. To exit the station, follow signage to enter the Penn Station complex and use the elevator to exit to street. If you are on the uptown C/E platform: Take an uptown C or E to 42 St/Port Authority Bus Terminal and use the ramps to transfer to a downtown A, C or E to 34 St-Penn Station.",
+        "mergeddescription": "uptown C/E platform to mezzanine"
     },
     "EL225": {
         "station": "34 St-Penn Station",
@@ -16866,7 +16986,8 @@ export const stations ={
         "nextadasouth": "166, A, C, E",
         "redundant": 1,
         "busconnections": "M20 (northbound), M34 SBS; M34A SBS",
-        "alternativeroute": "If you are on the street: Use elevator at SW corner of 34 St & 7 Av. Proceed along 34 St towards 7 Av for EL34X at the LIRR entrance. If you are on the uptown C/E platform: See a station agent to re-enter through the faregate and take the elevator to the mezzanine passageway. Follow signage to enter the Penn Station complex and take the elevator to street."
+        "alternativeroute": "If you are on the street: Use elevator at SW corner of 34 St & 7 Av. Proceed along 34 St towards 7 Av for EL34X at the LIRR entrance. If you are on the uptown C/E platform: See a station agent to re-enter through the faregate and take the elevator to the mezzanine passageway. Follow signage to enter the Penn Station complex and take the elevator to street.",
+        "mergeddescription": "Street (34 & 8th SE) to uptown C/E"
     },
     "EL228": {
         "station": "34 St-Penn Station",
@@ -16887,7 +17008,8 @@ export const stations ={
         "nextadasouth": "166, A, C, E",
         "redundant": 0,
         "busconnections": "M20 (northbound), M34 SBS; M34A SBS",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator in the middle of the mezzanine to take a downtown A to 14 St and transfer to a downtown C or E across the platform. If you are on the downtown C/E platform: Take a downtown C or E to 14 St, then either: Use elevators to transfer to an uptown A, C or E to 34 St-Penn Station. Or, use elevators to exit the station and take an uptown M20 bus to 34 St."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator in the middle of the mezzanine to take a downtown A to 14 St and transfer to a downtown C or E across the platform. If you are on the downtown C/E platform: Take a downtown C or E to 14 St, then either: Use elevators to transfer to an uptown A, C or E to 34 St-Penn Station. Or, use elevators to exit the station and take an uptown M20 bus to 34 St.",
+        "mergeddescription": "Penn Station concourse to downtown C/E platform"
     },
     "EL227": {
         "station": "34 St-Penn Station",
@@ -16908,7 +17030,8 @@ export const stations ={
         "nextadasouth": "166, A, C, E",
         "redundant": 0,
         "busconnections": "M20 (northbound), M34 SBS; M34A SBS",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown C or E to 42 St/Port Authority Bus Terminal and transfer across the platform for an uptown A or use ramps to transfer to a downtown A. If you are on the A platform: Take an uptown A to 42 St/Port Authority Bus Terminal and use ramps to transfer to a downtown C or E to 34 St-Penn Station."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown C or E to 42 St/Port Authority Bus Terminal and transfer across the platform for an uptown A or use ramps to transfer to a downtown A. If you are on the A platform: Take an uptown A to 42 St/Port Authority Bus Terminal and use ramps to transfer to a downtown C or E to 34 St-Penn Station.",
+        "mergeddescription": "Penn Station concourse to A platform"
     },
     "EL215": {
         "station": "34 St-Penn Station",
@@ -16929,7 +17052,8 @@ export const stations ={
         "nextadasouth": "327, 1, 2, 3",
         "redundant": 0,
         "busconnections": "M4 (northbound at 32 St), M7 (southbound), M20 (southbound), M34 SBS; M34A SBS, Q32 (northbound at 32 St), BxM2 (southbound; northbound at 6 Av)",
-        "alternativeroute": "If you are on the mezzanine:  Take an uptown 1 to Times Sq-42 St and transfer across the platform to an uptown 2 or 3 or use elevators to transfer to downtown 2 or 3. If you are on the platform: Take an uptown 2 or 3 to Times Sq-42 St, then either: Use elevators to transfer to a downtown 1 to 34 St-Penn Station. Or, use elevators to exit the station and take an M7 or M20 bus (7 Av between 42 St and 41 St) to 34 St."
+        "alternativeroute": "If you are on the mezzanine:  Take an uptown 1 to Times Sq-42 St and transfer across the platform to an uptown 2 or 3 or use elevators to transfer to downtown 2 or 3. If you are on the platform: Take an uptown 2 or 3 to Times Sq-42 St, then either: Use elevators to transfer to a downtown 1 to 34 St-Penn Station. Or, use elevators to exit the station and take an M7 or M20 bus (7 Av between 42 St and 41 St) to 34 St.",
+        "mergeddescription": "Penn Station concourse to 2/3"
     },
     "EL214": {
         "station": "34 St-Penn Station",
@@ -16950,7 +17074,8 @@ export const stations ={
         "nextadasouth": "327, 1, 2, 3",
         "redundant": 0,
         "busconnections": "M4 (northbound at 32 St), M7 (southbound), M20 (southbound), M34 SBS; M34A SBS, Q32 (northbound at 32 St), BxM2 (southbound; northbound at 6 Av)",
-        "alternativeroute": "If you are on the mezzanine:  Take an uptown 2 or 3 to Times Sq-42 St and transfer to an uptown 1 across the platform. If you are on the platform: Take an uptown 1 to Times Sq-42 St, then either: Use elevators to transfer to a downtown 1, 2 or 3 to 34 St-Penn Station. Or, use elevators to exit the station and take an M7 or M20 bus (7 Av between 42 St and 41 St) to 34 St."
+        "alternativeroute": "If you are on the mezzanine:  Take an uptown 2 or 3 to Times Sq-42 St and transfer to an uptown 1 across the platform. If you are on the platform: Take an uptown 1 to Times Sq-42 St, then either: Use elevators to transfer to a downtown 1, 2 or 3 to 34 St-Penn Station. Or, use elevators to exit the station and take an M7 or M20 bus (7 Av between 42 St and 41 St) to 34 St.",
+        "mergeddescription": "Mezzanine to uptown 1"
     },
     "EL216": {
         "station": "34 St-Penn Station",
@@ -16971,7 +17096,8 @@ export const stations ={
         "nextadasouth": "327, 1, 2, 3",
         "redundant": 0,
         "busconnections": "M4 (northbound at 32 St), M7 (southbound), M20 (southbound), M34 SBS; M34A SBS, Q32 (northbound at 32 St), BxM2 (southbound; northbound at 6 Av)",
-        "alternativeroute": "If you are on the mezzanine:  Take an uptown 2 or 3 to Times Sq-42 St and use elevators to transfer to a downtown 1. If you are on the platform: Take a downtown 1 to Chambers St, then either: Use elevators to transfer to an uptown 1, 2 or 3 to 34 St-Penn Station. Or, use elevators to exit the station and take an M55 bus (Church St between Chambers St and Reade St) to 34 St. 34 St-Penn Station is located one block to the west."
+        "alternativeroute": "If you are on the mezzanine:  Take an uptown 2 or 3 to Times Sq-42 St and use elevators to transfer to a downtown 1. If you are on the platform: Take a downtown 1 to Chambers St, then either: Use elevators to transfer to an uptown 1, 2 or 3 to 34 St-Penn Station. Or, use elevators to exit the station and take an M55 bus (Church St between Chambers St and Reade St) to 34 St. 34 St-Penn Station is located one block to the west.",
+        "mergeddescription": "Mezzanine to downtown 1"
     },
     "EL618": {
         "station": "34 St-Penn Station",
@@ -16992,7 +17118,8 @@ export const stations ={
         "nextadasouth": "327, 1, 2, 3",
         "redundant": 1,
         "busconnections": "M4 (northbound at 32 St), M7 (southbound), M20 (southbound), M34 SBS; M34A SBS, Q32 (northbound at 32 St), BxM2 (southbound; northbound at 6 Av)",
-        "alternativeroute": "From the street: Use elevator at SW corner of 34 St & 7 Av. Proceed one block north on 7 Av and turn left for EL34X at the LIRR entrance. From the concourse: Follow signs to 34 St and proceed to EL34X."
+        "alternativeroute": "From the street: Use elevator at SW corner of 34 St & 7 Av. Proceed one block north on 7 Av and turn left for EL34X at the LIRR entrance. From the concourse: Follow signs to 34 St and proceed to EL34X.",
+        "mergeddescription": "street (street) to concourse (+123LIRR)"
     },
     "EL34X": {
         "station": "34 St-Penn Station",
@@ -17013,7 +17140,8 @@ export const stations ={
         "nextadasouth": "327, 1, 2, 3",
         "redundant": 1,
         "busconnections": "M4 (northbound at 32 St), M7 (southbound), M20 (southbound), M34 SBS; M34A SBS, Q32 (northbound at 32 St), BxM2 (southbound; northbound at 6 Av)",
-        "alternativeroute": "From the street: Use elevator at NW corner of 33 St & 7 Av. Proceed one block south on 7 Av and turn right for EL618. From the concourse: Follow signs to the 1/2/3 proceed to EL618."
+        "alternativeroute": "From the street: Use elevator at NW corner of 33 St & 7 Av. Proceed one block south on 7 Av and turn right for EL618. From the concourse: Follow signs to the 1/2/3 proceed to EL618.",
+        "mergeddescription": "street to concourse (+123LIRR)"
     },
     "EL294X": {
         "station": "42 St-Bryant Pk",
@@ -17034,7 +17162,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M1, M2, M3, M4, M5, M7, M42, M55, Q32, SIM3, SIM6, SIM6X, SIM8, SIM8X, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, BxM2, QM1, QM2, QM3, QM4, QM5, QM6, QM20",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street (42 & 6th SW) to mezzanine"
     },
     "EL295X": {
         "station": "42 St-Bryant Pk",
@@ -17055,7 +17184,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M1, M2, M3, M4, M5, M7, M42, M55, Q32, SIM3, SIM6, SIM6X, SIM8, SIM8X, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, BxM2, QM1, QM2, QM3, QM4, QM5, QM6, QM20",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street (39 & 6th NW) to mezzanine"
     },
     "EL287X": {
         "station": "42 St-Bryant Pk",
@@ -17076,7 +17206,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M1, M2, M3, M4, M5, M7, M42, M55, Q32, SIM3, SIM6, SIM6X, SIM8, SIM8X, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, BxM2, QM1, QM2, QM3, QM4, QM5, QM6, QM20",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street (42 & 6th NW) to mezzanine"
     },
     "EL290X": {
         "station": "42St/Port Authority-Bus Terminal",
@@ -17097,7 +17228,8 @@ export const stations ={
         "nextadasouth": "164, A, C, E",
         "redundant": 1,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the intermediate landing: Take elevator to street level and proceed down 8 Av to Port Authority Bus Terminal for access to subway. If you are on the A/C/E mezzanine: Contact a station agent to re-enter through the faregate and follow signs to exit via Port Authority Bus Terminal."
+        "alternativeroute": "If you are on the intermediate landing: Take elevator to street level and proceed down 8 Av to Port Authority Bus Terminal for access to subway. If you are on the A/C/E mezzanine: Contact a station agent to re-enter through the faregate and follow signs to exit via Port Authority Bus Terminal.",
+        "mergeddescription": "intermediate landing to ACE mezz"
     },
     "EL291X": {
         "station": "42St/Port Authority-Bus Terminal",
@@ -17118,7 +17250,8 @@ export const stations ={
         "nextadasouth": "164, A, C, E",
         "redundant": 1,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the street: Proceed down 8 Av to Port Authority Bus Terminal for access to subway. If you are on the intermediate landing: Take elevator down to main mezzanine and re-enter through the faregate. Follow signs to exit via Port Authority Bus Terminal."
+        "alternativeroute": "If you are on the street: Proceed down 8 Av to Port Authority Bus Terminal for access to subway. If you are on the intermediate landing: Take elevator down to main mezzanine and re-enter through the faregate. Follow signs to exit via Port Authority Bus Terminal.",
+        "mergeddescription": "Street to intermediate landing"
     },
     "ES607X": {
         "station": "42St/Port Authority-Bus Terminal",
@@ -17139,7 +17272,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "A/C/E intermediate mezz to street (42 & 8th SE)"
     },
     "ES606X": {
         "station": "42St/Port Authority-Bus Terminal",
@@ -17160,7 +17294,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "A/C/E mezz to intermediate mezz"
     },
     "EL288X": {
         "station": "42St/Port Authority-Bus Terminal",
@@ -17181,7 +17316,8 @@ export const stations ={
         "nextadasouth": "164, A, C, E",
         "redundant": 1,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the street: Use other elevator in mezzanine to Port Authority Bus Terminal. If you are on the  mezzanine: Use other elevator in mezzanine to Port Authority Bus Terminal."
+        "alternativeroute": "If you are on the street: Use other elevator in mezzanine to Port Authority Bus Terminal. If you are on the  mezzanine: Use other elevator in mezzanine to Port Authority Bus Terminal.",
+        "mergeddescription": "Bus terminal to subway"
     },
     "EL289X": {
         "station": "42St/Port Authority-Bus Terminal",
@@ -17202,7 +17338,8 @@ export const stations ={
         "nextadasouth": "164, A, C, E",
         "redundant": 1,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the street: Use other elevator in mezzanine to Port Authority Bus Terminal. If you are on the mezzanine: Use other elevator in mezzanine to Port Authority Bus Terminal."
+        "alternativeroute": "If you are on the street: Use other elevator in mezzanine to Port Authority Bus Terminal. If you are on the mezzanine: Use other elevator in mezzanine to Port Authority Bus Terminal.",
+        "mergeddescription": "Bus terminal to subway"
     },
     "EL236": {
         "station": "47-50 Sts-Rockefeller Ctr",
@@ -17223,7 +17360,8 @@ export const stations ={
         "nextadasouth": "12, B, D, F, M",
         "redundant": 0,
         "busconnections": "M5, M7, M50, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2, SIM1C, SIM3, SIM3C, SIM10",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator across the mezzanine to take an uptown B or D to 59 St-Columbus Circle. Then use elevators to transfer to a downtown B or D to 47-50 Sts-Rockefeller Ctr. If you are on the platform:  Take a downtown B, D, F or M to 34 St-Herald Sq, then either: Use elevators to transfer to an uptown B, D, F or M to 47-50 Sts-Rockefeller Ctr. Or, use elevators to exit the station and take an uptown M5 or M7 bus to 49 St and 6 Av."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator across the mezzanine to take an uptown B or D to 59 St-Columbus Circle. Then use elevators to transfer to a downtown B or D to 47-50 Sts-Rockefeller Ctr. If you are on the platform:  Take a downtown B, D, F or M to 34 St-Herald Sq, then either: Use elevators to transfer to an uptown B, D, F or M to 47-50 Sts-Rockefeller Ctr. Or, use elevators to exit the station and take an uptown M5 or M7 bus to 49 St and 6 Av.",
+        "mergeddescription": "mezzanine to downtown platform"
     },
     "EL235": {
         "station": "47-50 Sts-Rockefeller Ctr",
@@ -17244,7 +17382,8 @@ export const stations ={
         "nextadasouth": "12, B, D, F, M",
         "redundant": 0,
         "busconnections": "M5, M7, M50, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2, SIM1C, SIM3, SIM3C, SIM10",
-        "alternativeroute": "If you are on the mezzanine: Take a downtown B, D, F or M to 34 St-Herald Sq. Then use elevators to transfer to an uptownB, D, F or M . If you are on the platform:  Take an uptown B or D to 59 St-Columbus Circle, then either: Use elevators to transfer to a downtown B or D to 47-50 Sts-Rockefeller Ctr. Or, use elevators to exit the station and take a downtown M7 or M104 bus (Columbus Circle and 8 Av) to 50 St and 7 Av. Then proceed one block east to 6 Av."
+        "alternativeroute": "If you are on the mezzanine: Take a downtown B, D, F or M to 34 St-Herald Sq. Then use elevators to transfer to an uptownB, D, F or M . If you are on the platform:  Take an uptown B or D to 59 St-Columbus Circle, then either: Use elevators to transfer to a downtown B or D to 47-50 Sts-Rockefeller Ctr. Or, use elevators to exit the station and take a downtown M7 or M104 bus (Columbus Circle and 8 Av) to 50 St and 7 Av. Then proceed one block east to 6 Av.",
+        "mergeddescription": "mezzanine to uptown platform"
     },
     "EL234": {
         "station": "47-50 Sts-Rockefeller Ctr",
@@ -17265,7 +17404,8 @@ export const stations ={
         "nextadasouth": "12, B, D, F, M",
         "redundant": 0,
         "busconnections": "M5, M7, M50, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2, SIM1C, SIM3, SIM3C, SIM10",
-        "alternativeroute": "If you are on the street: If this elevator is out of service, take an uptown M5 or M7 bus to Central Park South and Columbus Circle, then either: For B/D service, use the elevator to enter 59 St-Columbus Circle Station. Or, for F/M service, use the elevator to enter 59 St-Columbus Circle Station and take a downtown B or D to 47-50 Sts-Rockfeller Ctr. Then transfer across the platform for a downtown F or M or use elevators to transfer to an uptown F or M. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a downtown B, D, F or M to 34 St-Herald Sq. Then use elevators to exit the station and take an uptown M5 or M7 bus to 49 St and 6 Av."
+        "alternativeroute": "If you are on the street: If this elevator is out of service, take an uptown M5 or M7 bus to Central Park South and Columbus Circle, then either: For B/D service, use the elevator to enter 59 St-Columbus Circle Station. Or, for F/M service, use the elevator to enter 59 St-Columbus Circle Station and take a downtown B or D to 47-50 Sts-Rockfeller Ctr. Then transfer across the platform for a downtown F or M or use elevators to transfer to an uptown F or M. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a downtown B, D, F or M to 34 St-Herald Sq. Then use elevators to exit the station and take an uptown M5 or M7 bus to 49 St and 6 Av.",
+        "mergeddescription": "Street (49 & 6th NW) to mezzanine"
     },
     "EL268X": {
         "station": "49 St",
@@ -17286,7 +17426,8 @@ export const stations ={
         "nextadasouth": "317, N, R, W",
         "redundant": 0,
         "busconnections": "M7 (southbound; northbound at 6 Av), M20 (southbound; northbound at 8 Av), M50, M104 (southbound; northbound at 8 Av)",
-        "alternativeroute": "If you are on the street: Proceed to 7 Av and take a downtown M7, M20, or M104 bus to Times Sq-42 St. If you are at the platform: Contact a station agent to re-enter through the faregate then either: Take a Queens-bound R to Queens Plaza and use elevators to transfer to a Manhattan-bound E to 50 St. Use elevators to exit the station.  Or, take a Queens-bound R to Queens Plaza and use elevators to exit the station. Take a Penn Station-bound Q32 bus (Queens Blvd at Queens Plaza E) to 5 Av and 49 St. Transfer to a westbound M50 bus to 7 Av. Or, take an uptown N, R or W to 57 St and transfer across the platform to the Q.  Take the Q to 72 St and use elevators to exit the station. Take a downtown M15 bus to E 49 St and 2 Av and transfer to a westbound M50 bus to Broadway."
+        "alternativeroute": "If you are on the street: Proceed to 7 Av and take a downtown M7, M20, or M104 bus to Times Sq-42 St. If you are at the platform: Contact a station agent to re-enter through the faregate then either: Take a Queens-bound R to Queens Plaza and use elevators to transfer to a Manhattan-bound E to 50 St. Use elevators to exit the station.  Or, take a Queens-bound R to Queens Plaza and use elevators to exit the station. Take a Penn Station-bound Q32 bus (Queens Blvd at Queens Plaza E) to 5 Av and 49 St. Transfer to a westbound M50 bus to 7 Av. Or, take an uptown N, R or W to 57 St and transfer across the platform to the Q.  Take the Q to 72 St and use elevators to exit the station. Take a downtown M15 bus to E 49 St and 2 Av and transfer to a westbound M50 bus to Broadway.",
+        "mergeddescription": "Street (49 & 7th NE) to uptown platform"
     },
     "ES242": {
         "station": "5 Av/53 St",
@@ -17307,7 +17448,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to downtown platform"
     },
     "ES240": {
         "station": "5 Av/53 St",
@@ -17328,7 +17470,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to downtown platform"
     },
     "ES241": {
         "station": "5 Av/53 St",
@@ -17349,7 +17492,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown platform to mezzanine"
     },
     "ES239": {
         "station": "5 Av/53 St",
@@ -17370,7 +17514,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown platform to mezzanine"
     },
     "EL207X": {
         "station": "50 St",
@@ -17391,7 +17536,8 @@ export const stations ={
         "nextadasouth": "163, C, E",
         "redundant": 0,
         "busconnections": "M20 (northbound), M50, M104 (northbound)",
-        "alternativeroute": "If you are on the street: Take an uptown M20 or M104 (8 Av and 49 St) to Central Park West and Columbus Circle. Use elevator to enter 59 St-Columbus Circle station for C service. Transfer available to E across the platform at 42 St/Port Authority. If you are at the platform:  See a station agent to re-enter faregates and take a downtown C to 42 St/Port Authority Bus Terminal. Use elevators to exit station and take an uptown M20 or M104 (8 Av and 43 St ) to 49 St."
+        "alternativeroute": "If you are on the street: Take an uptown M20 or M104 (8 Av and 49 St) to Central Park West and Columbus Circle. Use elevator to enter 59 St-Columbus Circle station for C service. Transfer available to E across the platform at 42 St/Port Authority. If you are at the platform:  See a station agent to re-enter faregates and take a downtown C to 42 St/Port Authority Bus Terminal. Use elevators to exit station and take an uptown M20 or M104 (8 Av and 43 St ) to 49 St.",
+        "mergeddescription": "Street (49 and 8th NW) to downtown C"
     },
     "EL208X": {
         "station": "50 St",
@@ -17412,7 +17558,8 @@ export const stations ={
         "nextadasouth": "163, C, E",
         "redundant": 0,
         "busconnections": "M20 (northbound), M50, M104 (northbound)",
-        "alternativeroute": "If you are on the C platform: Take a downtown C to 42 St/Port Authority Bus Terminal. Then transfer to a southbound E, on the same plaform. If you are E platform: Take a downtown E to 42 St/Port Authority Bus Terminal. Then either: To reach 50 St Station and vicinity, use elevators to exit station and  take an uptown M20 or M104 (8 Av and 43 St ) to 49 St. Or, transfer to a Southbound C on the same plaform for service to Fulton St and Brooklyn."
+        "alternativeroute": "If you are on the C platform: Take a downtown C to 42 St/Port Authority Bus Terminal. Then transfer to a southbound E, on the same plaform. If you are E platform: Take a downtown E to 42 St/Port Authority Bus Terminal. Then either: To reach 50 St Station and vicinity, use elevators to exit station and  take an uptown M20 or M104 (8 Av and 43 St ) to 49 St. Or, transfer to a Southbound C on the same plaform for service to Fulton St and Brooklyn.",
+        "mergeddescription": "downtown C platform to downtown E platform"
     },
     "ES263X": {
         "station": "50 St",
@@ -17433,7 +17580,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20 (northbound), M50, M104 (northbound)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown C platform to street (50 & 8th SW)"
     },
     "ES264X": {
         "station": "50 St",
@@ -17454,7 +17602,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20 (northbound), M50, M104 (northbound)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown E platform to downtown C"
     },
     "EL202": {
         "station": "51 St",
@@ -17475,7 +17624,8 @@ export const stations ={
         "nextadasouth": "402, 6",
         "redundant": 0,
         "busconnections": "M20 (northbound; southbound at 7 Av), M50, M104 (northbound; southbound at 7 Av)",
-        "alternativeroute": "If you are on the downtown 6 platform: Take a downtown 6 to Grand Central-42 St and then either: Use elevators to transfer to an uptown 6 to 51 St. Or, exit station and board an M101 LTD, M102, or M103 bus (3 Av between 42 and 43 St) to 50 St. Proceed west to Lexington Av. If you are on the underpass: Use elevators to exit station and take a downtown M102 or M103 (Lexington Av & E 53 St) to Lexington Av and 42nd St for 42nd St-Grand Central Station.    Or, use elevator at other end of underpass to take uptown 6 to 125th Street. Use elevators to transfer to downtown 6."
+        "alternativeroute": "If you are on the downtown 6 platform: Take a downtown 6 to Grand Central-42 St and then either: Use elevators to transfer to an uptown 6 to 51 St. Or, exit station and board an M101 LTD, M102, or M103 bus (3 Av between 42 and 43 St) to 50 St. Proceed west to Lexington Av. If you are on the underpass: Use elevators to exit station and take a downtown M102 or M103 (Lexington Av & E 53 St) to Lexington Av and 42nd St for 42nd St-Grand Central Station.    Or, use elevator at other end of underpass to take uptown 6 to 125th Street. Use elevators to transfer to downtown 6.",
+        "mergeddescription": "downtown 6 platform to downtown 6"
     },
     "EL201": {
         "station": "51 St",
@@ -17496,7 +17646,8 @@ export const stations ={
         "nextadasouth": "402, 6",
         "redundant": 0,
         "busconnections": "M20 (northbound; southbound at 7 Av), M50, M104 (northbound; southbound at 7 Av)",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown 6 to 125th Street.  Then use elevators to transfer to downtown 6. Or, exit faregate and use elevator to exit station and take a downtown M102 or M103 (Lexington Av & E 53 St) to Lexington Av and E 42nd St for 42 St-Grand Central Station.  If you are on the underpass: Take a downtown 6 to Grand Central-42 St then either: Use elevators to transfer to an uptown 6. Or, exit station and take an M101 LTD, M102, or M103 bus (3 Av between 42 St and 43 St) to 50 St. Proceed west to Lexington Av."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown 6 to 125th Street.  Then use elevators to transfer to downtown 6. Or, exit faregate and use elevator to exit station and take a downtown M102 or M103 (Lexington Av & E 53 St) to Lexington Av and E 42nd St for 42 St-Grand Central Station.  If you are on the underpass: Take a downtown 6 to Grand Central-42 St then either: Use elevators to transfer to an uptown 6. Or, exit station and take an M101 LTD, M102, or M103 bus (3 Av between 42 St and 43 St) to 50 St. Proceed west to Lexington Av.",
+        "mergeddescription": "mezzanine to downtown 6 underpass"
     },
     "EL203X": {
         "station": "51 St",
@@ -17517,7 +17668,8 @@ export const stations ={
         "nextadasouth": "162, E / 225, M / 402, 6",
         "redundant": 0,
         "busconnections": "M20 (northbound; southbound at 7 Av), M50, M104 (northbound; southbound at 7 Av)/M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": "If you are on the street: Proceed to Grand Central-42 St for 6. Or, take a downtown M101 LTD, M102, or M103 to Grand Central-42 St and take an uptown 6 to 51 St.  If you are on the mezzanine: Take a downtown 6 to Grand Central-42 St. Exit station and take an M101, M102, or M103 bus (3 Av between 42 St and 43 St) to 50 St. Proceed one block west for Lexington Av. Or, take a downtown M to 47-50 Sts-Rockefeller Ctr. Exit station and take an M50 bus (50 St between 6 Av and 5 Av) to Lexington Av."
+        "alternativeroute": "If you are on the street: Proceed to Grand Central-42 St for 6. Or, take a downtown M101 LTD, M102, or M103 to Grand Central-42 St and take an uptown 6 to 51 St.  If you are on the mezzanine: Take a downtown 6 to Grand Central-42 St. Exit station and take an M101, M102, or M103 bus (3 Av between 42 St and 43 St) to 50 St. Proceed one block west for Lexington Av. Or, take a downtown M to 47-50 Sts-Rockefeller Ctr. Exit station and take an M50 bus (50 St between 6 Av and 5 Av) to Lexington Av.",
+        "mergeddescription": "Street (52 & Lex NE) to EM6 mezz"
     },
     "ES252": {
         "station": "51 St",
@@ -17538,7 +17690,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20 (northbound; southbound at 7 Av), M50, M104 (northbound; southbound at 7 Av)/M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Underpass to downtown 6 platform (+EM)"
     },
     "EL604": {
         "station": "57 St-7 Av",
@@ -17559,7 +17712,8 @@ export const stations ={
         "nextadasouth": "317, N, Q, R, W",
         "redundant": 0,
         "busconnections": "M7, M20, M31, M57",
-        "alternativeroute": "If you are on the street: For northbound N, R, W service, take a downtown M20 (W 55 St), M7 or M104 (W 54 St) 2 stops (W 50), and proceed one block south to 49 St station. For northbound Q or southbound N,Q,R,W service, take a downtown M20 (W 55 St), M7 (W 54 St) 3 stops or M104 (W 54 St) 4 stops to W 41 St. Proceed one block north to Times Square-42 St.  If you are on the mezzanine: See a station agent to re-enter through the faregate. Take a southbound NQRW to Times Sq-42 St. Then exit the station and proceed one block east to 6 Avenue to take a northbound M5 or M7 (W 42 St and 6 Av) 6 stops to W 57 St."
+        "alternativeroute": "If you are on the street: For northbound N, R, W service, take a downtown M20 (W 55 St), M7 or M104 (W 54 St) 2 stops (W 50), and proceed one block south to 49 St station. For northbound Q or southbound N,Q,R,W service, take a downtown M20 (W 55 St), M7 (W 54 St) 3 stops or M104 (W 54 St) 4 stops to W 41 St. Proceed one block north to Times Square-42 St.  If you are on the mezzanine: See a station agent to re-enter through the faregate. Take a southbound NQRW to Times Sq-42 St. Then exit the station and proceed one block east to 6 Avenue to take a northbound M5 or M7 (W 42 St and 6 Av) 6 stops to W 57 St.",
+        "mergeddescription": "Street (55 & 7th NE) to mezzanine"
     },
     "EL283": {
         "station": "57 St-7 Av",
@@ -17580,7 +17734,8 @@ export const stations ={
         "nextadasouth": "317, N, Q, R, W",
         "redundant": 0,
         "busconnections": "M7, M20, M31, M57",
-        "alternativeroute": "If you are on the mezzanine: Use EL 282 to take a downtown NQRW to Times-Sq-42 St. Use elevators to transfer to an uptown NQRW. If you are on the platform: take a Q train to Lexington Av/63 St station, then either: Use platform elevator to transfer to a downtown Q train to 57/7. Or, follow the signs to exit the station at E 63 St and Lexington Avenue. Proceed one block south and take a southbound M101, M102, or M103 (E 62 St) 2 stops to E 56 St. Proceed one block north and take a westbound M31 or M57 (E 57 St and Lexington Avenue) 4 stops to W 57 St and 7th Avenue."
+        "alternativeroute": "If you are on the mezzanine: Use EL 282 to take a downtown NQRW to Times-Sq-42 St. Use elevators to transfer to an uptown NQRW. If you are on the platform: take a Q train to Lexington Av/63 St station, then either: Use platform elevator to transfer to a downtown Q train to 57/7. Or, follow the signs to exit the station at E 63 St and Lexington Avenue. Proceed one block south and take a southbound M101, M102, or M103 (E 62 St) 2 stops to E 56 St. Proceed one block north and take a westbound M31 or M57 (E 57 St and Lexington Avenue) 4 stops to W 57 St and 7th Avenue.",
+        "mergeddescription": "Mezzanine to northbound platform"
     },
     "EL282": {
         "station": "57 St-7 Av",
@@ -17601,7 +17756,8 @@ export const stations ={
         "nextadasouth": "317, N, Q, R, W",
         "redundant": 0,
         "busconnections": "M7, M20, M31, M57",
-        "alternativeroute": "If you are on the mezzanine: take a Q train to Lexington Av/63 St station and use platform elevator to transfer to a downtown Q train to 57/7. Or, exit the station and take a downtown M20 (W 55 St) 4 stops to W 41 St. Proceed one block north to Times Square-42 St. If you are on the platform: Take a southbound NQRW to Times Square-42 St. Then either: Use elevators to transfer to an uptown NQRW. Or, exit the station and proceed one block east to 6 Avenue to take a northbound M5 or M7 (W 42 St and 6 Av) 6 stops to W 57 St."
+        "alternativeroute": "If you are on the mezzanine: take a Q train to Lexington Av/63 St station and use platform elevator to transfer to a downtown Q train to 57/7. Or, exit the station and take a downtown M20 (W 55 St) 4 stops to W 41 St. Proceed one block north to Times Square-42 St. If you are on the platform: Take a southbound NQRW to Times Square-42 St. Then either: Use elevators to transfer to an uptown NQRW. Or, exit the station and proceed one block east to 6 Avenue to take a northbound M5 or M7 (W 42 St and 6 Av) 6 stops to W 57 St.",
+        "mergeddescription": "Mezzanine to southbound platform"
     },
     "EL281": {
         "station": "57 St-7 Av",
@@ -17622,7 +17778,8 @@ export const stations ={
         "nextadasouth": "317, N, Q, R, W",
         "redundant": 0,
         "busconnections": "M7, M20, M31, M57",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street (57 & 7th SW) to mezzanine"
     },
     "ES213": {
         "station": "59 St",
@@ -17643,7 +17800,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/R/W transfer mezz to uptown 6 platform"
     },
     "ES214": {
         "station": "59 St",
@@ -17664,7 +17822,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/R/W transfer mezz to downtown 6 platform"
     },
     "ES211": {
         "station": "59 St",
@@ -17685,7 +17844,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown 4/5 platform to uptown 6 platform"
     },
     "ES212": {
         "station": "59 St",
@@ -17706,7 +17866,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown 4/5 platform to downtown 6 platform"
     },
     "EL389": {
         "station": "59 St",
@@ -17727,7 +17888,8 @@ export const stations ={
         "nextadasouth": "38, R / 71, N",
         "redundant": 0,
         "busconnections": "B9, B37 (on 3rd Av), B63 (on 5th Av)",
-        "alternativeroute": "If you are on the mezzanine: Exit through the faregate and use elevator to exit the station, then either: For Coney Island-bound N, take a Kings Plaza-bound B9 bus (60 St and 4 Av) to 8 Av for 8 Av N station. Or for 86 St R station, take a Bay Ridge-bound B37 bus (3 Av and 61 St) to 86 St. If you are on the platform: Take a Bay Ridge-bound R to 86 St and transfer across the platform to a Manhattan-bound R to 59 St. Or, take a Coney Island-bound N to 8 Av and use elevators to transfer to a Manhattan-bound N to 59 St."
+        "alternativeroute": "If you are on the mezzanine: Exit through the faregate and use elevator to exit the station, then either: For Coney Island-bound N, take a Kings Plaza-bound B9 bus (60 St and 4 Av) to 8 Av for 8 Av N station. Or for 86 St R station, take a Bay Ridge-bound B37 bus (3 Av and 61 St) to 86 St. If you are on the platform: Take a Bay Ridge-bound R to 86 St and transfer across the platform to a Manhattan-bound R to 59 St. Or, take a Coney Island-bound N to 8 Av and use elevators to transfer to a Manhattan-bound N to 59 St.",
+        "mergeddescription": "mezz to Brooklyn-bound platform"
     },
     "EL388": {
         "station": "59 St",
@@ -17748,7 +17910,8 @@ export const stations ={
         "nextadasouth": "38, R / 71, N",
         "redundant": 0,
         "busconnections": "B9, B37 (on 3rd Av), B63 (on 5th Av)",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Bay Ridge-bound R to 86 St and transfer across the platform to a Manhattan-bound R. Or, use elevator to take a Coney Island-bound N to 8 Av and use elevators to transfer to a Manhattan-bound N. If you are on the platform: Take a Manhattan-bound N or R to Atlantic Av-Barclays Ctr. Then, use elevators to transfer to a Coney Island-bound N or Bay Ridge-bound R to 59 St."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Bay Ridge-bound R to 86 St and transfer across the platform to a Manhattan-bound R. Or, use elevator to take a Coney Island-bound N to 8 Av and use elevators to transfer to a Manhattan-bound N. If you are on the platform: Take a Manhattan-bound N or R to Atlantic Av-Barclays Ctr. Then, use elevators to transfer to a Coney Island-bound N or Bay Ridge-bound R to 59 St.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL387": {
         "station": "59 St",
@@ -17769,7 +17932,8 @@ export const stations ={
         "nextadasouth": "38, R / 71, N",
         "redundant": 0,
         "busconnections": "B9, B37 (on 3rd Av), B63 (on 5th Av)",
-        "alternativeroute": "If you are on the street: Take a Kings Plaza-bound B9 bus (60 St and 4 Av) to 8 Av and use elevator to take a Manhattan-bound N to 59 St. Then for Manhattan-bound R service, transfer across the platform. Or for Brooklyn-bound N/R service, use elevators to transfer to a Coney Island-bound N or Bay Ridge-bound R. If you are on the mezzanine: See a station agent to re-enter through the faregate, then either: Use elevator to take a Bay Ridge-bound R to 86 St. Then, use elevators to exit the station and take a Downtown Brooklyn-bound B37 bus (3 Av and 86 St) to 60 St. Or, use elevator to take a Coney Island-bound N to New Utrecht Av. Then, use elevator to exit the station and take a Downtown Brooklyn-bound B9 (60 St and New Utrecht Av) to 4 Av."
+        "alternativeroute": "If you are on the street: Take a Kings Plaza-bound B9 bus (60 St and 4 Av) to 8 Av and use elevator to take a Manhattan-bound N to 59 St. Then for Manhattan-bound R service, transfer across the platform. Or for Brooklyn-bound N/R service, use elevators to transfer to a Coney Island-bound N or Bay Ridge-bound R. If you are on the mezzanine: See a station agent to re-enter through the faregate, then either: Use elevator to take a Bay Ridge-bound R to 86 St. Then, use elevators to exit the station and take a Downtown Brooklyn-bound B37 bus (3 Av and 86 St) to 60 St. Or, use elevator to take a Coney Island-bound N to New Utrecht Av. Then, use elevator to exit the station and take a Downtown Brooklyn-bound B9 (60 St and New Utrecht Av) to 4 Av.",
+        "mergeddescription": "Street (4th and 59 NW) to mezzanine"
     },
     "EL276X": {
         "station": "59 St-Columbus Circle",
@@ -17790,7 +17954,8 @@ export const stations ={
         "nextadasouth": "317, 1",
         "redundant": 1,
         "busconnections": "M5,\u00a0M7,\u00a0M10,\u00a0M12,\u00a0M20,\u00a0M31,\u00a0M57\u00a0(at 57 St),  M104, X12,\u00a0X14, X30,\u00a0 X42\u00a0(all at 57 St)/M5, M7, M10, M12, M20, M31, M57 (at 57 St), M104, X12, X14, X42 (all at 57 St)",
-        "alternativeroute": "If you are on the street: Enter on the north side of Columbus Circle and take the elevator to the uptown A, C, B, D platform. Then proceed to the other end of the platform to the elevator for downtown 1. If you are on the mezzanine: See a station agent to re-enter station through the faregate and take elevator to uptown A, C, B, D platform. Then proceed to other end of platform for elevator leading to exit at northwest corner of Columbus Circle and Central Park West."
+        "alternativeroute": "If you are on the street: Enter on the north side of Columbus Circle and take the elevator to the uptown A, C, B, D platform. Then proceed to the other end of the platform to the elevator for downtown 1. If you are on the mezzanine: See a station agent to re-enter station through the faregate and take elevator to uptown A, C, B, D platform. Then proceed to other end of platform for elevator leading to exit at northwest corner of Columbus Circle and Central Park West.",
+        "mergeddescription": "Street (8th & 58 NW) to downtown 1 & A/B/C/D mezz"
     },
     "ES251X": {
         "station": "59 St-Columbus Circle",
@@ -17811,7 +17976,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M5,\u00a0M7,\u00a0M10,\u00a0M12,\u00a0M20,\u00a0M31,\u00a0M57\u00a0(at 57 St),  M104, X12,\u00a0X14, X30,\u00a0 X42\u00a0(all at 57 St)/M5, M7, M10, M12, M20, M31, M57 (at 57 St), M104, X12, X14, X42 (all at 57 St)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (8th & 58 NW) to 1 mezz (+ABCD)"
     },
     "ES250X": {
         "station": "59 St-Columbus Circle",
@@ -17832,7 +17998,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M5,\u00a0M7,\u00a0M10,\u00a0M12,\u00a0M20,\u00a0M31,\u00a0M57\u00a0(at 57 St),  M104, X12,\u00a0X14, X30,\u00a0 X42\u00a0(all at 57 St)/M5, M7, M10, M12, M20, M31, M57 (at 57 St), M104, X12, X14, X42 (all at 57 St)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "A/B/C/D mezz to street (8th & 58 NW) (+1)"
     },
     "EL280": {
         "station": "59 St-Columbus Circle",
@@ -17853,7 +18020,8 @@ export const stations ={
         "nextadasouth": "317, 1",
         "redundant": 1,
         "busconnections": "M5,\u00a0M7,\u00a0M10,\u00a0M12,\u00a0M20,\u00a0M31,\u00a0M57\u00a0(at 57 St),  M104, X12,\u00a0X14, X30,\u00a0 X42\u00a0(all at 57 St)/M5, M7, M10, M12, M20, M31, M57 (at 57 St), M104, X12, X14, X42 (all at 57 St)",
-        "alternativeroute": "If you are on the street: Enter on the south side of Columbus Circle and take elevator to uptown A, B, C, D platform. Then proceed north to the elevator for uptown 1. If you are on the mezzanine: See a station agent to re-enter station through the faregate and take elevator at other end of the mezzanine to uptown A, B, C, D platform. Then proceed to other end of platform for elevator to exit at southwest corner of 8 Av and Columbus Circle."
+        "alternativeroute": "If you are on the street: Enter on the south side of Columbus Circle and take elevator to uptown A, B, C, D platform. Then proceed north to the elevator for uptown 1. If you are on the mezzanine: See a station agent to re-enter station through the faregate and take elevator at other end of the mezzanine to uptown A, B, C, D platform. Then proceed to other end of platform for elevator to exit at southwest corner of 8 Av and Columbus Circle.",
+        "mergeddescription": "Street (CPW & 60 NW) to uptown 1 & A/B/C/D"
     },
     "EL279": {
         "station": "59 St-Columbus Circle",
@@ -17874,7 +18042,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M5, M7, M10, M12, M20, M31, M57 (at 57 St), M104, X12, X14, X42 (all at 57 St)",
-        "alternativeroute": "If you are on the uptown 1 platform: Exit station and take a southbound M10 bus (Frederick Douglass Blvd) to 59 St-Columbus Circle. Or, take a southbound M10 bus to 97 St and transfer to a westbound M96 bus to Broadway (for 1 service). If you are on the uptown A/B/C/D platform: For uptown 1, proceed to elevator at the other end of this platform. Exit the station and re-enter at the northwest corner of Columbus Circle or take a downtown 1 to Times Sq-42 St. Use elevators to transfer to an uptown 1. Or, take an uptown A or D to 125 St. Exit the station and take a southbound M10 bus to 59 St."
+        "alternativeroute": "If you are on the uptown 1 platform: Exit station and take a southbound M10 bus (Frederick Douglass Blvd) to 59 St-Columbus Circle. Or, take a southbound M10 bus to 97 St and transfer to a westbound M96 bus to Broadway (for 1 service). If you are on the uptown A/B/C/D platform: For uptown 1, proceed to elevator at the other end of this platform. Exit the station and re-enter at the northwest corner of Columbus Circle or take a downtown 1 to Times Sq-42 St. Use elevators to transfer to an uptown 1. Or, take an uptown A or D to 125 St. Exit the station and take a southbound M10 bus to 59 St.",
+        "mergeddescription": "uptown 1 platform to uptown A/B/C/D platform"
     },
     "EL278": {
         "station": "59 St-Columbus Circle",
@@ -17895,7 +18064,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M5, M7, M10, M12, M20, M31, M57 (at 57 St), M104, X12, X14, X42 (all at 57 St)",
-        "alternativeroute": "If you are on the mezzanine: For uptown A, B, C, D, exit station and re-enter via elevator at northwest corner of Columbus Circle and Central Park West. Or, proceed to elevator on other side of mezzanine and take a downtown A or C to 42 St/Port Authority Bus Terminal. Use ramps to transfer to uptown A or C to 59 St-Columbus Circle. For uptown 1, proceed to elevator on other side of mezzanine and take a downtown 1 to Times Sq-42 St and use elevators to transfer to an uptown 1. If you are on the platform: To exit the station or transfer, proceed to elevator at the other end of this platform. For downtown 1, use the elevator to exit the station and re-enter the station at the southeast corner of Columbus Circle. Or, take an uptown A or D to 125 St. Exit station and take a southbound M10 bus to 59 St."
+        "alternativeroute": "If you are on the mezzanine: For uptown A, B, C, D, exit station and re-enter via elevator at northwest corner of Columbus Circle and Central Park West. Or, proceed to elevator on other side of mezzanine and take a downtown A or C to 42 St/Port Authority Bus Terminal. Use ramps to transfer to uptown A or C to 59 St-Columbus Circle. For uptown 1, proceed to elevator on other side of mezzanine and take a downtown 1 to Times Sq-42 St and use elevators to transfer to an uptown 1. If you are on the platform: To exit the station or transfer, proceed to elevator at the other end of this platform. For downtown 1, use the elevator to exit the station and re-enter the station at the southeast corner of Columbus Circle. Or, take an uptown A or D to 125 St. Exit station and take a southbound M10 bus to 59 St.",
+        "mergeddescription": "mezz to uptown A/B/C/D platform"
     },
     "EL277": {
         "station": "59 St-Columbus Circle",
@@ -17916,7 +18086,8 @@ export const stations ={
         "nextadasouth": "317, 1",
         "redundant": 0,
         "busconnections": "M5,\u00a0M7,\u00a0M10,\u00a0M12,\u00a0M20,\u00a0M31,\u00a0M57\u00a0(at 57 St),  M104, X12,\u00a0X14, X30,\u00a0 X42\u00a0(all at 57 St)/M5, M7, M10, M12, M20, M31, M57 (at 57 St), M104, X12, X14, X42 (all at 57 St)",
-        "alternativeroute": "If you are on the mezzanine: For downtown 1, proceed to the elevator at the other side of the mezzanine to reach the platform and use the elevator at the other end of platform. Take an uptown 1 to 72 St and use elevators to transfer to a downtown 1. For downtown A, B, C or D, proceed to the elevator at the side of the mezzanine and take an uptown A, C, B or D to 125 St. Use elevators to transfer to downtown service.  Or, take a southbound M104 bus (Columbus Circle and 8 Av) to 41 St and 8 Av and proceed to Times Sq-42 St for downtown 1 or to 42 St/Port Authority Bus Terminal for A, C. If you are on the downtown A/B/C/D platform: Take a downtown A or C to 42 St/Port Authority Bus Terminal and use ramps to transfer to an uptown A or C to 59 St-Columbus Circle. Or, take a downtown C to 50 St. Exit station and take a northbound M20 or M104 bus (49 St and 8 Av) to 59 St-Columbus Circle. If you are on the downtown 1 platform: Take a downtown 1 to Times Sq-42 St then either: Use elevators to transfer to an uptown 1 to 59 St-Columbus Circle. Or, take a northbound M20 or M104 bus (8 Av and 43 St) to 59 St-Columbus Circle."
+        "alternativeroute": "If you are on the mezzanine: For downtown 1, proceed to the elevator at the other side of the mezzanine to reach the platform and use the elevator at the other end of platform. Take an uptown 1 to 72 St and use elevators to transfer to a downtown 1. For downtown A, B, C or D, proceed to the elevator at the side of the mezzanine and take an uptown A, C, B or D to 125 St. Use elevators to transfer to downtown service.  Or, take a southbound M104 bus (Columbus Circle and 8 Av) to 41 St and 8 Av and proceed to Times Sq-42 St for downtown 1 or to 42 St/Port Authority Bus Terminal for A, C. If you are on the downtown A/B/C/D platform: Take a downtown A or C to 42 St/Port Authority Bus Terminal and use ramps to transfer to an uptown A or C to 59 St-Columbus Circle. Or, take a downtown C to 50 St. Exit station and take a northbound M20 or M104 bus (49 St and 8 Av) to 59 St-Columbus Circle. If you are on the downtown 1 platform: Take a downtown 1 to Times Sq-42 St then either: Use elevators to transfer to an uptown 1 to 59 St-Columbus Circle. Or, take a northbound M20 or M104 bus (8 Av and 43 St) to 59 St-Columbus Circle.",
+        "mergeddescription": "mezz to downtown platforms (+1ABCD)"
     },
     "ES276X": {
         "station": "59 St-Columbus Circle",
@@ -17937,7 +18108,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M5,\u00a0M7,\u00a0M10,\u00a0M12,\u00a0M20,\u00a0M31,\u00a0M57\u00a0(at 57 St),  M104, X12,\u00a0X14, X30,\u00a0 X42\u00a0(all at 57 St)/M5, M7, M10, M12, M20, M31, M57 (at 57 St), M104, X12, X14, X42 (all at 57 St)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": ""
     },
     "EL415X": {
         "station": "61 St-Woodside",
@@ -17958,7 +18130,8 @@ export const stations ={
         "nextadasouth": "462, 7",
         "redundant": 0,
         "busconnections": "Q18 (on Woodside Av, two blocks away), Q32, Q53 SBS, Q70 SBS; LIRR",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street (Roosevelt & 61 NE) to 7 & LIRR mezz"
     },
     "EL416X": {
         "station": "61 St-Woodside",
@@ -17979,7 +18152,8 @@ export const stations ={
         "nextadasouth": "462, 7",
         "redundant": 0,
         "busconnections": "Q18 (on Woodside Av, two blocks away), Q32, Q53 SBS, Q70 SBS; LIRR",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL417X": {
         "station": "61 St-Woodside",
@@ -18000,7 +18174,8 @@ export const stations ={
         "nextadasouth": "462, 7",
         "redundant": 0,
         "busconnections": "Q18 (on Woodside Av, two blocks away), Q32, Q53 SBS, Q70 SBS; LIRR",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "mezz to Flushing-bound platform"
     },
     "EL418X": {
         "station": "61 St-Woodside",
@@ -18021,7 +18196,8 @@ export const stations ={
         "nextadasouth": "462, 7",
         "redundant": 0,
         "busconnections": "Q18 (on Woodside Av, two blocks away), Q32, Q53 SBS, Q70 SBS; LIRR",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Mezzanine to LIRR to Penn Station"
     },
     "EL419X": {
         "station": "61 St-Woodside",
@@ -18042,7 +18218,8 @@ export const stations ={
         "nextadasouth": "462, 7",
         "redundant": 0,
         "busconnections": "Q18 (on Woodside Av, two blocks away), Q32, Q53 SBS, Q70 SBS; LIRR",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Mezzanine to LIRR to Long Island"
     },
     "ES448": {
         "station": "61 St-Woodside",
@@ -18063,7 +18240,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q18 (on Woodside Av, two blocks away), Q32, Q53 SBS, Q70 SBS; LIRR",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (61 & Roosevelt SE) to mezz"
     },
     "EL741": {
         "station": "62 St",
@@ -18084,7 +18262,8 @@ export const stations ={
         "nextadasouth": "68, D",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the mezzanine: Use elevators to take a Coney Island-bound N train to Coney Island-Stillwell Av. If you are on the platform: Take a Coney Island-bound D  to Coney Island-Stillwell Av. Then either: Stay on train or transfer across the platform for a Manhattan-bound D. Or, use elevator at other end of passageway to access N platform and exit station using ramp.  Then take a Windsor Terrace-bound B68 (Stillwell Terminal) to Avenue M.  Then, transfer to a Shore Road bound B9 (Avenue M and Coney Island Avenue) to 60th Street and New Utrecht Av."
+        "alternativeroute": "If you are on the mezzanine: Use elevators to take a Coney Island-bound N train to Coney Island-Stillwell Av. If you are on the platform: Take a Coney Island-bound D  to Coney Island-Stillwell Av. Then either: Stay on train or transfer across the platform for a Manhattan-bound D. Or, use elevator at other end of passageway to access N platform and exit station using ramp.  Then take a Windsor Terrace-bound B68 (Stillwell Terminal) to Avenue M.  Then, transfer to a Shore Road bound B9 (Avenue M and Coney Island Avenue) to 60th Street and New Utrecht Av.",
+        "mergeddescription": "mezzanine to Coney Island-bound D"
     },
     "EL740": {
         "station": "62 St",
@@ -18105,7 +18284,8 @@ export const stations ={
         "nextadasouth": "68, D",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the mezzanine: Use elevator at the end of opposite ramp to take a Coney Island-bound D to Coney Island-Stillwell Av.  Then, stay on train or transfer across the platform for a Manhattan-bound D. If you are on the platform: Use the elevator at other end of passageway  to take Coney Island-bound D to Coney Island-Stillwell Av.  Use elevators to access N platform and then either: Use ramp to exit station and take a Windsor Terrace-bound B68 (Stillwell Terminal) to Avenue M.  Then, transfer to a Shore Rd-bound B9 (Avenue M and Coney Island Av) to 60th Street and New Utrecht Av. Or, transfer to Manhattan-bound N."
+        "alternativeroute": "If you are on the mezzanine: Use elevator at the end of opposite ramp to take a Coney Island-bound D to Coney Island-Stillwell Av.  Then, stay on train or transfer across the platform for a Manhattan-bound D. If you are on the platform: Use the elevator at other end of passageway  to take Coney Island-bound D to Coney Island-Stillwell Av.  Use elevators to access N platform and then either: Use ramp to exit station and take a Windsor Terrace-bound B68 (Stillwell Terminal) to Avenue M.  Then, transfer to a Shore Rd-bound B9 (Avenue M and Coney Island Av) to 60th Street and New Utrecht Av. Or, transfer to Manhattan-bound N.",
+        "mergeddescription": "mezzanine to Manhattan-bound D"
     },
     "EL739": {
         "station": "62 St",
@@ -18126,7 +18306,8 @@ export const stations ={
         "nextadasouth": "58, N / 68, D",
         "redundant": 0,
         "busconnections": "B9 (at 60th Street)",
-        "alternativeroute": "If you are on the street: For Coney Island-bound D or N, exit faregate and take a Kings Plaza-bound B9 (60 St and 14 Av) to Coney Island Av. Then transfer to a Coney Island-bound B68 (Coney Island Av and Avenue M) to Coney Island-Stillwell Av for D/F/N/Q service. Or for Manhattan-bound D, use elevator at other end of mezzanine to take a Manhattan-bound N to Atlantic Av-Barclays Center B/D/N/Q/R/2/3/4/5 Station and transfer on the same platform for Manhattan-bound D. If you are on the platform: Take Coney Island-bound N to Coney Island-Stillwell Av.  Then, stay on train or transfer across the platrform to a Manhattan-bound N to New Utrecht Av Station. If you are on the D mezzanine: Use the elevator at other end of passageway  to take Coney Island-bound D to Coney Island-Stillwell Av.  Use elevators to access N platform and then either: Use ramp to exit station and take a Windsor Terrace-bound B68 (Stillwell Terminal) to Avenue M.  Then, transfer to a Shore Rd-bound B9 (Avenue M and Coney Island Av) to 60th Street and New Utrecht Av. Or, transfer to Manhattan-bound N."
+        "alternativeroute": "If you are on the street: For Coney Island-bound D or N, exit faregate and take a Kings Plaza-bound B9 (60 St and 14 Av) to Coney Island Av. Then transfer to a Coney Island-bound B68 (Coney Island Av and Avenue M) to Coney Island-Stillwell Av for D/F/N/Q service. Or for Manhattan-bound D, use elevator at other end of mezzanine to take a Manhattan-bound N to Atlantic Av-Barclays Center B/D/N/Q/R/2/3/4/5 Station and transfer on the same platform for Manhattan-bound D. If you are on the platform: Take Coney Island-bound N to Coney Island-Stillwell Av.  Then, stay on train or transfer across the platrform to a Manhattan-bound N to New Utrecht Av Station. If you are on the D mezzanine: Use the elevator at other end of passageway  to take Coney Island-bound D to Coney Island-Stillwell Av.  Use elevators to access N platform and then either: Use ramp to exit station and take a Windsor Terrace-bound B68 (Stillwell Terminal) to Avenue M.  Then, transfer to a Shore Rd-bound B9 (Avenue M and Coney Island Av) to 60th Street and New Utrecht Av. Or, transfer to Manhattan-bound N.",
+        "mergeddescription": "Street (62 & New Utrecht SE) to D mezz & Coney Island-bound N"
     },
     "EL237": {
         "station": "66 St-Lincoln Center",
@@ -18147,7 +18328,8 @@ export const stations ={
         "nextadasouth": "315, 1",
         "redundant": 0,
         "busconnections": "M5, M7, M11 (southbound), M20, M66, M104, BxM2",
-        "alternativeroute": "If you are on the street: Cross Broadway to take a downtown 1 to 59 St-Columbus Circle. Use elevators to transfer to an uptown 1. Or, take an uptown M5, M7, or M104 bus (66 St and Broadway) to 72 St. Enter 72 St 1/2/3 at Broadway and 72 St. If you are on the platform: Take an uptown 1 to 72 St, then either: Use elevators to transfer to a downtown 1 to 66 St-Lincoln Center. Or, use elevators to exit the station and take a downtown M5 or M104 bus (Broadway and 72 St) to 66 St and Broadway."
+        "alternativeroute": "If you are on the street: Cross Broadway to take a downtown 1 to 59 St-Columbus Circle. Use elevators to transfer to an uptown 1. Or, take an uptown M5, M7, or M104 bus (66 St and Broadway) to 72 St. Enter 72 St 1/2/3 at Broadway and 72 St. If you are on the platform: Take an uptown 1 to 72 St, then either: Use elevators to transfer to a downtown 1 to 66 St-Lincoln Center. Or, use elevators to exit the station and take a downtown M5 or M104 bus (Broadway and 72 St) to 66 St and Broadway.",
+        "mergeddescription": "Street to uptown platform"
     },
     "EL238": {
         "station": "66 St-Lincoln Center",
@@ -18168,7 +18350,8 @@ export const stations ={
         "nextadasouth": "315, 1",
         "redundant": 0,
         "busconnections": "M5, M7, M11 (southbound), M20, M66, M104, BxM2",
-        "alternativeroute": "If you are on the street:  Cross Broadway and use the elevator to take an uptown 1 to 72 St. Use elevators to transfer to a downtown 1. Or, take a downtown M5 LTD or M104 bus (Broadway and 66 St) to 59 St-Columbus Circle A/C/B/D/1. If you are on the platform: Take a downtown 1 to 59 St-Columbus Circle, then either: Use elevators to transfer to an uptown 1 to 66 St-Lincoln Center. Or, use elevators to exit the station and take an uptown M5 LTD, M7 or M104 bus (Broadway and W 61 St) to 66 St."
+        "alternativeroute": "If you are on the street:  Cross Broadway and use the elevator to take an uptown 1 to 72 St. Use elevators to transfer to a downtown 1. Or, take a downtown M5 LTD or M104 bus (Broadway and 66 St) to 59 St-Columbus Circle A/C/B/D/1. If you are on the platform: Take a downtown 1 to 59 St-Columbus Circle, then either: Use elevators to transfer to an uptown 1 to 66 St-Lincoln Center. Or, use elevators to exit the station and take an uptown M5 LTD, M7 or M104 bus (Broadway and W 61 St) to 66 St.",
+        "mergeddescription": "Street to downtown platform"
     },
     "EL784": {
         "station": "7 Av",
@@ -18189,7 +18372,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the mezzanine:\nTake a Manhattan-bound F to Jay St-MetroTech Station. Then, use elevators to transfer to a Coney Island-bound F train.\n\nIf you are on the platform: \nTake a Coney Island-bound F or Church Av-bound G train to Church Av and use elevators to transfer to the Manhattan and Queens-bound platform for service to 7 Av. "
+        "alternativeroute": "If you are on the mezzanine:\nTake a Manhattan-bound F to Jay St-MetroTech Station. Then, use elevators to transfer to a Coney Island-bound F train.\n\nIf you are on the platform: \nTake a Coney Island-bound F or Church Av-bound G train to Church Av and use elevators to transfer to the Manhattan and Queens-bound platform for service to 7 Av. ",
+        "mergeddescription": "Mezzanine to Church Av-bound platform"
     },
     "EL783": {
         "station": "7 Av",
@@ -18210,7 +18394,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the mezzanine: \nTake a Coney Island-bound F or Church Av-bound G train to Church Av and use elevators to transfer to the Manhattan and Queens-bound platform. \n\nIf you are on the platform: \nTake a Manhattan-bound F train to Jay St-MetroTech station. Then, use elevators to transfer to a Coney Island-bound F train to 7 Av. \nOr, \nTake a Queens-bound G train to Greenpoint Av station. Then, use elevators to transfer to a Church Av-bound G to 7 Av. "
+        "alternativeroute": "If you are on the mezzanine: \nTake a Coney Island-bound F or Church Av-bound G train to Church Av and use elevators to transfer to the Manhattan and Queens-bound platform. \n\nIf you are on the platform: \nTake a Manhattan-bound F train to Jay St-MetroTech station. Then, use elevators to transfer to a Coney Island-bound F train to 7 Av. \nOr, \nTake a Queens-bound G train to Greenpoint Av station. Then, use elevators to transfer to a Church Av-bound G to 7 Av. ",
+        "mergeddescription": "Mezzanine to Manhattan and Queens-bound platform"
     },
     "EL782": {
         "station": "7 Av",
@@ -18231,7 +18416,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the street: \nCross 9 St and take a Kensington-bound B67 or B69 bus to McDonald Ave and Albemarle Rd or Church Ave for access to the Church Av F/G station. Proceed to the accessible entrance to Church Av, located on the west side of McDonald Ave, between Albemarle Ave and Church Ave. \n\nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and take a Church Av-bound F or G train to Church Av. Then, exit the station and take a Williamsburg-bound B67 or Downtown Brooklyn-bound B69 bus to 7 Ave and 9 St."
+        "alternativeroute": "If you are on the street: \nCross 9 St and take a Kensington-bound B67 or B69 bus to McDonald Ave and Albemarle Rd or Church Ave for access to the Church Av F/G station. Proceed to the accessible entrance to Church Av, located on the west side of McDonald Ave, between Albemarle Ave and Church Ave. \n\nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and take a Church Av-bound F or G train to Church Av. Then, exit the station and take a Williamsburg-bound B67 or Downtown Brooklyn-bound B69 bus to 7 Ave and 9 St.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES237": {
         "station": "7 Av",
@@ -18252,7 +18438,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown platform to mezzanine"
     },
     "ES238": {
         "station": "7 Av",
@@ -18273,7 +18460,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown platform to mezzanine"
     },
     "ES295": {
         "station": "72 St",
@@ -18294,7 +18482,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to street (72 & 2nd NW)"
     },
     "ES296": {
         "station": "72 St",
@@ -18315,7 +18504,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (72 & 2nd NW) to lower mezz"
     },
     "ES290": {
         "station": "72 St",
@@ -18336,7 +18526,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (69 & 2nd NE) to upper mezz"
     },
     "ES294": {
         "station": "72 St",
@@ -18357,7 +18548,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to street (72 & 2nd NW)"
     },
     "ES291": {
         "station": "72 St",
@@ -18378,7 +18570,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezz to street (70 & 2nd SE)"
     },
     "ES286": {
         "station": "72 St",
@@ -18399,7 +18592,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to platform"
     },
     "ES287": {
         "station": "72 St",
@@ -18420,7 +18614,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to lower mezzanine"
     },
     "ES285": {
         "station": "72 St",
@@ -18441,7 +18636,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to lower mezzanine"
     },
     "ES288": {
         "station": "72 St",
@@ -18462,7 +18658,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES289": {
         "station": "72 St",
@@ -18483,7 +18680,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "EL267": {
         "station": "72 St",
@@ -18504,7 +18702,8 @@ export const stations ={
         "nextadasouth": "223, Q",
         "redundant": 1,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (2nd & 72 SE) to mezzanine"
     },
     "EL266": {
         "station": "72 St",
@@ -18525,7 +18724,8 @@ export const stations ={
         "nextadasouth": "223, Q",
         "redundant": 1,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (2nd & 72 SE) to mezzanine"
     },
     "EL265": {
         "station": "72 St",
@@ -18546,7 +18746,8 @@ export const stations ={
         "nextadasouth": "223, Q",
         "redundant": 1,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (2nd & 72 SE) to mezzanine"
     },
     "EL264": {
         "station": "72 St",
@@ -18567,7 +18768,8 @@ export const stations ={
         "nextadasouth": "223, Q",
         "redundant": 1,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (2nd & 72 SE) to mezzanine"
     },
     "EL262": {
         "station": "72 St",
@@ -18588,7 +18790,8 @@ export const stations ={
         "nextadasouth": "223, Q",
         "redundant": 1,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (2nd & 72 SE) to mezzanine"
     },
     "EL259": {
         "station": "72 St",
@@ -18609,7 +18812,8 @@ export const stations ={
         "nextadasouth": "223, Q",
         "redundant": 0,
         "busconnections": "M72, M15 local (southbound; northbound on 1 Av)",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator to exit the station and take a downtown M15 bus to E 64 St. Then proceed to 3 Av and E 63 St for 63 St F/Q Station. If you are on the platform: Take an uptown Q to 86 St and use elevators to exit the station. Then take a downtown M15 bus (E 87 St and 2 Av) to E 72 St."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator to exit the station and take a downtown M15 bus to E 64 St. Then proceed to 3 Av and E 63 St for 63 St F/Q Station. If you are on the platform: Take an uptown Q to 86 St and use elevators to exit the station. Then take a downtown M15 bus (E 87 St and 2 Av) to E 72 St.",
+        "mergeddescription": "mezzanine to platform"
     },
     "EL240": {
         "station": "72 St",
@@ -18630,7 +18834,8 @@ export const stations ={
         "nextadasouth": "314, 1 / 317, 2, 3",
         "redundant": 0,
         "busconnections": "M5, M7 (northbound), M11 (northbound), M57, M72, M104, BxM2 (northbound: southbound at Columbus Av)",
-        "alternativeroute": "If you are on the street: Take an uptown 1, 2 or 3  to 96 St.  Then either: Use elevators to transfer to a downtown 1, 2 or 3.  Or, use elevators to exit station and take downtown M104 (Broadway & 96 St).  If you are on the platform: Take a downtown 1 to 66 St-Lincoln Center. Use elevator to exit station. Cross Broadway and then either: Re-enter station and take an uptown 1. Take an uptown M5, M7 or M104 (Broadway & 66 St) to 72 St. Or, take a downtown 1  to 59 St-Columbus Circle. Use elevators on the uptown A/B/C/D platform to transfer to an uptown 1 to 72 St."
+        "alternativeroute": "If you are on the street: Take an uptown 1, 2 or 3  to 96 St.  Then either: Use elevators to transfer to a downtown 1, 2 or 3.  Or, use elevators to exit station and take downtown M104 (Broadway & 96 St).  If you are on the platform: Take a downtown 1 to 66 St-Lincoln Center. Use elevator to exit station. Cross Broadway and then either: Re-enter station and take an uptown 1. Take an uptown M5, M7 or M104 (Broadway & 66 St) to 72 St. Or, take a downtown 1  to 59 St-Columbus Circle. Use elevators on the uptown A/B/C/D platform to transfer to an uptown 1 to 72 St.",
+        "mergeddescription": "Street to downtown platform"
     },
     "EL239": {
         "station": "72 St",
@@ -18651,7 +18856,8 @@ export const stations ={
         "nextadasouth": "314, 1 / 317, 2, 3",
         "redundant": 0,
         "busconnections": "M5, M7 (northbound), M11 (northbound), M57, M72, M104, BxM2 (northbound: southbound at Columbus Av)",
-        "alternativeroute": "If you are on the street:  Take a downtown 1 to 66 St-Lincoln Center. Use elevator to exit station. Cross Broadway and then either:  Re-enter station and take an uptown 1. Take an uptown M5, M7 or M104 (Broadway & 66 St).  Or, take a downtown 1 to 59th St-Columbus Circle.  Use elevators to transfer to an uptown 1  via the uptown A/B/C/D platform.  If you are on the platform:  Take an uptown 1, 2 or 3  to 96 St. Then either:  Use elevators to transfer to a downtown 1, 2 or 3  to 72 St.  Or, use elevators to exit station and take downtown M104 (Broadway & 97 St) to 72 St."
+        "alternativeroute": "If you are on the street:  Take a downtown 1 to 66 St-Lincoln Center. Use elevator to exit station. Cross Broadway and then either:  Re-enter station and take an uptown 1. Take an uptown M5, M7 or M104 (Broadway & 66 St).  Or, take a downtown 1 to 59th St-Columbus Circle.  Use elevators to transfer to an uptown 1  via the uptown A/B/C/D platform.  If you are on the platform:  Take an uptown 1, 2 or 3  to 96 St. Then either:  Use elevators to transfer to a downtown 1, 2 or 3  to 72 St.  Or, use elevators to exit station and take downtown M104 (Broadway & 97 St) to 72 St.",
+        "mergeddescription": "Street to uptown platform"
     },
     "EL423": {
         "station": "74 St-Broadway",
@@ -18672,7 +18878,8 @@ export const stations ={
         "nextadasouth": "456, 7",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": "If you are on the Manhattan-bound platform: Take a Manhattan-bound 7 to 61 St-Woodside then either: Use elevators to transfer to a Flushing-Main St-bound 7 to 74 St-Broadway. Or, exit station and take LaGuardia Airportbound Q53 SBS or LaGuardia Link Q70 SBS (61 St-Roosevelt Av) to Jackson Hts-Roosevelt Av/74 St-Broadway. If you are on the Manhattan-bound 7 Mezzanine: Take other elevator to street level and proceed to bus terminal to take LaGuardia Link Q70 SBS to 61 St-Woodside."
+        "alternativeroute": "If you are on the Manhattan-bound platform: Take a Manhattan-bound 7 to 61 St-Woodside then either: Use elevators to transfer to a Flushing-Main St-bound 7 to 74 St-Broadway. Or, exit station and take LaGuardia Airportbound Q53 SBS or LaGuardia Link Q70 SBS (61 St-Roosevelt Av) to Jackson Hts-Roosevelt Av/74 St-Broadway. If you are on the Manhattan-bound 7 Mezzanine: Take other elevator to street level and proceed to bus terminal to take LaGuardia Link Q70 SBS to 61 St-Woodside.",
+        "mergeddescription": "mezzanine to Manhattan-bound 7"
     },
     "EL420": {
         "station": "74 St-Broadway",
@@ -18693,7 +18900,8 @@ export const stations ={
         "nextadasouth": "221, F / 273, E, M, R / 456, 7",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": "If you are on the street: For E, F, M, R to Manhattan, take a Manhattanbound Q32 bus (Roosevelt Av and 74 St) to Queens Plaza. For E, F, M, R to Forest Hills/Jamaica, take Rockaway Park-bound Q53 SBS (Broadway and 75 St) to Woodhaven Blvd. Transfer to a Jamaica-bound Q60 bus. For 7, proceed to bus terminal and take LaGuardia Link Q70 SBS to 61 St-Woodside. If you are on the Manhattan-bound 7 mezzanine: Take a Manhattan-bound 7 to 61 St-Woodside. Exit station and take LaGuardia Airport-bound Q53 SBS (61 St and Roosevelt Av) to Jackson Hts-Roosevelt Av/74 St-Broadway. If you are on the transfer mezzanine: Take an E, M or R to Queens Plaza. Exit station and take a Jackson Heights-bound Q32 bus (28 St and Queens Plaza S) to 76 St and Roosevelt Av. Or, take an E, F, M or R to Forest Hills-71 Av. Exit station and take a Manhattan-bound Q60 bus (108 St and Queens Blvd) to 69 St and Queens Blvd. Transfer to a Marine Air Terminal-bound Q47 bus to 74 St and Roosevelt Av. If you are on the Queens-bound 7 platform: Take a Flushing-Main St-bound 7 to Junction Blvd. Use elevators to transfer to a Manhattan-bound 7 to 74 St-Broadway. Or, take a Flushing-Main St-bound 7 to Junction Blvd and use the elevator to exit the station. Take Q53 SBS or LaGuardia Link Q70 SBS (61 St and Roosevelt Av) to Jackson Hts-Roosevelt Av/74 St-Broadway. To transfer to M, R, take a Rego Park-bound Q72 bus (Junction Blvd and Roosevelt Av) to the bus terminal at 63 Dr and Queens Blvd."
+        "alternativeroute": "If you are on the street: For E, F, M, R to Manhattan, take a Manhattanbound Q32 bus (Roosevelt Av and 74 St) to Queens Plaza. For E, F, M, R to Forest Hills/Jamaica, take Rockaway Park-bound Q53 SBS (Broadway and 75 St) to Woodhaven Blvd. Transfer to a Jamaica-bound Q60 bus. For 7, proceed to bus terminal and take LaGuardia Link Q70 SBS to 61 St-Woodside. If you are on the Manhattan-bound 7 mezzanine: Take a Manhattan-bound 7 to 61 St-Woodside. Exit station and take LaGuardia Airport-bound Q53 SBS (61 St and Roosevelt Av) to Jackson Hts-Roosevelt Av/74 St-Broadway. If you are on the transfer mezzanine: Take an E, M or R to Queens Plaza. Exit station and take a Jackson Heights-bound Q32 bus (28 St and Queens Plaza S) to 76 St and Roosevelt Av. Or, take an E, F, M or R to Forest Hills-71 Av. Exit station and take a Manhattan-bound Q60 bus (108 St and Queens Blvd) to 69 St and Queens Blvd. Transfer to a Marine Air Terminal-bound Q47 bus to 74 St and Roosevelt Av. If you are on the Queens-bound 7 platform: Take a Flushing-Main St-bound 7 to Junction Blvd. Use elevators to transfer to a Manhattan-bound 7 to 74 St-Broadway. Or, take a Flushing-Main St-bound 7 to Junction Blvd and use the elevator to exit the station. Take Q53 SBS or LaGuardia Link Q70 SBS (61 St and Roosevelt Av) to Jackson Hts-Roosevelt Av/74 St-Broadway. To transfer to M, R, take a Rego Park-bound Q72 bus (Junction Blvd and Roosevelt Av) to the bus terminal at 63 Dr and Queens Blvd.",
+        "mergeddescription": "Street (Roosevelt & 74 SE) to Queens-bound 7 & E/F/M/R/& mezzs"
     },
     "ES451": {
         "station": "74 St-Broadway",
@@ -18714,7 +18922,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E/F/M/R lower mezz to underpass for 7 service"
     },
     "ES452": {
         "station": "74 St-Broadway",
@@ -18735,7 +18944,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E/F/M/R lower mezz to 7 mezz"
     },
     "ES450": {
         "station": "74 St-Broadway",
@@ -18756,7 +18966,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E/F/M/R lower mezz to underpass for 7 service"
     },
     "ES453": {
         "station": "74 St-Broadway",
@@ -18777,7 +18988,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 mezzanine to E/F/M/R mezzanine"
     },
     "ES449": {
         "station": "74 St-Broadway",
@@ -18798,7 +19010,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 underpass to E/F/M/R mezzanine"
     },
     "EL224": {
         "station": "8 Av",
@@ -18819,7 +19032,8 @@ export const stations ={
         "nextadasouth": "117, L",
         "redundant": 0,
         "busconnections": "M14A, M14D, M20 (northbound at 8th Av and southbound at 7 Av), M11 (northbound at 9th Av), M12 (northbound at 8 Av)",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of this level to exit the station. Then take a Lower East Side-bound M14A bus or M14D bus to Irving Pl for 14 St-Union Sq L Station. If you are on the L platform: Take a Brooklyn-bound L to 14 St-Union Sq. Use elevators to exit the station and take an Abingdon Sq-bound M14A bus or Chelsea Piers-bound M14D bus (14 St and Irving Pl) to 8 Av."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of this level to exit the station. Then take a Lower East Side-bound M14A bus or M14D bus to Irving Pl for 14 St-Union Sq L Station. If you are on the L platform: Take a Brooklyn-bound L to 14 St-Union Sq. Use elevators to exit the station and take an Abingdon Sq-bound M14A bus or Chelsea Piers-bound M14D bus (14 St and Irving Pl) to 8 Av.",
+        "mergeddescription": "mezzanine to L platform"
     },
     "EL753": {
         "station": "8 Av",
@@ -18840,7 +19054,8 @@ export const stations ={
         "nextadasouth": "73, N",
         "redundant": 0,
         "busconnections": "B70 (B9 operates two blocks north on 60th Street)",
-        "alternativeroute": "If you are on the street: Use EL752 to take a Coney Island-bound N to New Utrecht station. Then, use elevators to transfer to a Manhattan-bound N.  \nIf you are on the platform: Take a Manhattan-bound N to 59 St and use elevators to transfer to Coney Island-bound N."
+        "alternativeroute": "If you are on the street: Use EL752 to take a Coney Island-bound N to New Utrecht station. Then, use elevators to transfer to a Manhattan-bound N.  \nIf you are on the platform: Take a Manhattan-bound N to 59 St and use elevators to transfer to Coney Island-bound N.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "EL752": {
         "station": "8 Av",
@@ -18861,7 +19076,8 @@ export const stations ={
         "nextadasouth": "73, N",
         "redundant": 0,
         "busconnections": "B70 (B9 operates two blocks north on 60th Street)",
-        "alternativeroute": "If you are on the street: \n\nUse EL753 to take a Manhattan-bound N to 59 St. Then, use elevators to transfer to a Coney Island-bound N.  \n\nIf you are on the platform: \n\nTake a Coney Island-bound N to New Utrecht and use elevators to transfer to a Manhattan-bound N.  "
+        "alternativeroute": "If you are on the street: \n\nUse EL753 to take a Manhattan-bound N to 59 St. Then, use elevators to transfer to a Coney Island-bound N.  \n\nIf you are on the platform: \n\nTake a Coney Island-bound N to New Utrecht and use elevators to transfer to a Manhattan-bound N.  ",
+        "mergeddescription": "Street to Coney Island-bound platform"
     },
     "ES297": {
         "station": "86 St",
@@ -18882,7 +19098,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (86 & 2nd NE) to upper mezz"
     },
     "ES284": {
         "station": "86 St",
@@ -18903,7 +19120,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezz to street (86 & 2nd NE)"
     },
     "ES282": {
         "station": "86 St",
@@ -18924,7 +19142,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (86 & 2nd NE) to upper mezz"
     },
     "ES283": {
         "station": "86 St",
@@ -18945,7 +19164,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezz to street (86 & 2nd NE)"
     },
     "ES280": {
         "station": "86 St",
@@ -18966,7 +19186,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES281": {
         "station": "86 St",
@@ -18987,7 +19208,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES275": {
         "station": "86 St",
@@ -19008,7 +19230,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to lower mezzanine"
     },
     "ES276": {
         "station": "86 St",
@@ -19029,7 +19252,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (83 & 2nd NE) to lower mezz"
     },
     "ES273": {
         "station": "86 St",
@@ -19050,7 +19274,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to lower mezzanine"
     },
     "ES274": {
         "station": "86 St",
@@ -19071,7 +19296,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to platform"
     },
     "ES279": {
         "station": "86 St",
@@ -19092,7 +19318,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES277": {
         "station": "86 St",
@@ -19113,7 +19340,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (83 & 2nd NE) to lower mezz"
     },
     "ES278": {
         "station": "86 St",
@@ -19134,7 +19362,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to street (83 & 2nd NE)"
     },
     "EL746": {
         "station": "86 St",
@@ -19155,7 +19384,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B1, B16, S53, S79 SBS, B37 (on 3rd Av), B63 (on 5th Av)",
-        "alternativeroute": "If you are on the mezzanine: Exit through the faregate and use elevator to exit the station. Then, take a Downtown Brooklyn-bound B37 (3 Av and 86 St) to 60 St and proceed towards 4 Av for 59 St N/R station. Then use elevators to enter station for Manhattan-bound R service. If you are on the platform: Take a Manhattan-bound R to 59 St and use elevators to exit the station. Then, take a Bay Ridge-bound B37 (3 Av and 61 St) to 86 St."
+        "alternativeroute": "If you are on the mezzanine: Exit through the faregate and use elevator to exit the station. Then, take a Downtown Brooklyn-bound B37 (3 Av and 86 St) to 60 St and proceed towards 4 Av for 59 St N/R station. Then use elevators to enter station for Manhattan-bound R service. If you are on the platform: Take a Manhattan-bound R to 59 St and use elevators to exit the station. Then, take a Bay Ridge-bound B37 (3 Av and 61 St) to 86 St.",
+        "mergeddescription": "mezzanine to platform"
     },
     "EL745": {
         "station": "86 St",
@@ -19176,7 +19406,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B1, B16, S53, S79 SBS, B37 (on 3rd Av), B63 (on 5th Av)",
-        "alternativeroute": "If you are on the street: Take a Downtown Brooklyn-bound B37 (3 Av and 86 St) to 60 St and proceed towards 4 Av for 59 St N/R station. Then use elevators to enter station for Manhattan-bound R service. If you are on the mezzanine: See a station agent to re-enter through the faregate and use elevator to take a Manhattan-bound R to 59 St. Then, use elevators to exit the station and take a Bay Ridge-bound B37 (3 Av and 61 St) to 86 St."
+        "alternativeroute": "If you are on the street: Take a Downtown Brooklyn-bound B37 (3 Av and 86 St) to 60 St and proceed towards 4 Av for 59 St N/R station. Then use elevators to enter station for Manhattan-bound R service. If you are on the mezzanine: See a station agent to re-enter through the faregate and use elevator to take a Manhattan-bound R to 59 St. Then, use elevators to exit the station and take a Bay Ridge-bound B37 (3 Av and 61 St) to 86 St.",
+        "mergeddescription": "Street (4th and 86 SE) to mezzanine"
     },
     "EL273": {
         "station": "86 St",
@@ -19197,7 +19428,8 @@ export const stations ={
         "nextadasouth": "401, 6",
         "redundant": 0,
         "busconnections": "M86 SBS, M101, M102, M103, M98 LTD, BxM1 (all southbound; northbound at 3 Av)",
-        "alternativeroute": "If you are on the street: Take an uptown M101, M102 or M103 (Third Av between 86 St and 87 St) to 125th St 4/5/6 Station. If you are at the platform: Contact a station agent to re-enter faregate and take a northbound 6 to 125th Street.  Use elevators to exit station and taek a southbound M101 or M103 (Lexington Av and 124th St.)"
+        "alternativeroute": "If you are on the street: Take an uptown M101, M102 or M103 (Third Av between 86 St and 87 St) to 125th St 4/5/6 Station. If you are at the platform: Contact a station agent to re-enter faregate and take a northbound 6 to 125th Street.  Use elevators to exit station and taek a southbound M101 or M103 (Lexington Av and 124th St.)",
+        "mergeddescription": "Street (86 & Lex NE) to uptown 6 platform"
     },
     "EL250": {
         "station": "86 St",
@@ -19218,7 +19450,8 @@ export const stations ={
         "nextadasouth": "477, Q",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": "If you are on the street: Take a downtown M15LCL (2nd Av and 86 St) to 72 St Q Station. If you are on the mezzanine: See a station agent to re-enter faregate and take an uptown Q to 96 St.  Then use elevators to exit station and take a downtown M15 or M15SBS  (2nd Av and 96 St) to 86 St."
+        "alternativeroute": "If you are on the street: Take a downtown M15LCL (2nd Av and 86 St) to 72 St Q Station. If you are on the mezzanine: See a station agent to re-enter faregate and take an uptown Q to 96 St.  Then use elevators to exit station and take a downtown M15 or M15SBS  (2nd Av and 96 St) to 86 St.",
+        "mergeddescription": "Street (86 & 2nd SW ) to mezzanine"
     },
     "EL249": {
         "station": "86 St",
@@ -19239,7 +19472,8 @@ export const stations ={
         "nextadasouth": "477, Q",
         "redundant": 0,
         "busconnections": "M86 SBS, M15, M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": "If you are on the mezzanine: Exit faregate and use elevator to exit station. Then, take a downtown M15LCL (2nd Av and 87 St) to 72 St Q Station.  If you are on the platform: Take uptown Q to 96 St and use elevators to exit station.  Then take a downtown M15 or M15SBS (2nd Av and 96 St) to 86 St."
+        "alternativeroute": "If you are on the mezzanine: Exit faregate and use elevator to exit station. Then, take a downtown M15LCL (2nd Av and 87 St) to 72 St Q Station.  If you are on the platform: Take uptown Q to 96 St and use elevators to exit station.  Then take a downtown M15 or M15SBS (2nd Av and 96 St) to 86 St.",
+        "mergeddescription": "mezzanine to platform"
     },
     "ES271": {
         "station": "96 St",
@@ -19260,7 +19494,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (94 & 2nd NE) to mezzanine"
     },
     "ES272": {
         "station": "96 St",
@@ -19281,7 +19516,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street (94 & 2nd NE)"
     },
     "ES270": {
         "station": "96 St",
@@ -19302,7 +19538,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (94 & 2nd NE) to mezzanine"
     },
     "ES260": {
         "station": "96 St",
@@ -19323,7 +19560,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street (96 & 2nd SW)"
     },
     "ES259": {
         "station": "96 St",
@@ -19344,7 +19582,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (96 & 2nd SW) to mezzanine"
     },
     "ES247": {
         "station": "96 St",
@@ -19365,7 +19604,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street (94 & 2nd SW)"
     },
     "ES220": {
         "station": "96 St",
@@ -19386,7 +19626,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to mezzanine"
     },
     "ES202": {
         "station": "96 St",
@@ -19407,7 +19648,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to platform"
     },
     "ES200": {
         "station": "96 St",
@@ -19428,7 +19670,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to mezzanine"
     },
     "EL146": {
         "station": "96 St",
@@ -19449,7 +19692,8 @@ export const stations ={
         "nextadasouth": "313, 1, 2, 3",
         "redundant": 0,
         "busconnections": "M96, M104, M106",
-        "alternativeroute": "If you are on the street:  Take a downtown 1, 2 or 3 to 72 St and use elevators to transfer to an uptown 1, 2 or 3. Or, take a downtown M104 bus to 72 St for 1/2/3 service. If you are on the platform: Take an uptown 2 or 3 to 135 St. Use the elevator to exit the station and cross Lenox Av. Re-enter the station using the elevator and take a downtown 2 or 3 to 96 St. Or, take an uptown 3 to the terminal at Harlem-148 St. Remain on the train or wait at the platform for a downtown 3 to 96 St. Or, take an uptown 2 or 3 to 135 St. Use the elevator to exit the station and take a downtown M7 bus to 97 St and Columbus Av. Proceed to 96 St to transfer to a westbound M96 or M106 bus to Broadway."
+        "alternativeroute": "If you are on the street:  Take a downtown 1, 2 or 3 to 72 St and use elevators to transfer to an uptown 1, 2 or 3. Or, take a downtown M104 bus to 72 St for 1/2/3 service. If you are on the platform: Take an uptown 2 or 3 to 135 St. Use the elevator to exit the station and cross Lenox Av. Re-enter the station using the elevator and take a downtown 2 or 3 to 96 St. Or, take an uptown 3 to the terminal at Harlem-148 St. Remain on the train or wait at the platform for a downtown 3 to 96 St. Or, take an uptown 2 or 3 to 135 St. Use the elevator to exit the station and take a downtown M7 bus to 97 St and Columbus Av. Proceed to 96 St to transfer to a westbound M96 or M106 bus to Broadway.",
+        "mergeddescription": "Street to uptown platform"
     },
     "EL145": {
         "station": "96 St",
@@ -19470,7 +19714,8 @@ export const stations ={
         "nextadasouth": "313, 1, 2, 3",
         "redundant": 0,
         "busconnections": "M96, M104, M106",
-        "alternativeroute": "If you are on the street:  Take an uptown 2 or 3 to 135 St. Use the elevator to exit the station and cross Lenox Av. Re-enter the station using the elevator and take a downtown 2 or 3. Or, take an uptown 3 to the terminal at Harlem-148 St. Remain on the train or wait at the platform for a downtown 3. Or, take a downtown M104 bus to 72 St for 1/2/3 service. If you are on the platform: Take a downtown 1, 2 or 3 to 72 St. Then either: Use elevators to transfer to an uptown 1, 2 or 3 to 96 St. Or, use the elevator to exit the station and take an uptown M104 bus (Broadway and W 73 St) to 96 St."
+        "alternativeroute": "If you are on the street:  Take an uptown 2 or 3 to 135 St. Use the elevator to exit the station and cross Lenox Av. Re-enter the station using the elevator and take a downtown 2 or 3. Or, take an uptown 3 to the terminal at Harlem-148 St. Remain on the train or wait at the platform for a downtown 3. Or, take a downtown M104 bus to 72 St for 1/2/3 service. If you are on the platform: Take a downtown 1, 2 or 3 to 72 St. Then either: Use elevators to transfer to an uptown 1, 2 or 3 to 96 St. Or, use the elevator to exit the station and take an uptown M104 bus (Broadway and W 73 St) to 96 St.",
+        "mergeddescription": "Street to downtown platform"
     },
     "EL248": {
         "station": "96 St",
@@ -19491,7 +19736,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": "If you are on the street:  Take a downtown M15 bus (2 Av and 97 St) or M15 SBS (2 Av and 96 St) to 86 St for downtown Q service at 86 St Q station.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to take downtown Q to 86 St. Then take an uptown M15 bus or M15 SBS (1 Av and 86 St) to 97 St."
+        "alternativeroute": "If you are on the street:  Take a downtown M15 bus (2 Av and 97 St) or M15 SBS (2 Av and 96 St) to 86 St for downtown Q service at 86 St Q station.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to take downtown Q to 86 St. Then take an uptown M15 bus or M15 SBS (1 Av and 86 St) to 97 St.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL247": {
         "station": "96 St",
@@ -19512,7 +19758,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M96, M15 and M15 SBS (southbound; northbound at 1 Av)",
-        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station and take a downtown M15 bus (2 Av and 97 St) or M15 SBS (2 Av and 96 St) to 86 St for downtown Q service at 86 St Q station.  If you are on the platform:  Take a downtown Q to 86 St and use the elevator to exit the station. Then take an uptown M15 bus or M15 SBS (1 Av and 86 St) to 97 St."
+        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station and take a downtown M15 bus (2 Av and 97 St) or M15 SBS (2 Av and 96 St) to 86 St for downtown Q service at 86 St Q station.  If you are on the platform:  Take a downtown Q to 86 St and use the elevator to exit the station. Then take an uptown M15 bus or M15 SBS (1 Av and 86 St) to 97 St.",
+        "mergeddescription": "mezzanine to downtown platform"
     },
     "EL489X": {
         "station": "Aqueduct-Racetrack",
@@ -19533,7 +19780,8 @@ export const stations ={
         "nextadasouth": "198, A",
         "redundant": 0,
         "busconnections": "Q7, Q37",
-        "alternativeroute": "If you are on the street: Take an Old Howard Beach-bound or Hamilton Beach-bound Q11 (Eckfor Av and Raleigh St) to 101 St and 159 Av.  Proceed east on 159th Av two blocks to Howard Beach A Station. Or, use ramp from casino to access platform. If you are on the platform: Take a Manhattan-bound A train to Euclid Av.  Use elevators to exit station. Take a Jamiaca-bound Q8 (Pitkin Av and Euclid Av) to 101 Av and Woodhaven Blvd.  Transfer to an Old Howard Beach-bound or Hamilon Beach-bound Q11 (Woodhaven Blvd and 101 Ave) to Eckford Av and Raleigh St.  Or, use ramp to casino to exit station."
+        "alternativeroute": "If you are on the street: Take an Old Howard Beach-bound or Hamilton Beach-bound Q11 (Eckfor Av and Raleigh St) to 101 St and 159 Av.  Proceed east on 159th Av two blocks to Howard Beach A Station. Or, use ramp from casino to access platform. If you are on the platform: Take a Manhattan-bound A train to Euclid Av.  Use elevators to exit station. Take a Jamiaca-bound Q8 (Pitkin Av and Euclid Av) to 101 Av and Woodhaven Blvd.  Transfer to an Old Howard Beach-bound or Hamilon Beach-bound Q11 (Woodhaven Blvd and 101 Ave) to Eckford Av and Raleigh St.  Or, use ramp to casino to exit station.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "EL467": {
         "station": "Astoria Blvd",
@@ -19554,7 +19802,8 @@ export const stations ={
         "nextadasouth": "10, W",
         "redundant": 0,
         "busconnections": "M60, SBS",
-        "alternativeroute": "If you are on the mezzanine: Use the other elevator to take a northbound N or W to Astoria-Ditmars Blvd. Then remain on the train or wait at the platform for a Manhattan-bound N or W. If you are on the platform: Take a Manhattan-bound N or W to Times Sq-42 St. Then use elevators to take a Queens-bound N or W to Astoria Blvd."
+        "alternativeroute": "If you are on the mezzanine: Use the other elevator to take a northbound N or W to Astoria-Ditmars Blvd. Then remain on the train or wait at the platform for a Manhattan-bound N or W. If you are on the platform: Take a Manhattan-bound N or W to Times Sq-42 St. Then use elevators to take a Queens-bound N or W to Astoria Blvd.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL466": {
         "station": "Astoria Blvd",
@@ -19575,7 +19824,8 @@ export const stations ={
         "nextadasouth": "10, W",
         "redundant": 0,
         "busconnections": "M60, SBS",
-        "alternativeroute": "If you are on the platform: Take a northbound N or W to Astoria-Ditmars Blvd. Then remain on the train or wait at the platform for a Manhattan-bound N or W to Astoria Blvd."
+        "alternativeroute": "If you are on the platform: Take a northbound N or W to Astoria-Ditmars Blvd. Then remain on the train or wait at the platform for a Manhattan-bound N or W to Astoria Blvd.",
+        "mergeddescription": "mezzanine to Astoria-bound platform"
     },
     "EL465": {
         "station": "Astoria Blvd",
@@ -19596,7 +19846,8 @@ export const stations ={
         "nextadasouth": "10, W",
         "redundant": 1,
         "busconnections": "M60, SBS",
-        "alternativeroute": "If you are on the street: Proceed to the other elevator at NW corner of Hoyt Ave North and 31 St. If you are on the mezzanine: Contact a station agent to re-enter through the faregate and cross the mezzanine. Exit through the faregate and proceed down the passageway for other elevator on this level."
+        "alternativeroute": "If you are on the street: Proceed to the other elevator at NW corner of Hoyt Ave North and 31 St. If you are on the mezzanine: Contact a station agent to re-enter through the faregate and cross the mezzanine. Exit through the faregate and proceed down the passageway for other elevator on this level.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL464": {
         "station": "Astoria Blvd",
@@ -19617,7 +19868,8 @@ export const stations ={
         "nextadasouth": "10, W",
         "redundant": 1,
         "busconnections": "M60, SBS",
-        "alternativeroute": "If you are on the street: Proceed to the other elevator at SE corner of Hoyt Ave South and 31 St. If you are on the mezzanine: Proceed down the passageway and see a station agent to re-enter through the faregate. Cross the mezzanine and exit through the faregate for other elevator on this level."
+        "alternativeroute": "If you are on the street: Proceed to the other elevator at SE corner of Hoyt Ave South and 31 St. If you are on the mezzanine: Proceed down the passageway and see a station agent to re-enter through the faregate. Cross the mezzanine and exit through the faregate for other elevator on this level.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL300X": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19638,7 +19890,8 @@ export const stations ={
         "nextadasouth": "341, 2, 3 / 345, 4 / 356, 5",
         "redundant": 1,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the street: Proceed to the other elevator through the concourse of the LIRR complex. If you are on the LIRR Concourse: Proceed to the other elevator through the concourse of the LIRR complex."
+        "alternativeroute": "If you are on the street: Proceed to the other elevator through the concourse of the LIRR complex. If you are on the LIRR Concourse: Proceed to the other elevator through the concourse of the LIRR complex.",
+        "mergeddescription": "Street (Hanson Pl) to Manhattan-bound 2/3 & LIRR"
     },
     "EL303": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19659,7 +19912,8 @@ export const stations ={
         "nextadasouth": "35, N, R / 73, D",
         "redundant": 0,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the mezzanine: To Manhattan, proceed down the passageway and take the B, Q, 2, 3, 4 or 5 instead. If you are on the platform: Take a Manhattan-bound R to DeKalb Av. Then either: use elevators to transfer to a 95 St-bound R to Atlantic Av-Barclays Ctr. Or, exit station and take a Canarsie-bound B103 bus (Livingston St and Nevins St) to 4 Av and Pacific St, or a B41, B45, B67 or B103 LTD bus to Atlantic Av-Barclays Ctr."
+        "alternativeroute": "If you are on the mezzanine: To Manhattan, proceed down the passageway and take the B, Q, 2, 3, 4 or 5 instead. If you are on the platform: Take a Manhattan-bound R to DeKalb Av. Then either: use elevators to transfer to a 95 St-bound R to Atlantic Av-Barclays Ctr. Or, exit station and take a Canarsie-bound B103 bus (Livingston St and Nevins St) to 4 Av and Pacific St, or a B41, B45, B67 or B103 LTD bus to Atlantic Av-Barclays Ctr.",
+        "mergeddescription": "Mezzanine to Manhattan-bound D/N/R"
     },
     "EL302": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19680,7 +19934,8 @@ export const stations ={
         "nextadasouth": "35, N, R / 73, D",
         "redundant": 0,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the mezzanine: Use the nearby elevator to take a Manhattan-bound R to DeKalb Av and use elevators to transfer to a 95 St-bound R to Atlantic Av-Barclays Ctr. If you are on the platform: Take a Coney Island-bound N or 95 St-bound R to 59 St and use elevators to transfer to a Manhattan-bound N or R to Atlantic Av-Barclays Ctr.\n"
+        "alternativeroute": "If you are on the mezzanine: Use the nearby elevator to take a Manhattan-bound R to DeKalb Av and use elevators to transfer to a 95 St-bound R to Atlantic Av-Barclays Ctr. If you are on the platform: Take a Coney Island-bound N or 95 St-bound R to 59 St and use elevators to transfer to a Manhattan-bound N or R to Atlantic Av-Barclays Ctr.\n",
+        "mergeddescription": "Mezzanine to Brooklyn-bound D/N/R"
     },
     "EL301": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19701,7 +19956,8 @@ export const stations ={
         "nextadasouth": "341, 2, 3 / 345, 4 / 35, N, R / 356, 5 / 73, D",
         "redundant": 1,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the street: Proceed north on 4 Av and turn right on Atlantic Av. Then enter the station near Barclays Center and use the Manhattan-bound 2, 3 platform to reach the underground passageway to elevators for both directions of service. If you are on the mezzanine: See a station agent to re-enter through the faregate and proceed toward 2, 3. Then follow signs to exit through the concourse of the LIRR complex.\n"
+        "alternativeroute": "If you are on the street: Proceed north on 4 Av and turn right on Atlantic Av. Then enter the station near Barclays Center and use the Manhattan-bound 2, 3 platform to reach the underground passageway to elevators for both directions of service. If you are on the mezzanine: See a station agent to re-enter through the faregate and proceed toward 2, 3. Then follow signs to exit through the concourse of the LIRR complex.\n",
+        "mergeddescription": "Street (4th and Pacific NE) to D/N/R & Brooklyn-bound 2/3 (+5)"
     },
     "EL307": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19722,7 +19978,8 @@ export const stations ={
         "nextadasouth": "42, B, Q",
         "redundant": 0,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the mezzanine: To Brighton Beach and Coney Island, exit station via passageway and take a Kings Plaza bound B41 bus (Flatbush Av and Atlantic Av) to Flatbush Av and Ocean Av. Transfer to a B or Q at Prospect Park. To Manhattan, use the elevator at the far end of the passageway toward the Flatbush Av-bound 2/New Lots Av-bound 3. Then use the ramp to the elevator for a Manhattan-bound R to DeKalb Av and transfer across the platform to the B or Q. If you are on the platform: Take a Manhattan-bound B or Q to DeKalb Av then either: Use elevators to transfer to a 95 St-bound R to Atlantic Av-Barclays Ctr. Or, exit station and take a Canarsie-bound B103 bus (Livingston St and Nevins St) to 4 Av and Pacific St, or a B41, B45, B67 or B103 LTD bus to Atlantic Av-Barclays Ctr.\n"
+        "alternativeroute": "If you are on the mezzanine: To Brighton Beach and Coney Island, exit station via passageway and take a Kings Plaza bound B41 bus (Flatbush Av and Atlantic Av) to Flatbush Av and Ocean Av. Transfer to a B or Q at Prospect Park. To Manhattan, use the elevator at the far end of the passageway toward the Flatbush Av-bound 2/New Lots Av-bound 3. Then use the ramp to the elevator for a Manhattan-bound R to DeKalb Av and transfer across the platform to the B or Q. If you are on the platform: Take a Manhattan-bound B or Q to DeKalb Av then either: Use elevators to transfer to a 95 St-bound R to Atlantic Av-Barclays Ctr. Or, exit station and take a Canarsie-bound B103 bus (Livingston St and Nevins St) to 4 Av and Pacific St, or a B41, B45, B67 or B103 LTD bus to Atlantic Av-Barclays Ctr.\n",
+        "mergeddescription": "mezzanine to B/Q platform"
     },
     "EL306": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19743,7 +20000,8 @@ export const stations ={
         "nextadasouth": "341, 2, 3 / 345, 4 / 356, 5 / 42, B, Q",
         "redundant": 1,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the platform: Exit station into the LIRR concourse and take the elevator to street. Then proceed to the SE corner of Pacific St and 4th Ave to re-enter station and see a station agent to enter through the faregate. Or, take a Manhattan-bound 2 or 3 to Fulton St and transfer across the platform to a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr. If you are on the mezzanine: To exit to street, proceed to elevators toward Flatbush Av-bound 2 and New Lots Av bound 3. Follow signs to exit at Pacific St and 4 Av. To transfer to a Manhattan-bound 2 or 3, take a Manhattan-bound 4 or 5 to Borough Hall and transfer to the 2 or 3 via passageway.\n"
+        "alternativeroute": "If you are on the platform: Exit station into the LIRR concourse and take the elevator to street. Then proceed to the SE corner of Pacific St and 4th Ave to re-enter station and see a station agent to enter through the faregate. Or, take a Manhattan-bound 2 or 3 to Fulton St and transfer across the platform to a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr. If you are on the mezzanine: To exit to street, proceed to elevators toward Flatbush Av-bound 2 and New Lots Av bound 3. Follow signs to exit at Pacific St and 4 Av. To transfer to a Manhattan-bound 2 or 3, take a Manhattan-bound 4 or 5 to Borough Hall and transfer to the 2 or 3 via passageway.\n",
+        "mergeddescription": "Mezzanine to Manhattan-bound 2/3 (+BQ)"
     },
     "EL305": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19764,7 +20022,8 @@ export const stations ={
         "nextadasouth": "341, 2, 3 / 345, 4 / 356, 5",
         "redundant": 0,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the platform: Take a Manhattan-bound 4 or 5 to Fulton St and use elevators to transfer to a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr. If you are on the mezzanine: For Manhattan-bound 4/5 service, use the elevator in this passageway to take a Manhattan-bound 2 or 3 to Borough Hall, and use the passageway to transfer to a Manhattan-bound 4 or 5. For Utica Av-bound and Flatbush Av-bound service, use the elevator in this passageway to take a New Lots Av-bound 3 for service to Utica Av, or a Flatbush Av-bound 2 for service to Church Av and Flatbush Av."
+        "alternativeroute": "If you are on the platform: Take a Manhattan-bound 4 or 5 to Fulton St and use elevators to transfer to a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr. If you are on the mezzanine: For Manhattan-bound 4/5 service, use the elevator in this passageway to take a Manhattan-bound 2 or 3 to Borough Hall, and use the passageway to transfer to a Manhattan-bound 4 or 5. For Utica Av-bound and Flatbush Av-bound service, use the elevator in this passageway to take a New Lots Av-bound 3 for service to Utica Av, or a Flatbush Av-bound 2 for service to Church Av and Flatbush Av.",
+        "mergeddescription": "mezzanine to 4/5 platform"
     },
     "EL304": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19785,7 +20044,8 @@ export const stations ={
         "nextadasouth": "341, 2, 3 / 345, 4 / 356, 5",
         "redundant": 1,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the platform: Proceed down the passageway to exit through the faregate and use elevator to exit the station. Then, proceed north on 4 Av and turn right on Atlantic Av and use elevator to re-enter the station near Barclays Center. Or, take a Flatbush Av-bound 2 or 3 to Eastern Parkway and use elevators to transfer to a Manhattan-bound 2 or 3 to Atlantic Av. If you are on the mezzanine: For Flatbush Av-bound 2 or New Lots Av-bound 3 service, use the elevator in this passageway that serves the Manhattan-bound 2/3 then either: Exit station into the LIRR concourse and take the elevator to street and proceed to the SE corner of Pacific St and 4th Ave to re-enter station. See a station agent to enter through faregate and proceed up ramp at the other end of the mezzanine to the Flatbush Av-bound 2 or New Lots Av-bound 3 platform. Or, take a Manhattan-bound 2 or 3 to Fulton St and transfer across the platform for Flatbush Av-bound 2 or New Lots Av-bound 3 service.\n"
+        "alternativeroute": "If you are on the platform: Proceed down the passageway to exit through the faregate and use elevator to exit the station. Then, proceed north on 4 Av and turn right on Atlantic Av and use elevator to re-enter the station near Barclays Center. Or, take a Flatbush Av-bound 2 or 3 to Eastern Parkway and use elevators to transfer to a Manhattan-bound 2 or 3 to Atlantic Av. If you are on the mezzanine: For Flatbush Av-bound 2 or New Lots Av-bound 3 service, use the elevator in this passageway that serves the Manhattan-bound 2/3 then either: Exit station into the LIRR concourse and take the elevator to street and proceed to the SE corner of Pacific St and 4th Ave to re-enter station. See a station agent to enter through faregate and proceed up ramp at the other end of the mezzanine to the Flatbush Av-bound 2 or New Lots Av-bound 3 platform. Or, take a Manhattan-bound 2 or 3 to Fulton St and transfer across the platform for Flatbush Av-bound 2 or New Lots Av-bound 3 service.\n",
+        "mergeddescription": "Mezzanine to Brooklyn-bound 2/3"
     },
     "ES359X": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19806,7 +20066,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "B/Q mezzanine to street (+2345LIRR)"
     },
     "ES358X": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19827,7 +20088,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to BQ mezzanine (+2345LIRR)"
     },
     "ES310": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19848,7 +20110,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "B/Q lower mezz to LIRR mezz"
     },
     "EL700X": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19869,7 +20132,8 @@ export const stations ={
         "nextadasouth": "341, 2, 3 / 345, 4 / 356, 5 / 42, B, Q",
         "redundant": 1,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the street: Cross Atlantic Av and continue north on Flatbush Av to LIRR complex. Then take the elevator to the mezzanine and proceed to the subway entrance. If you are on the mezzanine: See a station agent to re-enter through the faregate and take the ramp to uptown 2, 3. Then exit the station into the concourse of the LIRR complex and take the elevator to the street."
+        "alternativeroute": "If you are on the street: Cross Atlantic Av and continue north on Flatbush Av to LIRR complex. Then take the elevator to the mezzanine and proceed to the subway entrance. If you are on the mezzanine: See a station agent to re-enter through the faregate and take the ramp to uptown 2, 3. Then exit the station into the concourse of the LIRR complex and take the elevator to the street.",
+        "mergeddescription": "Street to Manhattan-bound 2/3"
     },
     "EL737X": {
         "station": "Atlantic Av-Barclays Ctr",
@@ -19890,7 +20154,8 @@ export const stations ={
         "nextadasouth": "341, 2, 3 / 345, 4 / 356, 5",
         "redundant": 1,
         "busconnections": "B37, B41, B45, B63, B65, B67, B103 (eastbound only); LIRR",
-        "alternativeroute": "If you are on the street: Proceed to the other elevator through the concourse of the LIRR complex.  If you are on the LIRR Concourse: Proceed to the other elevator through the concourse of the LIRR complex."
+        "alternativeroute": "If you are on the street: Proceed to the other elevator through the concourse of the LIRR complex.  If you are on the LIRR Concourse: Proceed to the other elevator through the concourse of the LIRR complex.",
+        "mergeddescription": "Street (Hanson Pl) to Manhattan-bound 2/3 & LIRR"
     },
     "EL378": {
         "station": "Bay Pkwy",
@@ -19911,7 +20176,8 @@ export const stations ={
         "nextadasouth": "58, D",
         "redundant": 0,
         "busconnections": "B1, B6, B82, B82 SBS",
-        "alternativeroute": "If you are on the mezzanine: Take Manhattan-bound D to 62 St-New Utrecht.  Use elevators to transfer to Coney Island-bound D. Or, exit fare gate and use elevator to take a Coney Island-bound B82 (Bay Parkway & 86 St) to Mermaid Av & Stillwell Av. If you are on the platform: Take a Coney Island-bound D to Coney Island-Stillwell Av, then either: Transfer across the platform to a Manhattan-bound D to Bay Pkwy. Or, use the ramp to exit through the faregate and proceed to Mermaid Av and Stillwell Av. Then board a Spring Creek-bound B82 bus to 86 St and Bay Pkwy."
+        "alternativeroute": "If you are on the mezzanine: Take Manhattan-bound D to 62 St-New Utrecht.  Use elevators to transfer to Coney Island-bound D. Or, exit fare gate and use elevator to take a Coney Island-bound B82 (Bay Parkway & 86 St) to Mermaid Av & Stillwell Av. If you are on the platform: Take a Coney Island-bound D to Coney Island-Stillwell Av, then either: Transfer across the platform to a Manhattan-bound D to Bay Pkwy. Or, use the ramp to exit through the faregate and proceed to Mermaid Av and Stillwell Av. Then board a Spring Creek-bound B82 bus to 86 St and Bay Pkwy.",
+        "mergeddescription": "mezz to Coney Island-bound platform"
     },
     "EL377": {
         "station": "Bay Pkwy",
@@ -19932,7 +20198,8 @@ export const stations ={
         "nextadasouth": "58, D",
         "redundant": 0,
         "busconnections": "B1, B6, B82, B82 SBS",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of the mezzanine to take a Coney Island-bound D to Coney Island-Stillwell Av. Remain on the train or transfer across the platform for a Manhattan-bound D. Or, exit through the faregate and use the elevator at the other end of the mezzanine to reach street level and take a Spring Creek-bound B82 bus or B82 SBS to E 16 St for the Kings Hwy B/Q Station; or Stillwell Av-bound B82 bus to Mermaid Av and Stillwell Av for the Coney Island-Stillwell Av D/F/N/Q Station. If you are on the platform: Take Manhattan-bound D to 62 St-New Utrecht.  Use elevators to transfer to Coney Island-bound D to Bay Parkway."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of the mezzanine to take a Coney Island-bound D to Coney Island-Stillwell Av. Remain on the train or transfer across the platform for a Manhattan-bound D. Or, exit through the faregate and use the elevator at the other end of the mezzanine to reach street level and take a Spring Creek-bound B82 bus or B82 SBS to E 16 St for the Kings Hwy B/Q Station; or Stillwell Av-bound B82 bus to Mermaid Av and Stillwell Av for the Coney Island-Stillwell Av D/F/N/Q Station. If you are on the platform: Take Manhattan-bound D to 62 St-New Utrecht.  Use elevators to transfer to Coney Island-bound D to Bay Parkway.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL376": {
         "station": "Bay Pkwy",
@@ -19953,7 +20220,8 @@ export const stations ={
         "nextadasouth": "58, D",
         "redundant": 0,
         "busconnections": "B1, B6, B82, B82 SBS",
-        "alternativeroute": "If you are on the street: Take a Spring Creek-bound B82 bus or B82 SBS to E 16 St for the Kings Hwy B/Q Station. Or, take a Stillwell Av-bound B82 bus to Mermaid Av and Stillwell Av for the Coney Island-Stillwell Av D/F/N/Q Station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to reach the Coney Island-bound platform. Then take the D to Coney Island-Stillwell Av. Use the ramp to exit through the faregate and proceed to Mermaid Av and Stillwell Av. Board a Spring Creek-bound B82 bus to 86 St and Bay Pkwy."
+        "alternativeroute": "If you are on the street: Take a Spring Creek-bound B82 bus or B82 SBS to E 16 St for the Kings Hwy B/Q Station. Or, take a Stillwell Av-bound B82 bus to Mermaid Av and Stillwell Av for the Coney Island-Stillwell Av D/F/N/Q Station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to reach the Coney Island-bound platform. Then take the D to Coney Island-Stillwell Av. Use the ramp to exit through the faregate and proceed to Mermaid Av and Stillwell Av. Board a Spring Creek-bound B82 bus to 86 St and Bay Pkwy.",
+        "mergeddescription": "Street (Bay Pkwy & 86 NW) to mezz"
     },
     "EL481": {
         "station": "Beach 67 St",
@@ -19974,7 +20242,8 @@ export const stations ={
         "nextadasouth": "209, A",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the mezzanine:  \nUse EL480 to exit the station. Then, take a Far Rockway Mott Av-bound Q22 bus (SW corner of Beach Channel Dr and 69 St) to Beach 21 St Terminal."
+        "alternativeroute": "If you are on the mezzanine:  \nUse EL480 to exit the station. Then, take a Far Rockway Mott Av-bound Q22 bus (SW corner of Beach Channel Dr and 69 St) to Beach 21 St Terminal.",
+        "mergeddescription": "Mezzanine to platform."
     },
     "EL480": {
         "station": "Beach 67 St",
@@ -19995,7 +20264,8 @@ export const stations ={
         "nextadasouth": "209, A",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the street:  \nTake a Far Rockway Mott Av-bound Q22 bus (SW corner of Beach Channel Dr and 69 St) to Beach 21 St Terminal. Then, follow Beach 21 St to Mott Av for the Far Rockaway-Mott Av A station.  \nOr, take an Elmhurst-bound Q52-SBS bus (Rockaway Beach Blvd and Beach 67 St) to 157 St and Cross Bay Blvd. Then, travel to 159 Ave and 103 St for the Howard Beach/JFK Airport A station.  \n\nIf you are on the mezzanine:  \nUse EL481 to take a Far Rockaway-Mott Av-bound A train to Far Rockaway-Mott Av. Use the elevator to exit the station and take a Roxbury-bound Q22 bus (Mott Av and Beach 21 St) to Beach Channel Dr and Beach 67 St.  \n\nIf you are on the platform:  \nTake an A train to Howard Beach-JFK Airport.  \nThen, either:  \nUse elevators to exit the station and take an Arverne-bound Q52-SBS bus (SW corner of 157 Ave and Cross Bay Blvd) to Rockaway Beach Blvd and Beach 67 St.  \nOr,  \nUse elevators to transfer to a Far Rockaway-bound A train to Far Rockaway-Mott Av. Then, Use the elevator to exit the station and take a Roxbury-bound Q22 bus (Mott Av and Beach 21 St) to Beach Channel Dr and Beach 67 St."
+        "alternativeroute": "If you are on the street:  \nTake a Far Rockway Mott Av-bound Q22 bus (SW corner of Beach Channel Dr and 69 St) to Beach 21 St Terminal. Then, follow Beach 21 St to Mott Av for the Far Rockaway-Mott Av A station.  \nOr, take an Elmhurst-bound Q52-SBS bus (Rockaway Beach Blvd and Beach 67 St) to 157 St and Cross Bay Blvd. Then, travel to 159 Ave and 103 St for the Howard Beach/JFK Airport A station.  \n\nIf you are on the mezzanine:  \nUse EL481 to take a Far Rockaway-Mott Av-bound A train to Far Rockaway-Mott Av. Use the elevator to exit the station and take a Roxbury-bound Q22 bus (Mott Av and Beach 21 St) to Beach Channel Dr and Beach 67 St.  \n\nIf you are on the platform:  \nTake an A train to Howard Beach-JFK Airport.  \nThen, either:  \nUse elevators to exit the station and take an Arverne-bound Q52-SBS bus (SW corner of 157 Ave and Cross Bay Blvd) to Rockaway Beach Blvd and Beach 67 St.  \nOr,  \nUse elevators to transfer to a Far Rockaway-bound A train to Far Rockaway-Mott Av. Then, Use the elevator to exit the station and take a Roxbury-bound Q22 bus (Mott Av and Beach 21 St) to Beach Channel Dr and Beach 67 St.",
+        "mergeddescription": "Street to mezzanine to platform."
     },
     "EL358": {
         "station": "Bedford Av",
@@ -20016,7 +20286,8 @@ export const stations ={
         "nextadasouth": "123, L",
         "redundant": 0,
         "busconnections": "B62",
-        "alternativeroute": "If you are on the mezzanine: use the elevator to exit the station and take a Downtown Brooklyn-bound B62 (Driggs Ave and N 6 St) to Roebling St and S 8 St. Then, for Manhattan-bound service, transfer to an Allen St-bound B39 to Delancey St and Essex St. Then transfer to a West Side-bound M14A SBS for service towards 8 Av. Or, for Canarsie-bound service, take the elevator at the Marcy Av station to take a Middle Village-bound M to Myrtle-Wyckoff Avs station. Then use elevators to transfer to the L for Canarsie-bound service. If you are at the platform: Take a Canarsie-bound L to Myrtle-Wyckoff Avs station. Then use elevators to transfer to a Manahttan-bound M to Marcy Av. Then use elevator to exit station and take a Queens-bound B62 (Broadway and Roebling St) to Bedford Av/N 8 St."
+        "alternativeroute": "If you are on the mezzanine: use the elevator to exit the station and take a Downtown Brooklyn-bound B62 (Driggs Ave and N 6 St) to Roebling St and S 8 St. Then, for Manhattan-bound service, transfer to an Allen St-bound B39 to Delancey St and Essex St. Then transfer to a West Side-bound M14A SBS for service towards 8 Av. Or, for Canarsie-bound service, take the elevator at the Marcy Av station to take a Middle Village-bound M to Myrtle-Wyckoff Avs station. Then use elevators to transfer to the L for Canarsie-bound service. If you are at the platform: Take a Canarsie-bound L to Myrtle-Wyckoff Avs station. Then use elevators to transfer to a Manahttan-bound M to Marcy Av. Then use elevator to exit station and take a Queens-bound B62 (Broadway and Roebling St) to Bedford Av/N 8 St.",
+        "mergeddescription": "mezzanine to platform"
     },
     "EL359": {
         "station": "Bedford Av",
@@ -20037,7 +20308,8 @@ export const stations ={
         "nextadasouth": "123, L",
         "redundant": 0,
         "busconnections": "B62",
-        "alternativeroute": "If you are on the street:  \nTake a Downtown Brooklyn-bound B62 (Driggs Ave and N 6 St) to Roebling St and S 8 St. Then, travel on Broadway to the Marcy Av J/M/Z station. Then:\nFor Manhattan-bound service, take a J/M/Z to Delancey St /Essex St station. Then transfer to a West Side-bound M14A SBS for service towards 8 Av.  \nFor Canarsie-bound service, take a Middle Village-bound M to Myrtle-Wyckoff Avs station. Then use elevators to transfer to the L for Canarsie-bound service.  \n\nIf you are on the mezzanine:  \nSee a station agent to re-enter through faregate and use elevator to take a Canarsie-bound L to Grand St. Then, use the elevator to exit the station and take a Williamsburg-bound Q59 bus (Grand St & Bushwick Av) to N 5 St. Then, proceed two blocks north and 2 blocks west to Bedford Av L station. "
+        "alternativeroute": "If you are on the street:  \nTake a Downtown Brooklyn-bound B62 (Driggs Ave and N 6 St) to Roebling St and S 8 St. Then, travel on Broadway to the Marcy Av J/M/Z station. Then:\nFor Manhattan-bound service, take a J/M/Z to Delancey St /Essex St station. Then transfer to a West Side-bound M14A SBS for service towards 8 Av.  \nFor Canarsie-bound service, take a Middle Village-bound M to Myrtle-Wyckoff Avs station. Then use elevators to transfer to the L for Canarsie-bound service.  \n\nIf you are on the mezzanine:  \nSee a station agent to re-enter through faregate and use elevator to take a Canarsie-bound L to Grand St. Then, use the elevator to exit the station and take a Williamsburg-bound Q59 bus (Grand St & Bushwick Av) to N 5 St. Then, proceed two blocks north and 2 blocks west to Bedford Av L station. ",
+        "mergeddescription": "Street (Bedford and N 7 NE) to mezz"
     },
     "EL501": {
         "station": "Bedford Pk Blvd",
@@ -20058,7 +20330,8 @@ export const stations ={
         "nextadasouth": "212, B, D",
         "redundant": 0,
         "busconnections": "Bx1, Bx2, Bx26, BxM4",
-        "alternativeroute": "If you are on the platform: \nProceed to the ADA boarding area and inform Conductor on a Norwood-205 St bound D \nof the need to remain on train at as it changes direction after Norwood-205 St. Ask the \nconductor to confirm that the D train will remain in service*. If yes, board the train and \nremain on it until it returns to the opposite platform of Bedford Pk Blvd. Then, use \nelevator to exit the station. *If the train will not remain in service, please wait for the \nnext D train and follow the above instructions. Alternatively, you can also contact a \nstation agent for instructions on how to exit the station.\n\n"
+        "alternativeroute": "If you are on the platform: \nProceed to the ADA boarding area and inform Conductor on a Norwood-205 St bound D \nof the need to remain on train at as it changes direction after Norwood-205 St. Ask the \nconductor to confirm that the D train will remain in service*. If yes, board the train and \nremain on it until it returns to the opposite platform of Bedford Pk Blvd. Then, use \nelevator to exit the station. *If the train will not remain in service, please wait for the \nnext D train and follow the above instructions. Alternatively, you can also contact a \nstation agent for instructions on how to exit the station.\n\n",
+        "mergeddescription": "mezzanine to Bronx-bound platform"
     },
     "EL500": {
         "station": "Bedford Pk Blvd",
@@ -20079,7 +20352,8 @@ export const stations ={
         "nextadasouth": "212, B, D",
         "redundant": 0,
         "busconnections": "Bx1, Bx2, Bx26, BxM4",
-        "alternativeroute": "If you are on the street:\nTake a Mott Haven-bound Bx1 LTD or Bx2 bus (Grand Concourse and Bedford Pk Blvd) to \nE Kingsbridge Rd for Manhattan-bound B/D service at Kingsbridge Rd station. \nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and use elevator to take a \nManhattan-bound B or D train to Kingsbridge Rd. Then, use elevators to exit the station \nand take a Riverdale-bound Bx1 LTD or Kingsbridge Hts-bound Bx2 bus (Grand \nConcourse and E Kingsbridge Rd) to Bedford Pk Blvd. "
+        "alternativeroute": "If you are on the street:\nTake a Mott Haven-bound Bx1 LTD or Bx2 bus (Grand Concourse and Bedford Pk Blvd) to \nE Kingsbridge Rd for Manhattan-bound B/D service at Kingsbridge Rd station. \nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and use elevator to take a \nManhattan-bound B or D train to Kingsbridge Rd. Then, use elevators to exit the station \nand take a Riverdale-bound Bx1 LTD or Kingsbridge Hts-bound Bx2 bus (Grand \nConcourse and E Kingsbridge Rd) to Bedford Pk Blvd. ",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL502": {
         "station": "Bedford Pk Blvd",
@@ -20100,7 +20374,8 @@ export const stations ={
         "nextadasouth": "212, B, D",
         "redundant": 0,
         "busconnections": "Bx1, Bx2, Bx26, BxM4",
-        "alternativeroute": "If you are on the mezzanine: \nExit through the faregate and use elevator to exit station. Then, take a Mott Havenbound Bx1 LTD or Bx2 bus (Grand Concourse and Bedford Pk Blvd) to E Kingsbridge Rd \nfor Manhattan-bound B/D service at Kingsbridge Rd station. \nIf you are on the platform: \nTake a Manhattan-bound B or D train to Kingsbridge Rd.\nThen either: \nUse elevators to transfer to a Bronx-bound B or D train to Bedford Pk Blvd. \nOr, \nUse elevators to exit station and take a Riverdale-bound Bx1 LTD or Kingsbridge Htsbound Bx2 bus (Grand Concourse and E Kingsbridge Rd) to Bedford Pk Blvd."
+        "alternativeroute": "If you are on the mezzanine: \nExit through the faregate and use elevator to exit station. Then, take a Mott Havenbound Bx1 LTD or Bx2 bus (Grand Concourse and Bedford Pk Blvd) to E Kingsbridge Rd \nfor Manhattan-bound B/D service at Kingsbridge Rd station. \nIf you are on the platform: \nTake a Manhattan-bound B or D train to Kingsbridge Rd.\nThen either: \nUse elevators to transfer to a Bronx-bound B or D train to Bedford Pk Blvd. \nOr, \nUse elevators to exit station and take a Riverdale-bound Bx1 LTD or Kingsbridge Htsbound Bx2 bus (Grand Concourse and E Kingsbridge Rd) to Bedford Pk Blvd.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL332": {
         "station": "Bleecker St",
@@ -20121,7 +20396,8 @@ export const stations ={
         "nextadasouth": "410, 6",
         "redundant": 1,
         "busconnections": "M1, M21, M55, SIM1/1c, SIM3c, SIM4c, SIM7, SIM33c, SIM34",
-        "alternativeroute": "If you are on the uptown 6 mezzanine: Take the other elevator on this level to the uptown B/D/F/M platform and proceed towards the middle of the platform the elevator to the mezzanine. Then exit the station or use the elevator at the other end of the mezzanine for the downtownB/D/F/M. If you are on the downtown B/D/F/M platform: Use the other elevator near the middle of the platform then either: Use the elevator at the opposite end of the mezzanine to reach the uptown B/D/F/M platform. Proceed to the other end of the platform to take the elevator to the uptown 6. Or, take the downtown 6 to Brooklyn Bridge-City Hall and use elevators to transfer to the uptown 6."
+        "alternativeroute": "If you are on the uptown 6 mezzanine: Take the other elevator on this level to the uptown B/D/F/M platform and proceed towards the middle of the platform the elevator to the mezzanine. Then exit the station or use the elevator at the other end of the mezzanine for the downtownB/D/F/M. If you are on the downtown B/D/F/M platform: Use the other elevator near the middle of the platform then either: Use the elevator at the opposite end of the mezzanine to reach the uptown B/D/F/M platform. Proceed to the other end of the platform to take the elevator to the uptown 6. Or, take the downtown 6 to Brooklyn Bridge-City Hall and use elevators to transfer to the uptown 6.",
+        "mergeddescription": "uptown 6 mezz to downtown B/D/F/M"
     },
     "EL331": {
         "station": "Bleecker St",
@@ -20142,7 +20418,8 @@ export const stations ={
         "nextadasouth": "410, 6",
         "redundant": 1,
         "busconnections": "M1, M21, M55, SIM1/1c, SIM3c, SIM4c, SIM7, SIM33c, SIM34",
-        "alternativeroute": "If you are on the uptown 6 mezzanine: Take the other elevator on this level to the downtown B/D/F/M platform and proceed towards the middle of the downtown B/D/F/M platform for the elevator. Then exit the station or use the elevator at other end of the mezzanine for the uptown B/D/F/M. If you are on the uptown B/D/F/M platform: Use the other elevator near the middle of the platform then either: Use the elevator at the opposite end of the mezzanine to reach the downtown B/D/F/M platform. Proceed to the other end of the platform to take the elevator to the uptown 6. Or, take the downtown 6 to Brooklyn Bridge-City Hall and use elevators to transfer to the uptown 6."
+        "alternativeroute": "If you are on the uptown 6 mezzanine: Take the other elevator on this level to the downtown B/D/F/M platform and proceed towards the middle of the downtown B/D/F/M platform for the elevator. Then exit the station or use the elevator at other end of the mezzanine for the uptown B/D/F/M. If you are on the uptown B/D/F/M platform: Use the other elevator near the middle of the platform then either: Use the elevator at the opposite end of the mezzanine to reach the downtown B/D/F/M platform. Proceed to the other end of the platform to take the elevator to the uptown 6. Or, take the downtown 6 to Brooklyn Bridge-City Hall and use elevators to transfer to the uptown 6.",
+        "mergeddescription": "Uptown 6 to uptown B/D/F/M"
     },
     "EL330": {
         "station": "Bleecker St",
@@ -20163,7 +20440,8 @@ export const stations ={
         "nextadasouth": "101, M / 25, F / 26, B / 27, D / 410, 6",
         "redundant": 1,
         "busconnections": "M1, M21, M55, SIM1/1c, SIM3c, SIM4c, SIM7, SIM33c, SIM34",
-        "alternativeroute": "If you are on the downtown 6 mezzanine: Use the elevator on the other side of the mezzanine to reach the uptown B/D/F/M platform. Proceed to the opposite end of the platform to reach the elevator to the uptown 6 platform. Use the elevator at the opposite end of the mezzanine to reach the downtown B/D/F/M platform. Or, take a downtown 6 to Brooklyn Bridge-City Hall. Then use the elevators to transfer to an uptown 6 B\u2019way-Lafayette St, and use the elevator to transfer to the B/D/F/M. If you are on the downtown B/D/F/M platform: Use the elevator at the other end of this platform to reach the uptown 6 platform. Use the elevator at the other end of the mezzanine to reach the uptown B/D/F/M platform. Proceed to the other end of the uptown B/D/F/M platform for the elevator to transfer to a downtown 6 or to exit the station."
+        "alternativeroute": "If you are on the downtown 6 mezzanine: Use the elevator on the other side of the mezzanine to reach the uptown B/D/F/M platform. Proceed to the opposite end of the platform to reach the elevator to the uptown 6 platform. Use the elevator at the opposite end of the mezzanine to reach the downtown B/D/F/M platform. Or, take a downtown 6 to Brooklyn Bridge-City Hall. Then use the elevators to transfer to an uptown 6 B\u2019way-Lafayette St, and use the elevator to transfer to the B/D/F/M. If you are on the downtown B/D/F/M platform: Use the elevator at the other end of this platform to reach the uptown 6 platform. Use the elevator at the other end of the mezzanine to reach the uptown B/D/F/M platform. Proceed to the other end of the uptown B/D/F/M platform for the elevator to transfer to a downtown 6 or to exit the station.",
+        "mergeddescription": "downtown 6 mezz to downtown B/D/F/M"
     },
     "EL329": {
         "station": "Bleecker St",
@@ -20184,7 +20462,8 @@ export const stations ={
         "nextadasouth": "101, M / 25, F / 26, B / 27, D / 410, 6",
         "redundant": 1,
         "busconnections": "M1, M21, M55, SIM1/1c, SIM3c, SIM4c, SIM7, SIM33c, SIM34",
-        "alternativeroute": "If you are on the downtown 6 mezzanine: Use the elevator on the other side of this mezzanine to reach the B/D/F/M platform. Proceed to the elevator at the opposite end of the platform to reach the uptown 6 platform. Use the elevator at the other end of the mezzanine to reach the uptown B/D/F/M. Or, take a downtown 6 to Brooklyn Bridge-City Hall. Use elevators to transfer to an uptown 6 to B\u2019way-Lafayette St, and then use the elevator to transfer to the B, D, F or M. If you are on the uptown B/D/F/M platform: Proceed to the elevator at the other end of this platform to reach the uptown 6 platform. Use the elevator at opposite end of the mezzanine to reach the downtown B/D/F/M platform. Then proceed to the opposite end of the platform for the elevator to the downtown 6. Or, take an uptown B, D, F or M to W 4 St-Wash Sq and use the elevators to transfer to a downtown B, D, F or M to B\u2019way-Lafayette St. Then take the elevator to transfer to a downtown 6 or exit to street. Or, take an uptown B, D, F or M to W 4 St-Wash Sq. Exit the station and take a Lower East Side-bound M21 bus (Houston St and 6 Av) to Broadway."
+        "alternativeroute": "If you are on the downtown 6 mezzanine: Use the elevator on the other side of this mezzanine to reach the B/D/F/M platform. Proceed to the elevator at the opposite end of the platform to reach the uptown 6 platform. Use the elevator at the other end of the mezzanine to reach the uptown B/D/F/M. Or, take a downtown 6 to Brooklyn Bridge-City Hall. Use elevators to transfer to an uptown 6 to B\u2019way-Lafayette St, and then use the elevator to transfer to the B, D, F or M. If you are on the uptown B/D/F/M platform: Proceed to the elevator at the other end of this platform to reach the uptown 6 platform. Use the elevator at opposite end of the mezzanine to reach the downtown B/D/F/M platform. Then proceed to the opposite end of the platform for the elevator to the downtown 6. Or, take an uptown B, D, F or M to W 4 St-Wash Sq and use the elevators to transfer to a downtown B, D, F or M to B\u2019way-Lafayette St. Then take the elevator to transfer to a downtown 6 or exit to street. Or, take an uptown B, D, F or M to W 4 St-Wash Sq. Exit the station and take a Lower East Side-bound M21 bus (Houston St and 6 Av) to Broadway.",
+        "mergeddescription": "downtown 6 mezz to uptown B/D/F/M platform"
     },
     "EL328": {
         "station": "Bleecker St",
@@ -20205,7 +20484,8 @@ export const stations ={
         "nextadasouth": "101, M / 25, F / 26, B / 27, D / 410, 6",
         "redundant": 0,
         "busconnections": "M1, M21, M55, SIM1/1c, SIM3c, SIM4c, SIM7, SIM33c, SIM34",
-        "alternativeroute": "If you are on the street: For B/D/F/M, take a West Village-bound M21 bus (Houston St and Crosby St) to Houston St and 6 Av. Transfer to an uptown M55 bus to 3 St and 6 Av for W 4 St-Wash Sq A/C/E/B/D/F/M. For 6, take a South Ferry-bound M55 bus (Broadway and Houston St) to Walker St. Proceed to Canal St and Lafayette Av for Canal St 6. If you are on the downtown 6 mezzanine: Contact a station agent to re-enter through the faregate and take a downtown 6 to Canal St. Then use the elevator to exit the station and take an uptown M1 bus (Broome St and Centre St) to Houston St and Lafayette St."
+        "alternativeroute": "If you are on the street: For B/D/F/M, take a West Village-bound M21 bus (Houston St and Crosby St) to Houston St and 6 Av. Transfer to an uptown M55 bus to 3 St and 6 Av for W 4 St-Wash Sq A/C/E/B/D/F/M. For 6, take a South Ferry-bound M55 bus (Broadway and Houston St) to Walker St. Proceed to Canal St and Lafayette Av for Canal St 6. If you are on the downtown 6 mezzanine: Contact a station agent to re-enter through the faregate and take a downtown 6 to Canal St. Then use the elevator to exit the station and take an uptown M1 bus (Broome St and Centre St) to Houston St and Lafayette St.",
+        "mergeddescription": "Street to downtown 6 (+BDFM)"
     },
     "ES300": {
         "station": "Bleecker St",
@@ -20226,7 +20506,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M1, M21, M55, SIM1/1c, SIM3c, SIM4c, SIM7, SIM33c, SIM34",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown B/D/F/M platform to uptown 6"
     },
     "EL318": {
         "station": "Borough Hall",
@@ -20247,7 +20528,8 @@ export const stations ={
         "nextadasouth": "338, 2, 3, 4, 5",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B61, B65, B103 (westbound only)",
-        "alternativeroute": "If you are on the mezzanine: Exit through the faregate and use the elevator to proceed to the plaza at Court St and Montague St. Then take a Kings Plaza/ Bergen Beach-bound B41 bus to Atlantic Av and Flatbush Av and enter Atlantic Av-Barclays Ctr for 2/3/4/5 service. If you are on the Manhattan-bound 2/3 platform: Take a Manhattan-bound 2, 3, 4 or 5 to Fulton St and use elevators to transfer to a Brooklyn-bound A or C to Jay St-MetroTech. If you are on the Brooklyn-bound 2/3  platform:  Take a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr. Then use elevators to exit the station and take a Downtown Brooklyn-bound B41 bus (Flatbush Av and Atlantic Av) to the plaza at Court St and Montague St."
+        "alternativeroute": "If you are on the mezzanine: Exit through the faregate and use the elevator to proceed to the plaza at Court St and Montague St. Then take a Kings Plaza/ Bergen Beach-bound B41 bus to Atlantic Av and Flatbush Av and enter Atlantic Av-Barclays Ctr for 2/3/4/5 service. If you are on the Manhattan-bound 2/3 platform: Take a Manhattan-bound 2, 3, 4 or 5 to Fulton St and use elevators to transfer to a Brooklyn-bound A or C to Jay St-MetroTech. If you are on the Brooklyn-bound 2/3  platform:  Take a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr. Then use elevators to exit the station and take a Downtown Brooklyn-bound B41 bus (Flatbush Av and Atlantic Av) to the plaza at Court St and Montague St.",
+        "mergeddescription": "mezz to 2/3 and Manhattan-bound 4/5"
     },
     "EL317": {
         "station": "Borough Hall",
@@ -20268,7 +20550,8 @@ export const stations ={
         "nextadasouth": "338, 2, 3, 4, 5",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B61, B65, B103 (westbound only)",
-        "alternativeroute": "If you are on the street: Proceed to the plaza at Court St and Montague St. Then take a Kings Plaza/Bergen Beach-bound B41 bus to Atlantic Av and Flatbush Av and use elevators to enter Atlantic Av-Barclays Ctr for 2/3/4/5 service. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr. Then use elevators to exit the station and take a Downtown Brooklyn-bound B41 bus (Flatbush Av and Atlantic Av) to the plaza at Court St and Montague St."
+        "alternativeroute": "If you are on the street: Proceed to the plaza at Court St and Montague St. Then take a Kings Plaza/Bergen Beach-bound B41 bus to Atlantic Av and Flatbush Av and use elevators to enter Atlantic Av-Barclays Ctr for 2/3/4/5 service. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr. Then use elevators to exit the station and take a Downtown Brooklyn-bound B41 bus (Flatbush Av and Atlantic Av) to the plaza at Court St and Montague St.",
+        "mergeddescription": "Street to 2/3 & Manhattan-bound 4/5 "
     },
     "ES303": {
         "station": "Borough Hall",
@@ -20289,7 +20572,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B61, B65, B103 (westbound only)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Brooklyn-bound 2/3 to R mezzanine"
     },
     "ES334": {
         "station": "Bowery",
@@ -20310,7 +20594,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "J/Z platform to mezzanine"
     },
     "EL710": {
         "station": "Bowling Green",
@@ -20331,7 +20616,8 @@ export const stations ={
         "nextadasouth": "335, 4, 5",
         "redundant": 1,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": "If you are on the street: Take an uptown M55 bus (State St and Bridge St) to Liberty St. Then enter Fulton St 4/5 at Broadway and Dey St via the elevator on the southwest corner. If you are at the uptown platform: See a station agent to re-enter through the faregate and take an uptown 4 or 5 to Fulton St. Use elevators to exit the station and take a downtown M55 bus (Broadway and Cortlandt St) to Bowling Green 4/5. If you are on the lower mezzanine: Re-enter through the faregate and use the elevator to take a Brooklyn-bound 4 or 5 to Atlantic Av-Barclays Center. Then transfer across the platform to take a Manhattan-bound 4 or 5 to Fulton St. Proceed to Broadway and Cortlandt St and take a downtown M55 bus to Bowling Green."
+        "alternativeroute": "If you are on the street: Take an uptown M55 bus (State St and Bridge St) to Liberty St. Then enter Fulton St 4/5 at Broadway and Dey St via the elevator on the southwest corner. If you are at the uptown platform: See a station agent to re-enter through the faregate and take an uptown 4 or 5 to Fulton St. Use elevators to exit the station and take a downtown M55 bus (Broadway and Cortlandt St) to Bowling Green 4/5. If you are on the lower mezzanine: Re-enter through the faregate and use the elevator to take a Brooklyn-bound 4 or 5 to Atlantic Av-Barclays Center. Then transfer across the platform to take a Manhattan-bound 4 or 5 to Fulton St. Proceed to Broadway and Cortlandt St and take a downtown M55 bus to Bowling Green.",
+        "mergeddescription": "Street to uptown platform & mezz"
     },
     "ES341": {
         "station": "Bowling Green",
@@ -20352,7 +20638,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to uptown 4/5 platform"
     },
     "ES342": {
         "station": "Bowling Green",
@@ -20373,7 +20660,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to downtown 4/5 platform"
     },
     "ES340": {
         "station": "Bowling Green",
@@ -20394,7 +20682,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to uptown 4/5 platform"
     },
     "ES345": {
         "station": "Bowling Green",
@@ -20415,7 +20704,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown 4/5 mezzanine to street"
     },
     "ES343": {
         "station": "Bowling Green",
@@ -20436,7 +20726,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to downtown 4/5 platform"
     },
     "EL711": {
         "station": "Bowling Green",
@@ -20457,7 +20748,8 @@ export const stations ={
         "nextadasouth": "335, 4, 5",
         "redundant": 1,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": "If you are on the lower mezzanine: Exit through the faregate and use the elevator at the other end of the mezzanine to reach the uptown platform level, then either: See a station agent to re-enter through the faregate to take an uptown 4 or 5 to Fulton St. Use elevators to transfer to a downtown 4 or 5. Or, stay on the elevator to street level and take an uptown M55 bus (State St and Bridge St) to Liberty St. Enter Fulton St 4/5 station at Broadway and Dey St via the elevator on the southwest corner. If you are on the platform: Take a Brooklyn-bound 4 or 5 to Atlantic Av-Barclays Center. Then transfer across the platform for a Manhattan-bound 4 or 5."
+        "alternativeroute": "If you are on the lower mezzanine: Exit through the faregate and use the elevator at the other end of the mezzanine to reach the uptown platform level, then either: See a station agent to re-enter through the faregate to take an uptown 4 or 5 to Fulton St. Use elevators to transfer to a downtown 4 or 5. Or, stay on the elevator to street level and take an uptown M55 bus (State St and Bridge St) to Liberty St. Enter Fulton St 4/5 station at Broadway and Dey St via the elevator on the southwest corner. If you are on the platform: Take a Brooklyn-bound 4 or 5 to Atlantic Av-Barclays Center. Then transfer across the platform for a Manhattan-bound 4 or 5.",
+        "mergeddescription": "lower mezz to  Brooklyn-bound platform"
     },
     "ES338": {
         "station": "Bowling Green",
@@ -20478,7 +20770,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES339": {
         "station": "Bowling Green",
@@ -20499,7 +20792,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES336": {
         "station": "Bowling Green",
@@ -20520,7 +20814,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to uptown 4/5 mezz"
     },
     "ES337": {
         "station": "Bowling Green",
@@ -20541,7 +20836,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M20, M55, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM33c, SIM35, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; Staten Island Ferry (two blocks south)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown 4/5 mezz to lower mezz"
     },
     "EL424": {
         "station": "Briarwood",
@@ -20562,7 +20858,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q60, QM21, Q44 SBS, Q20A, Q20B",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES346": {
         "station": "Brighton Beach",
@@ -20583,7 +20880,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES347": {
         "station": "Broadway Junction",
@@ -20604,7 +20902,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "A/C mezzanine to J/Z/L mezzanine"
     },
     "ES330": {
         "station": "Broadway Junction",
@@ -20625,7 +20924,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "A/C mezzanine to J/Z/L mezzanine"
     },
     "ES331": {
         "station": "Broadway Junction",
@@ -20646,7 +20946,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "J/Z/L upper mezz to A/C mezz"
     },
     "EL314": {
         "station": "Brooklyn Bridge-City Hall",
@@ -20667,7 +20968,8 @@ export const stations ={
         "nextadasouth": "106, J, Z / 412, 4, 5",
         "redundant": 0,
         "busconnections": "M9, M22, M55, M103, BM1, BM2, BM3, BM4, SIM1/1c, SIM2, SIM4/4c/4x, SIM32, SIM33c, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM35",
-        "alternativeroute": "If you are on the street: Take a downtown M55 (Broadway & Warren St) to Cortlandt St. Proceed 1 block north to Fulton St 2345ACJZ Station. If you are on the mezzanine: Take an uptown 6 to Canal St. Use elevator to exit station and take a downtown M55 (Broadway and Walker St) to Warren St."
+        "alternativeroute": "If you are on the street: Take a downtown M55 (Broadway & Warren St) to Cortlandt St. Proceed 1 block north to Fulton St 2345ACJZ Station. If you are on the mezzanine: Take an uptown 6 to Canal St. Use elevator to exit station and take a downtown M55 (Broadway and Walker St) to Warren St.",
+        "mergeddescription": "Street to mezzanine (+456JZ)"
     },
     "EL316": {
         "station": "Brooklyn Bridge-City Hall",
@@ -20688,7 +20990,8 @@ export const stations ={
         "nextadasouth": "412, 4, 5",
         "redundant": 0,
         "busconnections": "M9, M22, M55, M103, BM1, BM2, BM3, BM4, SIM1/1c, SIM2, SIM4/4c/4x, SIM32, SIM33c, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM35",
-        "alternativeroute": "If you are on the mezzanine:  Use elevator to take a downtown 4 or 5 to Fulton St. Then use elevators to transfer to an uptown 4 or 5.  Or, use elevator to exit staton and take a downtown M55 (Broadway and Warren St) to Cortlandt St. Proceed 1 block north to Fulton St Station.  If you are on the platform:  Take an uptown 6 to Bleecker St. Then use elevators to transfer to a downtown 6 to Brooklyn Bridge-City Hall.  Or, take an uptown 6 to Canal St. Use elevator to exit station and take a downtown M55 (Broadway and Walker St) to Chambers St. Proceed one block east to Centre Street."
+        "alternativeroute": "If you are on the mezzanine:  Use elevator to take a downtown 4 or 5 to Fulton St. Then use elevators to transfer to an uptown 4 or 5.  Or, use elevator to exit staton and take a downtown M55 (Broadway and Warren St) to Cortlandt St. Proceed 1 block north to Fulton St Station.  If you are on the platform:  Take an uptown 6 to Bleecker St. Then use elevators to transfer to a downtown 6 to Brooklyn Bridge-City Hall.  Or, take an uptown 6 to Canal St. Use elevator to exit station and take a downtown M55 (Broadway and Walker St) to Chambers St. Proceed one block east to Centre Street.",
+        "mergeddescription": "mezzanine to uptown 4/5/6 platform"
     },
     "EL315": {
         "station": "Brooklyn Bridge-City Hall",
@@ -20709,7 +21012,8 @@ export const stations ={
         "nextadasouth": "412, 4, 5",
         "redundant": 0,
         "busconnections": "M9, M22, M55, M103, BM1, BM2, BM3, BM4, SIM1/1c, SIM2, SIM4/4c/4x, SIM32, SIM33c, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM35",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take an uptown 6 to Bleecker St. Then use elevators to transfer to a downtown 6. Transfer across the platform at Brooklyn Bridge-City Hall for downtown and Brooklyn 45 service. Or, use elevator to exit station and take a downtown M55 (Broadway and Warren St) to Cortlandt St.  Proceed 1 block north to Fulton St ACJZ2345 Station. If you are on the platform: Take a downtown 45 Fulton St. Then either: Use elevators to transfer to an uptown 45 to Brooklyn Bridge-City Hall. Or, use  elevators to exit station and take an uptown M55 (Church St and Vesey St) to Chambers St."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take an uptown 6 to Bleecker St. Then use elevators to transfer to a downtown 6. Transfer across the platform at Brooklyn Bridge-City Hall for downtown and Brooklyn 45 service. Or, use elevator to exit station and take a downtown M55 (Broadway and Warren St) to Cortlandt St.  Proceed 1 block north to Fulton St ACJZ2345 Station. If you are on the platform: Take a downtown 45 Fulton St. Then either: Use elevators to transfer to an uptown 45 to Brooklyn Bridge-City Hall. Or, use  elevators to exit station and take an uptown M55 (Church St and Vesey St) to Chambers St.",
+        "mergeddescription": "mezzanine to downtown 4/5/6"
     },
     "EL325": {
         "station": "Canal St",
@@ -20730,7 +21034,8 @@ export const stations ={
         "nextadasouth": "411, 6",
         "redundant": 0,
         "busconnections": "M55 (southbound), X27, X28",
-        "alternativeroute": "If you are on the street: Take a downtown M55 bus (Broadway and Walker St) to Warren St. Then proceed east to Brooklyn Bridge-City Hall 4/5/6 station. If you are at the platform:  Contact a station agent to re-enter through the faregate and take a downtown 6 to Brooklyn Bridge-City Hall. Then use elevators to transfer to an uptown 6 to Canal St."
+        "alternativeroute": "If you are on the street: Take a downtown M55 bus (Broadway and Walker St) to Warren St. Then proceed east to Brooklyn Bridge-City Hall 4/5/6 station. If you are at the platform:  Contact a station agent to re-enter through the faregate and take a downtown 6 to Brooklyn Bridge-City Hall. Then use elevators to transfer to an uptown 6 to Canal St.",
+        "mergeddescription": "Street to downtown 6 platform"
     },
     "EL324": {
         "station": "Canal St",
@@ -20751,7 +21056,8 @@ export const stations ={
         "nextadasouth": "411, 6",
         "redundant": 0,
         "busconnections": "M55 (southbound), X27, X28",
-        "alternativeroute": "If you are on the street: Take an uptown M1 bus (Centre St and Broome St) to E Houston St for Bleecker St 6 Station. If you are at the platform:  See a station agent to re-enter through the faregate and take a downtown 6 to Brooklyn Bridge-City Hall. Then use elevators to transfer to an uptown 6 to Canal St."
+        "alternativeroute": "If you are on the street: Take an uptown M1 bus (Centre St and Broome St) to E Houston St for Bleecker St 6 Station. If you are at the platform:  See a station agent to re-enter through the faregate and take a downtown 6 to Brooklyn Bridge-City Hall. Then use elevators to transfer to an uptown 6 to Canal St.",
+        "mergeddescription": "Street to uptown 6 platform"
     },
     "EL336": {
         "station": "Chambers St",
@@ -20772,7 +21078,8 @@ export const stations ={
         "nextadasouth": "328, 1 / 332, 2, 3",
         "redundant": 0,
         "busconnections": "M5 (northbound, one block east at Church St), M9 (at Warren and Murray Sts), M20 (southbound), M22, SIM1, SIM2, SIM4/4x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15",
-        "alternativeroute": "If you are on the street: Take a downtown M20  (Chambers St/Hudson St) to State St/Bridge St and use elevators at South Ferry 1 Station to take a uptown 1 . If you are on the mezzanine: Use elevator to take a downtown 1 to WTC Cortlandt and use elevators to exit station. Transfer to an uptown M55 (Church and Vesey St.)"
+        "alternativeroute": "If you are on the street: Take a downtown M20  (Chambers St/Hudson St) to State St/Bridge St and use elevators at South Ferry 1 Station to take a uptown 1 . If you are on the mezzanine: Use elevator to take a downtown 1 to WTC Cortlandt and use elevators to exit station. Transfer to an uptown M55 (Church and Vesey St.)",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL338": {
         "station": "Chambers St",
@@ -20793,7 +21100,8 @@ export const stations ={
         "nextadasouth": "328, 1 / 332, 2, 3",
         "redundant": 0,
         "busconnections": "M5 (northbound, one block east at Church St), M9 (at Warren and Murray Sts), M20 (southbound), M22, SIM1, SIM2, SIM4/4x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15",
-        "alternativeroute": "If you are on the mezzanine:  Use elevator to take an uptown 1, 2 or 3 to 34 St-Penn Station. Then either:  If taking an uptown 2 or 3, transfer across the platform for downtown 2 or 3 service.  Or, use elevators to transfer to a downtown 1.  If you are on the platform:  Take a downtown 2 or 3 to Fulton St. Then transfer across the platform to an uptown 2 or 3 to Chambers St.  Or, take a downtown 1 to WTC Cortlandt and use elevators to transfer to an uptown 1 to Chambers St."
+        "alternativeroute": "If you are on the mezzanine:  Use elevator to take an uptown 1, 2 or 3 to 34 St-Penn Station. Then either:  If taking an uptown 2 or 3, transfer across the platform for downtown 2 or 3 service.  Or, use elevators to transfer to a downtown 1.  If you are on the platform:  Take a downtown 2 or 3 to Fulton St. Then transfer across the platform to an uptown 2 or 3 to Chambers St.  Or, take a downtown 1 to WTC Cortlandt and use elevators to transfer to an uptown 1 to Chambers St.",
+        "mergeddescription": "mezzanine to downtown platform"
     },
     "EL337": {
         "station": "Chambers St",
@@ -20814,7 +21122,8 @@ export const stations ={
         "nextadasouth": "328, 1 / 332, 2, 3",
         "redundant": 0,
         "busconnections": "M5 (northbound, one block east at Church St), M9 (at Warren and Murray Sts), M20 (southbound), M22, SIM1, SIM2, SIM4/4x, SIM32, SIM34, SIM1c, SIM3c, SIM4c, SIM15",
-        "alternativeroute": "If you are on the mezzanine:  Use elevator to take a downtown 2 or 3 to Fulton St. Transfer across the platform to an uptown 2 or 3.  Or, use elevator to take a downtown 1 to WTC Cortlandt and use elevators to transfer to an uptown 1.  If you are on the platform: Take an uptown 2 or 3 to 34 St-Penn Station. Then either:  If taking an uptown 2 or 3, transfer across the platform for downtown 2 or 3 service.  Or, use elevators to transfer to a downtown 1."
+        "alternativeroute": "If you are on the mezzanine:  Use elevator to take a downtown 2 or 3 to Fulton St. Transfer across the platform to an uptown 2 or 3.  Or, use elevator to take a downtown 1 to WTC Cortlandt and use elevators to transfer to an uptown 1.  If you are on the platform: Take an uptown 2 or 3 to 34 St-Penn Station. Then either:  If taking an uptown 2 or 3, transfer across the platform for downtown 2 or 3 service.  Or, use elevators to transfer to a downtown 1.",
+        "mergeddescription": "mezzanine to uptown platform"
     },
     "EL743": {
         "station": "Chambers St",
@@ -20835,7 +21144,8 @@ export const stations ={
         "nextadasouth": "106, J, Z",
         "redundant": 0,
         "busconnections": "M9, M22, M55, M103, BM1, BM2, BM3, BM4, SIM1/1c, SIM2, SIM4/4c/4x, SIM32, SIM33c, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM35",
-        "alternativeroute": "If you are on the mezzanine: Proceed down the passageway and use elevator to take a downtown 4 or 5 to Fulton St station. If you are on the platform: Take a Broad St-bound J or Z train to Fulton St station, then either: Use elevators to transfer to a Jamaica-bound J or Z to Chambers St. Or, use elevators to transfer to an uptown 4 or 5 to Brooklyn Bridge-City Hall."
+        "alternativeroute": "If you are on the mezzanine: Proceed down the passageway and use elevator to take a downtown 4 or 5 to Fulton St station. If you are on the platform: Take a Broad St-bound J or Z train to Fulton St station, then either: Use elevators to transfer to a Jamaica-bound J or Z to Chambers St. Or, use elevators to transfer to an uptown 4 or 5 to Brooklyn Bridge-City Hall.",
+        "mergeddescription": "mezzanine to Broad St-bound J/Z"
     },
     "EL742": {
         "station": "Chambers St",
@@ -20856,7 +21166,8 @@ export const stations ={
         "nextadasouth": "106, J, Z",
         "redundant": 0,
         "busconnections": "M9, M22, M55, M103, BM1, BM2, BM3, BM4, SIM1/1c, SIM2, SIM4/4c/4x, SIM32, SIM33c, SIM34, SIM1c, SIM3c, SIM4c, SIM15, SIM35",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Broad St-boud J or Z train to Fulton St station. Then, use elevators to transfer to a Jamaica-bound J or Z. Or, proceed down the passageway and use elevator to take a downtown 4 or 5 to Fulton St station. Then, use elevators to transfer to a Jamaica-bound J or Z. If you are on the platform: Take a Jamaica-bound J or Z train to Marcy Av and use elevators to transfer to a Manhattan-bound J or Z train to Chambers St."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Broad St-boud J or Z train to Fulton St station. Then, use elevators to transfer to a Jamaica-bound J or Z. Or, proceed down the passageway and use elevator to take a downtown 4 or 5 to Fulton St station. Then, use elevators to transfer to a Jamaica-bound J or Z. If you are on the platform: Take a Jamaica-bound J or Z train to Marcy Av and use elevators to transfer to a Manhattan-bound J or Z train to Chambers St.",
+        "mergeddescription": "mezzanine to Brooklyn-bound J/Z"
     },
     "EL321": {
         "station": "Church Av",
@@ -20877,7 +21188,8 @@ export const stations ={
         "nextadasouth": "359, 2, 5",
         "redundant": 0,
         "busconnections": "B35, B44, B44 SBS",
-        "alternativeroute": "If you are on the street: Cross Nostrand Av and use elevator to take a Manhattan-bound 2 to Eastern Parkway. Then, use elevators to transfer to a Flatbush Av-bound 2. Or, take a Sheepshead Bay-bound B44 bus or B44 SBS (Church Av and Nostrand Av) to Flatbush Av. If you are on the platform: Take a Brooklyn-bound 2 or 5 to Flatbush Av, then either: Remain on the train or proceed to the opposite platform to transfer to a Manhattan-bound 2 or 5 to Church Av. Or, use the elevator to exit the station and take a Williamsburg-bound B44 bus or B44 SBS (Nostrand Av and Flatbush Av) to Church Av (at Rogers Av on B44 SBS; at New York Av on B44). Then proceed to Nostrand Av and Church Av."
+        "alternativeroute": "If you are on the street: Cross Nostrand Av and use elevator to take a Manhattan-bound 2 to Eastern Parkway. Then, use elevators to transfer to a Flatbush Av-bound 2. Or, take a Sheepshead Bay-bound B44 bus or B44 SBS (Church Av and Nostrand Av) to Flatbush Av. If you are on the platform: Take a Brooklyn-bound 2 or 5 to Flatbush Av, then either: Remain on the train or proceed to the opposite platform to transfer to a Manhattan-bound 2 or 5 to Church Av. Or, use the elevator to exit the station and take a Williamsburg-bound B44 bus or B44 SBS (Nostrand Av and Flatbush Av) to Church Av (at Rogers Av on B44 SBS; at New York Av on B44). Then proceed to Nostrand Av and Church Av.",
+        "mergeddescription": "Street to Brooklyn-bound platform"
     },
     "EL320": {
         "station": "Church Av",
@@ -20898,7 +21210,8 @@ export const stations ={
         "nextadasouth": "359, 2, 5",
         "redundant": 0,
         "busconnections": "B35, B44, B44 SBS",
-        "alternativeroute": "If you are on the street: Cross Nostrand Av to take a Brooklyn-bound 2 or 5 to Flatbush Av. Use elevators to transfer to a Manhattan-bound 2 or 5. Or, take a Sheepshead Bay-bound B44 bus or B44 SBS (Church Av and Nostrand Av) to Nostrand Av and Flatbush Av. Use the elevator to enter Flatbush Av/Brooklyn College 25. If you are on the platform: Take a Manhattan-bound 2 to Eastern Parkway. Then, use elevators to transfer to a Flatbush Av-bound 2 to Church Av."
+        "alternativeroute": "If you are on the street: Cross Nostrand Av to take a Brooklyn-bound 2 or 5 to Flatbush Av. Use elevators to transfer to a Manhattan-bound 2 or 5. Or, take a Sheepshead Bay-bound B44 bus or B44 SBS (Church Av and Nostrand Av) to Nostrand Av and Flatbush Av. Use the elevator to enter Flatbush Av/Brooklyn College 25. If you are on the platform: Take a Manhattan-bound 2 to Eastern Parkway. Then, use elevators to transfer to a Flatbush Av-bound 2 to Church Av.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "EL375": {
         "station": "Church Av",
@@ -20919,7 +21232,8 @@ export const stations ={
         "nextadasouth": "58, F",
         "redundant": 0,
         "busconnections": "B35, B67, B69, B103 (eastbound), BM3 (eastbound), BM4 (eastbound)",
-        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station and take a Brownsville-bound B35 or B35 Ltd bus (Church Av and McDonald Av) to Coney Island Av. Then transfer to a Coney Island-bound B68 bus (Coney Island Av and Church Av) to Stillwell Av terminal.  Or, use the nearby elevator to take a Manhattan-bound F to Jay St-MetroTech. Then use the elevator to take a Coney Island-bound F to Coney Island-Stillwell Av.  If you are on the platform:  Take a Coney Island-bound F to Coney Island-Stillwell Av. Then remain on the train or transfer across the platform for a Manhattan-bound train to Church Av."
+        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station and take a Brownsville-bound B35 or B35 Ltd bus (Church Av and McDonald Av) to Coney Island Av. Then transfer to a Coney Island-bound B68 bus (Coney Island Av and Church Av) to Stillwell Av terminal.  Or, use the nearby elevator to take a Manhattan-bound F to Jay St-MetroTech. Then use the elevator to take a Coney Island-bound F to Coney Island-Stillwell Av.  If you are on the platform:  Take a Coney Island-bound F to Coney Island-Stillwell Av. Then remain on the train or transfer across the platform for a Manhattan-bound train to Church Av.",
+        "mergeddescription": "mezz to Brooklyn-bound platform (+FG)"
     },
     "EL374": {
         "station": "Church Av",
@@ -20940,7 +21254,8 @@ export const stations ={
         "nextadasouth": "58, F",
         "redundant": 0,
         "busconnections": "B35, B67, B69, B103 (eastbound), BM3 (eastbound), BM4 (eastbound)",
-        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station and take a Downtown Brooklyn-bound B67 bus (McDonald Av and Church Av) to Jay St and Fulton St for Jay St-MetroTech A/C/F/R station.  If you are on the platform:  take a Manhattan-bound F to Jay St-MetroTech, then either:  Use elevators to exit the station and take a Cortelyou Rd-bound B67 bus (Jay St and Fulton St) to Church Av.  Or, use elevators to transfer to a Coney Island-Stillwell Av-bound F."
+        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station and take a Downtown Brooklyn-bound B67 bus (McDonald Av and Church Av) to Jay St and Fulton St for Jay St-MetroTech A/C/F/R station.  If you are on the platform:  take a Manhattan-bound F to Jay St-MetroTech, then either:  Use elevators to exit the station and take a Cortelyou Rd-bound B67 bus (Jay St and Fulton St) to Church Av.  Or, use elevators to transfer to a Coney Island-Stillwell Av-bound F.",
+        "mergeddescription": "mezz to Manhattan-bound platform (+FG)"
     },
     "EL373": {
         "station": "Church Av",
@@ -20961,7 +21276,8 @@ export const stations ={
         "nextadasouth": "58, F",
         "redundant": 0,
         "busconnections": "B35, B67, B69, B103 (eastbound), BM3 (eastbound), BM4 (eastbound)",
-        "alternativeroute": "If you are on the street:  Take a Downtown Brooklyn-bound B67 bus (McDonald Av and Church Av) to Jay St and Fulton St for Jay St-MetroTech A/C/F/R station.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to reach the Manhattan-bound platform. Then take a Manhattan-bound F to Jay St-MetroTech and use elevators to exit the station and take Kensington-bound B67 bus (Jay St and Fulton St) to Church Av."
+        "alternativeroute": "If you are on the street:  Take a Downtown Brooklyn-bound B67 bus (McDonald Av and Church Av) to Jay St and Fulton St for Jay St-MetroTech A/C/F/R station.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to reach the Manhattan-bound platform. Then take a Manhattan-bound F to Jay St-MetroTech and use elevators to exit the station and take Kensington-bound B67 bus (Jay St and Fulton St) to Church Av.",
+        "mergeddescription": "Street to mezzanine (+FG)"
     },
     "EL312": {
         "station": "Clark St",
@@ -20982,7 +21298,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "B25",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL311": {
         "station": "Clark St",
@@ -21003,7 +21320,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "B25",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL310": {
         "station": "Clark St",
@@ -21024,7 +21342,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "B25",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL702": {
         "station": "Coney Island-Stillwell Av",
@@ -21045,7 +21364,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B36, B64, B68, B74, B82",
-        "alternativeroute": "If you are on the D platform: Take a Manhattan-bound D to Bay Pkwy and use the elevator to exit the station. Then take a Coney Island-bound B82 bus (Bay Pkwy and 86 St) to Mermaid Av and Stillwell Av. If you are on the overpass: Take the elevator at the other end of the overpass to the N platform and exit the station via the ramp. Then take a Spring Creek Towers-bound B82 bus (Stillwell Terminal Bus Loop) to Bay Pkwy and 86 St for the D at Bay Pkwy."
+        "alternativeroute": "If you are on the D platform: Take a Manhattan-bound D to Bay Pkwy and use the elevator to exit the station. Then take a Coney Island-bound B82 bus (Bay Pkwy and 86 St) to Mermaid Av and Stillwell Av. If you are on the overpass: Take the elevator at the other end of the overpass to the N platform and exit the station via the ramp. Then take a Spring Creek Towers-bound B82 bus (Stillwell Terminal Bus Loop) to Bay Pkwy and 86 St for the D at Bay Pkwy.",
+        "mergeddescription": "D platform to D platform"
     },
     "EL701": {
         "station": "Coney Island-Stillwell Av",
@@ -21066,7 +21386,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B36, B64, B68, B74, B82",
-        "alternativeroute": "If you are on the N platform: Exit the station via the ramp and take a Spring Creek Towers-bound B82 bus (Stillwell Terminal Bus Loop) to Bay Pkwy and 86 St for the D at Bay Pkwy. If you are on the overpass: Take a Manhattan-bound D to Bay Pkwy and use the elevator to exit the station. Then take a Coney Island-bound B82 bus (Bay Pkwy and 86 St) to Mermaid Av and Stillwell Av."
+        "alternativeroute": "If you are on the N platform: Exit the station via the ramp and take a Spring Creek Towers-bound B82 bus (Stillwell Terminal Bus Loop) to Bay Pkwy and 86 St for the D at Bay Pkwy. If you are on the overpass: Take a Manhattan-bound D to Bay Pkwy and use the elevator to exit the station. Then take a Coney Island-bound B82 bus (Bay Pkwy and 86 St) to Mermaid Av and Stillwell Av.",
+        "mergeddescription": "N platform to D overpass"
     },
     "EL736": {
         "station": "Cortlandt St",
@@ -21087,7 +21408,8 @@ export const stations ={
         "nextadasouth": "330, 1",
         "redundant": 1,
         "busconnections": "M9, M20, M55, SIM1, SIM2, SIM4, SIM15, SIM32, SIM34, X27, X28, BxM18, QM7, QM8, QM11, QM25",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street to downtown 1"
     },
     "ES353": {
         "station": "Cortlandt St",
@@ -21108,7 +21430,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M9, M20, M55, SIM1, SIM2, SIM4, SIM15, SIM32, SIM34, X27, X28, BxM18, QM7, QM8, QM11, QM25",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "north mezzanine to uptown platform"
     },
     "EL713": {
         "station": "Cortlandt St",
@@ -21129,7 +21452,8 @@ export const stations ={
         "nextadasouth": "330, 1",
         "redundant": 1,
         "busconnections": "M9, M20, M55, SIM1, SIM2, SIM4, SIM15, SIM32, SIM34, X27, X28, BxM18, QM7, QM8, QM11, QM25",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Mezzanine to downtown 1 platform"
     },
     "EL712": {
         "station": "Cortlandt St",
@@ -21150,7 +21474,8 @@ export const stations ={
         "nextadasouth": "330, 1",
         "redundant": 1,
         "busconnections": "M9, M20, M55, SIM1, SIM2, SIM4, SIM15, SIM32, SIM34, X27, X28, BxM18, QM7, QM8, QM11, QM25",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Mezzanine to uptown 1 platform"
     },
     "EL726X": {
         "station": "Cortlandt St",
@@ -21171,7 +21496,8 @@ export const stations ={
         "nextadasouth": "25, R",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the platform: Use another elevator in the Oculus.  If you are on the mezzanine: Use another elevator in the Oculus.  Or, use elevator to take an uptown R or W to City Hall and see a station agent to transfer across the platform to downtown R or W."
+        "alternativeroute": "If you are on the platform: Use another elevator in the Oculus.  If you are on the mezzanine: Use another elevator in the Oculus.  Or, use elevator to take an uptown R or W to City Hall and see a station agent to transfer across the platform to downtown R or W.",
+        "mergeddescription": "Fulton Center level to downtown R/W"
     },
     "EL727X": {
         "station": "Cortlandt St",
@@ -21192,7 +21518,8 @@ export const stations ={
         "nextadasouth": "25, R",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the platform: Take uptown R or W to City Hall and see a station agent to transfer across the platform to downtown R or W to Cortlandt St. If you are on the mezzanine: Use elevator  to take a Brooklyn-bound R to Jay St-MetroTech and transfer across the platform to a Manhattan-bound R."
+        "alternativeroute": "If you are on the platform: Take uptown R or W to City Hall and see a station agent to transfer across the platform to downtown R or W to Cortlandt St. If you are on the mezzanine: Use elevator  to take a Brooklyn-bound R to Jay St-MetroTech and transfer across the platform to a Manhattan-bound R.",
+        "mergeddescription": "Fulton center level to uptown R/W"
     },
     "ES380X": {
         "station": "Cortlandt St",
@@ -21213,7 +21540,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "underpass to RW(+St) mezzanine"
     },
     "EL18X": {
         "station": "Cortlandt St",
@@ -21234,7 +21562,8 @@ export const stations ={
         "nextadasouth": "25, R",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (Church St) to downtown R/W"
     },
     "EL17X": {
         "station": "Cortlandt St",
@@ -21255,7 +21584,8 @@ export const stations ={
         "nextadasouth": "25, R",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Oculus main level to Fulton Center & Oculus"
     },
     "EL16X": {
         "station": "Cortlandt St",
@@ -21276,7 +21606,8 @@ export const stations ={
         "nextadasouth": "25, R",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Oculus main level to Fulton Center & Oculus"
     },
     "EL14X": {
         "station": "Cortlandt St",
@@ -21297,7 +21628,8 @@ export const stations ={
         "nextadasouth": "330, 1",
         "redundant": 1,
         "busconnections": "M9, M20, M55, SIM1, SIM2, SIM4, SIM15, SIM32, SIM34, X27, X28, BxM18, QM7, QM8, QM11, QM25",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (Greenwich St) to uptown 1"
     },
     "EL13X": {
         "station": "Cortlandt St",
@@ -21318,7 +21650,8 @@ export const stations ={
         "nextadasouth": "330, 1",
         "redundant": 1,
         "busconnections": "M9, M20, M55, SIM1, SIM2, SIM4, SIM15, SIM32, SIM34, X27, X28, BxM18, QM7, QM8, QM11, QM25",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Oculus main level  to PATH & 1"
     },
     "EL12X": {
         "station": "Cortlandt St",
@@ -21339,7 +21672,8 @@ export const stations ={
         "nextadasouth": "330, 1",
         "redundant": 1,
         "busconnections": "M9, M20, M55, SIM1, SIM2, SIM4, SIM15, SIM32, SIM34, X27, X28, BxM18, QM7, QM8, QM11, QM25",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "West Concourse balcony to Oculus & PATH"
     },
     "EL11X": {
         "station": "Cortlandt St",
@@ -21360,7 +21694,8 @@ export const stations ={
         "nextadasouth": "330, 1",
         "redundant": 1,
         "busconnections": "M9, M20, M55, SIM1, SIM2, SIM4, SIM15, SIM32, SIM34, X27, X28, BxM18, QM7, QM8, QM11, QM25",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "West Concourse balcony to west concourse"
     },
     "EL22X": {
         "station": "Cortlandt St",
@@ -21381,7 +21716,8 @@ export const stations ={
         "nextadasouth": "25, R",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (Church St) to downtown R/W & Concourse"
     },
     "EL469": {
         "station": "Court Sq",
@@ -21402,7 +21738,8 @@ export const stations ={
         "nextadasouth": "283, G",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": "If you are on the mezzanine: \n\nFollow signs to exit the station. Then, take a downtown Brooklyn-bound B62 bus (Jackson Av and 45 Av) to Manhattan Av and Greenpoint Av and proceed to Greenpoint Av station. \n\nIf you are on the platform: \n\nTake a Brooklyn-bound G train to Greenpoint Ave and use elevators to exit the station. Then, take a Long Island City-bound B62 bus (Manhattan Av and Greenpoint Av) to Jackson"
+        "alternativeroute": "If you are on the mezzanine: \n\nFollow signs to exit the station. Then, take a downtown Brooklyn-bound B62 bus (Jackson Av and 45 Av) to Manhattan Av and Greenpoint Av and proceed to Greenpoint Av station. \n\nIf you are on the platform: \n\nTake a Brooklyn-bound G train to Greenpoint Ave and use elevators to exit the station. Then, take a Long Island City-bound B62 bus (Manhattan Av and Greenpoint Av) to Jackson",
+        "mergeddescription": "mezzanine to platform"
     },
     "EL446": {
         "station": "Court Sq",
@@ -21423,7 +21760,8 @@ export const stations ={
         "nextadasouth": "402, 7",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": "If you are on the street:  Take a Queens Plaza-bound B62  (Jackson Av and Davis St) to 28 St and Queens Plaza South. Then, transfer to a Jackson Hts-bound Q32 to Roosevelt Av and 61 St for the 61 St-Woodside 7 station.  If you are on the mezzanine:  See a station agent to re-enter faregate and use elevator to take a Flushing-bound 7 to 61 St-Woodside. Use elevators to exit station and take a Manhattan-bound Q32  (Roosevelt Av and 61 St) to Queens Plaza North and 29 St. Then transfer to a Brooklyn-bound B62 (Jackson Av and 42 Rd) to Jackson Av and 45 Av."
+        "alternativeroute": "If you are on the street:  Take a Queens Plaza-bound B62  (Jackson Av and Davis St) to 28 St and Queens Plaza South. Then, transfer to a Jackson Hts-bound Q32 to Roosevelt Av and 61 St for the 61 St-Woodside 7 station.  If you are on the mezzanine:  See a station agent to re-enter faregate and use elevator to take a Flushing-bound 7 to 61 St-Woodside. Use elevators to exit station and take a Manhattan-bound Q32  (Roosevelt Av and 61 St) to Queens Plaza North and 29 St. Then transfer to a Brooklyn-bound B62 (Jackson Av and 42 Rd) to Jackson Av and 45 Av.",
+        "mergeddescription": "Street (Jackson & 23 NE) to 7(+G) mezz"
     },
     "EL447": {
         "station": "Court Sq",
@@ -21444,7 +21782,8 @@ export const stations ={
         "nextadasouth": "402, 7",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": "If you are on the mezzanine:  Take a Flushing-bound 7 to 61 St-Woodside. Use elevators to transfer to a Manhattan-bound 7. If you are on the platform: Take a Manhattan-bound 7 to Grand Central-42 St. Then transfer across the platform to a Flushing-bound 7 to Court Sq."
+        "alternativeroute": "If you are on the mezzanine:  Take a Flushing-bound 7 to 61 St-Woodside. Use elevators to transfer to a Manhattan-bound 7. If you are on the platform: Take a Manhattan-bound 7 to Grand Central-42 St. Then transfer across the platform to a Flushing-bound 7 to Court Sq.",
+        "mergeddescription": "mezzanine to Manhattan-bound 7"
     },
     "EL445X": {
         "station": "Court Sq",
@@ -21465,7 +21804,8 @@ export const stations ={
         "nextadasouth": "402, 7",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": "If you are on the 7 mezzanine:  Take a Manhattan-bound 7 to Grand Central-42 St. Use elevators to transfer to a Flushing-bound 7.  If you are on the platform:  Take Flushing-bound 7 to 61 St-Woodside. Then either:  Use elevators to transfer to a Manhattan-bound 7 to Court Sq.  Or, use elevators to exit station and take a Manhattan-bound Q32 (Roosevelt Av and 61 St) to Queens Plaza North and 29 St.  Then transfer to a Brooklyn-bound B62 (Jackson Av and 42 Rd) to Jackson Av and 45 Av."
+        "alternativeroute": "If you are on the 7 mezzanine:  Take a Manhattan-bound 7 to Grand Central-42 St. Use elevators to transfer to a Flushing-bound 7.  If you are on the platform:  Take Flushing-bound 7 to 61 St-Woodside. Then either:  Use elevators to transfer to a Manhattan-bound 7 to Court Sq.  Or, use elevators to exit station and take a Manhattan-bound Q32 (Roosevelt Av and 61 St) to Queens Plaza North and 29 St.  Then transfer to a Brooklyn-bound B62 (Jackson Av and 42 Rd) to Jackson Av and 45 Av.",
+        "mergeddescription": "G and 7 mezzs to Flushing-bound 7"
     },
     "ES462X": {
         "station": "Court Sq",
@@ -21486,7 +21826,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 mezzanine to G mezzanine (+E)"
     },
     "ES461X": {
         "station": "Court Sq",
@@ -21507,7 +21848,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "G lower mezz to 7 mezz (+E)"
     },
     "ES266X": {
         "station": "Court Sq",
@@ -21528,7 +21870,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E/M/G mezz to street (45 & Jackson Ave) (+7)"
     },
     "ES265X": {
         "station": "Court Sq",
@@ -21549,7 +21892,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (45 & Jackson Ave) to E/M/G mezz"
     },
     "EL482X": {
         "station": "Court Sq-23 St",
@@ -21570,7 +21914,8 @@ export const stations ={
         "nextadasouth": "275, E, M",
         "redundant": 0,
         "busconnections": "B32, B62, Q39, Q67, Q69",
-        "alternativeroute": "If you are on the street: Take a LI City-bound Q67 bus (44 Driver and 23 St) to 28 St and Queens Plaza South. Then, proceed to Jackson Av and use elevator to enter Queens Plaza station for Manhattan-bound E/M service. If you are on the platform: Take a Manhattan-bound E or M to Lexington Av/53 St and transfer across the platform to a Forest Hills-bound E or M to Queens Plaza. Then, use elevators to exit station and take a Middle Village-bound Q67 bus (Jackson Av and 42 Road) to 44 Drive and 23 St."
+        "alternativeroute": "If you are on the street: Take a LI City-bound Q67 bus (44 Driver and 23 St) to 28 St and Queens Plaza South. Then, proceed to Jackson Av and use elevator to enter Queens Plaza station for Manhattan-bound E/M service. If you are on the platform: Take a Manhattan-bound E or M to Lexington Av/53 St and transfer across the platform to a Forest Hills-bound E or M to Queens Plaza. Then, use elevators to exit station and take a Middle Village-bound Q67 bus (Jackson Av and 42 Road) to 44 Drive and 23 St.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "EL309": {
         "station": "Court St",
@@ -21591,7 +21936,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "B25, B26, B38, B41, B45, B52, B61, B65, B103 (westbound only)",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Mezzanine to intermediate mezzanine"
     },
     "EL308": {
         "station": "Court St",
@@ -21612,7 +21958,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "B25, B26, B38, B41, B45, B52, B61, B65, B103 (westbound only)",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Mezzanine to intermediate mezzanine"
     },
     "ES305": {
         "station": "Court St",
@@ -21633,7 +21980,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B61, B65, B103 (westbound only)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "R lower mezzanine to 2/3 mezzanine"
     },
     "ES306": {
         "station": "Court St",
@@ -21654,7 +22002,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B61, B65, B103 (westbound only)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "2/3 mezzanine to R lower mezzanine"
     },
     "EL323": {
         "station": "Crown Hts-Utica Av",
@@ -21675,7 +22024,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B14, B17, B46, B46 SBS",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to exit the station and take a Downtown Brooklyn-bound B45 bus (St Johns Place and Utica Av) to Sterling Pl and Washington Av. Then, proceed to Eastern Parkway for Manhattan-bound 3 service. For 4, use passageway at Borough Hall to transfer. If you are on the Manhattan-bound platform: Take a Manhattan-bound 3 to Eastern Parkway and use elevators to exit the station. Then, take a Crown Heights-bound B45 bus (St Johns Place and Washington Av) to Utica Av. If you are on the New Lots Av-bound platform: Proceed to the ADA boarding area and inform the 4 train conductor of the need to ride the train as it changes to the Manhattan-bound direction. Ask the conductor to confirm that the 4 train will remain in service*. If yes, take it to Atlantic Av-Barclays Ctr station and use the elevator(s) to exit the station. Then take a Crown Heights-bound B45 bus (Atlantic Av and Flatbush Av) to St Johns Pl and Utica Av. *If the train will not remain in service, p"
+        "alternativeroute": "If you are on the mezzanine: Use elevator to exit the station and take a Downtown Brooklyn-bound B45 bus (St Johns Place and Utica Av) to Sterling Pl and Washington Av. Then, proceed to Eastern Parkway for Manhattan-bound 3 service. For 4, use passageway at Borough Hall to transfer. If you are on the Manhattan-bound platform: Take a Manhattan-bound 3 to Eastern Parkway and use elevators to exit the station. Then, take a Crown Heights-bound B45 bus (St Johns Place and Washington Av) to Utica Av. If you are on the New Lots Av-bound platform: Proceed to the ADA boarding area and inform the 4 train conductor of the need to ride the train as it changes to the Manhattan-bound direction. Ask the conductor to confirm that the 4 train will remain in service*. If yes, take it to Atlantic Av-Barclays Ctr station and use the elevator(s) to exit the station. Then take a Crown Heights-bound B45 bus (Atlantic Av and Flatbush Av) to St Johns Pl and Utica Av. *If the train will not remain in service, p",
+        "mergeddescription": "Mezzanine to platforms"
     },
     "EL322": {
         "station": "Crown Hts-Utica Av",
@@ -21696,7 +22046,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B14, B17, B46, B46 SBS",
-        "alternativeroute": "If you are on the street: Take a Downtown Brooklyn-bound B45 bus (St Johns Place and Utica Av) to Sterling Pl and Washington Av. Then, proceed to Eastern Parkway for Manhattan-bound 3 service. For 4, use passageway at Borough Hall to transfer. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the nearby elevator to return to the Manhattan-bound platform (lower level) and take a 3 to Eastern Parkway. Then, use elevators to exit the station and take a Crown Heights-bound B45 bus (St Johns Place and Washington Av) to Utica Av."
+        "alternativeroute": "If you are on the street: Take a Downtown Brooklyn-bound B45 bus (St Johns Place and Utica Av) to Sterling Pl and Washington Av. Then, proceed to Eastern Parkway for Manhattan-bound 3 service. For 4, use passageway at Borough Hall to transfer. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the nearby elevator to return to the Manhattan-bound platform (lower level) and take a 3 to Eastern Parkway. Then, use elevators to exit the station and take a Crown Heights-bound B45 bus (St Johns Place and Washington Av) to Utica Av.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES309": {
         "station": "DeKalb Av",
@@ -21717,7 +22068,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B52",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Manhattan-bound platform to mezz"
     },
     "ES308": {
         "station": "DeKalb Av",
@@ -21738,7 +22090,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B52",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Brooklyn-bound platform to mezz"
     },
     "EL372": {
         "station": "DeKalb Av",
@@ -21759,7 +22112,8 @@ export const stations ={
         "nextadasouth": "27, B, Q, R",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B52",
-        "alternativeroute": "If you are on the mezzanine:  Take a Manhattan-bound R to Jay St-MetroTech and transfer across the platform to a Bay Ridge-bound R.  Or, use elevators to exit the station and take a southbound B41, B41 Ltd, B45, B67, or B103 Ltd bus (Livingston St and Nevins St) to Atlantic Av-Barclays Ctr.  If you are on the platform:  Take a Brighton Beach-bound B, Coney Island-bound Q, or Bay Ridge-bound R to Atlantic Av-Barclays Ctr, then either:  Use elevators to take a Manhattan-bound R to DeKalb Av.  Or, transfer across the platform to a Manhattan-bound B or Q to DeKalb Av. Or, use elevators to exit the station and take a northbound B41, B41 Ltd, B45, or B67 bus to Livingston St and Nevins St. Then proceed two blocks north on Nevins St and Flatbush Av to DeKalb Av."
+        "alternativeroute": "If you are on the mezzanine:  Take a Manhattan-bound R to Jay St-MetroTech and transfer across the platform to a Bay Ridge-bound R.  Or, use elevators to exit the station and take a southbound B41, B41 Ltd, B45, B67, or B103 Ltd bus (Livingston St and Nevins St) to Atlantic Av-Barclays Ctr.  If you are on the platform:  Take a Brighton Beach-bound B, Coney Island-bound Q, or Bay Ridge-bound R to Atlantic Av-Barclays Ctr, then either:  Use elevators to take a Manhattan-bound R to DeKalb Av.  Or, transfer across the platform to a Manhattan-bound B or Q to DeKalb Av. Or, use elevators to exit the station and take a northbound B41, B41 Ltd, B45, or B67 bus to Livingston St and Nevins St. Then proceed two blocks north on Nevins St and Flatbush Av to DeKalb Av.",
+        "mergeddescription": "mezz to Brooklyn-bound platform"
     },
     "EL371": {
         "station": "DeKalb Av",
@@ -21780,7 +22134,8 @@ export const stations ={
         "nextadasouth": "27, B, Q, R",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B52",
-        "alternativeroute": "If you are on the mezzanine:  Take a Bay Ridge-bound R to Atlantic Av-Barclays Ctr and use elevators to transfer to a Manhattan-bound R.  Or, take a Brighton Beach-bound B or Coney Island-bound Q to Atlantic Av-Barclays Ctr for an across the platform transfer to Manhattan-bound service to DeKalb Av.  Or, use the nearby elevator to exit the station and take a southbound B41, B41 Ltd, B45, B67, or B103 Ltd bus (Livingston St and Nevins St) to Atlantic Av-Barclays Ctr station.  If you are on the platform:  Take a Manhattan-bound R to Jay St-MetroTech, then either:  Transfer across the platform to a Bay Ridge-bound R to DeKalb Av.  Or, use elevators to exit the station and take a B25, B38, B38 Ltd, or B52 bus (Fulton St and Smith St) to Flatbush Av Extension."
+        "alternativeroute": "If you are on the mezzanine:  Take a Bay Ridge-bound R to Atlantic Av-Barclays Ctr and use elevators to transfer to a Manhattan-bound R.  Or, take a Brighton Beach-bound B or Coney Island-bound Q to Atlantic Av-Barclays Ctr for an across the platform transfer to Manhattan-bound service to DeKalb Av.  Or, use the nearby elevator to exit the station and take a southbound B41, B41 Ltd, B45, B67, or B103 Ltd bus (Livingston St and Nevins St) to Atlantic Av-Barclays Ctr station.  If you are on the platform:  Take a Manhattan-bound R to Jay St-MetroTech, then either:  Transfer across the platform to a Bay Ridge-bound R to DeKalb Av.  Or, use elevators to exit the station and take a B25, B38, B38 Ltd, or B52 bus (Fulton St and Smith St) to Flatbush Av Extension.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL370": {
         "station": "DeKalb Av",
@@ -21801,7 +22156,8 @@ export const stations ={
         "nextadasouth": "27, B, Q, R",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B52",
-        "alternativeroute": "If you are on the street:  Take a southbound B41, B41 Ltd, B45, or B67 bus (Livingston St and Nevins St) to Atlantic Av-Barclays Ctr station.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to take a Brighton Beach-bound B, Coney Island-bound Q, or Bay Ridge-bound R to Atlantic Av-Barclays Ctr. Then use elevators to exit the station and take a northbound B41, B41 Ltd, B45, or B67 bus (Flatbush Av and Atlantic Av) to Livingston St and Nevins St. Then proceed two blocks north on Nevins St and Flatbush Av to DeKalb Av."
+        "alternativeroute": "If you are on the street:  Take a southbound B41, B41 Ltd, B45, or B67 bus (Livingston St and Nevins St) to Atlantic Av-Barclays Ctr station.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to take a Brighton Beach-bound B, Coney Island-bound Q, or Bay Ridge-bound R to Atlantic Av-Barclays Ctr. Then use elevators to exit the station and take a northbound B41, B41 Ltd, B45, or B67 bus (Flatbush Av and Atlantic Av) to Livingston St and Nevins St. Then proceed two blocks north on Nevins St and Flatbush Av to DeKalb Av.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES327": {
         "station": "Delancey St-Essex St",
@@ -21822,7 +22178,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezz to street (Delancey & Essex NE) (+FJMZ)"
     },
     "ES328": {
         "station": "Delancey St-Essex St",
@@ -21843,7 +22200,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown F platform to street (Delancey & Essex SE) (+JMZ)"
     },
     "EL179": {
         "station": "Dyckman St",
@@ -21864,7 +22222,8 @@ export const stations ={
         "nextadasouth": "310, 1",
         "redundant": 0,
         "busconnections": "M100",
-        "alternativeroute": "If you are on the street:  \n\nTravel three blocks west to Broadway and West 196 St and take a Riverdale- bound Bx7 bus to West 231 St. \n\nIf you are on the platform: \n\nTake an uptown 1 train to 231 St. Use elevators to transfer to a South Ferry-bound 1 train.  "
+        "alternativeroute": "If you are on the street:  \n\nTravel three blocks west to Broadway and West 196 St and take a Riverdale- bound Bx7 bus to West 231 St. \n\nIf you are on the platform: \n\nTake an uptown 1 train to 231 St. Use elevators to transfer to a South Ferry-bound 1 train.  ",
+        "mergeddescription": "street (Nagle & Dyckman St) to uptown platform"
     },
     "EL178": {
         "station": "Dyckman St",
@@ -21885,7 +22244,8 @@ export const stations ={
         "nextadasouth": "310, 1",
         "redundant": 0,
         "busconnections": "M100",
-        "alternativeroute": "If you are on the street:   \n\nTake a 125 St-bound M100 bus (Dyckman St and Nagle St) to 125 St and Amsterdam Av and travel one avenue west (125 St and Broadway) to transfer to a Times Sq-bound M104 bus to 96 St for 1/2/3 service.  \n\nIf you are on the platform:   \n\nTake a downtown 1 to 96 St and use the elevator to exit the station. Then take a West Harlem-bound M104 bus (97 St and Broadway) to 126 St and Amsterdam Av and transfer to an Inwood-bound M100 bus to Dyckman St. "
+        "alternativeroute": "If you are on the street:   \n\nTake a 125 St-bound M100 bus (Dyckman St and Nagle St) to 125 St and Amsterdam Av and travel one avenue west (125 St and Broadway) to transfer to a Times Sq-bound M104 bus to 96 St for 1/2/3 service.  \n\nIf you are on the platform:   \n\nTake a downtown 1 to 96 St and use the elevator to exit the station. Then take a West Harlem-bound M104 bus (97 St and Broadway) to 126 St and Amsterdam Av and transfer to an Inwood-bound M100 bus to Dyckman St. ",
+        "mergeddescription": "Street (Nagle & Dyckman St) to downtown platform"
     },
     "EL516": {
         "station": "E 149 St",
@@ -21906,7 +22266,8 @@ export const stations ={
         "nextadasouth": "392, 6",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the street:  \n\nTake a NY Botanical Garden-bound Bx19 bus to Hunts Point Ave for access Hunts Point Av station and use elevators to access the Manhattan-bound platform.  \n\nIf you are on the on the platform:  \n\nTake a Manhattan-bound 6 train to 125 St. Then, transfer to a Pelham Bay Park-bound 6 to Hunts Point Av station. Use elevators to exit the station and take a Riverbank Park-bound Bx19 bus (Southern Blvd & E 163 St) to E 149 St. "
+        "alternativeroute": "If you are on the street:  \n\nTake a NY Botanical Garden-bound Bx19 bus to Hunts Point Ave for access Hunts Point Av station and use elevators to access the Manhattan-bound platform.  \n\nIf you are on the on the platform:  \n\nTake a Manhattan-bound 6 train to 125 St. Then, transfer to a Pelham Bay Park-bound 6 to Hunts Point Av station. Use elevators to exit the station and take a Riverbank Park-bound Bx19 bus (Southern Blvd & E 163 St) to E 149 St. ",
+        "mergeddescription": "Street to mezzanine for southbound service"
     },
     "EL515": {
         "station": "E 149 St",
@@ -21927,7 +22288,8 @@ export const stations ={
         "nextadasouth": "392, 6",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the street:  \n\nCross E 149 street and take a NY Botanical Garden-bound Bx19 bus to Hunts Point Avenue for access Hunts Point Av station.  \n\nIf you are on the on the platform:  \n\nTake a Pelham Bay Park-bound 6 train to Hunts Point Av station. Then, use elevators to exit the station and take a Riverbank Park-bound Bx19 bus (Southern Blvd & E 163 St) to E 149 St."
+        "alternativeroute": "If you are on the street:  \n\nCross E 149 street and take a NY Botanical Garden-bound Bx19 bus to Hunts Point Avenue for access Hunts Point Av station.  \n\nIf you are on the on the platform:  \n\nTake a Pelham Bay Park-bound 6 train to Hunts Point Av station. Then, use elevators to exit the station and take a Riverbank Park-bound Bx19 bus (Southern Blvd & E 163 St) to E 149 St.",
+        "mergeddescription": "Street to mezzanine for northbound service"
     },
     "EL160": {
         "station": "E 180 St",
@@ -21948,7 +22310,8 @@ export const stations ={
         "nextadasouth": "430, 2, 5",
         "redundant": 0,
         "busconnections": "Bx9, Bx21, Bx40, Bx42, Q44 SBS",
-        "alternativeroute": "If you are on the street: \nTake an uptown 2 or 5 to Pelham Pkwy and use elevators to transfer to a downtown 2 or 5. \nOr, take a Mott Haven-bound Bx21 bus (Morris Park Av and E 180 St) to Southern Blvd and \ntransfer to a Riverbank Park-bound Bx19 bus (Southern Blvd and E 174 St) to Westchester Av. \nThen proceed one block west to Simpson St 2/5 station. \nIf you are on the platform: \nTake a downtown 2 or 5 to Simpson St.\nThen either: \nUse elevators to transfer to an uptown 2 or 5 to E 180 St. \nOr, \nUse the elevator to exit the station and take a Botanic Garden-bound Bx19 bus (Westchester Av \nand Southern Blvd) to Boston Rd. Then transfer to a Westchester Sq-bound Bx21 bus (Boston Rd \nand Southern Blvd) to Morris Park Av and Adams St for E 180 St 2/5 station."
+        "alternativeroute": "If you are on the street: \nTake an uptown 2 or 5 to Pelham Pkwy and use elevators to transfer to a downtown 2 or 5. \nOr, take a Mott Haven-bound Bx21 bus (Morris Park Av and E 180 St) to Southern Blvd and \ntransfer to a Riverbank Park-bound Bx19 bus (Southern Blvd and E 174 St) to Westchester Av. \nThen proceed one block west to Simpson St 2/5 station. \nIf you are on the platform: \nTake a downtown 2 or 5 to Simpson St.\nThen either: \nUse elevators to transfer to an uptown 2 or 5 to E 180 St. \nOr, \nUse the elevator to exit the station and take a Botanic Garden-bound Bx19 bus (Westchester Av \nand Southern Blvd) to Boston Rd. Then transfer to a Westchester Sq-bound Bx21 bus (Boston Rd \nand Southern Blvd) to Morris Park Av and Adams St for E 180 St 2/5 station.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "EL159": {
         "station": "E 180 St",
@@ -21969,7 +22332,8 @@ export const stations ={
         "nextadasouth": "430, 2, 5",
         "redundant": 0,
         "busconnections": "Bx9, Bx21, Bx40, Bx42, Q44 SBS",
-        "alternativeroute": "If you are on the street: \nTake a downtown 2 or 5 to Simpson St and use elevators to transfer to an uptown 2 or 5. \nOr, take a Westchester Sq-bound Bx21 bus (Morris Park Av and Adams St) to White Plains Rd. \nThen transfer to a Wakefield-bound Bx39 bus (White Plains Rd and Morris Park Av) to Pelham \nPkwy 2/5 station (White Plains Rd and Pelham Pkwy). \nIf you are on the platform: \nTake an uptown 2 or 5 to Pelham Pkwy.\nThen either: \nUse elevators to transfer to a downtown 2 or 5 to E 180 St. \nOr, \nUse elevators to exit the station and take a Clason\u2019s Point-bound Bx39 bus (White Plains Rd and \nPelham Pkwy) to Morris Park Av. Then transfer to a Mott Haven-bound Bx21 bus (Morris Park Av \nand White Plains Rd) to E 180 St 2/5 station (Morris Park Av and E 180 St)."
+        "alternativeroute": "If you are on the street: \nTake a downtown 2 or 5 to Simpson St and use elevators to transfer to an uptown 2 or 5. \nOr, take a Westchester Sq-bound Bx21 bus (Morris Park Av and Adams St) to White Plains Rd. \nThen transfer to a Wakefield-bound Bx39 bus (White Plains Rd and Morris Park Av) to Pelham \nPkwy 2/5 station (White Plains Rd and Pelham Pkwy). \nIf you are on the platform: \nTake an uptown 2 or 5 to Pelham Pkwy.\nThen either: \nUse elevators to transfer to a downtown 2 or 5 to E 180 St. \nOr, \nUse elevators to exit the station and take a Clason\u2019s Point-bound Bx39 bus (White Plains Rd and \nPelham Pkwy) to Morris Park Av. Then transfer to a Mott Haven-bound Bx21 bus (Morris Park Av \nand White Plains Rd) to E 180 St 2/5 station (Morris Park Av and E 180 St).",
+        "mergeddescription": "Street to Bronx-bound platform"
     },
     "ES329": {
         "station": "East Broadway",
@@ -21990,7 +22354,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "F platform to mezzanine"
     },
     "EL757": {
         "station": "Eastern Pkwy-Brooklyn Museum",
@@ -22011,7 +22376,8 @@ export const stations ={
         "nextadasouth": "345, 3 / 356, 2",
         "redundant": 0,
         "busconnections": "B41, B45, B48 (northbound only)",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Manhattan-bound 2 or 3 to Atlantic Av - Barclays Ctr. Then, use elevators to transfer to a Flatbush-bound 2 or New Lots-bound 3. If you are on the platform: Take a New Lots-bound 3 to Crown Hts-Utica Av and use elevator to transfer to a Manhattan-bound 3 to Eastern Pkwy. Or, take a Flatbush-bound 2 to Church Av and use elevators to transfer to a Manhattan-bound 2 to Eastern Pkwy."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Manhattan-bound 2 or 3 to Atlantic Av - Barclays Ctr. Then, use elevators to transfer to a Flatbush-bound 2 or New Lots-bound 3. If you are on the platform: Take a New Lots-bound 3 to Crown Hts-Utica Av and use elevator to transfer to a Manhattan-bound 3 to Eastern Pkwy. Or, take a Flatbush-bound 2 to Church Av and use elevators to transfer to a Manhattan-bound 2 to Eastern Pkwy.",
+        "mergeddescription": "Mezzanine to Brooklyn-bound platform"
     },
     "EL756": {
         "station": "Eastern Pkwy-Brooklyn Museum",
@@ -22032,7 +22398,8 @@ export const stations ={
         "nextadasouth": "345, 3 / 356, 2",
         "redundant": 0,
         "busconnections": "B41, B45, B48 (northbound only)",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a New Lots-bound 3 to Crown Hts-Utica Av. Then, use elevator to transfer to a Manhattan-bound 3. Or, use elevator to take a Flatbush-bound 2 to Church Av. Then, use elevators to transfer to a Manhattan-bound 2. If you are on the platform: Take a Manhattan-bound 2 or 3 to Atlantic Av-Barclays Ctr, then either: Use elevators to transfer to a Brooklyn-bound 2 or 3 to Eastern Pkwy. Or, exit the station into the LIRR concourse and take the elevator to street. Then, take a Kings Plaza-bound B41 or B41 LTD bus (Flatbush Av and Atlantic Av) to Flatbush Av and Grand Army Plaza."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a New Lots-bound 3 to Crown Hts-Utica Av. Then, use elevator to transfer to a Manhattan-bound 3. Or, use elevator to take a Flatbush-bound 2 to Church Av. Then, use elevators to transfer to a Manhattan-bound 2. If you are on the platform: Take a Manhattan-bound 2 or 3 to Atlantic Av-Barclays Ctr, then either: Use elevators to transfer to a Brooklyn-bound 2 or 3 to Eastern Pkwy. Or, exit the station into the LIRR concourse and take the elevator to street. Then, take a Kings Plaza-bound B41 or B41 LTD bus (Flatbush Av and Atlantic Av) to Flatbush Av and Grand Army Plaza.",
+        "mergeddescription": "Mezzanine to Manhattan-bound platform"
     },
     "EL755": {
         "station": "Eastern Pkwy-Brooklyn Museum",
@@ -22053,7 +22420,8 @@ export const stations ={
         "nextadasouth": "345, 3 / 356, 2",
         "redundant": 0,
         "busconnections": "B41, B45, B48 (northbound only)",
-        "alternativeroute": "If you are on the street: Take a Downtown Brooklyn-bound B41 bus (Flatbush Av and Grand Army Plaza) to Pacific St for 2/3 service at Atlantic Av-Barclays Ctr station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use elevator to take a Manhattan-bound 2 or 3 to Atlantic Av-Barclays Ctr. Exit the station into the LIRR concourse and take the elevator to street. Then, take a Kings Plaza-bound B41 or B41 LTD bus (Flatbush Av and Atlantic Av) to Flatbush Av and Grand Army Plaza."
+        "alternativeroute": "If you are on the street: Take a Downtown Brooklyn-bound B41 bus (Flatbush Av and Grand Army Plaza) to Pacific St for 2/3 service at Atlantic Av-Barclays Ctr station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use elevator to take a Manhattan-bound 2 or 3 to Atlantic Av-Barclays Ctr. Exit the station into the LIRR concourse and take the elevator to street. Then, take a Kings Plaza-bound B41 or B41 LTD bus (Flatbush Av and Atlantic Av) to Flatbush Av and Grand Army Plaza.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL343": {
         "station": "Euclid Av",
@@ -22074,7 +22442,8 @@ export const stations ={
         "nextadasouth": "195, A",
         "redundant": 0,
         "busconnections": "B13 (southbound), B14, Q7, Q8",
-        "alternativeroute": "Elevators at this station are currently under capital replacement. From the platform at Euclid Ave: Take an Ozone Pk-Lefferts Blvd-bound A to Ozone Pk-Lefferts Blvd, then use elevators to exit the station and take a Kew Gardens-bound Q10 bus (Lefferts Blvd and Liberty Av) to 101 Av. Then transfer to a Spring Creek-bound Q8 bus to Euclid Av."
+        "alternativeroute": "Elevators at this station are currently under capital replacement. From the platform at Euclid Ave: Take an Ozone Pk-Lefferts Blvd-bound A to Ozone Pk-Lefferts Blvd, then use elevators to exit the station and take a Kew Gardens-bound Q10 bus (Lefferts Blvd and Liberty Av) to 101 Av. Then transfer to a Spring Creek-bound Q8 bus to Euclid Av.",
+        "mergeddescription": "mezzanine to Queens-bound platform"
     },
     "EL342": {
         "station": "Euclid Av",
@@ -22095,7 +22464,8 @@ export const stations ={
         "nextadasouth": "195, A",
         "redundant": 0,
         "busconnections": "B13 (southbound), B14, Q7, Q8",
-        "alternativeroute": "Elevators at this station are currently under capital replacement. If you find yourself on the platform at Euclid Av, take a Manhattan-bound A or C to Utica Av, use elevators to exit for these options:  \nAccessible shuttle service from Utica Av to Euclid Av A stations: \n\n7 AM to 7 PM daily, service to Euclid Av A station operates every 30 minutes \nShuttle stop is located on Fulton St at Malcom X Blvd (B46 Bus Stop) \n \n\nKings Plaza-bound B46 SBS or a B46 bus (Malcolm X Blvd and Fulton St) to Eastern Pkwy. \n\nTransfer to a Spring Creek-bound B14 bus to Euclid Av and Sutter Av."
+        "alternativeroute": "Elevators at this station are currently under capital replacement. If you find yourself on the platform at Euclid Av, take a Manhattan-bound A or C to Utica Av, use elevators to exit for these options:  \nAccessible shuttle service from Utica Av to Euclid Av A stations: \n\n7 AM to 7 PM daily, service to Euclid Av A station operates every 30 minutes \nShuttle stop is located on Fulton St at Malcom X Blvd (B46 Bus Stop) \n \n\nKings Plaza-bound B46 SBS or a B46 bus (Malcolm X Blvd and Fulton St) to Eastern Pkwy. \n\nTransfer to a Spring Creek-bound B14 bus to Euclid Av and Sutter Av.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL341": {
         "station": "Euclid Av",
@@ -22116,7 +22486,8 @@ export const stations ={
         "nextadasouth": "195, A",
         "redundant": 0,
         "busconnections": "B13 (southbound), B14, Q7, Q8",
-        "alternativeroute": "Elevators at this station are currently under capital replacement. \nAccessible shuttle service from Euclid Av to Utica Av A stations: \n\n7 AM to 7 PM daily, service to Utica Av A station operates every 30 minutes \nShuttle stop is located on Euclid Av at Pitkin Av (Q7 and Q8 bus stop)\n \nOther options on the Q8 and Q10: \n\nQ8 bus to Howard Beach-JFK Airport and the Rockaways: take a Jamaica-bound Q8 bus to Woodhaven Blvd. Then, transfer to an Old Howard Beach or Hamilton Beach-bound Q11 bus to 159 Av and 101 St. Proceed along 159 Av to Howard Beach-JFK Airport Station for A service. \nQ8 and Q10 buses to other destinations: take a Jamaica-bound Q8 bus to Lefferts Blvd. Then, transfer to a JFK-bound Q10 bus to Liberty Av and\nenter Ozone Park-Lefferts Blvd Station for A service.  "
+        "alternativeroute": "Elevators at this station are currently under capital replacement. \nAccessible shuttle service from Euclid Av to Utica Av A stations: \n\n7 AM to 7 PM daily, service to Utica Av A station operates every 30 minutes \nShuttle stop is located on Euclid Av at Pitkin Av (Q7 and Q8 bus stop)\n \nOther options on the Q8 and Q10: \n\nQ8 bus to Howard Beach-JFK Airport and the Rockaways: take a Jamaica-bound Q8 bus to Woodhaven Blvd. Then, transfer to an Old Howard Beach or Hamilton Beach-bound Q11 bus to 159 Av and 101 St. Proceed along 159 Av to Howard Beach-JFK Airport Station for A service. \nQ8 and Q10 buses to other destinations: take a Jamaica-bound Q8 bus to Lefferts Blvd. Then, transfer to a JFK-bound Q10 bus to Liberty Av and\nenter Ozone Park-Lefferts Blvd Station for A service.  ",
+        "mergeddescription": "Street (Euclid & Pitkin NE) to mezz"
     },
     "EL498": {
         "station": "Far Rockaway-Mott Av",
@@ -22137,7 +22508,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "Q22, Q114, QM17; NICE: N31, N32, N33",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street to platform"
     },
     "EL497": {
         "station": "Far Rockaway-Mott Av",
@@ -22158,7 +22530,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "Q22, Q114, QM17; NICE: N31, N32, N33",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street to platform"
     },
     "EL319": {
         "station": "Flatbush Av-Brooklyn College",
@@ -22179,7 +22552,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B6, B11, B41, B44, B44 SBS, B103, Q35, BM2 (BM2 is on Av H at New York Av)",
-        "alternativeroute": "If you are on the street: Proceed to Flatbush Av/Avenue H and Nostrand Av and take a Williamsburg-bound B44 bus or B44 SBS to Church Av (New York Av on the B44; Rogers Av on B44 SBS). Then proceed to Nostrand Av and Church Av and use the elevator to enter Church Av 2/5 Station. If you are on the platform: See a station agent to re-enter through the faregate and take a Manhattan-bound 2 or 5 to Church Av. Then use the elevator to exit the station and take a Sheepshead Bay-bound B44 bus or B44 SBS (Church Av and Nostrand Av) to Avenue H and Flatbush Av."
+        "alternativeroute": "If you are on the street: Proceed to Flatbush Av/Avenue H and Nostrand Av and take a Williamsburg-bound B44 bus or B44 SBS to Church Av (New York Av on the B44; Rogers Av on B44 SBS). Then proceed to Nostrand Av and Church Av and use the elevator to enter Church Av 2/5 Station. If you are on the platform: See a station agent to re-enter through the faregate and take a Manhattan-bound 2 or 5 to Church Av. Then use the elevator to exit the station and take a Sheepshead Bay-bound B44 bus or B44 SBS (Church Av and Nostrand Av) to Avenue H and Flatbush Av.",
+        "mergeddescription": "Street to platform"
     },
     "EL395": {
         "station": "Flushing Av",
@@ -22200,7 +22574,8 @@ export const stations ={
         "nextadasouth": "101, J / 112, M",
         "redundant": 0,
         "busconnections": "B15, B43, B46, B47, B57",
-        "alternativeroute": "If you are on the mezzanine:   Use the nearby elevator to exit the station and take a Williamsburg-bound B46 bus (Broadway and Flushing Av) to Marcy Av J/M/Z station (Broadway and Marcy Av).  If you are on the platform:  Take a Manhattan-bound J or M to Marcy Av. Use the elevator to exit to street, then either:  Cross Broadway to re-enter the station and use the elevator to take a Queens-bound J or M to Flushing Av.  Or, take a Kings Plaza-bound B46 bus (Broadway and Marcy Av) to Flushing Av."
+        "alternativeroute": "If you are on the mezzanine:   Use the nearby elevator to exit the station and take a Williamsburg-bound B46 bus (Broadway and Flushing Av) to Marcy Av J/M/Z station (Broadway and Marcy Av).  If you are on the platform:  Take a Manhattan-bound J or M to Marcy Av. Use the elevator to exit to street, then either:  Cross Broadway to re-enter the station and use the elevator to take a Queens-bound J or M to Flushing Av.  Or, take a Kings Plaza-bound B46 bus (Broadway and Marcy Av) to Flushing Av.",
+        "mergeddescription": "mezz to Manhattan bound-platform"
     },
     "EL394": {
         "station": "Flushing Av",
@@ -22221,7 +22596,8 @@ export const stations ={
         "nextadasouth": "101, J / 112, M",
         "redundant": 0,
         "busconnections": "B15, B43, B46, B47, B57",
-        "alternativeroute": "If you are on the mezzanine:  Take a Manhattan-bound J or M to Marcy Av and use the elevator to exit to street. Then cross Broadway to re-enter the station and use the elevator to take a Queens-bound J or M.  Or, use the nearby elevator to exit the station, then either:  For J, take a Williamsburg-bound B46 bus (Broadway and Flushing Av) to Marcy Av J/M/Z station (Broadway and Marcy Av).  For M, take a Kings Plaza-bound B46 bus (Broadway and Flushing Av) to Myrtle Av and transfer to a Ridgewood-bound B54 bus (Myrtle Av and Broadway) to Myrtle-Wyckoff Avs L/M station (Gates Av and Wyckoff Av).  If you are on the platform:  Take a Queens-bound M to Myrtle-Wyckoff Avs station, then either:  Transfer across the platform to a Manhattan-bound M to Flushing Av.  Or, use elevators to exit the station and take a Downtown Brooklyn-bound B54 bus (Myrtle Av and Gates Av) to Myrtle Av and Broadway. Then transfer to a Williamsburg-bound B46 bus (Broadway and Jefferson St) to Flushing Av."
+        "alternativeroute": "If you are on the mezzanine:  Take a Manhattan-bound J or M to Marcy Av and use the elevator to exit to street. Then cross Broadway to re-enter the station and use the elevator to take a Queens-bound J or M.  Or, use the nearby elevator to exit the station, then either:  For J, take a Williamsburg-bound B46 bus (Broadway and Flushing Av) to Marcy Av J/M/Z station (Broadway and Marcy Av).  For M, take a Kings Plaza-bound B46 bus (Broadway and Flushing Av) to Myrtle Av and transfer to a Ridgewood-bound B54 bus (Myrtle Av and Broadway) to Myrtle-Wyckoff Avs L/M station (Gates Av and Wyckoff Av).  If you are on the platform:  Take a Queens-bound M to Myrtle-Wyckoff Avs station, then either:  Transfer across the platform to a Manhattan-bound M to Flushing Av.  Or, use elevators to exit the station and take a Downtown Brooklyn-bound B54 bus (Myrtle Av and Gates Av) to Myrtle Av and Broadway. Then transfer to a Williamsburg-bound B46 bus (Broadway and Jefferson St) to Flushing Av.",
+        "mergeddescription": "mezzanine to Queens-bound platform"
     },
     "EL393": {
         "station": "Flushing Av",
@@ -22242,7 +22618,8 @@ export const stations ={
         "nextadasouth": "101, J / 112, M",
         "redundant": 0,
         "busconnections": "B15, B43, B46, B47, B57",
-        "alternativeroute": "If you are on the street:  Take a Williamsburg-bound B46 bus (Broadway and Flushing Av) to Marcy Av J/M/Z station (Broadway and Marcy Av).  If you are on the mezzanine:  See a station agent to re-enter through the faregate and take a Manhattan-bound M to Marcy Av. Then use the elevator to exit to street and take a Kings Plaza-bound B46 bus (Broadway and Marcy Av) to Flushing Av."
+        "alternativeroute": "If you are on the street:  Take a Williamsburg-bound B46 bus (Broadway and Flushing Av) to Marcy Av J/M/Z station (Broadway and Marcy Av).  If you are on the mezzanine:  See a station agent to re-enter through the faregate and take a Manhattan-bound M to Marcy Av. Then use the elevator to exit to street and take a Kings Plaza-bound B46 bus (Broadway and Marcy Av) to Flushing Av.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL414": {
         "station": "Flushing-Main St",
@@ -22263,7 +22640,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44 SBS, Q48, Q50, Q65, Q66; NICE: N20, N21",
-        "alternativeroute": "If you are on the street: Take a Q66 bus to Junction Blvd and Roosevelt Av and transfer to a southbound Q72 bus to Junction Blvd 7. If you are at the platform: Take a Manhattan-bound 7 to Junction Blvd. Use elevators to exit the station and a take LaGuardia Airport-bound Q72 bus (Roosevelt Av and Junction Blvd) to Northern Blvd and Junction Blvd. Then transfer to a Flushing-bound Q66 bus to its terminal near Flushing-Main St."
+        "alternativeroute": "If you are on the street: Take a Q66 bus to Junction Blvd and Roosevelt Av and transfer to a southbound Q72 bus to Junction Blvd 7. If you are at the platform: Take a Manhattan-bound 7 to Junction Blvd. Use elevators to exit the station and a take LaGuardia Airport-bound Q72 bus (Roosevelt Av and Junction Blvd) to Northern Blvd and Junction Blvd. Then transfer to a Flushing-bound Q66 bus to its terminal near Flushing-Main St.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "ES455": {
         "station": "Flushing-Main St",
@@ -22284,7 +22662,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44 SBS, Q48, Q50, Q65, Q66; NICE: N20, N21",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to street"
     },
     "ES456": {
         "station": "Flushing-Main St",
@@ -22305,7 +22684,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44 SBS, Q48, Q50, Q65, Q66; NICE: N20, N21",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to platform"
     },
     "ES457": {
         "station": "Flushing-Main St",
@@ -22326,7 +22706,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44 SBS, Q48, Q50, Q65, Q66; NICE: N20, N21",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to street"
     },
     "EL188": {
         "station": "Fordham Rd",
@@ -22347,7 +22728,8 @@ export const stations ={
         "nextadasouth": "387, 4",
         "redundant": 0,
         "busconnections": "Bx12, Bx12 SBS, Bx32",
-        "alternativeroute": "If you are on the mezzanine: \nUse a nearby elevator to take a Woodlawn-bound 4 to Woodlawn. Then remain on the \ntrain or wait at the platform for a Manhattan-bound 4. \nOr, use a nearby elevator to exit the station and take a Mott Haven-bound Bx32 bus \n(Jerome Av and Fordham Rd) to Morris Av and 161 St. Then transfer to a Riverside Drbound Bx6 bus to River Av for 161 St-Yankee Stadium B/D/4. \nIf you are on the platform: \nTake a Manhattan-bound 4 to 170 St.\nThen either: \nUse elevators to transfer to a Woodlawn 4 to Fordham Rd.\nOr\nUse elevators to exit the station and take a Hunts Pt-bound Bx6 Local bus (161 St and \nRiver Av) to Concourse Village East (Morris Av). Then transfer to a Kingsbridge-bound \nBx32 bus to Fordham Rd."
+        "alternativeroute": "If you are on the mezzanine: \nUse a nearby elevator to take a Woodlawn-bound 4 to Woodlawn. Then remain on the \ntrain or wait at the platform for a Manhattan-bound 4. \nOr, use a nearby elevator to exit the station and take a Mott Haven-bound Bx32 bus \n(Jerome Av and Fordham Rd) to Morris Av and 161 St. Then transfer to a Riverside Drbound Bx6 bus to River Av for 161 St-Yankee Stadium B/D/4. \nIf you are on the platform: \nTake a Manhattan-bound 4 to 170 St.\nThen either: \nUse elevators to transfer to a Woodlawn 4 to Fordham Rd.\nOr\nUse elevators to exit the station and take a Hunts Pt-bound Bx6 Local bus (161 St and \nRiver Av) to Concourse Village East (Morris Av). Then transfer to a Kingsbridge-bound \nBx32 bus to Fordham Rd.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL187": {
         "station": "Fordham Rd",
@@ -22368,7 +22750,8 @@ export const stations ={
         "nextadasouth": "387, 4",
         "redundant": 0,
         "busconnections": "Bx12, Bx12 SBS, Bx32",
-        "alternativeroute": "If you are on the platform:\nTake a Woodlawn-bound 4 to Woodlawn. Then remain on the train or wait at the \nplatform for a Manhattan-bound 4 to Fordham Rd.\n"
+        "alternativeroute": "If you are on the platform:\nTake a Woodlawn-bound 4 to Woodlawn. Then remain on the train or wait at the \nplatform for a Manhattan-bound 4 to Fordham Rd.\n",
+        "mergeddescription": "mezz to Woodlawn-bound platform"
     },
     "EL186": {
         "station": "Fordham Rd",
@@ -22389,7 +22772,8 @@ export const stations ={
         "nextadasouth": "387, 4",
         "redundant": 0,
         "busconnections": "Bx12, Bx12 SBS, Bx32",
-        "alternativeroute": "If you are on the street: \nProceed east on Fordham Rd, continuing onto 188 St to 188 St and Grand Concourse. \nTake an E 136 St/Lincoln Av-bound Bx2 to Grand Concourse and E 170 St. Proceed west \non 170 St to 170 St 4 station. \nIf you are on the mezzanine:\nSee a station agent to re-enter through the faregate and use the elevator to take a \ndowntown 4 to 170 St. Then use elevators to exit the station and take a Riverdale-bound \nBx1 or Bx1 LTD, or a Kingsbridge-bound Bx2 from Grand Concourse/E 170 St to Grand \nConcourse/Fordham Rd. Then proceed to Fordham Rd and Jerome Av."
+        "alternativeroute": "If you are on the street: \nProceed east on Fordham Rd, continuing onto 188 St to 188 St and Grand Concourse. \nTake an E 136 St/Lincoln Av-bound Bx2 to Grand Concourse and E 170 St. Proceed west \non 170 St to 170 St 4 station. \nIf you are on the mezzanine:\nSee a station agent to re-enter through the faregate and use the elevator to take a \ndowntown 4 to 170 St. Then use elevators to exit the station and take a Riverdale-bound \nBx1 or Bx1 LTD, or a Kingsbridge-bound Bx2 from Grand Concourse/E 170 St to Grand \nConcourse/Fordham Rd. Then proceed to Fordham Rd and Jerome Av.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL439": {
         "station": "Forest Hills-71 Av",
@@ -22410,7 +22794,8 @@ export const stations ={
         "nextadasouth": "267, E, F",
         "redundant": 0,
         "busconnections": "Q23, Q60, Q64, QM18",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of the mezzanine to take a Jamaica-bound E or F to Kew Gardens/Union Tpke. Then use elevators to transfer to a Manhattan-bound E or F to Forest Hills/71 Av. If you are on the Manhattan-bound platform: Take a Manhattan-bound E, F, M or R to Jackson Hts/Roosevelt Av, then either: Use elevators to transfer to a Forest Hills/71 Av-bound M/R or Jamaica-bound E/F to Forest Hills/71 Av. Or, use elevators to exit the station and take Rockaway Park-bound Q53 SBS (Broadway and 75 St) to Hoffman Dr and Woodhaven Blvd. Then transfer to a South Jamaica-bound Q60 bus to Queens Blvd and 71 Av."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of the mezzanine to take a Jamaica-bound E or F to Kew Gardens/Union Tpke. Then use elevators to transfer to a Manhattan-bound E or F to Forest Hills/71 Av. If you are on the Manhattan-bound platform: Take a Manhattan-bound E, F, M or R to Jackson Hts/Roosevelt Av, then either: Use elevators to transfer to a Forest Hills/71 Av-bound M/R or Jamaica-bound E/F to Forest Hills/71 Av. Or, use elevators to exit the station and take Rockaway Park-bound Q53 SBS (Broadway and 75 St) to Hoffman Dr and Woodhaven Blvd. Then transfer to a South Jamaica-bound Q60 bus to Queens Blvd and 71 Av.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL438": {
         "station": "Forest Hills-71 Av",
@@ -22431,7 +22816,8 @@ export const stations ={
         "nextadasouth": "267, E, F",
         "redundant": 0,
         "busconnections": "Q23, Q60, Q64, QM18",
-        "alternativeroute": "If you are on the mezzanine: Use elevator at other end of mezzanine to take Manhattan-bound EFMR to Jackson Hts/Roosevelt Av. Use elevators to transfer to Jamaica-bound EF. If you are on the Queens-bound platform: Take a Jamaica-bound E or F to Kew Gardens/Union Tpke, then either: Use elevators to transfer to a Manhattan-bound E/F to Forest Hills/71 Av. Or, use elevators to exit the station and take an East Midtown-bound Q60 bus (Queens Blvd and Union Tpke) to Queens Blvd and 108 St."
+        "alternativeroute": "If you are on the mezzanine: Use elevator at other end of mezzanine to take Manhattan-bound EFMR to Jackson Hts/Roosevelt Av. Use elevators to transfer to Jamaica-bound EF. If you are on the Queens-bound platform: Take a Jamaica-bound E or F to Kew Gardens/Union Tpke, then either: Use elevators to transfer to a Manhattan-bound E/F to Forest Hills/71 Av. Or, use elevators to exit the station and take an East Midtown-bound Q60 bus (Queens Blvd and Union Tpke) to Queens Blvd and 108 St.",
+        "mergeddescription": "mezzanine to Queens-bound platform"
     },
     "EL437": {
         "station": "Forest Hills-71 Av",
@@ -22452,7 +22838,8 @@ export const stations ={
         "nextadasouth": "267, E, F",
         "redundant": 0,
         "busconnections": "Q23, Q60, Q64, QM18",
-        "alternativeroute": "If you are on the street: Take a South Jamaica-bound Q60 bus (Queens Blvd and 71 Av) to Queens Blvd and Union Tpke. Then use the elevator on Kew Gardens Rd to enter the Kew Gardens/Union Tpke E/F station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Jamaica-bound E or F to Kew Gardens/Union Tpke. Then use elevators to exit the station and take an East Midtown-bound Q60 bus (Queens Blvd and Union Tpke) to Queens Blvd and 108 St."
+        "alternativeroute": "If you are on the street: Take a South Jamaica-bound Q60 bus (Queens Blvd and 71 Av) to Queens Blvd and Union Tpke. Then use the elevator on Kew Gardens Rd to enter the Kew Gardens/Union Tpke E/F station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Jamaica-bound E or F to Kew Gardens/Union Tpke. Then use elevators to exit the station and take an East Midtown-bound Q60 bus (Queens Blvd and Union Tpke) to Queens Blvd and 108 St.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL340": {
         "station": "Franklin Av",
@@ -22473,7 +22860,8 @@ export const stations ={
         "nextadasouth": "181, C",
         "redundant": 0,
         "busconnections": "B25, B26, B48, B49",
-        "alternativeroute": "If you are on the footbridge:  Cross the footbridge and use the elevator to take a Euclid Av-bound C to Utica Av. Then either:  Transfer to a Manhattan-bound A or C.  Or, exit the station and take a Downtown Brooklyn-bound B25 bus (Utica Av and Malcolm X Blvd) to Fulton St and Jay St for the A, C, F or R at Jay St-MetroTech.  If you are on the platform:  Take a Manhattan-bound C to Jay St-MetroTech station and use elevators to exit the station. Then take a Broadway Junction-bound B25 bus (Fulton St and Smith St) to Fulton St and Franklin Av.  For Park Place S or Prospect Park B/Q/S stations, transfer to a Lefferts Gardens-bound B48 bus (Franklin Av and Fulton St)."
+        "alternativeroute": "If you are on the footbridge:  Cross the footbridge and use the elevator to take a Euclid Av-bound C to Utica Av. Then either:  Transfer to a Manhattan-bound A or C.  Or, exit the station and take a Downtown Brooklyn-bound B25 bus (Utica Av and Malcolm X Blvd) to Fulton St and Jay St for the A, C, F or R at Jay St-MetroTech.  If you are on the platform:  Take a Manhattan-bound C to Jay St-MetroTech station and use elevators to exit the station. Then take a Broadway Junction-bound B25 bus (Fulton St and Smith St) to Fulton St and Franklin Av.  For Park Place S or Prospect Park B/Q/S stations, transfer to a Lefferts Gardens-bound B48 bus (Franklin Av and Fulton St).",
+        "mergeddescription": "footbridge to Manhattan-bound C"
     },
     "EL339": {
         "station": "Franklin Av",
@@ -22494,7 +22882,8 @@ export const stations ={
         "nextadasouth": "181, C",
         "redundant": 0,
         "busconnections": "B25, B26, B48, B49",
-        "alternativeroute": "If you are on the street:  Exit through the faregate, then either:  For Manhattan-bound C service, take a Downtown Brooklyn-bound B25 bus (Fulton St and Franklin Av) to Fulton St and Jay St for Jay St-MetroTech station.  For Euclid Av-bound C service, take a Broadway Junction-bound B25 bus (Fulton St and Franklin Av) to Fulton St and Utica Av for Utica Av A/C.  For S service, take a Lefferts Gardens-bound B48 bus (Franklin Av and Fulton St) to Prospect Park B/Q/S.  If you are on the C platform:  Take a Euclid Av-bound C to Utica Av and use elevators to exit the station. Then either:  Take a Downtown Brooklyn-bound B25 bus (Fulton St and Malcolm X Blvd) to Fulton St and Franklin Av.  Or, for Park Place S or Prospect Park B/Q/S stations, transfer to a Lefferts Gardens-bound B48 bus (Franklin Av and Fulton St) and take it to Lincoln Rd and Flatbush Av.  If you are on the footbridge:  Cross the footbridge and use the elevator to take a Manhattan-bound C to Jay St-MetroTech. Then use elevators to exit the station and take Broadway Junction-bound B25 bus (Fulton St and Smith St) to Fulton St and Franklin Av.  For Park Place S or Prospect Park B/Q/S stations, transfer to a Lefferts Garden-bound B48 bus (Franklin Av and Fulton St).  If you are on the S platform:  Take a Prospect Park-bound S to Prospect Park, then either:  For Franklin Av C/S, use the elevator to exit the station and take a Greenpoint-bound B48 bus (Lincoln Rd and Flatbush Av) to Fulton St.  For C, take a Manhattan-bound B or Q to DeKalb Av and transfer across the platform to a Manhattan-bound R to Jay St-MetroTech."
+        "alternativeroute": "If you are on the street:  Exit through the faregate, then either:  For Manhattan-bound C service, take a Downtown Brooklyn-bound B25 bus (Fulton St and Franklin Av) to Fulton St and Jay St for Jay St-MetroTech station.  For Euclid Av-bound C service, take a Broadway Junction-bound B25 bus (Fulton St and Franklin Av) to Fulton St and Utica Av for Utica Av A/C.  For S service, take a Lefferts Gardens-bound B48 bus (Franklin Av and Fulton St) to Prospect Park B/Q/S.  If you are on the C platform:  Take a Euclid Av-bound C to Utica Av and use elevators to exit the station. Then either:  Take a Downtown Brooklyn-bound B25 bus (Fulton St and Malcolm X Blvd) to Fulton St and Franklin Av.  Or, for Park Place S or Prospect Park B/Q/S stations, transfer to a Lefferts Gardens-bound B48 bus (Franklin Av and Fulton St) and take it to Lincoln Rd and Flatbush Av.  If you are on the footbridge:  Cross the footbridge and use the elevator to take a Manhattan-bound C to Jay St-MetroTech. Then use elevators to exit the station and take Broadway Junction-bound B25 bus (Fulton St and Smith St) to Fulton St and Franklin Av.  For Park Place S or Prospect Park B/Q/S stations, transfer to a Lefferts Garden-bound B48 bus (Franklin Av and Fulton St).  If you are on the S platform:  Take a Prospect Park-bound S to Prospect Park, then either:  For Franklin Av C/S, use the elevator to exit the station and take a Greenpoint-bound B48 bus (Lincoln Rd and Flatbush Av) to Fulton St.  For C, take a Manhattan-bound B or Q to DeKalb Av and transfer across the platform to a Manhattan-bound R to Jay St-MetroTech.",
+        "mergeddescription": "Street to Euclid-bound C & S"
     },
     "ES352": {
         "station": "Franklin Av",
@@ -22515,7 +22904,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B48, B49",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to S platform"
     },
     "ES366X": {
         "station": "Fulton St",
@@ -22536,7 +22926,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower concourse to street (+2345ACJZ)"
     },
     "ES377X": {
         "station": "Fulton St",
@@ -22557,7 +22948,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Downtown J/Z to street"
     },
     "ES365X": {
         "station": "Fulton St",
@@ -22578,7 +22970,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to lower concourse"
     },
     "EL732": {
         "station": "Fulton St",
@@ -22599,7 +22992,8 @@ export const stations ={
         "nextadasouth": "335, 2, 3",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the 2/3 mezzanine: Take the elevator at the opposite end of the mezzanine to reach the A/C platform and follow signs to the elevator for 4 or 5. Then take a downtown 4 or 5 to Atlantic Av-Barclays Ctr and transfer to a 2 or 3 to complete your trip. If you are on the 2/3 platform: Take a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr and use elevators to transfer to an Manhattan-bound 4 or 5 to Fulton St. Or, take an uptown 2 or 3 to Chambers St. Exit station and take a Lower East Sidebound M22 bus (Chambers St and W Broadway) to Park Row and Spruce St."
+        "alternativeroute": "If you are on the 2/3 mezzanine: Take the elevator at the opposite end of the mezzanine to reach the A/C platform and follow signs to the elevator for 4 or 5. Then take a downtown 4 or 5 to Atlantic Av-Barclays Ctr and transfer to a 2 or 3 to complete your trip. If you are on the 2/3 platform: Take a Brooklyn-bound 2 or 3 to Atlantic Av-Barclays Ctr and use elevators to transfer to an Manhattan-bound 4 or 5 to Fulton St. Or, take an uptown 2 or 3 to Chambers St. Exit station and take a Lower East Sidebound M22 bus (Chambers St and W Broadway) to Park Row and Spruce St.",
+        "mergeddescription": "2/3 platform to mezzanine "
     },
     "ES364": {
         "station": "Fulton St",
@@ -22620,7 +23014,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower concourse to downtown 4/5 platform (+23ACJZ)"
     },
     "ES367": {
         "station": "Fulton St",
@@ -22641,7 +23036,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "2/3 mezz to A/C/J/Z mezz (+45)"
     },
     "ES368": {
         "station": "Fulton St",
@@ -22662,7 +23058,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "A/C/J/Z mezz to 2/3 mezz (+45)"
     },
     "EL721": {
         "station": "Fulton St",
@@ -22683,7 +23080,8 @@ export const stations ={
         "nextadasouth": "25, A, C / 335, 2, 3",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the 2/3 mezzanine: To transfer, exit station at Fulton St and William St. For A/C or J/Z, proceed to elevator entrance at the corner of Nassau St. For 4/5, use entrance at Fulton St and Broadway. If you are on the A/C platform: To transfer to 2/3, exit station and proceed to the southwest corner of William St and Fulton St to re-enter the station.  To exit to street, proceed through the faregate and use the elevator on the same level to exit station."
+        "alternativeroute": "If you are on the 2/3 mezzanine: To transfer, exit station at Fulton St and William St. For A/C or J/Z, proceed to elevator entrance at the corner of Nassau St. For 4/5, use entrance at Fulton St and Broadway. If you are on the A/C platform: To transfer to 2/3, exit station and proceed to the southwest corner of William St and Fulton St to re-enter the station.  To exit to street, proceed through the faregate and use the elevator on the same level to exit station.",
+        "mergeddescription": "2/3 mezzanine to A/C platform"
     },
     "EL720": {
         "station": "Fulton St",
@@ -22704,7 +23102,8 @@ export const stations ={
         "nextadasouth": "25, A, C",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the concourse:  To transfer to A/C, proceed back through the doors to Fulton Center and take the elevator up toward uptown 4/5. Then exit the station, take the elevator to street level and proceed to the northeast corner of Nassau St and Fulton St. Enter the station there and follow signs to A/C platform. If you are on the A/C platform: Take the other elevator on this platform toward the downtown J/Z and exit through the faregate. Then take the elevator to street level and proceed west to Broadway. For downtown 4/5, proceed to the elevator entrance on the southwest corner of Broadway and Dey St. For uptown 4/5, or the uptown J/Z, proceed to the elevator entrance in the Fulton Center at Broadway and Fulton St. Or, exit station and take a South Ferry-bound M55 bus (Broadway and Cortlandt St) to Morris St. Take an uptown 4 or 5 to Fulton St from Bowling Green."
+        "alternativeroute": "If you are on the concourse:  To transfer to A/C, proceed back through the doors to Fulton Center and take the elevator up toward uptown 4/5. Then exit the station, take the elevator to street level and proceed to the northeast corner of Nassau St and Fulton St. Enter the station there and follow signs to A/C platform. If you are on the A/C platform: Take the other elevator on this platform toward the downtown J/Z and exit through the faregate. Then take the elevator to street level and proceed west to Broadway. For downtown 4/5, proceed to the elevator entrance on the southwest corner of Broadway and Dey St. For uptown 4/5, or the uptown J/Z, proceed to the elevator entrance in the Fulton Center at Broadway and Fulton St. Or, exit station and take a South Ferry-bound M55 bus (Broadway and Cortlandt St) to Morris St. Take an uptown 4 or 5 to Fulton St from Bowling Green.",
+        "mergeddescription": "Brooklyn-bound J/Z to A/C platform"
     },
     "EL723": {
         "station": "Fulton St",
@@ -22725,7 +23124,8 @@ export const stations ={
         "nextadasouth": "25, A, C / 335, 2, 3",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the street: Take the elevator at the corner of Nassau St and Fulton St to the A/C mezzanine and follow signs to 2/3. If you are on the 2/3 mezzanine: See a station agent to re-enter through the faregates and proceed towards A/C. Then follow signs and take the elevator to downtown J Z. Follow signs to exit."
+        "alternativeroute": "If you are on the street: Take the elevator at the corner of Nassau St and Fulton St to the A/C mezzanine and follow signs to 2/3. If you are on the 2/3 mezzanine: See a station agent to re-enter through the faregates and proceed towards A/C. Then follow signs and take the elevator to downtown J Z. Follow signs to exit.",
+        "mergeddescription": "Street (William & Fulton SW) to 2/3 mezz (+AC)"
     },
     "EL722": {
         "station": "Fulton St",
@@ -22746,7 +23146,8 @@ export const stations ={
         "nextadasouth": "25, A, C",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the street: Enter station via elevators in Fulton Center (Fulton St and Broadway). If you are on the Broad St-bound J/Z mezzanine: Contact a station agent to re-enter through the faregates and proceed toward A/C. Follow signs to transfer to a 2 or 3 and exit to street from 2/3 mezzanine."
+        "alternativeroute": "If you are on the street: Enter station via elevators in Fulton Center (Fulton St and Broadway). If you are on the Broad St-bound J/Z mezzanine: Contact a station agent to re-enter through the faregates and proceed toward A/C. Follow signs to transfer to a 2 or 3 and exit to street from 2/3 mezzanine.",
+        "mergeddescription": "Street (Nassau & Fulton NE) to Broad St-bound J/Z (+AC)"
     },
     "EL719": {
         "station": "Fulton St",
@@ -22767,7 +23168,8 @@ export const stations ={
         "nextadasouth": "25, A, C",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the Broad St-bound J/Z mezzanine: For 2 /3, exit station and proceed to the station entrance at the southwest corner of William St and Fulton St. For 4/ 5/A/C, exit station and proceed to the station entrance at Fulton St and Broadway. If you are on the A/C platform: To exit station, use a different elevator on this platform and follow signs to exit."
+        "alternativeroute": "If you are on the Broad St-bound J/Z mezzanine: For 2 /3, exit station and proceed to the station entrance at the southwest corner of William St and Fulton St. For 4/ 5/A/C, exit station and proceed to the station entrance at Fulton St and Broadway. If you are on the A/C platform: To exit station, use a different elevator on this platform and follow signs to exit.",
+        "mergeddescription": "Broad St-bound J/Z to A/C platform"
     },
     "EL716": {
         "station": "Fulton St",
@@ -22788,7 +23190,8 @@ export const stations ={
         "nextadasouth": "25, A, C / 414, 4, 5",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the uptown 4/5 platform: To transfer, exit through the faregates and take the elevator to street. For downtown 4/5, proceed to the elevator entrance on the southwest corner of Broadway and Dey St. For A/C/J/Z, use the elevator entrance at the northeast corner of Fulton St and Nassau St. For the 2/3, use the elevator entrance at the southwest corner of Fulton St and William St. If are on the upper concourse: Use the other elevator on this level to reach A/C. Proceed toward the downtown J/Z to use the elevator to street. For downtown 4 or 5, proceed to the elevator entrance on the southwest corner of Broadway and Dey St. For uptown 4 or 5, proceed to the elevator entrance in the Fulton Center at Broadway and Fulton St. If you are on the lower concourse: For uptown 4 5, exit through the faregates, take the elevator toward uptown 4/5, and re-enter through the faregates. For A/C or uptown J/Z, exit through the faregates and take the elevator to street level. Proceed to the corner of Nassau St and Fulton St and take the elevator to the downtown J/Z and follow signs. For 2/3, exit through the faregates and take the elevator up to street level. Proceed to the elevator entrance at the southwest corner of William St and Fulton St and follow signs."
+        "alternativeroute": "If you are on the uptown 4/5 platform: To transfer, exit through the faregates and take the elevator to street. For downtown 4/5, proceed to the elevator entrance on the southwest corner of Broadway and Dey St. For A/C/J/Z, use the elevator entrance at the northeast corner of Fulton St and Nassau St. For the 2/3, use the elevator entrance at the southwest corner of Fulton St and William St. If are on the upper concourse: Use the other elevator on this level to reach A/C. Proceed toward the downtown J/Z to use the elevator to street. For downtown 4 or 5, proceed to the elevator entrance on the southwest corner of Broadway and Dey St. For uptown 4 or 5, proceed to the elevator entrance in the Fulton Center at Broadway and Fulton St. If you are on the lower concourse: For uptown 4 5, exit through the faregates, take the elevator toward uptown 4/5, and re-enter through the faregates. For A/C or uptown J/Z, exit through the faregates and take the elevator to street level. Proceed to the corner of Nassau St and Fulton St and take the elevator to the downtown J/Z and follow signs. For 2/3, exit through the faregates and take the elevator up to street level. Proceed to the elevator entrance at the southwest corner of William St and Fulton St and follow signs.",
+        "mergeddescription": "Transit Center concourse to uptown 4/5 & Brooklyn-bound J/Z (+A)"
     },
     "EL733X": {
         "station": "Fulton St",
@@ -22809,7 +23212,8 @@ export const stations ={
         "nextadasouth": "414, 4, 5",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street to upper retail floors"
     },
     "EL728X": {
         "station": "Fulton St",
@@ -22830,7 +23234,8 @@ export const stations ={
         "nextadasouth": "25, R / 414, 4, 5",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the street: Cross street to Fulton Center and use the elevator to Lower Concourse. Then enter through the faregates and follow signs to downtown 4/5.  If you are on the downtown 4/5 platform: Contact a station agent to re-enter through the faregates and take the elevator on the platform to Lower Concourse. Then exit through the faregates and take the elevator to street level inside the Fulton Center. If you are on the lower concourse: For downtown 4/5, enter through the faregates and take the elevator to downtown 4/5. To exit the station, use another elevator on this level."
+        "alternativeroute": "If you are on the street: Cross street to Fulton Center and use the elevator to Lower Concourse. Then enter through the faregates and follow signs to downtown 4/5.  If you are on the downtown 4/5 platform: Contact a station agent to re-enter through the faregates and take the elevator on the platform to Lower Concourse. Then exit through the faregates and take the elevator to street level inside the Fulton Center. If you are on the lower concourse: For downtown 4/5, enter through the faregates and take the elevator to downtown 4/5. To exit the station, use another elevator on this level.",
+        "mergeddescription": "Street to downtown 4/5 & mezzanines"
     },
     "EL717X": {
         "station": "Fulton St",
@@ -22851,7 +23256,8 @@ export const stations ={
         "nextadasouth": "25, A, C / 414, 4, 5",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the street: Use another elevator on this level for uptown 4 5.  If on the uptwon 4/5 platform: Use another elevator on this level to street level.  If you are on the lower concourse: For uptown 4/5, take elevator at the opposite end of the corridor to Broadway and Dey St. Cross Broadway into Fulton Center and take another elevator down to uptown 4/5."
+        "alternativeroute": "If you are on the street: Use another elevator on this level for uptown 4 5.  If on the uptwon 4/5 platform: Use another elevator on this level to street level.  If you are on the lower concourse: For uptown 4/5, take elevator at the opposite end of the corridor to Broadway and Dey St. Cross Broadway into Fulton Center and take another elevator down to uptown 4/5.",
+        "mergeddescription": "Street to uptown 4/5 & mezz (+ACJZ)"
     },
     "EL729X": {
         "station": "Fulton St",
@@ -22872,7 +23278,8 @@ export const stations ={
         "nextadasouth": "414, 4, 5",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the downtown 4/5 platform: To transfer, exit through the faregates and take the elevator to street level or Lower Concourse. Then re-enter through the faregates to complete your trMP. If you are on the lower concourse: Exit through the faregates and take the elevator near the passageway to PATH to downtown 4/5 and re-enter through the faregates."
+        "alternativeroute": "If you are on the downtown 4/5 platform: To transfer, exit through the faregates and take the elevator to street level or Lower Concourse. Then re-enter through the faregates to complete your trMP. If you are on the lower concourse: Exit through the faregates and take the elevator near the passageway to PATH to downtown 4/5 and re-enter through the faregates.",
+        "mergeddescription": "Transit Center concourse to downtown 4/5"
     },
     "EL718X": {
         "station": "Fulton St",
@@ -22893,7 +23300,8 @@ export const stations ={
         "nextadasouth": "414, 4, 5",
         "redundant": 1,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "If you are on the street: Take the elevator on this level near the Broadway entrance for uptown 4/5.  If you are on the uptwon 4/5 platform: Use the other elevator on this level to street level."
+        "alternativeroute": "If you are on the street: Take the elevator on this level near the Broadway entrance for uptown 4/5.  If you are on the uptwon 4/5 platform: Use the other elevator on this level to street level.",
+        "mergeddescription": "Street to uptown 4/5"
     },
     "ES360X": {
         "station": "Fulton St",
@@ -22914,7 +23322,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to uptown 4/5 platform (+23ACJZ)"
     },
     "ES383X": {
         "station": "Fulton St",
@@ -22935,7 +23344,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Uptown 4/5 platform to street (+23ACJZ)"
     },
     "ES376X": {
         "station": "Fulton St",
@@ -22956,7 +23366,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to downtown J/Z"
     },
     "ES363X": {
         "station": "Fulton St",
@@ -22977,7 +23388,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "concourse to uptown 4/5 platform (+23ACJZ)"
     },
     "ES362X": {
         "station": "Fulton St",
@@ -22998,7 +23410,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Uptown 4/5 platform to street (+23ACJZ)"
     },
     "ES361X": {
         "station": "Fulton St",
@@ -23019,7 +23432,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Uptown 4/5 platform to street (+23ACJZ)"
     },
     "EL204": {
         "station": "Grand Central-42 St",
@@ -23040,7 +23454,8 @@ export const stations ={
         "nextadasouth": "317, 7 / 404, 6 / 411, 4, 5",
         "redundant": 1,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": "If you are on the street: Proceed to E. 42nd Street and Lexington Avenue and use elevator to enter station.  If you are on the mezzanine: See a station agent to re-enter faregate and proceed to other side of mezzanine. Exit through faregate and use elevator to exit station."
+        "alternativeroute": "If you are on the street: Proceed to E. 42nd Street and Lexington Avenue and use elevator to enter station.  If you are on the mezzanine: See a station agent to re-enter faregate and proceed to other side of mezzanine. Exit through faregate and use elevator to exit station.",
+        "mergeddescription": "Street to 4567 mezzanine"
     },
     "EL206": {
         "station": "Grand Central-42 St",
@@ -23061,7 +23476,8 @@ export const stations ={
         "nextadasouth": "404, 6 / 411, 4, 5",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a downtown 6 to Bleecker St. Use elevators to transfer to uptown 6. Or, take a downtown 6 to 23rd St.  Exit faregate and use elevator to exit station.  Cross street, use elevator and enter faregate to take an uptown 6.  If you are on the platform: Take an uptown 6 to 51 St then either: Use elevators to transfer to a downtown 6 to Grand Central-42 St. Or, take an M101 LTD, M102, or M103 bus (corner of Lexington Av and 50 St) to Lexington Av/42 St. Grand Central-42 St is one block north."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a downtown 6 to Bleecker St. Use elevators to transfer to uptown 6. Or, take a downtown 6 to 23rd St.  Exit faregate and use elevator to exit station.  Cross street, use elevator and enter faregate to take an uptown 6.  If you are on the platform: Take an uptown 6 to 51 St then either: Use elevators to transfer to a downtown 6 to Grand Central-42 St. Or, take an M101 LTD, M102, or M103 bus (corner of Lexington Av and 50 St) to Lexington Av/42 St. Grand Central-42 St is one block north.",
+        "mergeddescription": "Mezzanine to uptown 4/5/6"
     },
     "EL205": {
         "station": "Grand Central-42 St",
@@ -23082,7 +23498,8 @@ export const stations ={
         "nextadasouth": "404, 6 / 411, 4, 5",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown 6 to 51 St and use elevators to transfer to a downtown 6 to Grand Central-42 St. If you are on the platform: Take a downtown 6 to 28 St. Use elevator to exit station and take an uptown M1, M2, or M3 (Madison Av & E 28 St) to Madison Av and E. 43rd St. Or, take a downtown 6 to 23 St. Use elevator to exit station and cross Park Avenue.  Use elevator to re-enter station and take an uptown 6 to Grand Central-42 St."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown 6 to 51 St and use elevators to transfer to a downtown 6 to Grand Central-42 St. If you are on the platform: Take a downtown 6 to 28 St. Use elevator to exit station and take an uptown M1, M2, or M3 (Madison Av & E 28 St) to Madison Av and E. 43rd St. Or, take a downtown 6 to 23 St. Use elevator to exit station and cross Park Avenue.  Use elevator to re-enter station and take an uptown 6 to Grand Central-42 St.",
+        "mergeddescription": "mezz to downtown 4/5/6 platform"
     },
     "ES255": {
         "station": "Grand Central-42 St",
@@ -23103,7 +23520,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to 4567S mezzanine"
     },
     "ES256": {
         "station": "Grand Central-42 St",
@@ -23124,7 +23542,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "main mezzanine to street"
     },
     "ES641X": {
         "station": "Grand Central-42 St",
@@ -23145,7 +23564,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": ""
     },
     "ES640X": {
         "station": "Grand Central-42 St",
@@ -23166,7 +23586,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": ""
     },
     "ES210": {
         "station": "Grand Central-42 St",
@@ -23187,7 +23608,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 mezzanine to 4/5/6 mezzanine"
     },
     "ES203": {
         "station": "Grand Central-42 St",
@@ -23208,7 +23630,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 mezzanine to street"
     },
     "ES206": {
         "station": "Grand Central-42 St",
@@ -23229,7 +23652,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "main mezzanine to 7 mezzanine"
     },
     "ES610X": {
         "station": "Grand Central-42 St",
@@ -23250,7 +23674,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to street (+4567METRO-NORTHS)"
     },
     "ES207": {
         "station": "Grand Central-42 St",
@@ -23271,7 +23696,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "western mezzanine to 7 platform"
     },
     "ES204": {
         "station": "Grand Central-42 St",
@@ -23292,7 +23718,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to 7 mezzanine"
     },
     "ES205": {
         "station": "Grand Central-42 St",
@@ -23313,7 +23740,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 mezzanine to 4/5/6 mezzanine"
     },
     "ES208": {
         "station": "Grand Central-42 St",
@@ -23334,7 +23762,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "main mezzanine to 7 mezzanine"
     },
     "ES209": {
         "station": "Grand Central-42 St",
@@ -23355,7 +23784,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 platform to 7 mezzanine"
     },
     "ES639X": {
         "station": "Grand Central-42 St",
@@ -23376,7 +23806,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": ""
     },
     "ES638X": {
         "station": "Grand Central-42 St",
@@ -23397,7 +23828,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": ""
     },
     "ES637X": {
         "station": "Grand Central-42 St",
@@ -23418,7 +23850,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": ""
     },
     "EL607X": {
         "station": "Grand Central-42 St",
@@ -23439,7 +23872,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to Shuttle platform"
     },
     "EL608X": {
         "station": "Grand Central-42 St",
@@ -23460,7 +23894,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL296": {
         "station": "Grand Central-42 St",
@@ -23481,7 +23916,8 @@ export const stations ={
         "nextadasouth": "317, 7 / 404, 6 / 411, 4, 5",
         "redundant": 1,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": "If you are on the street: Proceed to E. 42nd Street between Lexington Av and Madison Av and use elevator near Grand Central Terminal to enter the subway station. If you are on the mezzanine: See a station agent to re-enter faregate and proceed across mezzanine toward Grand Centeral Terminal. Exit opposite faregate and use elevator to exit the station."
+        "alternativeroute": "If you are on the street: Proceed to E. 42nd Street between Lexington Av and Madison Av and use elevator near Grand Central Terminal to enter the subway station. If you are on the mezzanine: See a station agent to re-enter faregate and proceed across mezzanine toward Grand Centeral Terminal. Exit opposite faregate and use elevator to exit the station.",
+        "mergeddescription": "Street (42 & Lex Av) to 4567 mezz"
     },
     "ES609X": {
         "station": "Grand Central-42 St",
@@ -23502,7 +23938,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (Park & 42 SW) to 4/5/6 mezz (+7METRO-NORTH)"
     },
     "ES608X": {
         "station": "Grand Central-42 St",
@@ -23523,7 +23960,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "4/5/6 mezz to street (Park & 42 SW) (+7METRO-NORTH)"
     },
     "EL244": {
         "station": "Grand Central-42 St",
@@ -23544,7 +23982,8 @@ export const stations ={
         "nextadasouth": "317, 7",
         "redundant": 0,
         "busconnections": "M42, M101, M102, M103, BxM1 (southbound; northbound at 3 Av), SIM6/6x, SIM8/8x, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM31, SIM4c; Metro-North Railroad",
-        "alternativeroute": "If you are on the mezzanine: Exit the station and take an M42 bus (42 St and Broadway) to Times Square. If you are on the platform: Take a 34 St-Hudson Yards-bound 7 to Times Sq-42 St. Exit station and take an eastbound M42 bus (42 St and Broadway) to Lexington Av."
+        "alternativeroute": "If you are on the mezzanine: Exit the station and take an M42 bus (42 St and Broadway) to Times Square. If you are on the platform: Take a 34 St-Hudson Yards-bound 7 to Times Sq-42 St. Exit station and take an eastbound M42 bus (42 St and Broadway) to Lexington Av.",
+        "mergeddescription": "mezzanine to 7 platform"
     },
     "EL786": {
         "station": "Grand St",
@@ -23565,7 +24004,8 @@ export const stations ={
         "nextadasouth": "128, L",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you\u2019re on the street: \n\nCross Bushwick Ave and use EL785 to take a Manhattan-bound L train to Bedford Av. Then, transfer across the platform for a Canarsie-bound L train.  \n\nOr,  \n\nTake a Canarsie-bound B60 (Montrose Av & Bushwick Av) to Wilson Av & Gates Av. Then, either: \n\nTransfer to a Ridgewood-bound B52 bus to Palmetto St & Wyckoff Av,  \n\nOr, travel three blocks north to Myrtle-Wyckoff station. \n\nIf you\u2019re on the platform:  \n\nTake a Canarsie-bound L to Myrtle-Wyckoff station. Then, transfer across the platform to a Manhattan-bound L train to Grand St. "
+        "alternativeroute": "If you\u2019re on the street: \n\nCross Bushwick Ave and use EL785 to take a Manhattan-bound L train to Bedford Av. Then, transfer across the platform for a Canarsie-bound L train.  \n\nOr,  \n\nTake a Canarsie-bound B60 (Montrose Av & Bushwick Av) to Wilson Av & Gates Av. Then, either: \n\nTransfer to a Ridgewood-bound B52 bus to Palmetto St & Wyckoff Av,  \n\nOr, travel three blocks north to Myrtle-Wyckoff station. \n\nIf you\u2019re on the platform:  \n\nTake a Canarsie-bound L to Myrtle-Wyckoff station. Then, transfer across the platform to a Manhattan-bound L train to Grand St. ",
+        "mergeddescription": "Street to Canarsie-bound platform"
     },
     "EL785": {
         "station": "Grand St",
@@ -23586,7 +24026,8 @@ export const stations ={
         "nextadasouth": "128, L",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you\u2019re on the street:  \nCross the Bushwick Ave and use EL786 to take a Canarsie-bound L train to Myrtle-Wyckoff station. Then, transfer across the platform for a Manhattan-bound L train.  \nOr, \nTake a Williamsburg-bound Q59 bus (Grand St & Bushwick Av) to N 5 St. Then, proceed two blocks north and 2 blocks west to Bedford Av L station for service in both directions. \n\nIf you\u2019re on the platform: \nTake a Manhattan-bound L train to Bedford Av station. Then, transfer across the platform to a Canarsie-bound L train to Grand St."
+        "alternativeroute": "If you\u2019re on the street:  \nCross the Bushwick Ave and use EL786 to take a Canarsie-bound L train to Myrtle-Wyckoff station. Then, transfer across the platform for a Manhattan-bound L train.  \nOr, \nTake a Williamsburg-bound Q59 bus (Grand St & Bushwick Av) to N 5 St. Then, proceed two blocks north and 2 blocks west to Bedford Av L station for service in both directions. \n\nIf you\u2019re on the platform: \nTake a Manhattan-bound L train to Bedford Av station. Then, transfer across the platform to a Canarsie-bound L train to Grand St.",
+        "mergeddescription": "Street to 8 Ave-bound platform"
     },
     "EL765": {
         "station": "Greenpoint Av",
@@ -23607,7 +24048,8 @@ export const stations ={
         "nextadasouth": "243, G",
         "redundant": 0,
         "busconnections": "B24, B32, B43, B62",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Queens-bound G to Court Sq. Then, stay on train or transfer across the platform for a Brooklyn-bound G to Church Av. If you are on the platform: Take a Brooklyn-bound G to Church Av and use elevators to transfer to a Queens-bound G to Greenpoint Av."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Queens-bound G to Court Sq. Then, stay on train or transfer across the platform for a Brooklyn-bound G to Church Av. If you are on the platform: Take a Brooklyn-bound G to Church Av and use elevators to transfer to a Queens-bound G to Greenpoint Av.",
+        "mergeddescription": "Mezzanine to Church Av-bound platform"
     },
     "EL764": {
         "station": "Greenpoint Av",
@@ -23628,7 +24070,8 @@ export const stations ={
         "nextadasouth": "243, G",
         "redundant": 0,
         "busconnections": "B24, B32, B43, B62",
-        "alternativeroute": "If you are on the mezzanine:  \n\nExit the station and take a Long Island City-bound B62 bus (Manhattan Av and Greenpoint Av) to Jackson Av and Thomson Av and proceed to Court Sq station. \n\nIf you are on the platform:  \n\nTake a Queens-bound G to Court Sq. Then, stay on train or transfer across the platform for a Brooklyn-bound G to Greenpoint Av.\n"
+        "alternativeroute": "If you are on the mezzanine:  \n\nExit the station and take a Long Island City-bound B62 bus (Manhattan Av and Greenpoint Av) to Jackson Av and Thomson Av and proceed to Court Sq station. \n\nIf you are on the platform:  \n\nTake a Queens-bound G to Court Sq. Then, stay on train or transfer across the platform for a Brooklyn-bound G to Greenpoint Av.\n",
+        "mergeddescription": "Mezzanine to Court Sq-bound platform"
     },
     "EL763": {
         "station": "Greenpoint Av",
@@ -23649,7 +24092,8 @@ export const stations ={
         "nextadasouth": "243, G",
         "redundant": 0,
         "busconnections": "B24, B32, B43, B62",
-        "alternativeroute": "If you are on the street:  \n\nTake a Long Island City-bound B62 bus (Manhattan Av and Greenpoint Av) to Jackson Av and Thomson Av and proceed to Court Sq station.  \n\nOr, \n\nTake a Downtown Brooklyn-bound B62 bus (Manhattan Av and Greenpoint Av) to Jay St and Willoughby St for Jay St - MetroTech A/C/F/R station. Then, use elevators to take a Coney Island-bound F to Church Av F/G station. \n\nIf you are on the mezzanine:  \n\nSee a station agent to re-enter through the faregate and use elevator to take a Queens-bound G to Court Sq. Then, stay on train or transfer across the platform for a Brooklyn -bound G to Greenpoint Av."
+        "alternativeroute": "If you are on the street:  \n\nTake a Long Island City-bound B62 bus (Manhattan Av and Greenpoint Av) to Jackson Av and Thomson Av and proceed to Court Sq station.  \n\nOr, \n\nTake a Downtown Brooklyn-bound B62 bus (Manhattan Av and Greenpoint Av) to Jay St and Willoughby St for Jay St - MetroTech A/C/F/R station. Then, use elevators to take a Coney Island-bound F to Church Av F/G station. \n\nIf you are on the mezzanine:  \n\nSee a station agent to re-enter through the faregate and use elevator to take a Queens-bound G to Court Sq. Then, stay on train or transfer across the platform for a Brooklyn -bound G to Greenpoint Av.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES104": {
         "station": "Gun Hill Rd",
@@ -23670,7 +24114,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx28, Bx30, Bx38, Bx39, Bx41, Bx41 SBS, BxM11",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street"
     },
     "ES105": {
         "station": "Gun Hill Rd",
@@ -23691,7 +24136,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx28, Bx30, Bx38, Bx39, Bx41, Bx41 SBS, BxM11",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL199": {
         "station": "Gun Hill Rd",
@@ -23712,7 +24158,8 @@ export const stations ={
         "nextadasouth": "426, 5",
         "redundant": 0,
         "busconnections": "Bx28, Bx31, Bx38, BxM10",
-        "alternativeroute": "If you are on the platform: \nTake an Eastchester Dyre Av-bound 5 to Eastchester Dyre Av. Then, stay on train or \ntransfer across the platform for Manhattan-bound 5 to Gun Hill Rd. "
+        "alternativeroute": "If you are on the platform: \nTake an Eastchester Dyre Av-bound 5 to Eastchester Dyre Av. Then, stay on train or \ntransfer across the platform for Manhattan-bound 5 to Gun Hill Rd. ",
+        "mergeddescription": "Street to Bronx-bound platform"
     },
     "EL198": {
         "station": "Gun Hill Rd",
@@ -23733,7 +24180,8 @@ export const stations ={
         "nextadasouth": "426, 5",
         "redundant": 0,
         "busconnections": "Bx28, Bx31, Bx38, BxM10",
-        "alternativeroute": "If you are on the street: \nUse elevator to take an Eastchester Dyre Av-bound 5 to Eastchester Dyre Av. Then, stay \non the train or transfer across the platform for Manhattan-bound 5. \nIf you are on the platform: \nTake a Manhattan-bound 5 to E 180 St, then either: Use elevators to transfer to a \nEastchester Dyre Av-bound 5 to Gun Hill Rd. \nOr, use elevator to exit the station and take a Westchester Sq-bound Bx21 bus (Morris \nPk Av and Adams St) to Eastchester Rd and Sackett Av. Then, transfer to a Woodlawn-bound Bx31 bus (Eastchester Rd and Ives St) to E Gun Hill Rd."
+        "alternativeroute": "If you are on the street: \nUse elevator to take an Eastchester Dyre Av-bound 5 to Eastchester Dyre Av. Then, stay \non the train or transfer across the platform for Manhattan-bound 5. \nIf you are on the platform: \nTake a Manhattan-bound 5 to E 180 St, then either: Use elevators to transfer to a \nEastchester Dyre Av-bound 5 to Gun Hill Rd. \nOr, use elevator to exit the station and take a Westchester Sq-bound Bx21 bus (Morris \nPk Av and Adams St) to Eastchester Rd and Sackett Av. Then, transfer to a Woodlawn-bound Bx31 bus (Eastchester Rd and Ives St) to E Gun Hill Rd.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "EL183": {
         "station": "Gun Hill Rd",
@@ -23754,7 +24202,8 @@ export const stations ={
         "nextadasouth": "424, 2, 5",
         "redundant": 0,
         "busconnections": "Bx28, Bx30, Bx38, Bx39, Bx41, Bx41 SBS, BxM11",
-        "alternativeroute": "If you are on the street: \nTake an uptown 2 or 5 to 233 St and use elevators to transfer to a downtown 2 or 5. \nOr, take a Clasons Point-bound Bx39 bus (White Plains Rd and Gun Hill Rd) to Pelham \nPkwy 2/5 station (White Plains Rd and Pelham Pkwy). \nIf you are on the platform: \nTake a downtown 2 or 5 to Pelham Pkwy.\nThen either: \nUse elevators to transfer to an uptown 2 or 5 to Gun Hill Rd. \nOr, \nUse elevators to exit the station and take Wakefield-bound Bx39 bus (White Plains Rd \nand Pelham Pkwy) to Gun Hill Rd station (White Plains Rd and E Gun Hill Rd)."
+        "alternativeroute": "If you are on the street: \nTake an uptown 2 or 5 to 233 St and use elevators to transfer to a downtown 2 or 5. \nOr, take a Clasons Point-bound Bx39 bus (White Plains Rd and Gun Hill Rd) to Pelham \nPkwy 2/5 station (White Plains Rd and Pelham Pkwy). \nIf you are on the platform: \nTake a downtown 2 or 5 to Pelham Pkwy.\nThen either: \nUse elevators to transfer to an uptown 2 or 5 to Gun Hill Rd. \nOr, \nUse elevators to exit the station and take Wakefield-bound Bx39 bus (White Plains Rd \nand Pelham Pkwy) to Gun Hill Rd station (White Plains Rd and E Gun Hill Rd).",
+        "mergeddescription": "Street (Gun Hill Rd) to Manhattan-bound platform"
     },
     "EL182": {
         "station": "Gun Hill Rd",
@@ -23775,7 +24224,8 @@ export const stations ={
         "nextadasouth": "424, 2, 5",
         "redundant": 0,
         "busconnections": "Bx28, Bx30, Bx38, Bx39, Bx41, Bx41 SBS, BxM11",
-        "alternativeroute": "If you are on the street: \nTake a downtown 2 or 5 to Pelham Pkwy and use elevators to transfer to an uptown 2 or \n5. \nOr, take a Wakefield-bound Bx39 bus (White Plains Rd and Gun Hill Rd) to 233 St 2/5 \nstation (White Plains Rd and Pelham Pkwy). \nIf you are on the platform: \nTake an uptown 2 or 5 to 233.\nThen either: \nUse elevators to transfer to a downtown 2 or 5 to Gun Hill Rd. \nOr, \nTake a Clason\u2019s Point-bound Bx39 bus (White Plains Rd and 233 St) to Gun Hill Rd 2/5 \nstation (White Plains Rd and E Gun Hill Rd)."
+        "alternativeroute": "If you are on the street: \nTake a downtown 2 or 5 to Pelham Pkwy and use elevators to transfer to an uptown 2 or \n5. \nOr, take a Wakefield-bound Bx39 bus (White Plains Rd and Gun Hill Rd) to 233 St 2/5 \nstation (White Plains Rd and Pelham Pkwy). \nIf you are on the platform: \nTake an uptown 2 or 5 to 233.\nThen either: \nUse elevators to transfer to a downtown 2 or 5 to Gun Hill Rd. \nOr, \nTake a Clason\u2019s Point-bound Bx39 bus (White Plains Rd and 233 St) to Gun Hill Rd 2/5 \nstation (White Plains Rd and E Gun Hill Rd).",
+        "mergeddescription": "Street (Gun Hill Rd) to Bronx-bound platform"
     },
     "ES350": {
         "station": "High St",
@@ -23796,7 +24246,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES323": {
         "station": "High St",
@@ -23817,7 +24268,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES324": {
         "station": "High St",
@@ -23838,7 +24290,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES321": {
         "station": "High St",
@@ -23859,7 +24312,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES322": {
         "station": "High St",
@@ -23880,7 +24334,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezzanine to lower mezzanine"
     },
     "ES499X": {
         "station": "Howard Beach-JFK Airport",
@@ -23901,7 +24356,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezz to Brooklyn-bound mezz"
     },
     "ES498X": {
         "station": "Howard Beach-JFK Airport",
@@ -23922,7 +24378,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to Brooklyn-bound platform"
     },
     "EL490X": {
         "station": "Howard Beach-JFK Airport",
@@ -23943,7 +24400,8 @@ export const stations ={
         "nextadasouth": "204, A",
         "redundant": 1,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street (Colman Square) to mezzanine"
     },
     "EL491X": {
         "station": "Howard Beach-JFK Airport",
@@ -23964,7 +24422,8 @@ export const stations ={
         "nextadasouth": "204, A",
         "redundant": 1,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street (Colman Square) to mezzanine"
     },
     "EL492X": {
         "station": "Howard Beach-JFK Airport",
@@ -23985,7 +24444,8 @@ export const stations ={
         "nextadasouth": "204, A",
         "redundant": 1,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "mezz to Far Rockaway-bound platform"
     },
     "EL493X": {
         "station": "Howard Beach-JFK Airport",
@@ -24006,7 +24466,8 @@ export const stations ={
         "nextadasouth": "204, A",
         "redundant": 1,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "mezz to Far Rockaway-bound platform"
     },
     "EL494X": {
         "station": "Howard Beach-JFK Airport",
@@ -24027,7 +24488,8 @@ export const stations ={
         "nextadasouth": "204, A",
         "redundant": 1,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL495X": {
         "station": "Howard Beach-JFK Airport",
@@ -24048,7 +24510,8 @@ export const stations ={
         "nextadasouth": "204, A",
         "redundant": 1,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "ES497X": {
         "station": "Howard Beach-JFK Airport",
@@ -24069,7 +24532,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Queens-bound mezz to upper mezz"
     },
     "ES496X": {
         "station": "Howard Beach-JFK Airport",
@@ -24090,7 +24554,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q11; AirTrain JFK",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Queens-bound platform to intermediate mezz"
     },
     "EL744X": {
         "station": "Hoyt St",
@@ -24111,7 +24576,8 @@ export const stations ={
         "nextadasouth": "338, 2, 3",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B52, B54, B61, B65, B67",
-        "alternativeroute": "If you are on the street:  \nTake a Kings Plaza-bound B41 bus to Flatbush Av and Atlantic Av for access to Atlantic Av-Barclays Center 2/3/4/5/B/D/N/Q/R station. Use elevator located at Flatbush Ave and Hansen Pl for easiest access to 2/3 service.\n\nIf you are on the platform:\nUse nearby HelpPoint for assistance to re-enter the station and take a 2 or 3 train to Atlantic Ave-Barclays Center station. Exit the station and take a Downtown Brooklyn-bound B41 bus (Flatbush Ave and Pacific St) to Hoyt St and Livingston St.\n\nOr, transfer to a Manhattan-bound B/Q or R train to nearby Dekalb Ave or Jay St-MetroTech stations. "
+        "alternativeroute": "If you are on the street:  \nTake a Kings Plaza-bound B41 bus to Flatbush Av and Atlantic Av for access to Atlantic Av-Barclays Center 2/3/4/5/B/D/N/Q/R station. Use elevator located at Flatbush Ave and Hansen Pl for easiest access to 2/3 service.\n\nIf you are on the platform:\nUse nearby HelpPoint for assistance to re-enter the station and take a 2 or 3 train to Atlantic Ave-Barclays Center station. Exit the station and take a Downtown Brooklyn-bound B41 bus (Flatbush Ave and Pacific St) to Hoyt St and Livingston St.\n\nOr, transfer to a Manhattan-bound B/Q or R train to nearby Dekalb Ave or Jay St-MetroTech stations. ",
+        "mergeddescription": "Street (Elevator next) to platform for southbound service"
     },
     "EL747X": {
         "station": "Hoyt-Schermerhorn",
@@ -24132,7 +24598,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B63, B65, B67, B103",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL197": {
         "station": "Hunts Point Av",
@@ -24153,7 +24620,8 @@ export const stations ={
         "nextadasouth": "373, 6",
         "redundant": 0,
         "busconnections": "Bx5, Bx6, Bx6 SBS, Bx19",
-        "alternativeroute": "If you are on the mezzanine: \nTake a Bronx-bound 6 to Pelham Bay Park. Remain on the train or wait at the platform \nfor a Manhattan-bound 6. \nOr, exit through the faregate and use the elevator to exit the station. Then take a \nRiverbank Pk-bound Bx19 bus (Southern Blvd and E 163 St) to E 149 St and Melrose Av \nfor 3 Av-149 St 2/5 station. \nFor 6 service, take a Manhattan-bound 5 to 125 St and transfer to the 6 across the \nplatform. \nIf you are on the platform: \nTake a Manhattan-bound 6 to 125 St.\nThen either: \nUse elevators to transfer to a Bronx-bound 6 to Hunts Pt Av. \nOr, \nUse elevators to exit the 125 St station and take a Hub-Bound M125 bus to Bergen Ave \nand E 149 St. Transfer to a Botanical Garden-bound Bx19 to Southern Boulevard at \nHunts Pt Av."
+        "alternativeroute": "If you are on the mezzanine: \nTake a Bronx-bound 6 to Pelham Bay Park. Remain on the train or wait at the platform \nfor a Manhattan-bound 6. \nOr, exit through the faregate and use the elevator to exit the station. Then take a \nRiverbank Pk-bound Bx19 bus (Southern Blvd and E 163 St) to E 149 St and Melrose Av \nfor 3 Av-149 St 2/5 station. \nFor 6 service, take a Manhattan-bound 5 to 125 St and transfer to the 6 across the \nplatform. \nIf you are on the platform: \nTake a Manhattan-bound 6 to 125 St.\nThen either: \nUse elevators to transfer to a Bronx-bound 6 to Hunts Pt Av. \nOr, \nUse elevators to exit the 125 St station and take a Hub-Bound M125 bus to Bergen Ave \nand E 149 St. Transfer to a Botanical Garden-bound Bx19 to Southern Boulevard at \nHunts Pt Av.",
+        "mergeddescription": "Mezzanine to Manhattan-bound platform"
     },
     "EL196": {
         "station": "Hunts Point Av",
@@ -24174,7 +24642,8 @@ export const stations ={
         "nextadasouth": "373, 6",
         "redundant": 0,
         "busconnections": "Bx5, Bx6, Bx6 SBS, Bx19",
-        "alternativeroute": "If you are on the mezzanine: \nUse the other elevator to take a Manhattan-bound 6 to 125 St. Use elevators to transfer \nto a Bronx-bound 6. \nOr, use elevators to exit the station and take a Pelham Bay-bound Bx5 bus (Hunts Pt Av \nand Southern Blvd) to Bruckner Blvd and Wilkinson Av for Pelham Bay Park 6. \nIf you are on the platform: \nTake a Bronx-bound 6 to Pelham Bay Park, then either: Remain on the train or wait at \nthe platform for a Manhattan-bound 6 to Hunts Pt Av.\nOr, use elevators to exit the station and take a West Farms Rd/Southern Blvd-bound Bx5 \nbus (Bruckner Blvd and Wilkinson Av) to 163 St and Hoe Av."
+        "alternativeroute": "If you are on the mezzanine: \nUse the other elevator to take a Manhattan-bound 6 to 125 St. Use elevators to transfer \nto a Bronx-bound 6. \nOr, use elevators to exit the station and take a Pelham Bay-bound Bx5 bus (Hunts Pt Av \nand Southern Blvd) to Bruckner Blvd and Wilkinson Av for Pelham Bay Park 6. \nIf you are on the platform: \nTake a Bronx-bound 6 to Pelham Bay Park, then either: Remain on the train or wait at \nthe platform for a Manhattan-bound 6 to Hunts Pt Av.\nOr, use elevators to exit the station and take a West Farms Rd/Southern Blvd-bound Bx5 \nbus (Bruckner Blvd and Wilkinson Av) to 163 St and Hoe Av.",
+        "mergeddescription": "Mezzanine to Bronx-bound platform"
     },
     "EL195": {
         "station": "Hunts Point Av",
@@ -24195,7 +24664,8 @@ export const stations ={
         "nextadasouth": "373, 6",
         "redundant": 0,
         "busconnections": "Bx5, Bx6, Bx6 SBS, Bx19",
-        "alternativeroute": "If you are on the street: \nTo Pelham Bay Park, take a Pelham Bay-bound Bx5 bus (Hunts Point Av and Southern \nBlvd) to Bruckner Blvd and Wilkinson Av. \nTo Manhattan, take a Riverbank Pk-bound Bx19 bus (Southern Blvd and E 163 St) to E \n149 St and Melrose Av for 3 Av-149 St 2/5. \nOr, take a West Farms Rd-bound Bx5 bus (163 St and Hoe Av) to Simpson St 2/5. For 6, \ntake a Manhattan-bound 5 to 125 St and transfer to the 6 across the platform. \nIf you are on the mezzanine:\nUse the other elevator to take Manhattan-bound 6 to 125 St, then either: Use elevators \nto transfer to a Bronx-bound 5 and take to 3 Av-149 St. Exit the station and take a \nBotanical Garden-bound Bx19 bus (E 149 St and Bergen Av) to Southern Blvd and Hunts \nPt Av. \nOr, use elevators to exit the station and take a Fordham Plaza-bound Bx15 bus to 3 Av \nand 161 St. Then transfer to a Hunts Pt-bound Bx6 bus or Bx6 SBS and take to Hunts Pt \nAv and Bruckner Blvd."
+        "alternativeroute": "If you are on the street: \nTo Pelham Bay Park, take a Pelham Bay-bound Bx5 bus (Hunts Point Av and Southern \nBlvd) to Bruckner Blvd and Wilkinson Av. \nTo Manhattan, take a Riverbank Pk-bound Bx19 bus (Southern Blvd and E 163 St) to E \n149 St and Melrose Av for 3 Av-149 St 2/5. \nOr, take a West Farms Rd-bound Bx5 bus (163 St and Hoe Av) to Simpson St 2/5. For 6, \ntake a Manhattan-bound 5 to 125 St and transfer to the 6 across the platform. \nIf you are on the mezzanine:\nUse the other elevator to take Manhattan-bound 6 to 125 St, then either: Use elevators \nto transfer to a Bronx-bound 5 and take to 3 Av-149 St. Exit the station and take a \nBotanical Garden-bound Bx19 bus (E 149 St and Bergen Av) to Southern Blvd and Hunts \nPt Av. \nOr, use elevators to exit the station and take a Fordham Plaza-bound Bx15 bus to 3 Av \nand 161 St. Then transfer to a Hunts Pt-bound Bx6 bus or Bx6 SBS and take to Hunts Pt \nAv and Bruckner Blvd.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES108": {
         "station": "Intervale Av",
@@ -24216,7 +24686,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL149": {
         "station": "Inwood-207 St",
@@ -24237,7 +24708,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx7, Bx12, (overnight only), Bx12 SBS, Bx20, BxM1",
-        "alternativeroute": "If you are on the mezzanine: \nUse EL148 to exit the station and take a downtown Bx7 bus to 185 St and Broadway. Then, proceed west on 184 St to Overlook Terrace for 181 St A station. \nIf you are on the platform: \nTake a Downtown and Brooklyn-bound A to 181 St. Then, use elevators to exit the station and take an uptown Bx7 bus (185 St and Broadway) to 204 St and Broadway."
+        "alternativeroute": "If you are on the mezzanine: \nUse EL148 to exit the station and take a downtown Bx7 bus to 185 St and Broadway. Then, proceed west on 184 St to Overlook Terrace for 181 St A station. \nIf you are on the platform: \nTake a Downtown and Brooklyn-bound A to 181 St. Then, use elevators to exit the station and take an uptown Bx7 bus (185 St and Broadway) to 204 St and Broadway.",
+        "mergeddescription": "Mezzanine to platform"
     },
     "EL148": {
         "station": "Inwood-207 St",
@@ -24258,7 +24730,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx7, Bx12, (overnight only), Bx12 SBS, Bx20, BxM1",
-        "alternativeroute": "If you are on the street: \nTake a downtown Bx7 bus to W 185 St and Broadway. Then, proceed west on 184 St to Overlook Terrace for 181 St A station. \nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and use the elevator to take a Downtown and Brooklyn-bound A to 181 St. Then, use elevators to exit the station and take a Washington Heights-bound Bx7 (185 St and Broadway) to 204 St and Broadway. "
+        "alternativeroute": "If you are on the street: \nTake a downtown Bx7 bus to W 185 St and Broadway. Then, proceed west on 184 St to Overlook Terrace for 181 St A station. \nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and use the elevator to take a Downtown and Brooklyn-bound A to 181 St. Then, use elevators to exit the station and take a Washington Heights-bound Bx7 (185 St and Broadway) to 204 St and Broadway. ",
+        "mergeddescription": "Street (207 & Broadway NW) to mezz"
     },
     "EL422": {
         "station": "Jackson Hts-Roosevelt Av",
@@ -24279,7 +24752,8 @@ export const stations ={
         "nextadasouth": "221, F / 273, E, M, R",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": "If you are on the E/F/M/R mezzanine: Take an E, M or R to Queens Plaza and use elevators to transfer to a Jamaica-bound E or F or Forest Hills-bound M or R. If you are on the Queens-bound E/F/M/R platform: Take an EFM or R to Forest Hills-71 Av then either: Use elevators to transfer to a Manhattan-bound E, F, M or R to Jackson Hts-Roosevelt Av. Or, exit station and take a Manhattan-bound Q60 bus (108 St and Queens Blvd) to 69 St and Queens Blvd, then transfer to a Marine Air Terminal-bound Q47 bus to 74 St and Roosevelt Av. Or, exit station and take a Manhattan-bound Q60 bus (108 St and Queens Blvd) to 59 St and Queens Blvd, then transfer to Woodside-bound Q53 SBS to 75 St and Broadway. Jackson Hts-Roosevelt Av is one block north."
+        "alternativeroute": "If you are on the E/F/M/R mezzanine: Take an E, M or R to Queens Plaza and use elevators to transfer to a Jamaica-bound E or F or Forest Hills-bound M or R. If you are on the Queens-bound E/F/M/R platform: Take an EFM or R to Forest Hills-71 Av then either: Use elevators to transfer to a Manhattan-bound E, F, M or R to Jackson Hts-Roosevelt Av. Or, exit station and take a Manhattan-bound Q60 bus (108 St and Queens Blvd) to 69 St and Queens Blvd, then transfer to a Marine Air Terminal-bound Q47 bus to 74 St and Roosevelt Av. Or, exit station and take a Manhattan-bound Q60 bus (108 St and Queens Blvd) to 59 St and Queens Blvd, then transfer to Woodside-bound Q53 SBS to 75 St and Broadway. Jackson Hts-Roosevelt Av is one block north.",
+        "mergeddescription": "mezzanine to Queens-bound E/F/M/R"
     },
     "EL421": {
         "station": "Jackson Hts-Roosevelt Av",
@@ -24300,7 +24774,8 @@ export const stations ={
         "nextadasouth": "221, F / 273, E, M, R",
         "redundant": 0,
         "busconnections": "Q32, Q33, Q47, Q49, Q53 SBS, Q70 SBS",
-        "alternativeroute": "If you are on the Manhattan-bound E/F/M/R platform: Take an EM or R to Queens Plaza then either: Use elevators to transfer to a Jamaica-bound E, F or a Forest Hills-bound M, R to Jackson Hts-Roosevelt Av. Or, exit station and take a Jackson Heightsbound Q32 bus (28 St and Queens Plaza S) to 75 St and Roosevelt Av. If you are on the E/F/M/R mezzanine: Take an E, F, M or R to Forest Hills-71 Av and use elevators to transfer to a Manhattan-bound E, F, M or R. If you are on the transfer mezzanine:  For E, F, M, R to Manhattan, take a Manhattanbound Q32 bus (Roosevelt Av and 74 St) to Queens Plaza. For E, F, M, R to Forest Hills/Jamaica, take Rockaway Park-bound Q53 SBS (Broadway and 75 St) to Woodhaven Blvd. Transfer to a Jamaica-bound Q60 bus."
+        "alternativeroute": "If you are on the Manhattan-bound E/F/M/R platform: Take an EM or R to Queens Plaza then either: Use elevators to transfer to a Jamaica-bound E, F or a Forest Hills-bound M, R to Jackson Hts-Roosevelt Av. Or, exit station and take a Jackson Heightsbound Q32 bus (28 St and Queens Plaza S) to 75 St and Roosevelt Av. If you are on the E/F/M/R mezzanine: Take an E, F, M or R to Forest Hills-71 Av and use elevators to transfer to a Manhattan-bound E, F, M or R. If you are on the transfer mezzanine:  For E, F, M, R to Manhattan, take a Manhattanbound Q32 bus (Roosevelt Av and 74 St) to Queens Plaza. For E, F, M, R to Forest Hills/Jamaica, take Rockaway Park-bound Q53 SBS (Broadway and 75 St) to Woodhaven Blvd. Transfer to a Jamaica-bound Q60 bus.",
+        "mergeddescription": "transfer mezz to E/F/M/R/7 mezzs"
     },
     "EL413": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24321,7 +24796,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": "If you are on the mezzanine: Exit through the faregate and use the elevator to exit the station. Then take a Jamaica LIRR-bound Q30 or Q31 bus (Jamaica Av and Parsons Blvd) to Sutphin Blvd and Archer Av for E/J/Z service at the Sutphin Blvd/Archer Av-JFK Airport station. If you are on the E platform: Take a Manhattan-bound E to Sutphin Blvd/Archer Av-JFK Airport. Then use elevators to exit the station and take a Q24, Q30 or Q31 bus (Sutphin Blvd and Archer Av) to Archer Av and 158 St. If you are on the J/Z platform: Take a Manhattan-bound J or Z to Sutphin Blvd/Archer Av-JFK Airport. Then use elevators to exit the station and take a Q24, Q30 or Q31 bus (Sutphin Blvd and Archer Av) to Archer Av and 158 St."
+        "alternativeroute": "If you are on the mezzanine: Exit through the faregate and use the elevator to exit the station. Then take a Jamaica LIRR-bound Q30 or Q31 bus (Jamaica Av and Parsons Blvd) to Sutphin Blvd and Archer Av for E/J/Z service at the Sutphin Blvd/Archer Av-JFK Airport station. If you are on the E platform: Take a Manhattan-bound E to Sutphin Blvd/Archer Av-JFK Airport. Then use elevators to exit the station and take a Q24, Q30 or Q31 bus (Sutphin Blvd and Archer Av) to Archer Av and 158 St. If you are on the J/Z platform: Take a Manhattan-bound J or Z to Sutphin Blvd/Archer Av-JFK Airport. Then use elevators to exit the station and take a Q24, Q30 or Q31 bus (Sutphin Blvd and Archer Av) to Archer Av and 158 St.",
+        "mergeddescription": "mezzanine to E & J/Z platforms"
     },
     "EL412": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24342,7 +24818,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": "If you are on the street:  Take a Jamaica LIRR-bound Q30 or Q31 bus (Jamaica Av and Parsons Blvd) to Sutphin Blvd and Archer Av for E/J/Z service at the Sutphin Blvd/Archer Av-JFK Airport station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Manhattan-bound E to Sutphin Blvd/Archer Av-JFK Airport. Then use elevators to exit the station and take a Q24, Q30 or Q31 bus (Sutphin Blvd and Archer Av) to Archer Av and 158 St."
+        "alternativeroute": "If you are on the street:  Take a Jamaica LIRR-bound Q30 or Q31 bus (Jamaica Av and Parsons Blvd) to Sutphin Blvd and Archer Av for E/J/Z service at the Sutphin Blvd/Archer Av-JFK Airport station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Manhattan-bound E to Sutphin Blvd/Archer Av-JFK Airport. Then use elevators to exit the station and take a Q24, Q30 or Q31 bus (Sutphin Blvd and Archer Av) to Archer Av and 158 St.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES440": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24363,7 +24840,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street"
     },
     "ES441": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24384,7 +24862,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to J/Z platform"
     },
     "ES444": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24405,7 +24884,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to E platform"
     },
     "ES445": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24426,7 +24906,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "J/Z platform to mezzanine"
     },
     "ES442": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24447,7 +24928,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "J/Z platform to mezzanine"
     },
     "ES443": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24468,7 +24950,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E platform to mezzanine"
     },
     "ES446": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24489,7 +24972,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to J/Z platform"
     },
     "ES447": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24510,7 +24994,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E platform to mezzanine"
     },
     "ES438": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24531,7 +25016,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street"
     },
     "ES439": {
         "station": "Jamaica Center-Parsons/Archer",
@@ -24552,7 +25038,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44 SBS, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113, Q114",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street"
     },
     "EL409": {
         "station": "Jamaica Van Wyck",
@@ -24573,7 +25060,8 @@ export const stations ={
         "nextadasouth": "259, E",
         "redundant": 0,
         "busconnections": "Q24, Q44 SBS (two blocks away, on Main Street), Q54, Q56, Q60",
-        "alternativeroute": "If you are on the street: Take a Jamaica-bound Q54 or Q56 (Jamaica and Van Wyck Expwy) to Jamaica Av and 147 Pl.  Proceed two blocks south to Sutphin Blvd and Jamaica Av.  Use elevators to enter the Sutphin Blvd-Archer Av E/J/Z Station. If you are on the mezzanine: See a station agent to re-enter faregate and use elevator to take a Jamaica-bound E to Sutphin Blvd-Archer Av E/J/Z Station.  Use elevators to exit station and take a Lafayette Av-bound Q24 or a Williamsburg Bridge Plz-bound Q54 (Jamaica Av & Sutphin Blvd) to Jamaica-Van Wyck E Station."
+        "alternativeroute": "If you are on the street: Take a Jamaica-bound Q54 or Q56 (Jamaica and Van Wyck Expwy) to Jamaica Av and 147 Pl.  Proceed two blocks south to Sutphin Blvd and Jamaica Av.  Use elevators to enter the Sutphin Blvd-Archer Av E/J/Z Station. If you are on the mezzanine: See a station agent to re-enter faregate and use elevator to take a Jamaica-bound E to Sutphin Blvd-Archer Av E/J/Z Station.  Use elevators to exit station and take a Lafayette Av-bound Q24 or a Williamsburg Bridge Plz-bound Q54 (Jamaica Av & Sutphin Blvd) to Jamaica-Van Wyck E Station.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL408": {
         "station": "Jamaica Van Wyck",
@@ -24594,7 +25082,8 @@ export const stations ={
         "nextadasouth": "259, E",
         "redundant": 0,
         "busconnections": "Q24, Q44 SBS (two blocks away, on Main Street), Q54, Q56, Q60",
-        "alternativeroute": "If you are on the mezzanine: Exit faregate and use elevator to exit station.  Then, take a Jamaica-bound Q54 orQ56 (Jamaica and Van Wyck Expwy) to Jamaica Av and 147 Pl.  Proceed two block south to Sutphin Blvd and Jamaica Av.  Use elevators to enter the Sutphin Blvd-Archer Av E/J/Z Station. If you are on the platform: Take a Jamaica-bound E to Sutphin Blvd-Archer Av E/J/Z Station.  Use elevators to exit staton and take a Lafayette Av-bound Q24 or a Williamsburg Bridge Plz-bound Q54 (Jamaica Av & Sutphin Blvd) to Jamaica-Van Wyck E Station."
+        "alternativeroute": "If you are on the mezzanine: Exit faregate and use elevator to exit station.  Then, take a Jamaica-bound Q54 orQ56 (Jamaica and Van Wyck Expwy) to Jamaica Av and 147 Pl.  Proceed two block south to Sutphin Blvd and Jamaica Av.  Use elevators to enter the Sutphin Blvd-Archer Av E/J/Z Station. If you are on the platform: Take a Jamaica-bound E to Sutphin Blvd-Archer Av E/J/Z Station.  Use elevators to exit staton and take a Lafayette Av-bound Q24 or a Williamsburg Bridge Plz-bound Q54 (Jamaica Av & Sutphin Blvd) to Jamaica-Van Wyck E Station.",
+        "mergeddescription": "mezzanine to platform"
     },
     "ES430": {
         "station": "Jamaica Van Wyck",
@@ -24615,7 +25104,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q24, Q44 SBS (two blocks away, on Main Street), Q54, Q56, Q60",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street"
     },
     "ES431": {
         "station": "Jamaica Van Wyck",
@@ -24636,7 +25126,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q24, Q44 SBS (two blocks away, on Main Street), Q54, Q56, Q60",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES427": {
         "station": "Jamaica Van Wyck",
@@ -24657,7 +25148,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q24, Q44 SBS (two blocks away, on Main Street), Q54, Q56, Q60",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street"
     },
     "ES428": {
         "station": "Jamaica Van Wyck",
@@ -24678,7 +25170,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q24, Q44 SBS (two blocks away, on Main Street), Q54, Q56, Q60",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to platform"
     },
     "ES429": {
         "station": "Jamaica Van Wyck",
@@ -24699,7 +25192,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q24, Q44 SBS (two blocks away, on Main Street), Q54, Q56, Q60",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to mezzanine"
     },
     "EL433": {
         "station": "Jamaica-179 St",
@@ -24720,7 +25214,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q1, Q2, Q3, Q17, Q36, Q43, Q76, Q77, Q110 (rush hours only) X68; NICE: N6, N22, N24 (N1, N22A, N26 rush hours only)",
-        "alternativeroute": "If you are on the platform:  Proceed to the ADA boarding area and inform the F train conductor of the need to ride the train as it changes to the Manhattan-bound direction. Ask the conductor to confirm that the F train will remain in service.  If yes, board the train and remain on it until it returns to the opposite track and then exit the station.  If the train will not remain in service, please wait for the next F train and follow the above instructions. Alternatively, you can also see a station agent for instructions on how to exit the station."
+        "alternativeroute": "If you are on the platform:  Proceed to the ADA boarding area and inform the F train conductor of the need to ride the train as it changes to the Manhattan-bound direction. Ask the conductor to confirm that the F train will remain in service.  If yes, board the train and remain on it until it returns to the opposite track and then exit the station.  If the train will not remain in service, please wait for the next F train and follow the above instructions. Alternatively, you can also see a station agent for instructions on how to exit the station.",
+        "mergeddescription": "mezzanine to terminal platform"
     },
     "EL432": {
         "station": "Jamaica-179 St",
@@ -24741,7 +25236,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q1, Q2, Q3, Q17, Q36, Q43, Q76, Q77, Q110 (rush hours only) X68; NICE: N6, N22, N24 (N1, N22A, N26 rush hours only)",
-        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station and take a Jamaica-bound Q43 bus (Hillside Av and 179 Place) to the terminal. Then either:  Transfer to a Manhattan-bound Q60 bus (Sutphin Blvd and Archer Av) to Kew Gardens-Union Tpke E/F station (Queens Blvd and Union Tpke).  Or, use elevators to enter Sutphin Blvd-Archer Av/JFK Airport station and take the Manhattan-bound E to Kew Gardens-Union Tpke."
+        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station and take a Jamaica-bound Q43 bus (Hillside Av and 179 Place) to the terminal. Then either:  Transfer to a Manhattan-bound Q60 bus (Sutphin Blvd and Archer Av) to Kew Gardens-Union Tpke E/F station (Queens Blvd and Union Tpke).  Or, use elevators to enter Sutphin Blvd-Archer Av/JFK Airport station and take the Manhattan-bound E to Kew Gardens-Union Tpke.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL431": {
         "station": "Jamaica-179 St",
@@ -24762,7 +25258,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q1, Q2, Q3, Q17, Q36, Q43, Q76, Q77, Q110 (rush hours only) X68; NICE: N6, N22, N24 (N1, N22A, N26 rush hours only)",
-        "alternativeroute": "If you are on the street:  Take a Jamaica-bound Q43 bus (Hillside Av and 179 Place) to the terminal, then either:  Transfer to a Manhattan-bound Q60 bus (Sutphin Blvd and Archer Av) to Queens Blvd and Union Tpke for Kew Gardens-Union Tpke E/F station.  Or, use elevators to enter Sutphin Blvd-Archer Av/JFK Airport E/J/Z station and take a Manhattan-bound E to Kew Gardens-Union Tpke.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to take a Manhattan-bound F to Kew Gardens-Union Tpke. Then either:  Use elevators to exit the station and take a Jamaica-bound Q60 bus (Queens Blvd and Union Tpke) to Sutphin Blvd and 91 Av.  Or, use elevators to transfer to a Jamaica-bound E to Sutphin Blvd-Archer Av/JFK Airport. Then transfer to a Floral Park-bound Q43 bus (Sutphin Blvd and Archer Av) to Hillside Av and 180 St."
+        "alternativeroute": "If you are on the street:  Take a Jamaica-bound Q43 bus (Hillside Av and 179 Place) to the terminal, then either:  Transfer to a Manhattan-bound Q60 bus (Sutphin Blvd and Archer Av) to Queens Blvd and Union Tpke for Kew Gardens-Union Tpke E/F station.  Or, use elevators to enter Sutphin Blvd-Archer Av/JFK Airport E/J/Z station and take a Manhattan-bound E to Kew Gardens-Union Tpke.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to take a Manhattan-bound F to Kew Gardens-Union Tpke. Then either:  Use elevators to exit the station and take a Jamaica-bound Q60 bus (Queens Blvd and Union Tpke) to Sutphin Blvd and 91 Av.  Or, use elevators to transfer to a Jamaica-bound E to Sutphin Blvd-Archer Av/JFK Airport. Then transfer to a Floral Park-bound Q43 bus (Sutphin Blvd and Archer Av) to Hillside Av and 180 St.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES356": {
         "station": "Jay St-Metro Tech",
@@ -24783,7 +25280,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "A/C/F mezzanine to R platform"
     },
     "ES357": {
         "station": "Jay St-Metro Tech",
@@ -24804,7 +25302,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "R platform to ACF mezzanine"
     },
     "EL708": {
         "station": "Jay St-Metro Tech",
@@ -24825,7 +25324,8 @@ export const stations ={
         "nextadasouth": "139, C / 181, A / 243, F",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator on the other side of the mezzanine then either: Take a Manhattan-bound A or C to Fulton St and transfer across the platform to a Brooklyn-bound A or C. Or, take a Manhattan-bound F to Broadway-Lafayette and use elevators to transfer to a Brooklyn-bound F. If you are on the Brooklyn-bound A/C/F platform: Take a Euclid Av-bound A or C to Utica Av and either: Use elevators to transfer to a Manhattan-bound A or C to Jay St-MetroTech. Or, use the elevator to exit the station and take a Downtown Brooklyn-bound B25 bus (Fulton St and Malcolm X Blvd) to Fulton St and Jay St. Or, take a Coney Island-bound F to Church Av and use elevators to transfer to a Manhattan-bound F to Jay St-MetroTech."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator on the other side of the mezzanine then either: Take a Manhattan-bound A or C to Fulton St and transfer across the platform to a Brooklyn-bound A or C. Or, take a Manhattan-bound F to Broadway-Lafayette and use elevators to transfer to a Brooklyn-bound F. If you are on the Brooklyn-bound A/C/F platform: Take a Euclid Av-bound A or C to Utica Av and either: Use elevators to transfer to a Manhattan-bound A or C to Jay St-MetroTech. Or, use the elevator to exit the station and take a Downtown Brooklyn-bound B25 bus (Fulton St and Malcolm X Blvd) to Fulton St and Jay St. Or, take a Coney Island-bound F to Church Av and use elevators to transfer to a Manhattan-bound F to Jay St-MetroTech.",
+        "mergeddescription": "mezzanine to Brooklyn-bound A/C/F"
     },
     "EL707": {
         "station": "Jay St-Metro Tech",
@@ -24846,7 +25346,8 @@ export const stations ={
         "nextadasouth": "139, C / 181, A / 243, F",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator on the other side of the mezzanine then either: Take a Euclid Av-bound A or C to Utica Av and use elevators to transfer to a Manhattan-bound A or C. Or, take a Coney Island-bound F to Church Av and use elevators to transfer to a Manhattan-bound F. If you are on the Manhattan-bound A/C/F platform: Take a Manhattan-bound A or C to Fulton St. Transfer across the platform to a Brooklyn-bound A or C to Jay St-MetroTech."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator on the other side of the mezzanine then either: Take a Euclid Av-bound A or C to Utica Av and use elevators to transfer to a Manhattan-bound A or C. Or, take a Coney Island-bound F to Church Av and use elevators to transfer to a Manhattan-bound F. If you are on the Manhattan-bound A/C/F platform: Take a Manhattan-bound A or C to Fulton St. Transfer across the platform to a Brooklyn-bound A or C to Jay St-MetroTech.",
+        "mergeddescription": "mezzanine to Manhattan-bound A/C/F"
     },
     "EL706": {
         "station": "Jay St-Metro Tech",
@@ -24867,7 +25368,8 @@ export const stations ={
         "nextadasouth": "139, C / 181, A / 243, F / 26, R",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": "If you are on the street: Take a Ridgewood-bound B38 bus (Fulton St and Hoyt St) to Fulton St and Flatbush Av Extension. Then proceed north to DeKalb Av station for R service. For A/C/F, take a Manhattan-bound R from DeKalb Av to Jay St-MetroTech and use elevators to transfer. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Bay Ridge-bound R to DeKalb Av. Then use elevators to exit the station and take a Downtown Brooklyn-bound B38 bus to Fulton St and Jay St."
+        "alternativeroute": "If you are on the street: Take a Ridgewood-bound B38 bus (Fulton St and Hoyt St) to Fulton St and Flatbush Av Extension. Then proceed north to DeKalb Av station for R service. For A/C/F, take a Manhattan-bound R from DeKalb Av to Jay St-MetroTech and use elevators to transfer. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Bay Ridge-bound R to DeKalb Av. Then use elevators to exit the station and take a Downtown Brooklyn-bound B38 bus to Fulton St and Jay St.",
+        "mergeddescription": "Street (Jay & Willoughby NW) to ACFR mezz"
     },
     "ES317": {
         "station": "Jay St-Metro Tech",
@@ -24888,7 +25390,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "A/C/F/R mezz to street (Jay & Willoughby NW)"
     },
     "ES318": {
         "station": "Jay St-Metro Tech",
@@ -24909,7 +25412,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (Jay & Willoughby NW) to ACFR mezz"
     },
     "EL327X": {
         "station": "Jay St-MetroTech",
@@ -24930,7 +25434,8 @@ export const stations ={
         "nextadasouth": "26, R",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information."
+        "alternativeroute": "Alt route not available for this elevator. Please use TripPlanner for latest information.",
+        "mergeddescription": "Street to R mezzanine"
     },
     "EL709": {
         "station": "Jay St-MetroTech",
@@ -24951,7 +25456,8 @@ export const stations ={
         "nextadasouth": "26, R",
         "redundant": 0,
         "busconnections": "B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103",
-        "alternativeroute": "If you are on the mezzanine:  Exit via the faregate and use elevators to exit the station and take a Ridgewood-bound B38 bus (Fulton St and Hoyt St) to Fulton St and Flatbush Av Extension. Then proceed north to DeKalb Av B/Q/R.  If you are on the R platform:  Take a Bay Ridge-bound R to DeKalb Av. Exit the station and take a Downtown Brooklyn-bound B38 bus to Fulton St and Jay St."
+        "alternativeroute": "If you are on the mezzanine:  Exit via the faregate and use elevators to exit the station and take a Ridgewood-bound B38 bus (Fulton St and Hoyt St) to Fulton St and Flatbush Av Extension. Then proceed north to DeKalb Av B/Q/R.  If you are on the R platform:  Take a Bay Ridge-bound R to DeKalb Av. Exit the station and take a Downtown Brooklyn-bound B38 bus to Fulton St and Jay St.",
+        "mergeddescription": "mezzanine to R platform"
     },
     "EL427": {
         "station": "Junction Blvd",
@@ -24972,7 +25478,8 @@ export const stations ={
         "nextadasouth": "454, 7",
         "redundant": 0,
         "busconnections": "Q72",
-        "alternativeroute": "If you are on the overpass: Take a Manhattan-bound 7 to 74 St-Broadway and use elevators to transfer to a Flushing-bound 7. If you are on the platform: Take a Flushing-bound 7 to Flushing-Main St, then either: Transfer to a Manhattan-bound 7 to Junction Blvd. Or, use the elevator to exit the station and take a Long Island City-bound Q66 bus (Main St and Roosevelt Av) to Northern Blvd and Junction Blvd. Transfer to a Rego Park-bound Q72 bus to Roosevelt Av and Junction Blvd."
+        "alternativeroute": "If you are on the overpass: Take a Manhattan-bound 7 to 74 St-Broadway and use elevators to transfer to a Flushing-bound 7. If you are on the platform: Take a Flushing-bound 7 to Flushing-Main St, then either: Transfer to a Manhattan-bound 7 to Junction Blvd. Or, use the elevator to exit the station and take a Long Island City-bound Q66 bus (Main St and Roosevelt Av) to Northern Blvd and Junction Blvd. Transfer to a Rego Park-bound Q72 bus to Roosevelt Av and Junction Blvd.",
+        "mergeddescription": "overpass to Flushing-bound platform"
     },
     "EL426": {
         "station": "Junction Blvd",
@@ -24993,7 +25500,8 @@ export const stations ={
         "nextadasouth": "454, 7",
         "redundant": 0,
         "busconnections": "Q72",
-        "alternativeroute": "If you are on the overpass: Take a Flushing-bound 7 to Flushing-Main St. Transfer on the same level to a Manhattan-bound 7 to Junction Blvd. If you are on the platform: Take a Manhattan-bound 7 to 74 St-Broadway, then either: Use elevators to transfer to a Flushing-bound 7 to Junction Blvd. Or, use elevators to exit the station and take an East Elmhurst-bound Q49 bus (74 St and Roosevelt Av) to 92 St and Astoria Blvd. Transfer to a Rego Park-bound Q72 bus to Roosevelt Av and Junction Blvd."
+        "alternativeroute": "If you are on the overpass: Take a Flushing-bound 7 to Flushing-Main St. Transfer on the same level to a Manhattan-bound 7 to Junction Blvd. If you are on the platform: Take a Manhattan-bound 7 to 74 St-Broadway, then either: Use elevators to transfer to a Flushing-bound 7 to Junction Blvd. Or, use elevators to exit the station and take an East Elmhurst-bound Q49 bus (74 St and Roosevelt Av) to 92 St and Astoria Blvd. Transfer to a Rego Park-bound Q72 bus to Roosevelt Av and Junction Blvd.",
+        "mergeddescription": "overpass to Manhattan-bound platform"
     },
     "EL425": {
         "station": "Junction Blvd",
@@ -25014,7 +25522,8 @@ export const stations ={
         "nextadasouth": "454, 7",
         "redundant": 0,
         "busconnections": "Q72",
-        "alternativeroute": "If you are on the street:  Take a LaGuardia-bound Q72 bus then either: For Manhattan, transfer at Junction Blvd and Northern Blvd to a Jackson Hts-bound Q49 bus to the end of the route. Enter the subway at Jackson Hts-Roosevelt Av E/F/M/R/7.  For Flushing-Main St, transfer at Junction Blvd and Roosevelt Av to a Flushing-bound Q66 bus to the end of the route. If you are on the overpass: Take a Flushing-bound 7 to Flushing-Main St. Use the elevator to exit the station and take a Long Island City-bound Q66 bus (Main St and Roosevelt Av) to Northern Blvd and Junction Blvd. Transfer to a Rego Park-bound Q72 bus to Roosevelt Av and Junction Blvd."
+        "alternativeroute": "If you are on the street:  Take a LaGuardia-bound Q72 bus then either: For Manhattan, transfer at Junction Blvd and Northern Blvd to a Jackson Hts-bound Q49 bus to the end of the route. Enter the subway at Jackson Hts-Roosevelt Av E/F/M/R/7.  For Flushing-Main St, transfer at Junction Blvd and Roosevelt Av to a Flushing-bound Q66 bus to the end of the route. If you are on the overpass: Take a Flushing-bound 7 to Flushing-Main St. Use the elevator to exit the station and take a Long Island City-bound Q66 bus (Main St and Roosevelt Av) to Northern Blvd and Junction Blvd. Transfer to a Rego Park-bound Q72 bus to Roosevelt Av and Junction Blvd.",
+        "mergeddescription": "Street to mezzanine & overpass"
     },
     "EL435": {
         "station": "Kew Gardens-Union Tpke",
@@ -25035,7 +25544,8 @@ export const stations ={
         "nextadasouth": "261, E, F",
         "redundant": 0,
         "busconnections": "Q10 (Q10 goes to JFK Airport), Q37, Q46, Q60, QM21, X63, X64, X68",
-        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Manhattan-bound E or F to Forest Hills-71 Av and then use elevators to take Jamaica-bound E or F. If you are on the platform: Take a Jamaica-bound E train to Jamaica Van Wyck and then transfer across the platform to a Manhattan-bound E train to Kew Gardens-Union Tpke. Or, take a Jamaica-bound F train to 179th Street and then use elevators to take a Manhattan-bound F train to Kew Gardens-Union Tpke."
+        "alternativeroute": "If you are on the mezzanine: Use elevator to take a Manhattan-bound E or F to Forest Hills-71 Av and then use elevators to take Jamaica-bound E or F. If you are on the platform: Take a Jamaica-bound E train to Jamaica Van Wyck and then transfer across the platform to a Manhattan-bound E train to Kew Gardens-Union Tpke. Or, take a Jamaica-bound F train to 179th Street and then use elevators to take a Manhattan-bound F train to Kew Gardens-Union Tpke.",
+        "mergeddescription": "mezzanine to Jamaica-bound platform"
     },
     "EL434": {
         "station": "Kew Gardens-Union Tpke",
@@ -25056,7 +25566,8 @@ export const stations ={
         "nextadasouth": "261, E, F",
         "redundant": 0,
         "busconnections": "Q10 (Q10 goes to JFK Airport), Q37, Q46, Q60, QM21, X63, X64, X68",
-        "alternativeroute": "If you are on the street:  Take a East Midtown-bound Q60 (Queens Blvd/Union Tpke) to Queens Blvd and 108 St for the Forest Hills-71st Av E/F/M/R Station.  If you are on the mezzanine:  See a station agent to re-enter faregate and use elevator to take a Manhattan-bound E or F to Forest Hills 71 Av and then use elevators to exit station and take a South Jamaica-bound Q60 (Queens Blvd/71 Av) to Union Tpke."
+        "alternativeroute": "If you are on the street:  Take a East Midtown-bound Q60 (Queens Blvd/Union Tpke) to Queens Blvd and 108 St for the Forest Hills-71st Av E/F/M/R Station.  If you are on the mezzanine:  See a station agent to re-enter faregate and use elevator to take a Manhattan-bound E or F to Forest Hills 71 Av and then use elevators to exit station and take a South Jamaica-bound Q60 (Queens Blvd/71 Av) to Union Tpke.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL436": {
         "station": "Kew Gardens-Union Tpke",
@@ -25077,7 +25588,8 @@ export const stations ={
         "nextadasouth": "261, E, F",
         "redundant": 0,
         "busconnections": "Q10 (Q10 goes to JFK Airport), Q37, Q46, Q60, QM21, X63, X64, X68",
-        "alternativeroute": "If you are on the mezzanine:  Use elevator to take a Jamaica-bound E train to Jamaica Van Wyck and transfer across the platform to a Manhattan-bound E train.  Or, use elevator to exit station and take a East Midtown-bound Q60 (Queens Blvd/Union Tpke) to Queens Blvd and 108 St for the Forest Hills-71st Av E/F/M/R Station.  If you are on the platform:  Take a Manhattan-bound E or F to Forest Hills-71 Av and then either: Use elevators to take Jamaica-bound E or F to Kew Gardens-Union Tpke Station. Use elevators to exit station and take a South Jamaica-bound Q60 (Queens Blvd and 71 Av) to Union Tpke."
+        "alternativeroute": "If you are on the mezzanine:  Use elevator to take a Jamaica-bound E train to Jamaica Van Wyck and transfer across the platform to a Manhattan-bound E train.  Or, use elevator to exit station and take a East Midtown-bound Q60 (Queens Blvd/Union Tpke) to Queens Blvd and 108 St for the Forest Hills-71st Av E/F/M/R Station.  If you are on the platform:  Take a Manhattan-bound E or F to Forest Hills-71 Av and then either: Use elevators to take Jamaica-bound E or F to Kew Gardens-Union Tpke Station. Use elevators to exit station and take a South Jamaica-bound Q60 (Queens Blvd and 71 Av) to Union Tpke.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL761": {
         "station": "Kings Hwy",
@@ -25098,7 +25610,8 @@ export const stations ={
         "nextadasouth": "58, Q",
         "redundant": 0,
         "busconnections": "B2, B7, B31, B82, B82 SBS, B100",
-        "alternativeroute": "If you are on the street: Take a Manhattan-bound B or Q to Prospect Park and use elevators to transfer to a Coney Island-bound B or Q. Or, take a westbound B82 bus or B82 SBS to Bay Pkwy D station and use the elevator for subway service. If you are on the platform: Take a Coney Island-bound Q to Coney Island-Stillwell Av and transfer on the same platform to a Manhattan-bound Q to Kings Hwy."
+        "alternativeroute": "If you are on the street: Take a Manhattan-bound B or Q to Prospect Park and use elevators to transfer to a Coney Island-bound B or Q. Or, take a westbound B82 bus or B82 SBS to Bay Pkwy D station and use the elevator for subway service. If you are on the platform: Take a Coney Island-bound Q to Coney Island-Stillwell Av and transfer on the same platform to a Manhattan-bound Q to Kings Hwy.",
+        "mergeddescription": "Street to Brooklyn-bound platform"
     },
     "EL760": {
         "station": "Kings Hwy",
@@ -25119,7 +25632,8 @@ export const stations ={
         "nextadasouth": "58, Q",
         "redundant": 0,
         "busconnections": "B2, B7, B31, B82, B82 SBS, B100",
-        "alternativeroute": "If you are on the street: Take a Coney Island-bound Q to Coney Island-Stillwell Av and transfer on the same platform to a Manhattan-bound Q. Or, take a westbound B82 bus or B82 SBS to Bay Pkwy D station and use the elevator for subway service. If you are on the platform: Take a Manhattan-bound B or Q to Prospect Park, then either: Use elevators to transfer to a Coney Island-bound B or Q to Kings Hwy. Or, take a Kings Plaza or Bergen Beach-bound B41 bus (Flatbush Av). At Kings Hwy, transfer to a Coney Island-bound B82 bus or B82 SBS to E 16 St."
+        "alternativeroute": "If you are on the street: Take a Coney Island-bound Q to Coney Island-Stillwell Av and transfer on the same platform to a Manhattan-bound Q. Or, take a westbound B82 bus or B82 SBS to Bay Pkwy D station and use the elevator for subway service. If you are on the platform: Take a Manhattan-bound B or Q to Prospect Park, then either: Use elevators to transfer to a Coney Island-bound B or Q to Kings Hwy. Or, take a Kings Plaza or Bergen Beach-bound B41 bus (Flatbush Av). At Kings Hwy, transfer to a Coney Island-bound B82 bus or B82 SBS to E 16 St.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "EL191": {
         "station": "Kingsbridge Rd",
@@ -25140,7 +25654,8 @@ export const stations ={
         "nextadasouth": "389, B, D",
         "redundant": 0,
         "busconnections": "Bx1, Bx2, Bx9, Bx22, Bx28, Bx38, Bx32, Bx34 east of the station, BxM4",
-        "alternativeroute": "If you are on the mezzanine: \nUse elevator to take a Bronx-bound B or D to Bedford Pk Blvd. Then, use elevators to \ntransfer to a Manhattan-bound B or D.\nIf you are on the platform: \nTake a Manhattan-bound B or D train to 161 St - Yankee Stadium. Then, use elevators to \ntransfer to a Bronx-bound B or D to Kingsbridge Rd."
+        "alternativeroute": "If you are on the mezzanine: \nUse elevator to take a Bronx-bound B or D to Bedford Pk Blvd. Then, use elevators to \ntransfer to a Manhattan-bound B or D.\nIf you are on the platform: \nTake a Manhattan-bound B or D train to 161 St - Yankee Stadium. Then, use elevators to \ntransfer to a Bronx-bound B or D to Kingsbridge Rd.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL190": {
         "station": "Kingsbridge Rd",
@@ -25161,7 +25676,8 @@ export const stations ={
         "nextadasouth": "389, B, D",
         "redundant": 0,
         "busconnections": "Bx1, Bx2, Bx9, Bx22, Bx28, Bx38, Bx32, Bx34 east of the station, BxM4",
-        "alternativeroute": "If you are on the mezzanine:\nExit through the faregate and use elevator to exit the station. Then, take a Riverdalebound Bx1 LTD or Kingsbridge Hts-bound Bx2 bus (Grand Concourse and E Kingsbridge \nRd) to Bedford Pk Blvd. \nIf you are on the platform:\nTake a Bronx-bound B or D to Bedford Pk Blvd.\nThen either: \nUse elevators to transfer to a Manhattan-bound B or D to Kingsbridge Rd. \nOr,\nUse elevators to exit the station and take a Mott Haven-bound Bx1 LTD or Bx2 bus \n(Grand Concourse and Bedford Pk Blvd) to E Kingsbridge Rd."
+        "alternativeroute": "If you are on the mezzanine:\nExit through the faregate and use elevator to exit the station. Then, take a Riverdalebound Bx1 LTD or Kingsbridge Hts-bound Bx2 bus (Grand Concourse and E Kingsbridge \nRd) to Bedford Pk Blvd. \nIf you are on the platform:\nTake a Bronx-bound B or D to Bedford Pk Blvd.\nThen either: \nUse elevators to transfer to a Manhattan-bound B or D to Kingsbridge Rd. \nOr,\nUse elevators to exit the station and take a Mott Haven-bound Bx1 LTD or Bx2 bus \n(Grand Concourse and Bedford Pk Blvd) to E Kingsbridge Rd.",
+        "mergeddescription": "mezzanine to Bronx-bound platform"
     },
     "EL189": {
         "station": "Kingsbridge Rd",
@@ -25182,7 +25698,8 @@ export const stations ={
         "nextadasouth": "389, B, D",
         "redundant": 0,
         "busconnections": "Bx1, Bx2, Bx9, Bx22, Bx28, Bx38, Bx32, Bx34 east of the station, BxM4",
-        "alternativeroute": "If you are on the street:\nTake a Riverdale-bound Bx1 LTD or Kingsbridge Hts-bound Bx2 bus (Grand Concourse \nand E Kingsbridge Rd) to Bedford Pk Blvd. Then, use elevators to enter station for \nManhattan-bound B/D service.\nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and use elevator to take a Bronxbound B or D to Bedford Pk Blvd. Then, use elevators to exit the station and take a Mott \nHaven-bound Bx1 LTD or Bx2 bus (Grand Concourse and Bedford Pk Blvd) to E \nKingsbridge Rd."
+        "alternativeroute": "If you are on the street:\nTake a Riverdale-bound Bx1 LTD or Kingsbridge Hts-bound Bx2 bus (Grand Concourse \nand E Kingsbridge Rd) to Bedford Pk Blvd. Then, use elevators to enter station for \nManhattan-bound B/D service.\nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and use elevator to take a Bronxbound B or D to Bedford Pk Blvd. Then, use elevators to exit the station and take a Mott \nHaven-bound Bx1 LTD or Bx2 bus (Grand Concourse and Bedford Pk Blvd) to E \nKingsbridge Rd.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES269": {
         "station": "Lexington Av/53 St",
@@ -25203,7 +25720,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "6 mezzanine to E/M platform"
     },
     "ES243": {
         "station": "Lexington Av/53 St",
@@ -25224,7 +25742,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E/M platform to 6 mezzanine"
     },
     "ES246": {
         "station": "Lexington Av/53 St",
@@ -25245,7 +25764,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to E/M platform"
     },
     "ES244": {
         "station": "Lexington Av/53 St",
@@ -25266,7 +25786,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E/M platform to 6 mezzanine"
     },
     "ES245": {
         "station": "Lexington Av/53 St",
@@ -25287,7 +25808,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E/M platform to mezzanine"
     },
     "ES600X": {
         "station": "Lexington Av/53 St",
@@ -25308,7 +25830,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "6/E/M mezz to street (52 & Lex NE)"
     },
     "ES254X": {
         "station": "Lexington Av/53 St",
@@ -25329,7 +25852,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E/M platform to 6 mezzanine"
     },
     "EL245": {
         "station": "Lexington Av/53 St",
@@ -25350,7 +25874,8 @@ export const stations ={
         "nextadasouth": "162, E / 225, M",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": "If you are on the mezzanine: For M, take the elevator to access the downtown 6 and transfer via elevators at Bleecker St to Broadway-Lafayette St B, D, F, M. Or, exit station and take a West Side-bound M50 bus (E 49 St and Lexington Av) to 6 Av for the B, F, M or to 8 Av for downtown C, E. Note: 50 St C, E station is accessible for downtown service only. For uptown E service, take a downtown C or E and transfer via elevators at 42 St/Port Authority. If you are on the E/M platform: Take a downtown M to 47-50 Sts- Rockefeller Ctr. Exit station and take an M50 bus (50 St between 6 Av and 5 Av) to Lexington Av. Or, take a downtown E to 50 St. Exit station and take an M50 bus (50 St between 8 Av and 7 Av) to Lexington Av."
+        "alternativeroute": "If you are on the mezzanine: For M, take the elevator to access the downtown 6 and transfer via elevators at Bleecker St to Broadway-Lafayette St B, D, F, M. Or, exit station and take a West Side-bound M50 bus (E 49 St and Lexington Av) to 6 Av for the B, F, M or to 8 Av for downtown C, E. Note: 50 St C, E station is accessible for downtown service only. For uptown E service, take a downtown C or E and transfer via elevators at 42 St/Port Authority. If you are on the E/M platform: Take a downtown M to 47-50 Sts- Rockefeller Ctr. Exit station and take an M50 bus (50 St between 6 Av and 5 Av) to Lexington Av. Or, take a downtown E to 50 St. Exit station and take an M50 bus (50 St between 8 Av and 7 Av) to Lexington Av.",
+        "mergeddescription": "mezzanine to E/M platform"
     },
     "ES253X": {
         "station": "Lexington Av/53 St",
@@ -25371,7 +25896,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M50; M101, M102, M103 (all southbound; northbound at 3 Av); SIM6, SIM11, SIM22, SIM26",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown 6 underpass to E/M mezz"
     },
     "ES248": {
         "station": "Lexington Av/59 St",
@@ -25392,7 +25918,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/R/W platform to mezzanine"
     },
     "ES249": {
         "station": "Lexington Av/59 St",
@@ -25413,7 +25940,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to N/R/W platform"
     },
     "ES215": {
         "station": "Lexington Av/59 St",
@@ -25434,7 +25962,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/R/W platform to downtown 6 platform"
     },
     "EL444": {
         "station": "Lexington Av/63 St",
@@ -25455,7 +25984,8 @@ export const stations ={
         "nextadasouth": "225, F / 317, Q",
         "redundant": 1,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": "If you are on the street: Proceed to other entrance with elevators at 63 St and Lexington Av. If you are on the mezzanine:  See a station agent to re-enter fare gate and take elevator to uptown F/Q platform. Proceed to other end of the uptown F/Q platform and take elevators to the street."
+        "alternativeroute": "If you are on the street: Proceed to other entrance with elevators at 63 St and Lexington Av. If you are on the mezzanine:  See a station agent to re-enter fare gate and take elevator to uptown F/Q platform. Proceed to other end of the uptown F/Q platform and take elevators to the street.",
+        "mergeddescription": "Street (3rd & 63 NW) to mezzanine"
     },
     "EL443": {
         "station": "Lexington Av/63 St",
@@ -25476,7 +26006,8 @@ export const stations ={
         "nextadasouth": "225, F / 317, Q",
         "redundant": 1,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "3rd Ave mezzanine to platforms"
     },
     "EL442": {
         "station": "Lexington Av/63 St",
@@ -25497,7 +26028,8 @@ export const stations ={
         "nextadasouth": "225, F / 317, Q",
         "redundant": 1,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "3rd Ave mezzanine to platforms"
     },
     "EL441": {
         "station": "Lexington Av/63 St",
@@ -25518,7 +26050,8 @@ export const stations ={
         "nextadasouth": "225, F / 317, Q",
         "redundant": 1,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "3rd Ave mezzanine to platforms"
     },
     "EL440": {
         "station": "Lexington Av/63 St",
@@ -25539,7 +26072,8 @@ export const stations ={
         "nextadasouth": "225, F / 317, Q",
         "redundant": 1,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "3rd Ave mezzanine to platforms"
     },
     "EL402": {
         "station": "Lexington Av/63 St",
@@ -25560,7 +26094,8 @@ export const stations ={
         "nextadasouth": "225, F / 317, Q",
         "redundant": 1,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": "If you are on the mezzanine: Exit fare gate and take elevator to street. Proceed to other entrance at 63 St and 3 Av. Re-enter station and take elevators to reach F/Q platforms. If you are on either platform: Proceed to other end of the platform and take elevators to the street."
+        "alternativeroute": "If you are on the mezzanine: Exit fare gate and take elevator to street. Proceed to other entrance at 63 St and 3 Av. Re-enter station and take elevators to reach F/Q platforms. If you are on either platform: Proceed to other end of the platform and take elevators to the street.",
+        "mergeddescription": "Lexington Ave mezz to platforms"
     },
     "EL401": {
         "station": "Lexington Av/63 St",
@@ -25581,7 +26116,8 @@ export const stations ={
         "nextadasouth": "225, F / 317, Q",
         "redundant": 1,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": "If you are on the street: Proceed to other entrance with elevators at 63 St and 3 Av. If you are on the mezzanine:  See a station agent to re-enter fare gate and take elevator to uptown F/Q platform. Proceed to other end of the uptown F/Q platform and take elevators to the street."
+        "alternativeroute": "If you are on the street: Proceed to other entrance with elevators at 63 St and 3 Av. If you are on the mezzanine:  See a station agent to re-enter fare gate and take elevator to uptown F/Q platform. Proceed to other end of the uptown F/Q platform and take elevators to the street.",
+        "mergeddescription": "Street (Lex & 63 NW) to mezzanine"
     },
     "ES459": {
         "station": "Lexington Av/63 St",
@@ -25602,7 +26138,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to street (3rd & 63 SE)"
     },
     "ES458": {
         "station": "Lexington Av/63 St",
@@ -25623,7 +26160,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (3rd & 63 SE) to mezzanine"
     },
     "ES410": {
         "station": "Lexington Av/63 St",
@@ -25644,7 +26182,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Uptown platform to lower mezz (+F)"
     },
     "ES401": {
         "station": "Lexington Av/63 St",
@@ -25665,7 +26204,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (Lex & 63 NW) to upper mezz (+F)"
     },
     "ES404": {
         "station": "Lexington Av/63 St",
@@ -25686,7 +26226,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to upper mezz (+F)"
     },
     "ES405": {
         "station": "Lexington Av/63 St",
@@ -25707,7 +26248,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Intermediate mezz to lower mezz (+F)"
     },
     "ES402": {
         "station": "Lexington Av/63 St",
@@ -25728,7 +26270,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezz to street (Lex & 63 NW) (+F)"
     },
     "ES403": {
         "station": "Lexington Av/63 St",
@@ -25749,7 +26292,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezz to intermediate mezz (+F)"
     },
     "ES408": {
         "station": "Lexington Av/63 St",
@@ -25770,7 +26314,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "downtown platform to lower mezz (+F)"
     },
     "ES409": {
         "station": "Lexington Av/63 St",
@@ -25791,7 +26336,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Lower mezz to uptown platform (+F)"
     },
     "ES406": {
         "station": "Lexington Av/63 St",
@@ -25812,7 +26358,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to intermediate mezz (+F)"
     },
     "ES407": {
         "station": "Lexington Av/63 St",
@@ -25833,7 +26380,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M101, M102, M103, Q32, BxM1",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Lower mezz to downtown platform (+F)"
     },
     "EL772": {
         "station": "Livonia Av",
@@ -25854,7 +26402,8 @@ export const stations ={
         "nextadasouth": "138, L",
         "redundant": 0,
         "busconnections": "B20, B60",
-        "alternativeroute": "If you are on the passageway: Take a Canarsie-Rockaway Pkwy-bound L to Canarsie-Rockaway Pkwy. Wait on the train or transfer across the platform to a Manhattan-bound L train OR Exit the station and proceed to Rockaway Av/Livonia Av. Take a Williamsburg Bridge Plaza-bound B60 to Wilson Av/Decatur St. Proceed down Wilson Av to the Wilson Av L station. OR Exit the station and proceed to Pennsylvania Av/Livonia Av. Take a Ridgewood-bound B20 to Decatur St/Wilson Av. Proceed along Wilson Av to the Wilson Av L station. If you are on the platform: Take a Manhattan-bound L to Wilson Ave.  Exit the station and proceed to Wilson Av/Cooper St. Take a Canarsie-bound B60 to Rockaway Av/Livonia Av to Rockaway Av/Livonia Av. Proceed to the Livonia Av L station. OR Exit the station and proceed to Wilson Av/Schaefer St. Take a Spring Creek-bound B20 to Pennsylvania Av/Livonia Av. Proceed to the Livonia Av L station.\n"
+        "alternativeroute": "If you are on the passageway: Take a Canarsie-Rockaway Pkwy-bound L to Canarsie-Rockaway Pkwy. Wait on the train or transfer across the platform to a Manhattan-bound L train OR Exit the station and proceed to Rockaway Av/Livonia Av. Take a Williamsburg Bridge Plaza-bound B60 to Wilson Av/Decatur St. Proceed down Wilson Av to the Wilson Av L station. OR Exit the station and proceed to Pennsylvania Av/Livonia Av. Take a Ridgewood-bound B20 to Decatur St/Wilson Av. Proceed along Wilson Av to the Wilson Av L station. If you are on the platform: Take a Manhattan-bound L to Wilson Ave.  Exit the station and proceed to Wilson Av/Cooper St. Take a Canarsie-bound B60 to Rockaway Av/Livonia Av to Rockaway Av/Livonia Av. Proceed to the Livonia Av L station. OR Exit the station and proceed to Wilson Av/Schaefer St. Take a Spring Creek-bound B20 to Pennsylvania Av/Livonia Av. Proceed to the Livonia Av L station.\n",
+        "mergeddescription": "Passageway to Manhattan-bound platform"
     },
     "EL771": {
         "station": "Livonia Av",
@@ -25875,7 +26424,8 @@ export const stations ={
         "nextadasouth": "138, L",
         "redundant": 0,
         "busconnections": "B20, B60",
-        "alternativeroute": "If you are on the street: For southbound service to Canarsie-Rockaway Pkwy, exit the station and proceed to  Rockaway Av/Livonia Av. Take a Canarsie-bound B60 to Rockaway Pkwy/Farragut Road. Proceed down Rockaway Pkwy to the Canarsie-Rockaway Pkwy L station. For northbound service to Manhattan, exit the station and proceed to Rockaway Av/Livonia Av. Take a Williamsburg Bridge Plaza-bound B60 to Wilson Av/Decatur St. Proceed down Wilson Av to the Wilson Av L station. OR Exit the station and proceed to Pennsylvania Av/Livonia Av. Take a Ridgewood-bound B20 to Decatur St/Wilson Av. Proceed along Wilson Av to the Wilson Av L station. If you are on the passageway: Go back to the Manhattan-bound platform using EL772 and take a Manhattan-bound L to Wilson Ave. Exit the station and proceed to Wilson Av/Cooper St. Take a Canarsie-bound B60 to Rockaway Av/Livonia Av to Rockaway Av/Livonia Av. Proceed to the Livonia Av L station. OR Exit the station and proceed to Wilson Av/Schaefer St. Take a Spring Creek-bound B20 to Pennsylvania Av/Livonia Av. Proceed to the Livonia Av L station. If you are on the platform: Take a Canarsie-Rockaway Pkwy-bound L to Canarsie-Rockaway Pkwy. Exit the station and proceed to Rockaway Pkwy/Glenwood Rd. Take a Williamsburg Bridge Plaza-bound B60 to Rockaway Av/Livonia Av. Proceed to the Livonia Av L station."
+        "alternativeroute": "If you are on the street: For southbound service to Canarsie-Rockaway Pkwy, exit the station and proceed to  Rockaway Av/Livonia Av. Take a Canarsie-bound B60 to Rockaway Pkwy/Farragut Road. Proceed down Rockaway Pkwy to the Canarsie-Rockaway Pkwy L station. For northbound service to Manhattan, exit the station and proceed to Rockaway Av/Livonia Av. Take a Williamsburg Bridge Plaza-bound B60 to Wilson Av/Decatur St. Proceed down Wilson Av to the Wilson Av L station. OR Exit the station and proceed to Pennsylvania Av/Livonia Av. Take a Ridgewood-bound B20 to Decatur St/Wilson Av. Proceed along Wilson Av to the Wilson Av L station. If you are on the passageway: Go back to the Manhattan-bound platform using EL772 and take a Manhattan-bound L to Wilson Ave. Exit the station and proceed to Wilson Av/Cooper St. Take a Canarsie-bound B60 to Rockaway Av/Livonia Av to Rockaway Av/Livonia Av. Proceed to the Livonia Av L station. OR Exit the station and proceed to Wilson Av/Schaefer St. Take a Spring Creek-bound B20 to Pennsylvania Av/Livonia Av. Proceed to the Livonia Av L station. If you are on the platform: Take a Canarsie-Rockaway Pkwy-bound L to Canarsie-Rockaway Pkwy. Exit the station and proceed to Rockaway Pkwy/Glenwood Rd. Take a Williamsburg Bridge Plaza-bound B60 to Rockaway Av/Livonia Av. Proceed to the Livonia Av L station.",
+        "mergeddescription": "Street to  Canarsie-bound platform"
     },
     "EL392": {
         "station": "Marcy Av",
@@ -25896,7 +26446,8 @@ export const stations ={
         "nextadasouth": "105, J, Z / 98, M",
         "redundant": 0,
         "busconnections": "B24, B32, B39, B46, B44, B44 SBS, B60, B62, Q54, Q59",
-        "alternativeroute": "If you are on the street: Take a Kings Plaza-bound B46 bus to Flushing Av and use the elevators to take a Queens-bound J or M to Marcy Av. If you are on the platform: Contact a station agent to re-enter through the faregate and take a Queens-bound J or M to Flushing Av, then either: Use elevators to access Manhattan-bound J/M service to Marcy Av. Or, use the elevator to exit the station and take a Williamsburg-bound B46 bus to Marcy Av."
+        "alternativeroute": "If you are on the street: Take a Kings Plaza-bound B46 bus to Flushing Av and use the elevators to take a Queens-bound J or M to Marcy Av. If you are on the platform: Contact a station agent to re-enter through the faregate and take a Queens-bound J or M to Flushing Av, then either: Use elevators to access Manhattan-bound J/M service to Marcy Av. Or, use the elevator to exit the station and take a Williamsburg-bound B46 bus to Marcy Av.",
+        "mergeddescription": "Street (Marcy & Broadway SW) to Queens-bound platform"
     },
     "EL391": {
         "station": "Marcy Av",
@@ -25917,7 +26468,8 @@ export const stations ={
         "nextadasouth": "105, J, Z / 98, M",
         "redundant": 0,
         "busconnections": "B24, B32, B39, B46, B44, B44 SBS, B60, B62, Q54, Q59",
-        "alternativeroute": "If you are on the street: Cross Broadway and use the elevator to take a Queens-bound J or M to Flushing Av station. Then use elevators to transfer to a Manhattan-bound J or M. Or, take a Kings Plaza-bound B46 bus (Broadway & Marcy Av) to Flushing Av for Manhattan-bound J/M service. If you are on the platform: See a station agent to re-enter through the faregate and take a Manhattan-bound J or Z to Chambers St. Then, use elevators to transfer to a Brooklyn-bound J or Z to Marcy Av."
+        "alternativeroute": "If you are on the street: Cross Broadway and use the elevator to take a Queens-bound J or M to Flushing Av station. Then use elevators to transfer to a Manhattan-bound J or M. Or, take a Kings Plaza-bound B46 bus (Broadway & Marcy Av) to Flushing Av for Manhattan-bound J/M service. If you are on the platform: See a station agent to re-enter through the faregate and take a Manhattan-bound J or Z to Chambers St. Then, use elevators to transfer to a Brooklyn-bound J or Z to Marcy Av.",
+        "mergeddescription": "Street (Marcy & Broadway NW) to Manhattan-bound platform"
     },
     "ES332": {
         "station": "Myrtle-Wyckoff Avs",
@@ -25938,7 +26490,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B13, B26, B52, B54, Q55, Q58",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "L lower mezzanine to M mezzanine"
     },
     "ES333": {
         "station": "Myrtle-Wyckoff Avs",
@@ -25959,7 +26512,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "B13, B26, B52, B54, Q55, Q58",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "M upper mezzanine to L mezzanine"
     },
     "EL398": {
         "station": "Myrtle-Wyckoff Avs",
@@ -25980,7 +26534,8 @@ export const stations ={
         "nextadasouth": "108, M",
         "redundant": 0,
         "busconnections": "B13, B26, B52, B54, Q55, Q58",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of the corridor to exit the station, then either: To Middle Village-Metropolitan Av, take a Flushing-bound Q58 bus (Palmetto St between Myrtle Av and St. Nicholas Av) to Fresh Pond Rd and Bleecker St. Then transfer to a Jamaica-bound Q54 bus to Middle Village-Metropolitan Av M Station. Or, to Manhattan, take a Downtown-bound B54 bus (Myrtle Av) to Broadway. Then transfer to a Williamsburg-bound B46 bus to Flushing Av J/M Station. If you are on the platform: Take a Manhattan-bound M to Flushing Av. Then use the elevator to exit the station and take a Kings Plaza-bound B46 bus to Myrtle Av and transfer to a Ridgewood-bound B54 bus to Myrtle-Wyckoff Avs."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of the corridor to exit the station, then either: To Middle Village-Metropolitan Av, take a Flushing-bound Q58 bus (Palmetto St between Myrtle Av and St. Nicholas Av) to Fresh Pond Rd and Bleecker St. Then transfer to a Jamaica-bound Q54 bus to Middle Village-Metropolitan Av M Station. Or, to Manhattan, take a Downtown-bound B54 bus (Myrtle Av) to Broadway. Then transfer to a Williamsburg-bound B46 bus to Flushing Av J/M Station. If you are on the platform: Take a Manhattan-bound M to Flushing Av. Then use the elevator to exit the station and take a Kings Plaza-bound B46 bus to Myrtle Av and transfer to a Ridgewood-bound B54 bus to Myrtle-Wyckoff Avs.",
+        "mergeddescription": "mezzanine to M platform"
     },
     "EL397": {
         "station": "Myrtle-Wyckoff Avs",
@@ -26001,7 +26556,8 @@ export const stations ={
         "nextadasouth": "130, L",
         "redundant": 0,
         "busconnections": "B13, B26, B52, B54, Q55, Q58",
-        "alternativeroute": "If you are on the mezzanine:  \nUse the elevator at the other end of the mezzanine to exit the station. Take a Downtown Brooklyn-bound B52 bus (Gates Av and Wyckoff Av) to Wilson Av and transfer to a Canarsie-bound B60 bus. Then for Manhattan-bound L, transfer at Cooper St for Wilson Av L Station. For Canarsie-bound L, take the B60 bus to Rockaway Av & Livonia Av, then travel three blocks east to Livonia Av L station.  \n\nIf you are on the platform:  \nTake a Manhattan-bound L train to Grand St. Then, exit the station and take a Canarsie-bound B60 (Montrose Av & Bushwick Av) to Wilson Av & Gates Av.  \nOr,  \nTake a Canarsie-bound L train to Livonia Av. Then, exit the station and proceed to Rockaway Av/Livonia Av. Take a Williamsburg Bridge Plaza-bound B60 bus to Wilson Av & Gates Av.  \nThen, either: \nTransfer to a Ridgewood-bound B52 bus to Palmetto St & Wyckoff Av,  \nOr, travel three blocks north to Myrtle-Wyckoff station.\n"
+        "alternativeroute": "If you are on the mezzanine:  \nUse the elevator at the other end of the mezzanine to exit the station. Take a Downtown Brooklyn-bound B52 bus (Gates Av and Wyckoff Av) to Wilson Av and transfer to a Canarsie-bound B60 bus. Then for Manhattan-bound L, transfer at Cooper St for Wilson Av L Station. For Canarsie-bound L, take the B60 bus to Rockaway Av & Livonia Av, then travel three blocks east to Livonia Av L station.  \n\nIf you are on the platform:  \nTake a Manhattan-bound L train to Grand St. Then, exit the station and take a Canarsie-bound B60 (Montrose Av & Bushwick Av) to Wilson Av & Gates Av.  \nOr,  \nTake a Canarsie-bound L train to Livonia Av. Then, exit the station and proceed to Rockaway Av/Livonia Av. Take a Williamsburg Bridge Plaza-bound B60 bus to Wilson Av & Gates Av.  \nThen, either: \nTransfer to a Ridgewood-bound B52 bus to Palmetto St & Wyckoff Av,  \nOr, travel three blocks north to Myrtle-Wyckoff station.\n",
+        "mergeddescription": "mezzanine to L platform"
     },
     "EL396": {
         "station": "Myrtle-Wyckoff Avs",
@@ -26022,7 +26578,8 @@ export const stations ={
         "nextadasouth": "108, M / 130, L",
         "redundant": 0,
         "busconnections": "B13, B26, B52, B54, Q55, Q58",
-        "alternativeroute": "If you are on the street:  \nFor L, take a Downtown Brooklyn-bound B52 bus (Gates Av and Wyckoff Av) to Wilson Av and transfer to a Canarsie-bound B60 bus. Then for Manhattan-bound L, transfer at Cooper St for Wilson Av L Station. For Canarsie-bound L, take the B60 bus to Rockaway Av & Livonia Av, then travel three blocks east to Livonia Av L station.  \nFor Middle Village-Metropolitan Av-bound M, take a Flushing-bound Q58 bus (Palmetto St between Myrtle Av and St Nicholas Av) to Fresh Pond Rd and Bleecker St. Then transfer to a Jamaica-bound Q54 bus to Middle Village-Metropolitan Av M Station.  \nFor Manhattan-bound M, take a Downtown-bound B54 bus (Myrtle Av) to Broadway. Then transfer to a Williamsburg-bound B46 bus to Flushing Av J/M Station.  \n\nIf you are on the M mezzanine:  \nUse the ramp and elevator to reach the M platform and take a Manhattan-bound M to Flushing Av. Then take a Kings Plaza-bound B46 bus to Myrtle Av and transfer to a Ridgewood-bound B54 bus to Myrtle-Wyckoffs Avs. \n\nIf you are on the L mezzanine:  \nUse the elevator at the other end of the mezzanine to return to the L platform. Then, either: \nTake a Manhattan-bound L train to Grand St. Then, exit the station and take a Canarsie-bound B60 (Montrose Av & Bushwick Av) to Wilson Av & Gates Av.  \nOr,  \ntake a Canarsie-bound L train to Livonia Av. Then, exit the station and proceed to Rockaway Av/Livonia Av. Take a Williamsburg Bridge Plaza-bound B60 bus to Wilson Av & Gates Av.  \nThen, either: \nTransfer to a Ridgewood-bound B52 bus to Palmetto St & Wyckoff Av,  \nOr, travel three blocks north to Myrtle-Wyckoff station."
+        "alternativeroute": "If you are on the street:  \nFor L, take a Downtown Brooklyn-bound B52 bus (Gates Av and Wyckoff Av) to Wilson Av and transfer to a Canarsie-bound B60 bus. Then for Manhattan-bound L, transfer at Cooper St for Wilson Av L Station. For Canarsie-bound L, take the B60 bus to Rockaway Av & Livonia Av, then travel three blocks east to Livonia Av L station.  \nFor Middle Village-Metropolitan Av-bound M, take a Flushing-bound Q58 bus (Palmetto St between Myrtle Av and St Nicholas Av) to Fresh Pond Rd and Bleecker St. Then transfer to a Jamaica-bound Q54 bus to Middle Village-Metropolitan Av M Station.  \nFor Manhattan-bound M, take a Downtown-bound B54 bus (Myrtle Av) to Broadway. Then transfer to a Williamsburg-bound B46 bus to Flushing Av J/M Station.  \n\nIf you are on the M mezzanine:  \nUse the ramp and elevator to reach the M platform and take a Manhattan-bound M to Flushing Av. Then take a Kings Plaza-bound B46 bus to Myrtle Av and transfer to a Ridgewood-bound B54 bus to Myrtle-Wyckoffs Avs. \n\nIf you are on the L mezzanine:  \nUse the elevator at the other end of the mezzanine to return to the L platform. Then, either: \nTake a Manhattan-bound L train to Grand St. Then, exit the station and take a Canarsie-bound B60 (Montrose Av & Bushwick Av) to Wilson Av & Gates Av.  \nOr,  \ntake a Canarsie-bound L train to Livonia Av. Then, exit the station and proceed to Rockaway Av/Livonia Av. Take a Williamsburg Bridge Plaza-bound B60 bus to Wilson Av & Gates Av.  \nThen, either: \nTransfer to a Ridgewood-bound B52 bus to Palmetto St & Wyckoff Av,  \nOr, travel three blocks north to Myrtle-Wyckoff station.",
+        "mergeddescription": "Street (Gates & Wyckoff SE) to mezzs (+LM)"
     },
     "EL787": {
         "station": "New Dorp",
@@ -26043,7 +26600,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you are on the street:\nFollow New Dorp Ln to use EL 788 to take a St. George-bound SIR train to Dongan Hills station. Use ramps to transfer to a Tottenville-bound SIR train. \nIf you are on the platform: \nTake a Tottenville-bound SIR train to Great Kills station and use ramps to transfer to a St. George-bound SIR train to New Dorp station."
+        "alternativeroute": "If you are on the street:\nFollow New Dorp Ln to use EL 788 to take a St. George-bound SIR train to Dongan Hills station. Use ramps to transfer to a Tottenville-bound SIR train. \nIf you are on the platform: \nTake a Tottenville-bound SIR train to Great Kills station and use ramps to transfer to a St. George-bound SIR train to New Dorp station.",
+        "mergeddescription": "street to Tottenville-bound platform"
     },
     "EL788": {
         "station": "New Dorp",
@@ -26064,7 +26622,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": "If you're on the street: \nFollow New Dorp Ln to use EL787 to take a Tottenville-bound SIR train to Great Kills. Use ramps to transfer to a St. George-bound SIR train. \nIf you're on the platform: \nTake a St. George-bound SIR train to Dongan Hills station and use ramps to transfer to a Tottenville-bound SIR train to New Dorp Station."
+        "alternativeroute": "If you're on the street: \nFollow New Dorp Ln to use EL787 to take a Tottenville-bound SIR train to Great Kills. Use ramps to transfer to a St. George-bound SIR train. \nIf you're on the platform: \nTake a St. George-bound SIR train to Dongan Hills station and use ramps to transfer to a Tottenville-bound SIR train to New Dorp Station.",
+        "mergeddescription": "street to ST. George-bound platform"
     },
     "EL738": {
         "station": "New Utrecht Av",
@@ -26085,7 +26644,8 @@ export const stations ={
         "nextadasouth": "58, N",
         "redundant": 0,
         "busconnections": "B9 (at 60th Street)",
-        "alternativeroute": "If you are on the street: Use elevator at opposite end of mezzanine. Then either: Take a Coney Island-bound N to Coney Island-Stillwell Av. Then, stay on train or transfer across the platform for a Manhattan-bound N. Or, use elevators to take a Manhattan-bound D to Atlantic Av-Barclays Ctr station. Then, transfer on same platform for a Manhattan-bound N. If you are on the platform: Take a Manhattan-bound N to 8 Av and use elevators to transfer to a Coney Island-bound N to New Utrecht Av Station.\n"
+        "alternativeroute": "If you are on the street: Use elevator at opposite end of mezzanine. Then either: Take a Coney Island-bound N to Coney Island-Stillwell Av. Then, stay on train or transfer across the platform for a Manhattan-bound N. Or, use elevators to take a Manhattan-bound D to Atlantic Av-Barclays Ctr station. Then, transfer on same platform for a Manhattan-bound N. If you are on the platform: Take a Manhattan-bound N to 8 Av and use elevators to transfer to a Coney Island-bound N to New Utrecht Av Station.\n",
+        "mergeddescription": "Street (62 & New Utrecht SE) to Mahhattan-bound N"
     },
     "ES112": {
         "station": "Norwood-205 St",
@@ -26106,7 +26666,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to mezzanine"
     },
     "EL463": {
         "station": "Ozone Park-Lefferts Blvd",
@@ -26127,7 +26688,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q22, Q114, QM17; NICE: N31, N32, N33",
-        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station. Then take a Kew Gardens-bound Q10 bus (Lefferts Blvd and Liberty Av) to 101 Av and transfer to a Spring Creek-bound Q8 bus (101 Av and Lefferts Blvd) to Euclid Av A/C station.  If you are on the platform:  Take a Manhattan-bound A to Euclid Av and use elevators to exit the station. Then take a Jamaica-bound Q8 bus (Pitkin Av and Euclid Av) to Lefferts Blvd and transfer to a JFK Airport-bound Q10 bus (Lefferts Blvd and 101 Av) to Liberty Av."
+        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station. Then take a Kew Gardens-bound Q10 bus (Lefferts Blvd and Liberty Av) to 101 Av and transfer to a Spring Creek-bound Q8 bus (101 Av and Lefferts Blvd) to Euclid Av A/C station.  If you are on the platform:  Take a Manhattan-bound A to Euclid Av and use elevators to exit the station. Then take a Jamaica-bound Q8 bus (Pitkin Av and Euclid Av) to Lefferts Blvd and transfer to a JFK Airport-bound Q10 bus (Lefferts Blvd and 101 Av) to Liberty Av.",
+        "mergeddescription": "mezzanine to platform"
     },
     "EL462": {
         "station": "Ozone Park-Lefferts Blvd",
@@ -26148,7 +26710,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q22, Q114, QM17; NICE: N31, N32, N33",
-        "alternativeroute": "If you are on the street:  Take a Kew Gardens-bound Q10 bus (Lefferts Blvd and Liberty Av) to 101 Av and Lefferts Blvd. Then transfer to a Spring Creek-bound Q8 bus (101 Av and Lefferts Blvd) to Euclid Av A/C station.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to take a Manhattan-bound A to Euclid Av. Then use elevators to exit the station and take a Jamaica-bound Q8 bus (Pitkin Av and Euclid Av) to Lefferts Blvd. Then transfer to a JFK Airport-bound Q10 bus (Lefferts Blvd and 101 Av) to Liberty Av."
+        "alternativeroute": "If you are on the street:  Take a Kew Gardens-bound Q10 bus (Lefferts Blvd and Liberty Av) to 101 Av and Lefferts Blvd. Then transfer to a Spring Creek-bound Q8 bus (101 Av and Lefferts Blvd) to Euclid Av A/C station.  If you are on the mezzanine:  See a station agent to re-enter through the faregate and use the elevator to take a Manhattan-bound A to Euclid Av. Then use elevators to exit the station and take a Jamaica-bound Q8 bus (Pitkin Av and Euclid Av) to Lefferts Blvd. Then transfer to a JFK Airport-bound Q10 bus (Lefferts Blvd and 101 Av) to Liberty Av.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES301": {
         "station": "Park Place",
@@ -26169,7 +26732,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "2/3 platform to mezzanine"
     },
     "ES302": {
         "station": "Park Place",
@@ -26190,7 +26754,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to 2/3 platform"
     },
     "ES111": {
         "station": "Parkchester",
@@ -26211,7 +26776,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "ES121": {
         "station": "Pelham Bay Park",
@@ -26232,7 +26798,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx5, Bx12, Bx12 SBS, Bx23, Bx24, Bx29, Q50, BxM8; Bee-Line 45",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezzanine to platform"
     },
     "ES120": {
         "station": "Pelham Bay Park",
@@ -26253,7 +26820,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx5, Bx12, Bx12 SBS, Bx23, Bx24, Bx29, Q50, BxM8; Bee-Line 45",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine\n"
     },
     "EL122": {
         "station": "Pelham Bay Park",
@@ -26274,7 +26842,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx5, Bx12, Bx12 SBS, Bx23, Bx24, Bx29, Q50, BxM8; Bee-Line 45",
-        "alternativeroute": "If you are on the mezzanine: \nExit through the faregate and use the elevator to take a West Farms Rd/Southern Blvd-bound Bx5 bus (Bruckner Blvd and Wilkinson Av) to 163 St and Hoe Av. Then proceed to Hunts Point Av 6. \nIf you are on the platform: \nTake a Manhattan-bound 6 to Hunts Pt Av. Use elevators to exit the station and take a \nPelham Bay-bound Bx5 bus (Hunts Pt Av and Southern Blvd) to Bruckner Blvd and \nWilkinson Av for Pelham Bay Park 6."
+        "alternativeroute": "If you are on the mezzanine: \nExit through the faregate and use the elevator to take a West Farms Rd/Southern Blvd-bound Bx5 bus (Bruckner Blvd and Wilkinson Av) to 163 St and Hoe Av. Then proceed to Hunts Point Av 6. \nIf you are on the platform: \nTake a Manhattan-bound 6 to Hunts Pt Av. Use elevators to exit the station and take a \nPelham Bay-bound Bx5 bus (Hunts Pt Av and Southern Blvd) to Bruckner Blvd and \nWilkinson Av for Pelham Bay Park 6.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL121": {
         "station": "Pelham Bay Park",
@@ -26295,7 +26864,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Bx5, Bx12, Bx12 SBS, Bx23, Bx24, Bx29, Q50, BxM8; Bee-Line 45",
-        "alternativeroute": "If you are on the street: \nTake a West Farms Rd/Southern Blvd-bound Bx5 bus (Bruckner Blvd and Wilkinson Av) \nto 163 St and Hoe Av. Then proceed to Hunts Point Av 6. \nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and take a Manhattan-bound 6 to \nHunts Pt Av. Use elevators to exit the station to take a Pelham Bay-bound Bx5 bus \n(Hunts Pt Av and Southern Blvd) to Bruckner Blvd and Wilkinson Av for Pelham Bay Park 6 station."
+        "alternativeroute": "If you are on the street: \nTake a West Farms Rd/Southern Blvd-bound Bx5 bus (Bruckner Blvd and Wilkinson Av) \nto 163 St and Hoe Av. Then proceed to Hunts Point Av 6. \nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate and take a Manhattan-bound 6 to \nHunts Pt Av. Use elevators to exit the station to take a Pelham Bay-bound Bx5 bus \n(Hunts Pt Av and Southern Blvd) to Bruckner Blvd and Wilkinson Av for Pelham Bay Park 6 station.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES122": {
         "station": "Pelham Pkwy",
@@ -26316,7 +26886,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "BxM11, Bx12, Bx12 SBS, Bx22, Bx39, Bee-Line 60, 61, 62",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES123": {
         "station": "Pelham Pkwy",
@@ -26337,7 +26908,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "BxM11, Bx12, Bx12 SBS, Bx22, Bx39, Bee-Line 60, 61, 62",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL138": {
         "station": "Pelham Pkwy",
@@ -26358,7 +26930,8 @@ export const stations ={
         "nextadasouth": "426, 2, 5",
         "redundant": 0,
         "busconnections": "BxM11, Bx12, Bx12 SBS, Bx22, Bx39, Bee-Line 60, 61, 62",
-        "alternativeroute": "If you are on the mezzanine: \nUse the elevator at the other end of the mezzanine to take an uptown 2 or 5 to Gun Hill \nRd. Then use elevators to transfer to a downtown 2 or 5. \nOr, exit through the faregate and use the elevator to proceed to Pelham Pkwy and \nWhite Plains Rd. Then take a Wakefield-bound Bx39 bus to E Gun Hill Rd and White \nPlains Rd and enter Gun Hill Rd 2/5 Station. \nIf you are on the platform: \nTake a downtown 2 or 5 to E 180 St.\nThen either:\nUse elevators to transfer to an uptown 2 or 5 to Pelham Pkwy 2/5 Station. \nOr, \nTake a Westchester Sq-bound Bx21 bus (Morris Park Av and Adams St) to Morris Park Av and White Plains Rd. Then transfer to a Wakefield-bound Bx39 bus to Pelham Pkwy 2/5 Station."
+        "alternativeroute": "If you are on the mezzanine: \nUse the elevator at the other end of the mezzanine to take an uptown 2 or 5 to Gun Hill \nRd. Then use elevators to transfer to a downtown 2 or 5. \nOr, exit through the faregate and use the elevator to proceed to Pelham Pkwy and \nWhite Plains Rd. Then take a Wakefield-bound Bx39 bus to E Gun Hill Rd and White \nPlains Rd and enter Gun Hill Rd 2/5 Station. \nIf you are on the platform: \nTake a downtown 2 or 5 to E 180 St.\nThen either:\nUse elevators to transfer to an uptown 2 or 5 to Pelham Pkwy 2/5 Station. \nOr, \nTake a Westchester Sq-bound Bx21 bus (Morris Park Av and Adams St) to Morris Park Av and White Plains Rd. Then transfer to a Wakefield-bound Bx39 bus to Pelham Pkwy 2/5 Station.",
+        "mergeddescription": "mezzanine to Bronx-bound platform"
     },
     "EL137": {
         "station": "Pelham Pkwy",
@@ -26379,7 +26952,8 @@ export const stations ={
         "nextadasouth": "426, 2, 5",
         "redundant": 0,
         "busconnections": "BxM11, Bx12, Bx12 SBS, Bx22, Bx39, Bee-Line 60, 61, 62",
-        "alternativeroute": "If you are on the mezzanine: \nUse the elevator at the other end of the mezzanine to take a downtown 2 or 5 to E 180 \nSt. Then use elevators to transfer to an uptown 2 or 5. \nOr, exit through the faregate and use the elevator to proceed to Pelham Pkwy and \nWhite Plains Rd. Then take a Wakefield-bound Bx39 bus to Gun Hill Rd 2/5 Station. \nIf you are on the platform: \nTake an uptown 2 or 5 to Gun Hill Rd. \nThen either: \nUse elevators to transfer to a downtown 2 or 5 to Pelham Pkwy 2/5 Station. \nOr,\nUse the elevator and exit through the faregate. Then take a Clasons Pt-bound Bx39 bus \n(E Gun Hill Rd and White Plains Rd) to Pelham Pkwy and White Plains Rd."
+        "alternativeroute": "If you are on the mezzanine: \nUse the elevator at the other end of the mezzanine to take a downtown 2 or 5 to E 180 \nSt. Then use elevators to transfer to an uptown 2 or 5. \nOr, exit through the faregate and use the elevator to proceed to Pelham Pkwy and \nWhite Plains Rd. Then take a Wakefield-bound Bx39 bus to Gun Hill Rd 2/5 Station. \nIf you are on the platform: \nTake an uptown 2 or 5 to Gun Hill Rd. \nThen either: \nUse elevators to transfer to a downtown 2 or 5 to Pelham Pkwy 2/5 Station. \nOr,\nUse the elevator and exit through the faregate. Then take a Clasons Pt-bound Bx39 bus \n(E Gun Hill Rd and White Plains Rd) to Pelham Pkwy and White Plains Rd.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL136": {
         "station": "Pelham Pkwy",
@@ -26400,7 +26974,8 @@ export const stations ={
         "nextadasouth": "426, 2, 5",
         "redundant": 0,
         "busconnections": "BxM11, Bx12, Bx12 SBS, Bx22, Bx39, Bee-Line 60, 61, 62",
-        "alternativeroute": "If you are on the street: \nTake a Wakefield-bound Bx39 bus (Pelham Pkwy and White Plains Rd) to Gun Hill Rd 2/5 \nStation. \nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate.\nThen either: \nUse the elevator to take a downtown 2 or 5 to E 180 St. Then use elevators to transfer \nto an uptown 2 or 5 to Pelham Pkwy 2/5 Station. \nOR, \nUse the elevator to take an uptown 2 or 5 to Gun Hill Rd. Then take a Clasons Pt-bound \nBx39 bus (E Gun Hill Rd and White Plains Rd) to Pelham Pkwy and White Plains Rd."
+        "alternativeroute": "If you are on the street: \nTake a Wakefield-bound Bx39 bus (Pelham Pkwy and White Plains Rd) to Gun Hill Rd 2/5 \nStation. \nIf you are on the mezzanine: \nSee a station agent to re-enter through the faregate.\nThen either: \nUse the elevator to take a downtown 2 or 5 to E 180 St. Then use elevators to transfer \nto an uptown 2 or 5 to Pelham Pkwy 2/5 Station. \nOR, \nUse the elevator to take an uptown 2 or 5 to Gun Hill Rd. Then take a Clasons Pt-bound \nBx39 bus (E Gun Hill Rd and White Plains Rd) to Pelham Pkwy and White Plains Rd.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES304": {
         "station": "President St-Medgar Evers College",
@@ -26421,7 +26996,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "platform to mezzanine"
     },
     "EL383": {
         "station": "Prospect Park",
@@ -26442,7 +27018,8 @@ export const stations ={
         "nextadasouth": "48, Q / 51, B",
         "redundant": 0,
         "busconnections": "B16, B41, B43, B48",
-        "alternativeroute": "If you are on the street: Use elevator to take a Manhattan-bound B or Q to Atlantic Av-Barclays Center and transfer across the platform to Coney Island-bound  B or Q. Or, exit faregate and take northbound B41 or B41LTD (Flatbush Av and Empire Blvd) to Atlantic Av-Barclays Center B/Q/D/N/R/2/3/4/5 Station. If you are on the platform: Take a Coney Island-bound B or Q to Kings Highway. Then either: Use elevator to transfer to northbound B or Q  to Prospect Park. Or, take a Spring Creek-bound B82 or B82SBS (Kings Highway and E16 St) to Flatbush Av. Transfer to a Downtown Brooklyn-bound B41 or B41LTD (Flatbush Av at Kings Hwy) and take to Empire Blvd."
+        "alternativeroute": "If you are on the street: Use elevator to take a Manhattan-bound B or Q to Atlantic Av-Barclays Center and transfer across the platform to Coney Island-bound  B or Q. Or, exit faregate and take northbound B41 or B41LTD (Flatbush Av and Empire Blvd) to Atlantic Av-Barclays Center B/Q/D/N/R/2/3/4/5 Station. If you are on the platform: Take a Coney Island-bound B or Q to Kings Highway. Then either: Use elevator to transfer to northbound B or Q  to Prospect Park. Or, take a Spring Creek-bound B82 or B82SBS (Kings Highway and E16 St) to Flatbush Av. Transfer to a Downtown Brooklyn-bound B41 or B41LTD (Flatbush Av at Kings Hwy) and take to Empire Blvd.",
+        "mergeddescription": "Street to Brooklyn-bound platform"
     },
     "EL382": {
         "station": "Prospect Park",
@@ -26463,7 +27040,8 @@ export const stations ={
         "nextadasouth": "48, Q / 51, B",
         "redundant": 0,
         "busconnections": "B16, B41, B43, B48",
-        "alternativeroute": "If you are on the street:  Use elevator to take a Coney Island-bound B/Q to Kings Highway. Then use elevators to transfer to northbound B or Q.  Or, exit faregate and take a northbound B41 or B41LTD (Flatbush Av and Empire Blvd) to Atlantic Av-Barclays Center B/Q/D/N/R/2/3/4/5 Station.  For S service to Franklin Av C/S station, take a Greenpoint-bound B48 (Empire Blvd and Flatbush Av) to Classon Av and Fulton St.  If you are on the platform:  Take a Manhattan-bound B or Q to Atlantic Av-Barclays Center. Then either:  Transfer across the platform to a Coney Island-bound  B or Q  to Prospect Park.  Or, use elevators to exit station and  take a southbound B41 or B41LTD (Flatbush Av and Atlantic Av) to Ocean Av."
+        "alternativeroute": "If you are on the street:  Use elevator to take a Coney Island-bound B/Q to Kings Highway. Then use elevators to transfer to northbound B or Q.  Or, exit faregate and take a northbound B41 or B41LTD (Flatbush Av and Empire Blvd) to Atlantic Av-Barclays Center B/Q/D/N/R/2/3/4/5 Station.  For S service to Franklin Av C/S station, take a Greenpoint-bound B48 (Empire Blvd and Flatbush Av) to Classon Av and Fulton St.  If you are on the platform:  Take a Manhattan-bound B or Q to Atlantic Av-Barclays Center. Then either:  Transfer across the platform to a Coney Island-bound  B or Q  to Prospect Park.  Or, use elevators to exit station and  take a southbound B41 or B41LTD (Flatbush Av and Atlantic Av) to Ocean Av.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "EL430": {
         "station": "Queens Plaza",
@@ -26484,7 +27062,8 @@ export const stations ={
         "nextadasouth": "274, E, M / 317, R",
         "redundant": 0,
         "busconnections": "B62, Q32, Q39, Q60, Q67, Q69, Q100, Q101, Q102",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of the mezzanine to take a Manhattan-bound E or M to Lexington Av/53 St. Then transfer across the platform to a Queens-bound E or M to Queens Plaza. If you are on the Queens-bound platform:  Take a Jamaica Center-bound E or Forest Hills-bound M or R to Jackson Hts-Roosevelt Av, then either: Use elevators to transfer to a Manhattan-bound E, M or R to Queens Plaza. Or, use elevators to exit the station and take a Midtown Manhattan-bound Q32 bus (Roosevelt Av and 74 St) to Queens Blvd and Queens Plaza East."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator at the other end of the mezzanine to take a Manhattan-bound E or M to Lexington Av/53 St. Then transfer across the platform to a Queens-bound E or M to Queens Plaza. If you are on the Queens-bound platform:  Take a Jamaica Center-bound E or Forest Hills-bound M or R to Jackson Hts-Roosevelt Av, then either: Use elevators to transfer to a Manhattan-bound E, M or R to Queens Plaza. Or, use elevators to exit the station and take a Midtown Manhattan-bound Q32 bus (Roosevelt Av and 74 St) to Queens Blvd and Queens Plaza East.",
+        "mergeddescription": "mezzanine to Queens-bound platform"
     },
     "EL429": {
         "station": "Queens Plaza",
@@ -26505,7 +27084,8 @@ export const stations ={
         "nextadasouth": "274, E, M / 317, R",
         "redundant": 0,
         "busconnections": "B62, Q32, Q39, Q60, Q67, Q69, Q100, Q101, Q102",
-        "alternativeroute": "If you are on the mezzanine:  Use the elevator at the other end of the mezzanine to take a Jamaica Center-bound E or Forest Hills-bound M or R to Jackson Hts-Roosevelt Av. Then use elevators to transfer to a Manhattan-bound E, M or R. If you are on the Manhattan-bound platform: Take a Manhattan-bound E or M to Lexington Av/53 St. Then transfer across the platform to a Queens-bound E or M to Queens Plaza."
+        "alternativeroute": "If you are on the mezzanine:  Use the elevator at the other end of the mezzanine to take a Jamaica Center-bound E or Forest Hills-bound M or R to Jackson Hts-Roosevelt Av. Then use elevators to transfer to a Manhattan-bound E, M or R. If you are on the Manhattan-bound platform: Take a Manhattan-bound E or M to Lexington Av/53 St. Then transfer across the platform to a Queens-bound E or M to Queens Plaza.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL428": {
         "station": "Queens Plaza",
@@ -26526,7 +27106,8 @@ export const stations ={
         "nextadasouth": "274, E, M / 317, R",
         "redundant": 0,
         "busconnections": "B62, Q32, Q39, Q60, Q67, Q69, Q100, Q101, Q102",
-        "alternativeroute": "If you are on the street: For Forest Hills-bound service, take a Jackson Heights-bound Q32 bus (Queens Plaza South and 28 St) to Roosevelt Av and 74 St for E/F/M/R service at Jackson Hts-Roosevelt Av.  For Manahttan-bound service, take a Middle Village-bound Q67 bus (Jackson Av and 42 Road) to 44 Drive and 23 St for E/M service at Court Sq-23 St. If you are on the mezzanine: See a station agent to re-enter through the faregate and use elevator to take a Manhattan-bound E or M to Court Sq-23 St. Then, use elevator to exit the station and take a LI City-bound Q67 bus (44 Driver and 23 St) to 28 St and Queens Plaza South."
+        "alternativeroute": "If you are on the street: For Forest Hills-bound service, take a Jackson Heights-bound Q32 bus (Queens Plaza South and 28 St) to Roosevelt Av and 74 St for E/F/M/R service at Jackson Hts-Roosevelt Av.  For Manahttan-bound service, take a Middle Village-bound Q67 bus (Jackson Av and 42 Road) to 44 Drive and 23 St for E/M service at Court Sq-23 St. If you are on the mezzanine: See a station agent to re-enter through the faregate and use elevator to take a Manhattan-bound E or M to Court Sq-23 St. Then, use elevator to exit the station and take a LI City-bound Q67 bus (44 Driver and 23 St) to 28 St and Queens Plaza South.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL404": {
         "station": "Roosevelt Island",
@@ -26547,7 +27128,8 @@ export const stations ={
         "nextadasouth": "223, F",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": "If you are on the street: Use the elevator at other of mezzanine to take a Manhattan-bound F to Lexington Av/63 St. Use elevator to transfer to a Queens-bound F. Or, exit faregate and take an Astoria-bound Q102 (452 Main St) to 41 Av and 21 St for the 21 St-Queensbridge F Station. If you are on the platform: Take a Queens-bound F to 21 St-Queensbridge and use elevators to transfer to a Manhattan-bound F to Roosevelt Island F Station."
+        "alternativeroute": "If you are on the street: Use the elevator at other of mezzanine to take a Manhattan-bound F to Lexington Av/63 St. Use elevator to transfer to a Queens-bound F. Or, exit faregate and take an Astoria-bound Q102 (452 Main St) to 41 Av and 21 St for the 21 St-Queensbridge F Station. If you are on the platform: Take a Queens-bound F to 21 St-Queensbridge and use elevators to transfer to a Manhattan-bound F to Roosevelt Island F Station.",
+        "mergeddescription": "Street (West Rd) to Jamaica-bound platform"
     },
     "EL403": {
         "station": "Roosevelt Island",
@@ -26568,7 +27150,8 @@ export const stations ={
         "nextadasouth": "223, F",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": "If you are on the street: Use elevator at other end of mezzanine to take a Queens-bound F to 21 St-Queensbridge. Use elevators to transfer to a Manhattan-bound F. Or, exit faregate and take an Astoria-bound Q102 (452 Main St) to 41 Av and 21 St for the 21 St-Queensbridge F Station. If you are on the platform: Take a Manhattan-bound F train to Lexington Av/63 St.  Use elevator to transfer to a Queens-bound F to Roosevelt Island F Station."
+        "alternativeroute": "If you are on the street: Use elevator at other end of mezzanine to take a Queens-bound F to 21 St-Queensbridge. Use elevators to transfer to a Manhattan-bound F. Or, exit faregate and take an Astoria-bound Q102 (452 Main St) to 41 Av and 21 St for the 21 St-Queensbridge F Station. If you are on the platform: Take a Manhattan-bound F train to Lexington Av/63 St.  Use elevator to transfer to a Queens-bound F to Roosevelt Island F Station.",
+        "mergeddescription": "Street (West Rd) to Manhattan-bound platform"
     },
     "ES420": {
         "station": "Roosevelt Island",
@@ -26589,7 +27172,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Manhattan-bound platform to lower mezz"
     },
     "ES411": {
         "station": "Roosevelt Island",
@@ -26610,7 +27194,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (WRd entrance) to intermediate mezz"
     },
     "ES412": {
         "station": "Roosevelt Island",
@@ -26631,7 +27216,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to street (WRd exit)"
     },
     "ES415": {
         "station": "Roosevelt Island",
@@ -26652,7 +27238,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to intermediate mezz"
     },
     "ES416": {
         "station": "Roosevelt Island",
@@ -26673,7 +27260,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezz to intermediate mezz"
     },
     "ES413": {
         "station": "Roosevelt Island",
@@ -26694,7 +27282,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to street (WRd exit)"
     },
     "ES414": {
         "station": "Roosevelt Island",
@@ -26715,7 +27304,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to lower mezz"
     },
     "ES419": {
         "station": "Roosevelt Island",
@@ -26736,7 +27326,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Queens-bound platform to lower mezz"
     },
     "ES417": {
         "station": "Roosevelt Island",
@@ -26757,7 +27348,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Queens-bound platform to lower mezz"
     },
     "ES418": {
         "station": "Roosevelt Island",
@@ -26778,7 +27370,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q102; Red Bus",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Manhattan-bound platform to lower mezz"
     },
     "EL127": {
         "station": "Simpson St",
@@ -26799,7 +27392,8 @@ export const stations ={
         "nextadasouth": "434, 2, 5",
         "redundant": 0,
         "busconnections": "Bx4, Bx4A, Bx5, Bx11, Bx19, Bx27, Bx35",
-        "alternativeroute": "If you are on the street: \nTake a downtown 2 or 5 to 3 Av-149 St and use elevators to transfer to an uptown 2 or 5 \nto Simpson St.\nOr, take a Botanic Garden-bound Bx19 bus (Southern Blvd and Westchester Av) to \nBoston Rd and transfer to a Westchester Sq-bound Bx21 bus to Morris Park Av and \nAdams St for E 180 St 2/5 station. \nIf you are on the platform: \nContact a station agent to re-enter through the faregate and take an uptown 2 or 5 to E \n180 St. \nThen either: \nUse elevators to transfer to a downtown 2 or 5 to Simpson St. \nOr, \nTake a Mott Haven-bound Bx21 bus (Morris Park Av and E 180 St) to Southern Blvd. \nThen transfer to a Riverbank Park-bound Bx19 bus to Southern Blvd and Westchester \nAv."
+        "alternativeroute": "If you are on the street: \nTake a downtown 2 or 5 to 3 Av-149 St and use elevators to transfer to an uptown 2 or 5 \nto Simpson St.\nOr, take a Botanic Garden-bound Bx19 bus (Southern Blvd and Westchester Av) to \nBoston Rd and transfer to a Westchester Sq-bound Bx21 bus to Morris Park Av and \nAdams St for E 180 St 2/5 station. \nIf you are on the platform: \nContact a station agent to re-enter through the faregate and take an uptown 2 or 5 to E \n180 St. \nThen either: \nUse elevators to transfer to a downtown 2 or 5 to Simpson St. \nOr, \nTake a Mott Haven-bound Bx21 bus (Morris Park Av and E 180 St) to Southern Blvd. \nThen transfer to a Riverbank Park-bound Bx19 bus to Southern Blvd and Westchester \nAv.",
+        "mergeddescription": "Street to Bronx-bound platform"
     },
     "EL128": {
         "station": "Simpson St",
@@ -26820,7 +27414,8 @@ export const stations ={
         "nextadasouth": "434, 2, 5",
         "redundant": 0,
         "busconnections": "Bx4, Bx4A, Bx5, Bx11, Bx19, Bx27, Bx35",
-        "alternativeroute": "If you are on the street: \nTake an uptown 2 or 5 to E 180 St and use elevators to transfer to a downtown 2 or 5. \nOr, take a Hub-bound Bx4 bus to 149 St and Bergen Av for 3 Av-149 St 2/5 station. \nIf you are on the platform: \nSee a station agent to re-enter through the faregate and take a downtown 2 or 5 to 3 \nAv-149 St. \nThen either: \nUse elevators to transfer to an uptown 2 or 5 to Simpson St. \nOr, \nUse the elevator to exit the station and take a Westchester Sq-bound Bx4 bus (Bergen \nAv and 149 St) to Simpson St."
+        "alternativeroute": "If you are on the street: \nTake an uptown 2 or 5 to E 180 St and use elevators to transfer to a downtown 2 or 5. \nOr, take a Hub-bound Bx4 bus to 149 St and Bergen Av for 3 Av-149 St 2/5 station. \nIf you are on the platform: \nSee a station agent to re-enter through the faregate and take a downtown 2 or 5 to 3 \nAv-149 St. \nThen either: \nUse elevators to transfer to an uptown 2 or 5 to Simpson St. \nOr, \nUse the elevator to exit the station and take a Westchester Sq-bound Bx4 bus (Bergen \nAv and 149 St) to Simpson St.",
+        "mergeddescription": "Street to Manhattan-bound platform"
     },
     "ES349": {
         "station": "Smith-9 Sts",
@@ -26841,7 +27436,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to upper mezz"
     },
     "ES348": {
         "station": "Smith-9 Sts",
@@ -26862,7 +27458,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Intermediate mezzanine to street"
     },
     "ES313": {
         "station": "Smith-9 Sts",
@@ -26883,7 +27480,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to intermediate mezzanine"
     },
     "ES316": {
         "station": "Smith-9 Sts",
@@ -26904,7 +27502,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "intermediate mezz to upper mezz"
     },
     "ES314": {
         "station": "Smith-9 Sts",
@@ -26925,7 +27524,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (9th & Smith NE) to intermediate mezz"
     },
     "ES315": {
         "station": "Smith-9 Sts",
@@ -26946,7 +27546,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "upper mezz to intermediate mezz"
     },
     "ES374": {
         "station": "South Ferry",
@@ -26967,7 +27568,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to 1 platform"
     },
     "ES375": {
         "station": "South Ferry",
@@ -26988,7 +27590,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "1 mezz to street (State & Pearl SW)"
     },
     "ES372": {
         "station": "South Ferry",
@@ -27009,7 +27612,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "1 platform to 1/R/W mezzanine"
     },
     "ES373": {
         "station": "South Ferry",
@@ -27030,7 +27634,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "1 mezz to street (Peter Minuit Plaza)"
     },
     "EL731": {
         "station": "South Ferry",
@@ -27051,7 +27656,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": "If you are on the mezzanine: Exit faregate and use elevator to exit station. Take an uptown M55 (State St & Whitehall St) to Church and Vesey St.  Use elevators in Oculus to reach WTC Cortlandt St 1 Station. If you are on the platform: Take an uptown 1 to Chambers St. Then use elevators to exit the station and take a downtown M20 bus (Chambers St and Hudson St) to South Ferry."
+        "alternativeroute": "If you are on the mezzanine: Exit faregate and use elevator to exit station. Take an uptown M55 (State St & Whitehall St) to Church and Vesey St.  Use elevators in Oculus to reach WTC Cortlandt St 1 Station. If you are on the platform: Take an uptown 1 to Chambers St. Then use elevators to exit the station and take a downtown M20 bus (Chambers St and Hudson St) to South Ferry.",
+        "mergeddescription": "mezzanine to platform"
     },
     "EL730": {
         "station": "South Ferry",
@@ -27072,7 +27678,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": "If you are on the street: Take an uptown M55 (State St & Whitehall St) to Church and Vesey St.  Use elevators in Oculus to reach WTC Cortlandt St 1 Station. If you are on the mezzanine: See a station agent to re-enter through the faregate and take an uptown 1 to Chambers St. Then use elevators to exit the station and take a downtown M20 bus (Chambers St and Hudson St) to South Ferry."
+        "alternativeroute": "If you are on the street: Take an uptown M55 (State St & Whitehall St) to Church and Vesey St.  Use elevators in Oculus to reach WTC Cortlandt St 1 Station. If you are on the mezzanine: See a station agent to re-enter through the faregate and take an uptown 1 to Chambers St. Then use elevators to exit the station and take a downtown M20 bus (Chambers St and Hudson St) to South Ferry.",
+        "mergeddescription": "Street to mezz for uptown service"
     },
     "ES370": {
         "station": "South Ferry",
@@ -27093,7 +27700,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "1/R/W mezzanine to street"
     },
     "ES371": {
         "station": "South Ferry",
@@ -27114,7 +27722,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "1/R/W mezzanine to 1 platform"
     },
     "ES369": {
         "station": "South Ferry",
@@ -27135,7 +27744,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (Peter Minuit Plaza) to 1/R/W mezz"
     },
     "ES433X": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27156,7 +27766,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to street"
     },
     "EL411": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27177,7 +27788,8 @@ export const stations ={
         "nextadasouth": "101, Z / 280, E / 98, J",
         "redundant": 0,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station. Then take a Jamaica-bound Q24 bus (Archer Av and Sutphin Blvd) to Jamaica Center-Parsons/Archer E/J/Z station (Archer Av and 158 St).  If you are on the E platform:  Take a Jamaica-bound E to Jamaica Center-Parsons/Archer, then either:  Use the elevator to exit the station and take a Bushwick-bound Q24, Jamaica-bound Q30 or Q31, Williamsburg-bound Q54, or Broadway Junction-bound Q56 bus (Jamaica Av/Parsons Blvd) to Sutphin Blvd.  Or for J/Z, use the elevator to the lower level and board a Manhattan-bound J or Z.  If you are on the J/Z platform: Take a Jamaica-bound J or Z to Jamaica Center-Parsons/Archer, then either:  Use the elevator to exit the station and take a Bushwick-bound Q24, Jamaica-bound Q30 or Q31, Williamsburg-bound Q54, or Broadway Junction-bound Q56 bus (Jamaica Av/Parsons Blvd) to Sutphin Blvd.  Or for E, use the elevator to the upper level and board a Manhattan-bound E."
+        "alternativeroute": "If you are on the mezzanine:  Use the nearby elevator to exit the station. Then take a Jamaica-bound Q24 bus (Archer Av and Sutphin Blvd) to Jamaica Center-Parsons/Archer E/J/Z station (Archer Av and 158 St).  If you are on the E platform:  Take a Jamaica-bound E to Jamaica Center-Parsons/Archer, then either:  Use the elevator to exit the station and take a Bushwick-bound Q24, Jamaica-bound Q30 or Q31, Williamsburg-bound Q54, or Broadway Junction-bound Q56 bus (Jamaica Av/Parsons Blvd) to Sutphin Blvd.  Or for J/Z, use the elevator to the lower level and board a Manhattan-bound J or Z.  If you are on the J/Z platform: Take a Jamaica-bound J or Z to Jamaica Center-Parsons/Archer, then either:  Use the elevator to exit the station and take a Bushwick-bound Q24, Jamaica-bound Q30 or Q31, Williamsburg-bound Q54, or Broadway Junction-bound Q56 bus (Jamaica Av/Parsons Blvd) to Sutphin Blvd.  Or for E, use the elevator to the upper level and board a Manhattan-bound E.",
+        "mergeddescription": "mezzanine to platforms"
     },
     "ES432X": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27198,7 +27810,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to EJZ mezzanine (+LIRR)"
     },
     "EL448X": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27219,7 +27832,8 @@ export const stations ={
         "nextadasouth": "101, Z / 280, E / 98, J",
         "redundant": 1,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL449X": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27240,7 +27854,8 @@ export const stations ={
         "nextadasouth": "101, Z / 280, E / 98, J",
         "redundant": 1,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES434": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27261,7 +27876,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E platform to mezzanine (+JLIRRZ)"
     },
     "ES437": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27282,7 +27898,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "E platform to J/Z platform (+LIRR)"
     },
     "ES435": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27303,7 +27920,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to E platform (+JLIRRZ)"
     },
     "ES436": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27324,7 +27942,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "J/Z platform to E platform (+LIRR)"
     },
     "EL450X": {
         "station": "Sutphin Blvd-Archer Av-JFK Airport",
@@ -27345,7 +27964,8 @@ export const stations ={
         "nextadasouth": "101, Z / 280, E / 98, J",
         "redundant": 1,
         "busconnections": "Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44 SBS, Q54, Q56, Q60, Q65",
-        "alternativeroute": "Use an adjacent elevator."
+        "alternativeroute": "Use an adjacent elevator.",
+        "mergeddescription": "Street to mezzanine"
     },
     "EL229": {
         "station": "Times Sq-42 St",
@@ -27366,7 +27986,8 @@ export const stations ={
         "nextadasouth": "12, N, Q, R, W",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the mezzanine: Take an uptown Q to 72 St and transfer across the platform to a downtown Q to Times Sq-42 St. Or, exit station and take a downtown M7 or M20 bus to 34 St/7 Av. 34 St-Herald Sq is one block east. If you are on the platform: Take a downtown N,Q,R or W to 34 St-Herald Sq then either: Use elevators to transfer to an uptown N, Q, R or W to Times Sq-42 St. Or, exit station and take the M5, M7, or M55 (6 Av between 34 St and 35 St) to 42 St. Times Sq-42 St is one block west."
+        "alternativeroute": "If you are on the mezzanine: Take an uptown Q to 72 St and transfer across the platform to a downtown Q to Times Sq-42 St. Or, exit station and take a downtown M7 or M20 bus to 34 St/7 Av. 34 St-Herald Sq is one block east. If you are on the platform: Take a downtown N,Q,R or W to 34 St-Herald Sq then either: Use elevators to transfer to an uptown N, Q, R or W to Times Sq-42 St. Or, exit station and take the M5, M7, or M55 (6 Av between 34 St and 35 St) to 42 St. Times Sq-42 St is one block west.",
+        "mergeddescription": "mezzanine to downtown N/Q/R/W"
     },
     "ES268X": {
         "station": "Times Sq-42 St",
@@ -27387,7 +28008,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "N/Q/R/W mezz to street (42 & 7th SE) (+13)"
     },
     "EL619": {
         "station": "Times Sq-42 St",
@@ -27408,7 +28030,8 @@ export const stations ={
         "nextadasouth": "12, N, Q, R, W / 318, 1, 2, 3 / 471, 7",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the street, use elevator 231X at the southeast corner of 7 Ave & 42 St. If you are on the mezzanine, follow signs to exit at 7 Ave & 42 St and use elevator 231X."
+        "alternativeroute": "If you are on the street, use elevator 231X at the southeast corner of 7 Ave & 42 St. If you are on the mezzanine, follow signs to exit at 7 Ave & 42 St and use elevator 231X.",
+        "mergeddescription": "Street (42 & Broadway NW) to mezz (+137QR)"
     },
     "ES217": {
         "station": "Times Sq-42 St",
@@ -27429,7 +28052,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Upper mezz to 7 platform (+123NQRSW)"
     },
     "ES218": {
         "station": "Times Sq-42 St",
@@ -27450,7 +28074,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 platform to upper mezz (+123NQRSW)"
     },
     "ES216": {
         "station": "Times Sq-42 St",
@@ -27471,7 +28096,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "7 platform to upper mezz (+123NQRSW)"
     },
     "ES262X": {
         "station": "Times Sq-42 St",
@@ -27492,7 +28118,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "1/2/3 mezz to street (42 & 7th SW) (+NQR)"
     },
     "ES261X": {
         "station": "Times Sq-42 St",
@@ -27513,7 +28140,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (42 & 7th SW) to 1/2/3 mezz (+NQR)"
     },
     "EL231X": {
         "station": "Times Sq-42 St",
@@ -27534,7 +28162,8 @@ export const stations ={
         "nextadasouth": "12, N, Q, R, W / 318, 1, 2, 3 / 471, 7",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the street, use elevator 619 at the northwest corner of 42 St and Broadway. If you are on the mezzanine, follow signs to exit at 42 St and Broadway and use elevator 619."
+        "alternativeroute": "If you are on the street, use elevator 619 at the northwest corner of 42 St and Broadway. If you are on the mezzanine, follow signs to exit at 42 St and Broadway and use elevator 619.",
+        "mergeddescription": "Street (7th & 42 SE) to mezz (+13NQRW)"
     },
     "ES267X": {
         "station": "Times Sq-42 St",
@@ -27555,7 +28184,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street (42 & 7th SE) to N/Q/R/W mezz (+13)"
     },
     "EL233": {
         "station": "Times Sq-42 St",
@@ -27576,7 +28206,8 @@ export const stations ={
         "nextadasouth": "318, 1, 2, 3",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the upper mezzanine: Take a downtown 2 or 3 to 34 St-Penn Station. Transfer across platform to an uptown 2 or 3 to Times Sq-42 St. Or, exit station and take an M20 or M104 bus (8 Av) to 59 St-Columbus Circle. If you are on the platform: Take an uptown 1, 2 or 3 to 72 St and use elevators to transfer to a downtown 1, 2, or 3 to Times Sq-42 St. Or, take an uptown 1 to 59 St-Columbus Circle. Exit station and take the M7, M20, or M104 bus (Broadway between 60 St and 61 St) to 41 St. Times Sq-42 St is one block north."
+        "alternativeroute": "If you are on the upper mezzanine: Take a downtown 2 or 3 to 34 St-Penn Station. Transfer across platform to an uptown 2 or 3 to Times Sq-42 St. Or, exit station and take an M20 or M104 bus (8 Av) to 59 St-Columbus Circle. If you are on the platform: Take an uptown 1, 2 or 3 to 72 St and use elevators to transfer to a downtown 1, 2, or 3 to Times Sq-42 St. Or, take an uptown 1 to 59 St-Columbus Circle. Exit station and take the M7, M20, or M104 bus (Broadway between 60 St and 61 St) to 41 St. Times Sq-42 St is one block north.",
+        "mergeddescription": "mezzanine to uptown 1/2/3 platform"
     },
     "EL232": {
         "station": "Times Sq-42 St",
@@ -27597,7 +28228,8 @@ export const stations ={
         "nextadasouth": "318, 1, 2, 3 / 471, 7",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the upper mezzanine: Take an uptown 1 to 59 St-Columbus Circle and use elevators to transfer to a downtown 1 to Times Sq-42 St. Or, exit station and take a downtown M7 or M20 bus to 34 St-Penn Station. If you are on the downtown 1/2/3 platform: Take a downtown 2 or 3 to 34 St-Penn Station and use elevators to transfer to an uptown 2 or 3 to Times Sq-42 St. Or, take a downtown 1, 2 or 3 to 34 St-Penn Station. Exit station and take the M20 or M34A SBS (8 Av between 34 St and 35 St) to 41 St. Times Sq-42 St is one block north. If you are on the lower mezzanine: Exit station and take an eastbound M42 bus to Grand Central-42 St for 7. If you are on the 7 platform: Take an uptown 7 to Grand Central-42 St. Exit station and take a westbound M42 bus (42 St between Park Av and Lexington Av) to Broadway."
+        "alternativeroute": "If you are on the upper mezzanine: Take an uptown 1 to 59 St-Columbus Circle and use elevators to transfer to a downtown 1 to Times Sq-42 St. Or, exit station and take a downtown M7 or M20 bus to 34 St-Penn Station. If you are on the downtown 1/2/3 platform: Take a downtown 2 or 3 to 34 St-Penn Station and use elevators to transfer to an uptown 2 or 3 to Times Sq-42 St. Or, take a downtown 1, 2 or 3 to 34 St-Penn Station. Exit station and take the M20 or M34A SBS (8 Av between 34 St and 35 St) to 41 St. Times Sq-42 St is one block north. If you are on the lower mezzanine: Exit station and take an eastbound M42 bus to Grand Central-42 St for 7. If you are on the 7 platform: Take an uptown 7 to Grand Central-42 St. Exit station and take a westbound M42 bus (42 St between Park Av and Lexington Av) to Broadway.",
+        "mergeddescription": "Mezzanine to 7 & downtown 1/2/3"
     },
     "EL230": {
         "station": "Times Sq-42 St",
@@ -27618,7 +28250,8 @@ export const stations ={
         "nextadasouth": "12, N, Q, R, W",
         "redundant": 0,
         "busconnections": "M7 (southbound), M20 (southbound), M42, BxM2 (southbound; northbound at 7 Av), SIM3, SIM8/8x, SIM10, SIM22, SIM23, SIM24, SIM25, SIM26, SIM30, SIM1c, SIM3c",
-        "alternativeroute": "If you are on the mezzanine: Take a downtown NQR or W to 34-Herald Sq and use elevators to transfer to an uptown NQR or W to Times Sq-42 St.  Or, exit station and take a downtown M7 or M20 bus to 34 St/7 Av. 34 St-Herald Sq is one block east.  If you are on the platform: Take an uptown Q to 72 St and transfer across the platform to a downtown Q to Times Sq-42 St. Or, take an uptown N, R or W to 49 St. Exit station and take an M7, M20, or M104 bus (7 Av between 49 St and 50 St) to 41 St."
+        "alternativeroute": "If you are on the mezzanine: Take a downtown NQR or W to 34-Herald Sq and use elevators to transfer to an uptown NQR or W to Times Sq-42 St.  Or, exit station and take a downtown M7 or M20 bus to 34 St/7 Av. 34 St-Herald Sq is one block east.  If you are on the platform: Take an uptown Q to 72 St and transfer across the platform to a downtown Q to Times Sq-42 St. Or, take an uptown N, R or W to 49 St. Exit station and take an M7, M20, or M104 bus (7 Av between 49 St and 50 St) to 41 St.",
+        "mergeddescription": "mezz to uptown N/Q/R/W platform"
     },
     "EL346": {
         "station": "Utica Av",
@@ -27639,7 +28272,8 @@ export const stations ={
         "nextadasouth": "188, A, C",
         "redundant": 0,
         "busconnections": "B25, B46, B46 SBS",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator across the mezzanine to take a Manhattan-bound A or C to Jay St. Then use elevators to transfer to a Euclid Av-bound A or C. If you are on the platform: Take a Queens-bound A or Euclid Av-bound C to Euclid Av, then either: Use elevators to transfer to a Manhattan-bound C to Utica Av. Or, use elevators to exit the station and take a Crown Heights-bound B14 bus (Sutter Av and Euclid Av) to Eastern Pkwy and Utica Av. Then transfer to a Bridge Plaza-bound B46 bus or DeKalb Av-bound B46 SBS to Utica Av and Fulton St."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator across the mezzanine to take a Manhattan-bound A or C to Jay St. Then use elevators to transfer to a Euclid Av-bound A or C. If you are on the platform: Take a Queens-bound A or Euclid Av-bound C to Euclid Av, then either: Use elevators to transfer to a Manhattan-bound C to Utica Av. Or, use elevators to exit the station and take a Crown Heights-bound B14 bus (Sutter Av and Euclid Av) to Eastern Pkwy and Utica Av. Then transfer to a Bridge Plaza-bound B46 bus or DeKalb Av-bound B46 SBS to Utica Av and Fulton St.",
+        "mergeddescription": "mezz to Brooklyn-bound platform"
     },
     "EL345": {
         "station": "Utica Av",
@@ -27660,7 +28294,8 @@ export const stations ={
         "nextadasouth": "188, A, C",
         "redundant": 0,
         "busconnections": "B25, B46, B46 SBS",
-        "alternativeroute": "If you are on the mezzanine: Use the elevator across the mezzanine to take a Queens-bound A or Euclid Av-bound C to Euclid Av. Then use elevators to transfer to a Manhattan-bound A or C. If you are on the platform: Take a Manhattan-bound A or C to Jay St and either: Use elevators to transfer to a Euclid Av-bound A or C to Utica Av. Or, use elevators to exit the station and take a Broadway Junction-bound B25 bus (Fulton St and Smith St) to Fulton St and Utica Av."
+        "alternativeroute": "If you are on the mezzanine: Use the elevator across the mezzanine to take a Queens-bound A or Euclid Av-bound C to Euclid Av. Then use elevators to transfer to a Manhattan-bound A or C. If you are on the platform: Take a Manhattan-bound A or C to Jay St and either: Use elevators to transfer to a Euclid Av-bound A or C to Utica Av. Or, use elevators to exit the station and take a Broadway Junction-bound B25 bus (Fulton St and Smith St) to Fulton St and Utica Av.",
+        "mergeddescription": "mezz to Manhattan-bound platform"
     },
     "EL344": {
         "station": "Utica Av",
@@ -27681,7 +28316,8 @@ export const stations ={
         "nextadasouth": "188, A, C",
         "redundant": 0,
         "busconnections": "B25, B46, B46 SBS",
-        "alternativeroute": "If you are on the street: Take a Downtown Brooklyn-bound B25 bus (Fulton St and Malcolm X Blvd) to Fulton St and Jay St for A/C service at Jay St-MetroTech station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Manhattan-bound A or C to Jay St. Then use elevators to exit the station and take a Broadway Junction-bound B25 bus (Fulton St and Smith St) to Fulton St and Utica Av."
+        "alternativeroute": "If you are on the street: Take a Downtown Brooklyn-bound B25 bus (Fulton St and Malcolm X Blvd) to Fulton St and Jay St for A/C service at Jay St-MetroTech station. If you are on the mezzanine: See a station agent to re-enter through the faregate and use the elevator to take a Manhattan-bound A or C to Jay St. Then use elevators to exit the station and take a Broadway Junction-bound B25 bus (Fulton St and Smith St) to Fulton St and Utica Av.",
+        "mergeddescription": "Street (Utica & Fulton NW) to mezz"
     },
     "EL335": {
         "station": "W 4 St-Wash Sq",
@@ -27702,7 +28338,8 @@ export const stations ={
         "nextadasouth": "171, E / 172, A, C / 230, B, D, F, M",
         "redundant": 0,
         "busconnections": "M5 (northbound)",
-        "alternativeroute": "If you are on the uptown A/C/E platform: For B, D, F or M, use ramps to access downtown A, C, E platform. Then take the elevator to the lower level to take a downtown B, D, F or M to Broadway-Lafayette St. For uptown B, D, F or M, use elevators at B\u2019way-Lafayette St to transfer for uptown service.  If you are on the transfer mezzanine: For uptown B, D, F, M, take a downtown B, D, F or M to B\u2019way-Lafayette St and use elevators to transfer to an uptown B, D, F or M. For uptown A, C, take a downtown A or C to Fulton St, cross platform, and transfer to an uptown A or C. For uptown E, take a downtown E to World Trade Center, cross platform, and transfer to an uptown E. If you are on the uptown B/D/F/M platform: To exit to street, take an uptown B, D, F or M to 34 St-Herald Sq. Use elevators to transfer to a downtown B, D, F or M to W 4 St or exit station and take a downtown M1, M2, M3, M5, or M55 bus (33 St and 5 Av) to 8 St and 5 Av. To transfer to A or C, take an uptown B or D to 59 St-Columbus Circle."
+        "alternativeroute": "If you are on the uptown A/C/E platform: For B, D, F or M, use ramps to access downtown A, C, E platform. Then take the elevator to the lower level to take a downtown B, D, F or M to Broadway-Lafayette St. For uptown B, D, F or M, use elevators at B\u2019way-Lafayette St to transfer for uptown service.  If you are on the transfer mezzanine: For uptown B, D, F, M, take a downtown B, D, F or M to B\u2019way-Lafayette St and use elevators to transfer to an uptown B, D, F or M. For uptown A, C, take a downtown A or C to Fulton St, cross platform, and transfer to an uptown A or C. For uptown E, take a downtown E to World Trade Center, cross platform, and transfer to an uptown E. If you are on the uptown B/D/F/M platform: To exit to street, take an uptown B, D, F or M to 34 St-Herald Sq. Use elevators to transfer to a downtown B, D, F or M to W 4 St or exit station and take a downtown M1, M2, M3, M5, or M55 bus (33 St and 5 Av) to 8 St and 5 Av. To transfer to A or C, take an uptown B or D to 59 St-Columbus Circle.",
+        "mergeddescription": "uptown A/C/E platform to mezz & uptown B/D/F/M"
     },
     "EL334": {
         "station": "W 4 St-Wash Sq",
@@ -27723,7 +28360,8 @@ export const stations ={
         "nextadasouth": "171, E / 172, A, C / 230, B, D, F, M",
         "redundant": 0,
         "busconnections": "M5 (northbound)",
-        "alternativeroute": "If you are on the downtown A/C/E platform: For B, D, F, M, use ramps to access uptown A, C, E platform. Use the elevator to transfer to a downtown B, D, F or M For downtown B, D, F, M, use the elevators at 34 St-Herald Sq to transfer to downtown service. If you are on the transfer mezzanine: For downtown B, D, F, M, take an uptown B, D, F or M to 34 St-Herald Sq and use elevators to transfer to a downtown B, D, F or M. For downtown A, C or E, take an uptown A, C or E to 14 St and use elevators to transfer to a downtown A, C or E. If you are on the downtown B/D/F/M platform: To exit the station, take a downtown B, D, F or M to B\u2019way-Lafayette St. Then use elevators and transfer to uptown B, D, F or M to W 4 St, or exit station and take a westbound M21 bus (Houston St and Crosby St) to Houston St and 6 Av. Transfer to an uptown M55 bus to 3 St and 6 Av. For the A or C, take a downtown F to Jay St-MetroTech and transfer across the platform for Brooklyn-bound service."
+        "alternativeroute": "If you are on the downtown A/C/E platform: For B, D, F, M, use ramps to access uptown A, C, E platform. Use the elevator to transfer to a downtown B, D, F or M For downtown B, D, F, M, use the elevators at 34 St-Herald Sq to transfer to downtown service. If you are on the transfer mezzanine: For downtown B, D, F, M, take an uptown B, D, F or M to 34 St-Herald Sq and use elevators to transfer to a downtown B, D, F or M. For downtown A, C or E, take an uptown A, C or E to 14 St and use elevators to transfer to a downtown A, C or E. If you are on the downtown B/D/F/M platform: To exit the station, take a downtown B, D, F or M to B\u2019way-Lafayette St. Then use elevators and transfer to uptown B, D, F or M to W 4 St, or exit station and take a westbound M21 bus (Houston St and Crosby St) to Houston St and 6 Av. Transfer to an uptown M55 bus to 3 St and 6 Av. For the A or C, take a downtown F to Jay St-MetroTech and transfer across the platform for Brooklyn-bound service.",
+        "mergeddescription": "downtown A/C/E platform to mezz & downtown B/D/F/M"
     },
     "EL333": {
         "station": "W 4 St-Wash Sq",
@@ -27744,7 +28382,8 @@ export const stations ={
         "nextadasouth": "171, E / 172, A, C / 230, B, D, F, M",
         "redundant": 0,
         "busconnections": "M5 (northbound)",
-        "alternativeroute": "If you are on the street: For B, F, M, take an uptown M55 bus to 34 St-Herald Sq. For A, C, E, take an uptown M55 bus to 14 St and transfer to an M14A or M14D bus to 8 Av. If you are on the mezzanine: Take a downtown E to World Trade Center and use the ramp and elevator to exit the station. Then take an uptown M55 bus (Church St and Vesey St) to W 3 St and 6 Av."
+        "alternativeroute": "If you are on the street: For B, F, M, take an uptown M55 bus to 34 St-Herald Sq. For A, C, E, take an uptown M55 bus to 14 St and transfer to an M14A or M14D bus to 8 Av. If you are on the mezzanine: Take a downtown E to World Trade Center and use the ramp and elevator to exit the station. Then take an uptown M55 bus (Church St and Vesey St) to W 3 St and 6 Av.",
+        "mergeddescription": "Street (W3rd & 6th NE) to A/C/E & B/D/F/M service"
     },
     "ES325": {
         "station": "W 4 St-Wash Sq",
@@ -27765,7 +28404,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M5 (northbound)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "uptown B/D/F/M platform to uptown A/C/E"
     },
     "ES326": {
         "station": "W 4 St-Wash Sq",
@@ -27786,7 +28426,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M5 (northbound)",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Downtown B/D/F/M to downtown A/C/E"
     },
     "ES379X": {
         "station": "Wall St",
@@ -27807,7 +28448,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES378X": {
         "station": "Wall St",
@@ -27828,7 +28470,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to street"
     },
     "ES335": {
         "station": "West 8 St-NY Aquarium",
@@ -27849,7 +28492,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Mezzanine to Manhattan-bound Q"
     },
     "ES106": {
         "station": "West Farms Sq-E Tremont Av",
@@ -27870,7 +28514,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "Street to mezzanine"
     },
     "ES351": {
         "station": "Whitehall St-South Ferry",
@@ -27891,7 +28536,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "M15, M15 SBS, M55, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM5/5x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "R/W lower mezz to 1/R/W upper mezz"
     },
     "ES312": {
         "station": "Whitehall St-South Ferry",
@@ -27912,7 +28558,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "lower mezzanine to upper mezzanine"
     },
     "ES311": {
         "station": "Whitehall St-South Ferry",
@@ -27933,7 +28580,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 0,
         "busconnections": "",
-        "alternativeroute": ""
+        "alternativeroute": "",
+        "mergeddescription": "1/R/W upper mezz to R/W lower mezz"
     },
     "EL326": {
         "station": "World Trade Center",
@@ -27954,7 +28602,8 @@ export const stations ={
         "nextadasouth": "",
         "redundant": 1,
         "busconnections": "M55 (northbound) (southbound M55 is one block east on Broadway); BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street to E train"
     },
     "EL23X": {
         "station": "World Trade Center",
@@ -27975,7 +28624,8 @@ export const stations ={
         "nextadasouth": "25, R",
         "redundant": 1,
         "busconnections": "M55 (northbound) (southbound M55 is one block east on Broadway); BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25, SIM1, SIM2, SIM4/4x, SIM15, SIM32, SIM34, SIM35, SIM1c, SIM3c, SIM4c/M55 (southbound; northbound on Church St), SIM1/1c, SIM3c, SIM4/4c/4x, SIM33c, BxM18",
-        "alternativeroute": "Use another elevator on this level."
+        "alternativeroute": "Use another elevator on this level.",
+        "mergeddescription": "Street (Church St) to E train, balcony & Oculus (+RW)"
     }
 }
 

@@ -5,6 +5,7 @@ import json
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
+import re
 
 stations = list(DictReader(open('Stations.csv')))
 
@@ -66,6 +67,35 @@ for s in stations:
         
 smap = { s['Id']: s for s in stations }
 
+def mergeDesc(l,s):
+    if s.lower() == 'street':
+        m = l.replace(' St ',' ').replace(' Ave ',' ').replace(' Av ',' ').replace(' Avenue ',' ')
+        m = m.replace('Lexington','Lex').replace('Central Park West','CPW')
+        m = re.sub('\(([NESW]*) corner\)', '\\1', m)
+        m = re.sub('\\b([EW]) ([0-9]*)\\b', '\\1\\2', m)
+        if len(m) < 20:
+            return f'{s} ({m})'
+        else:
+            return s
+    if s.lower() == 'mezzanine' and len(l) > 25:
+        fm = re.search('\\b([A-Z0-9&][ /])+service', l)
+        if fm:
+            fr = fm.group(0).replace(' service','').replace('/','')
+        else:
+            fr = ''
+        am = re.search('access([ /][A-Z0-9&])+\\b', l)
+        if am:
+            ac = am.group(0).replace('access ','').replace('/','')
+            if ac and ac != fr:
+                fr += f'(+{ac})'
+        elif 'access street' in l:
+            fr += '(+St)'
+        if fr:
+            return f'{fr} {s}'
+    if len(l) < 25:
+        return l
+    return s
+
 fragiles = json.load(open('tmp/nyct_ene_equipments.json'))
 
 for e in fragiles:
@@ -78,10 +108,38 @@ for e in fragiles:
                 continue
             if l in e['linesservedbyelevator'] or e['linesservedbyelevator'] == 'LIRR':
                 s[e['equipmenttype']].append(e['equipmentno'])
-                placed = True
+                placed = s
                 break
     if not placed:
         print('WARNING: did not place %s in %s (%s:%s)'%(e['equipmentno'],e['station'],e['stationcomplexid'],e['linesservedbyelevator']))
+    try:
+        lfrom, lto = e['serving'].replace('access to','access').replace('to access','access').replace('to reach','access').replace('passageway to','').split(' to ')
+        sfrom, sto = e['shortdescription'].split(' to ')
+    except:
+        e['mergeddescription'] = e['shortdescription']
+        continue
+    
+    mfrom = mergeDesc(lfrom, sfrom)
+    mto = mergeDesc(lto, sto)
+    mdesc = f'{mfrom} to {mto}'
+    nl = ''
+    dr = set(placed['Daytime Routes'].split(' '))
+    ls = set(e['linesservedbyelevator'].split('/'))
+    if dr != ls:
+        for line in sorted(ls):
+            if not line in mdesc:
+                nl += line
+        if nl:
+            mdesc += f' (+{nl})'
+    if len(mdesc) > 35:
+        mdesc = mdesc.replace('mezzanine', 'mezz')
+    e['mergeddescription'] = mdesc
+    print(f'{placed["Name"]} ({placed["Daytime Routes"]})')
+    print(e['serving'])
+    print(e['shortdescription'])
+    print(e['linesservedbyelevator'])
+    print(e['mergeddescription'])
+    print('------------------------------------------')
 fmap = { e['equipmentno']: e for e in fragiles }
 
 transfers = DictReader(open('transfers.txt'))

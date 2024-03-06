@@ -27,7 +27,10 @@ export class Fragiles extends React.Component {
 		continue;
 	    }
 	    for (let eq of s[this.typ]) {
-		fragileMap[eq] = this;
+		if ( ! fragileMap[eq]) {
+		    fragileMap[eq] = [];
+		}
+		fragileMap[eq].push(this);
 		this.state[eq] = 1;
 	    }
 	}
@@ -45,14 +48,11 @@ export class Fragiles extends React.Component {
 		   { Object.keys(this.state).map( (eq) =>
 		       <div className="hidden" key={this.station.Id+eq}>
 			   { this.state[eq] ? '✅' : '❌' }
-			   { data.fragiles[eq]?.shortdescription }
-			   { data.fragiles[eq]?.shortdescription.indexOf(data.fragiles[eq]?.linesservedbyelevator) == -1 ?
-			     ' ('+data.fragiles[eq]?.linesservedbyelevator+')' : '' }
+			   { data.fragiles[eq]?.mergeddescription }
 		       </div> ) }
 	       </span>;
     }
 }
-
 
 export async function fetchfragiles(which, cb) {
     let res = await fetch('nyct_ene.json', 'json', cb);
@@ -63,6 +63,8 @@ export async function fetchfragiles(which, cb) {
 	}
     }
     for (let eq in fragileMap) {
-	fragileMap[eq].setState({ [eq]: (eq in broken) ? 0 : 1 });
+	for (let i of fragileMap[eq]) {
+	    i.setState({ [eq]: (eq in broken) ? 0 : 1 });
+	}
     }
 }
