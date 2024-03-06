@@ -46,7 +46,6 @@ export class Arrivals extends React.Component {
     }
     
     render() {
-	const shortDirs = { 'N': '↑', 'S': '↓'};
 	if ( ( ! this.state.N.length)  && ( ! this.state.S.length ) ) {
 	    return null;
 	}
@@ -56,7 +55,7 @@ export class Arrivals extends React.Component {
 		   </span>
 		   { ['N', 'S'].map(dir => 
 		       <span className="half" key={dir}>
-			   { shortDirs[dir] }
+			   { data.stations[this.state.asSid].ShortDirs[dir] }
 			   <span className="hidden" style={{fontSize:'80%'}}>
 			       ({data.stations[this.state.asSid].Directions[dir]})
 			   </span>

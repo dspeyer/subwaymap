@@ -14,12 +14,16 @@ export const stations ={
         "Lat": 40.775036,
         "Long": -73.912034,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "R03": {
         "Station ID": "2",
@@ -46,7 +50,11 @@ export const stations ={
             "EL465",
             "EL464"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R04": {
         "Station ID": "3",
@@ -68,7 +76,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R05": {
         "Station ID": "4",
@@ -90,7 +102,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R06": {
         "Station ID": "5",
@@ -112,7 +128,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R08": {
         "Station ID": "6",
@@ -134,7 +154,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R11": {
         "Station ID": "7",
@@ -164,6 +188,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.76266,
             "Long": -73.961258
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "R13": {
@@ -186,7 +214,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "R14": {
         "Station ID": "9",
@@ -217,6 +249,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.769664000000006,
             "Long": -73.976658
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "R15": {
@@ -245,6 +281,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.762901,
             "Long": -73.990139
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R16": {
@@ -286,6 +326,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.757672,
             "Long": -73.99375400000001
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R17": {
@@ -328,7 +372,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "D17"
-        ]
+        ],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R18": {
         "Station ID": "13",
@@ -350,7 +398,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R19": {
         "Station ID": "14",
@@ -376,6 +428,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.737303000000004,
             "Long": -73.981344
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R20": {
@@ -408,7 +464,11 @@ export const stations ={
         ],
         "AlsoShow": [
             "635"
-        ]
+        ],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R21": {
         "Station ID": "16",
@@ -434,6 +494,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.725328,
             "Long": -73.98562899999999
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R22": {
@@ -456,7 +520,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R23": {
         "Station ID": "18",
@@ -486,6 +554,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.713527,
             "Long": -73.99777499999999
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "Q01": {
@@ -513,6 +585,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.708383000000005,
             "Long": -74.00046
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R24": {
@@ -539,6 +615,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.717282,
             "Long": -74.01397800000001
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R25": {
@@ -575,6 +655,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.710668,
             "Long": -74.018029
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R26": {
@@ -601,6 +685,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.70522,
             "Long": -74.01834199999999
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R27": {
@@ -619,7 +707,7 @@ export const stations ={
         "Long": -74.012994,
         "Directions": {
             "N": "Uptown & Queens",
-            "S": "Brooklyn"
+            "S": "End of Line"
         },
         "ES": [
             "ES351",
@@ -631,6 +719,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.701086999999994,
             "Long": -74.00799400000001
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
         }
     },
     "R28": {
@@ -663,6 +755,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.692099999999996,
             "Long": -73.995777
+        },
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
         }
     },
     "R29": {
@@ -698,6 +794,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.69618,
             "Long": -73.98194199999999
+        },
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
         }
     },
     "R30": {
@@ -731,6 +831,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.693635,
             "Long": -73.97682400000001
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R31": {
@@ -769,6 +873,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.682666000000005,
             "Long": -73.98281
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R32": {
@@ -791,7 +899,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R33": {
         "Station ID": "29",
@@ -819,6 +931,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.671847,
             "Long": -73.984302
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "R34": {
@@ -841,7 +957,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R35": {
         "Station ID": "31",
@@ -863,7 +983,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R36": {
         "Station ID": "32",
@@ -885,7 +1009,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R39": {
         "Station ID": "33",
@@ -907,7 +1035,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R40": {
         "Station ID": "34",
@@ -929,7 +1061,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R41": {
         "Station ID": "35",
@@ -955,7 +1091,11 @@ export const stations ={
             "EL388",
             "EL387"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R42": {
         "Station ID": "36",
@@ -977,7 +1117,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R43": {
         "Station ID": "37",
@@ -999,7 +1143,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R44": {
         "Station ID": "38",
@@ -1024,7 +1172,11 @@ export const stations ={
             "EL746",
             "EL745"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "R45": {
         "Station ID": "39",
@@ -1042,11 +1194,15 @@ export const stations ={
         "Long": -74.030876,
         "Directions": {
             "N": "Manhattan",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
+        }
     },
     "D24": {
         "Station ID": "40",
@@ -1081,6 +1237,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.67646,
             "Long": -73.97789
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "D25": {
@@ -1107,6 +1267,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.67105,
             "Long": -73.972367
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "D26": {
@@ -1125,14 +1289,18 @@ export const stations ={
         "Long": -73.962246,
         "Directions": {
             "N": "Manhattan & Franklin Av",
-            "S": "Brighton Beach & Coney Island"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [
             "EL383",
             "EL382"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D27": {
         "Station ID": "43",
@@ -1154,7 +1322,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D28": {
         "Station ID": "44",
@@ -1176,7 +1348,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D29": {
         "Station ID": "45",
@@ -1198,7 +1374,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D30": {
         "Station ID": "46",
@@ -1220,7 +1400,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D31": {
         "Station ID": "47",
@@ -1242,7 +1426,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D32": {
         "Station ID": "48",
@@ -1264,7 +1452,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D33": {
         "Station ID": "49",
@@ -1286,7 +1478,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D34": {
         "Station ID": "50",
@@ -1308,7 +1504,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D35": {
         "Station ID": "51",
@@ -1333,7 +1533,11 @@ export const stations ={
             "EL761",
             "EL760"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D37": {
         "Station ID": "52",
@@ -1355,7 +1559,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D38": {
         "Station ID": "53",
@@ -1377,7 +1585,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D39": {
         "Station ID": "54",
@@ -1399,7 +1611,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D40": {
         "Station ID": "55",
@@ -1417,13 +1633,17 @@ export const stations ={
         "Long": -73.961376,
         "Directions": {
             "N": "Manhattan",
-            "S": "Coney Island"
+            "S": "End of Line"
         },
         "ES": [
             "ES346"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D41": {
         "Station ID": "56",
@@ -1445,7 +1665,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "D42": {
         "Station ID": "57",
@@ -1469,7 +1693,11 @@ export const stations ={
             "ES335"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "D43": {
         "Station ID": "58",
@@ -1487,14 +1715,18 @@ export const stations ={
         "Long": -73.981233,
         "Directions": {
             "N": "Manhattan",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [
             "EL702",
             "EL701"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2612"
+        }
     },
     "B12": {
         "Station ID": "59",
@@ -1516,7 +1748,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B13": {
         "Station ID": "60",
@@ -1538,7 +1774,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B14": {
         "Station ID": "61",
@@ -1560,7 +1800,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B15": {
         "Station ID": "62",
@@ -1582,7 +1826,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B16": {
         "Station ID": "63",
@@ -1612,6 +1860,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.625472,
             "Long": -74.00189499999999
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "B17": {
@@ -1634,7 +1886,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B18": {
         "Station ID": "65",
@@ -1656,7 +1912,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B19": {
         "Station ID": "66",
@@ -1678,7 +1938,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B20": {
         "Station ID": "67",
@@ -1700,7 +1964,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B21": {
         "Station ID": "68",
@@ -1726,7 +1994,11 @@ export const stations ={
             "EL377",
             "EL376"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B22": {
         "Station ID": "69",
@@ -1748,7 +2020,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "B23": {
         "Station ID": "70",
@@ -1770,7 +2046,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N02": {
         "Station ID": "71",
@@ -1795,7 +2075,11 @@ export const stations ={
             "EL753",
             "EL752"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N03": {
         "Station ID": "72",
@@ -1817,7 +2101,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N04": {
         "Station ID": "73",
@@ -1842,7 +2130,11 @@ export const stations ={
             "EL739",
             "EL738"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N05": {
         "Station ID": "74",
@@ -1864,7 +2156,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N06": {
         "Station ID": "75",
@@ -1886,7 +2182,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N07": {
         "Station ID": "76",
@@ -1908,7 +2208,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N08": {
         "Station ID": "77",
@@ -1930,7 +2234,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N09": {
         "Station ID": "78",
@@ -1952,7 +2260,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "N10": {
         "Station ID": "79",
@@ -1974,7 +2286,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "J12": {
         "Station ID": "80",
@@ -1996,7 +2312,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J13": {
         "Station ID": "81",
@@ -2018,7 +2338,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J14": {
         "Station ID": "82",
@@ -2040,7 +2364,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J15": {
         "Station ID": "83",
@@ -2062,7 +2390,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J16": {
         "Station ID": "84",
@@ -2084,7 +2416,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J17": {
         "Station ID": "85",
@@ -2106,7 +2442,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J19": {
         "Station ID": "86",
@@ -2128,7 +2468,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "J20": {
         "Station ID": "87",
@@ -2150,7 +2494,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "J21": {
         "Station ID": "88",
@@ -2172,7 +2520,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J22": {
         "Station ID": "89",
@@ -2194,7 +2546,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J23": {
         "Station ID": "90",
@@ -2216,7 +2572,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "J24": {
         "Station ID": "91",
@@ -2242,6 +2602,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.679992,
             "Long": -73.89765399999999
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "J27": {
@@ -2275,6 +2639,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.684498000000005,
             "Long": -73.899512
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "J28": {
@@ -2297,7 +2665,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "J29": {
         "Station ID": "94",
@@ -2319,7 +2691,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "J30": {
         "Station ID": "95",
@@ -2341,7 +2717,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "J31": {
         "Station ID": "96",
@@ -2363,7 +2743,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "M11": {
         "Station ID": "97",
@@ -2385,7 +2769,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "M12": {
         "Station ID": "98",
@@ -2411,7 +2799,11 @@ export const stations ={
             "EL394",
             "EL393"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "M13": {
         "Station ID": "99",
@@ -2437,6 +2829,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.701868999999995,
             "Long": -73.954408
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "M14": {
@@ -2459,7 +2855,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "M16": {
         "Station ID": "101",
@@ -2484,7 +2884,11 @@ export const stations ={
             "EL392",
             "EL391"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "M18": {
         "Station ID": "102",
@@ -2515,6 +2919,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.718315,
             "Long": -73.982437
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "M19": {
@@ -2539,7 +2947,11 @@ export const stations ={
             "ES334"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "M20": {
         "Station ID": "104",
@@ -2562,7 +2974,11 @@ export const stations ={
         "ES": [],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "R23"
+        "ShowAs": "R23",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "M21": {
         "Station ID": "105",
@@ -2592,6 +3008,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.708242999999996,
             "Long": -73.99640099999999
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "M22": {
@@ -2641,6 +3061,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.704374,
             "Long": -74.002582
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "M23": {
@@ -2659,7 +3083,7 @@ export const stations ={
         "Long": -74.011056,
         "Directions": {
             "N": "Brooklyn",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [],
@@ -2667,6 +3091,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.700476,
             "Long": -74.018056
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
         }
     },
     "M01": {
@@ -2685,11 +3113,15 @@ export const stations ={
         "Long": -73.889601,
         "Directions": {
             "N": "Manhattan",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
+        }
     },
     "M04": {
         "Station ID": "109",
@@ -2711,7 +3143,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "M05": {
         "Station ID": "110",
@@ -2733,7 +3169,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "M06": {
         "Station ID": "111",
@@ -2755,7 +3195,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "M08": {
         "Station ID": "112",
@@ -2789,6 +3233,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.69443,
             "Long": -73.912385
+        },
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
         }
     },
     "M09": {
@@ -2811,7 +3259,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "M10": {
         "Station ID": "114",
@@ -2833,7 +3285,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "L01": {
         "Station ID": "115",
@@ -2850,7 +3306,7 @@ export const stations ={
         "Lat": 40.739777,
         "Long": -74.002578,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Brooklyn"
         },
         "ES": [],
@@ -2862,6 +3318,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.739777,
             "Long": -74.007578
+        },
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2192"
         }
     },
     "L02": {
@@ -2884,7 +3344,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "L03": {
         "Station ID": "117",
@@ -2913,7 +3377,11 @@ export const stations ={
             "EL218",
             "EL217"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "L05": {
         "Station ID": "118",
@@ -2935,7 +3403,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "L06": {
         "Station ID": "119",
@@ -2960,7 +3432,11 @@ export const stations ={
             "EL293",
             "EL292"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L08": {
         "Station ID": "120",
@@ -2985,7 +3461,11 @@ export const stations ={
             "EL358",
             "EL359"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L10": {
         "Station ID": "121",
@@ -3011,6 +3491,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.718063,
             "Long": -73.950275
+        },
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
         }
     },
     "L11": {
@@ -3033,7 +3517,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "L12": {
         "Station ID": "123",
@@ -3058,7 +3546,11 @@ export const stations ={
             "EL786",
             "EL785"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L13": {
         "Station ID": "124",
@@ -3080,7 +3572,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L14": {
         "Station ID": "125",
@@ -3102,7 +3598,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "L15": {
         "Station ID": "126",
@@ -3124,7 +3624,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "L16": {
         "Station ID": "127",
@@ -3146,7 +3650,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L17": {
         "Station ID": "128",
@@ -3175,7 +3683,11 @@ export const stations ={
             "EL396"
         ],
         "AlsoShow": [],
-        "ShowAs": "M08"
+        "ShowAs": "M08",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L19": {
         "Station ID": "129",
@@ -3197,7 +3709,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L20": {
         "Station ID": "130",
@@ -3219,7 +3735,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L21": {
         "Station ID": "131",
@@ -3241,7 +3761,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L22": {
         "Station ID": "132",
@@ -3272,6 +3796,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.673856,
             "Long": -73.90823999999999
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "L24": {
@@ -3298,6 +3826,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.669345,
             "Long": -73.90709700000001
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "L25": {
@@ -3320,7 +3852,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L26": {
         "Station ID": "135",
@@ -3349,6 +3885,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.669038,
             "Long": -73.896571
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "L27": {
@@ -3371,7 +3911,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L28": {
         "Station ID": "137",
@@ -3393,7 +3937,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "L29": {
         "Station ID": "138",
@@ -3411,11 +3959,15 @@ export const stations ={
         "Long": -73.90185,
         "Directions": {
             "N": "Manhattan",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
+        }
     },
     "S01": {
         "Station ID": "139",
@@ -3432,7 +3984,7 @@ export const stations ={
         "Lat": 40.680596,
         "Long": -73.955827,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Prospect Park"
         },
         "ES": [
@@ -3447,6 +3999,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.675596,
             "Long": -73.951827
+        },
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
         }
     },
     "S03": {
@@ -3469,7 +4025,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S04": {
         "Station ID": "142",
@@ -3495,6 +4055,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.665343,
             "Long": -73.957245
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A02": {
@@ -3512,7 +4076,7 @@ export const stations ={
         "Lat": 40.868072,
         "Long": -73.919899,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Downtown & Brooklyn"
         },
         "ES": [],
@@ -3520,7 +4084,11 @@ export const stations ={
             "EL149",
             "EL148"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2190"
+        }
     },
     "A03": {
         "Station ID": "144",
@@ -3542,7 +4110,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A05": {
         "Station ID": "145",
@@ -3568,7 +4140,11 @@ export const stations ={
             "EL116",
             "EL115"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A06": {
         "Station ID": "146",
@@ -3600,7 +4176,11 @@ export const stations ={
             "EL118",
             "EL117"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A07": {
         "Station ID": "147",
@@ -3625,7 +4205,11 @@ export const stations ={
             "EL124",
             "EL123"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A09": {
         "Station ID": "148",
@@ -3642,7 +4226,7 @@ export const stations ={
         "Lat": 40.840719,
         "Long": -73.939561,
         "Directions": {
-            "N": "207 St",
+            "N": "End of Line",
             "S": "Downtown & Brooklyn"
         },
         "ES": [],
@@ -3655,6 +4239,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.840719,
             "Long": -73.944561
+        },
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
         }
     },
     "A10": {
@@ -3677,7 +4265,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A11": {
         "Station ID": "150",
@@ -3699,7 +4291,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A12": {
         "Station ID": "151",
@@ -3730,6 +4326,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.819782999999994,
             "Long": -73.942216
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "D13": {
@@ -3756,7 +4356,11 @@ export const stations ={
         ],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "A12"
+        "ShowAs": "A12",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A14": {
         "Station ID": "152",
@@ -3778,7 +4382,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A15": {
         "Station ID": "153",
@@ -3804,7 +4412,11 @@ export const stations ={
             "EL143",
             "EL142"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A16": {
         "Station ID": "154",
@@ -3826,7 +4438,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A17": {
         "Station ID": "155",
@@ -3848,7 +4464,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A18": {
         "Station ID": "156",
@@ -3870,7 +4490,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A19": {
         "Station ID": "157",
@@ -3892,7 +4516,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A20": {
         "Station ID": "158",
@@ -3914,7 +4542,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A21": {
         "Station ID": "159",
@@ -3936,7 +4568,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A22": {
         "Station ID": "160",
@@ -3958,7 +4594,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A24": {
         "Station ID": "161",
@@ -3996,6 +4636,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.768296,
             "Long": -73.986736
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A25": {
@@ -4028,6 +4672,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.767456,
             "Long": -73.990984
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A27": {
@@ -4062,6 +4710,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.762308000000004,
             "Long": -73.99473499999999
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A28": {
@@ -4093,6 +4745,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.752287,
             "Long": -73.996391
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A30": {
@@ -4119,6 +4775,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.746905999999996,
             "Long": -74.001041
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A31": {
@@ -4145,7 +4805,11 @@ export const stations ={
             "EL222",
             "EL221"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A32": {
         "Station ID": "167",
@@ -4178,6 +4842,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.733337999999996,
             "Long": -74.007495
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "D20": {
@@ -4212,6 +4880,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.731338,
             "Long": -73.997495
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A33": {
@@ -4238,6 +4910,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.728227000000004,
             "Long": -74.009739
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A34": {
@@ -4264,6 +4940,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.722824,
             "Long": -74.011229
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A36": {
@@ -4286,7 +4966,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "E01": {
         "Station ID": "171",
@@ -4304,14 +4988,18 @@ export const stations ={
         "Long": -74.009781,
         "Directions": {
             "N": "Uptown & Queens",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [
             "EL326",
             "EL23X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
+        }
     },
     "A38": {
         "Station ID": "172",
@@ -4353,7 +5041,11 @@ export const stations ={
             "EL717X"
         ],
         "AlsoShow": [],
-        "ShowAs": "M22"
+        "ShowAs": "M22",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "A40": {
         "Station ID": "173",
@@ -4385,6 +5077,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.699337,
             "Long": -73.99753100000001
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A41": {
@@ -4421,6 +5117,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.687338,
             "Long": -73.995342
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "A42": {
@@ -4449,6 +5149,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.681484000000005,
             "Long": -73.989001
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "A43": {
@@ -4475,6 +5179,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.692113,
             "Long": -73.970946
+        },
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
         }
     },
     "A44": {
@@ -4497,7 +5205,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A45": {
         "Station ID": "178",
@@ -4523,7 +5235,11 @@ export const stations ={
             "EL339"
         ],
         "AlsoShow": [],
-        "ShowAs": "S01"
+        "ShowAs": "S01",
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A46": {
         "Station ID": "179",
@@ -4545,7 +5261,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A47": {
         "Station ID": "180",
@@ -4567,7 +5287,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A48": {
         "Station ID": "181",
@@ -4593,7 +5317,11 @@ export const stations ={
             "EL345",
             "EL344"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A49": {
         "Station ID": "182",
@@ -4615,7 +5343,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A50": {
         "Station ID": "183",
@@ -4637,7 +5369,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A51": {
         "Station ID": "184",
@@ -4664,7 +5400,11 @@ export const stations ={
         ],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "J27"
+        "ShowAs": "J27",
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A52": {
         "Station ID": "185",
@@ -4686,7 +5426,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A53": {
         "Station ID": "186",
@@ -4708,7 +5452,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A54": {
         "Station ID": "187",
@@ -4730,7 +5478,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A55": {
         "Station ID": "188",
@@ -4748,7 +5500,7 @@ export const stations ={
         "Long": -73.872106,
         "Directions": {
             "N": "Manhattan",
-            "S": "Lefferts - Rockaways"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [
@@ -4756,7 +5508,11 @@ export const stations ={
             "EL342",
             "EL341"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2612"
+        }
     },
     "A57": {
         "Station ID": "189",
@@ -4778,7 +5534,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A59": {
         "Station ID": "190",
@@ -4800,7 +5560,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A60": {
         "Station ID": "191",
@@ -4822,7 +5586,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A61": {
         "Station ID": "192",
@@ -4844,7 +5612,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A63": {
         "Station ID": "193",
@@ -4866,7 +5638,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A64": {
         "Station ID": "194",
@@ -4888,7 +5664,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "A65": {
         "Station ID": "195",
@@ -4913,7 +5693,11 @@ export const stations ={
             "EL463",
             "EL462"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "H01": {
         "Station ID": "196",
@@ -4937,7 +5721,11 @@ export const stations ={
         "EL": [
             "EL489X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "H02": {
         "Station ID": "197",
@@ -4959,7 +5747,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "H03": {
         "Station ID": "198",
@@ -4993,7 +5785,11 @@ export const stations ={
             "EL494X",
             "EL495X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "H04": {
         "Station ID": "199",
@@ -5010,12 +5806,16 @@ export const stations ={
         "Lat": 40.608382,
         "Long": -73.815925,
         "Directions": {
-            "N": "Manhattan",
+            "N": "End of Line",
             "S": "Rockaways"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "H12": {
         "Station ID": "200",
@@ -5037,7 +5837,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "H13": {
         "Station ID": "201",
@@ -5059,7 +5863,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "H14": {
         "Station ID": "202",
@@ -5081,7 +5889,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "H15": {
         "Station ID": "203",
@@ -5099,11 +5911,15 @@ export const stations ={
         "Long": -73.835592,
         "Directions": {
             "N": "Manhattan",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2612"
+        }
     },
     "H06": {
         "Station ID": "204",
@@ -5128,7 +5944,11 @@ export const stations ={
             "EL481",
             "EL480"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "H07": {
         "Station ID": "205",
@@ -5150,7 +5970,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "H08": {
         "Station ID": "206",
@@ -5172,7 +5996,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "H09": {
         "Station ID": "207",
@@ -5194,7 +6022,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "H10": {
         "Station ID": "208",
@@ -5216,7 +6048,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "H11": {
         "Station ID": "209",
@@ -5241,7 +6077,11 @@ export const stations ={
             "EL498",
             "EL497"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "D01": {
         "Station ID": "210",
@@ -5258,14 +6098,18 @@ export const stations ={
         "Lat": 40.874811,
         "Long": -73.878855,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [
             "ES112"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2190"
+        }
     },
     "D03": {
         "Station ID": "211",
@@ -5282,7 +6126,7 @@ export const stations ={
         "Lat": 40.873244,
         "Long": -73.887138,
         "Directions": {
-            "N": "Norwood - 205 St",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [],
@@ -5295,6 +6139,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.873244,
             "Long": -73.884138
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "D04": {
@@ -5321,7 +6169,11 @@ export const stations ={
             "EL190",
             "EL189"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D05": {
         "Station ID": "213",
@@ -5343,7 +6195,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D06": {
         "Station ID": "214",
@@ -5365,7 +6221,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D07": {
         "Station ID": "215",
@@ -5387,7 +6247,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D08": {
         "Station ID": "216",
@@ -5413,6 +6277,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.8429,
             "Long": -73.908136
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "D09": {
@@ -5435,7 +6303,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D10": {
         "Station ID": "218",
@@ -5461,6 +6333,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.833771,
             "Long": -73.91544
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "D11": {
@@ -5496,6 +6372,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.827905,
             "Long": -73.930651
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "D12": {
@@ -5518,7 +6398,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "B04": {
         "Station ID": "221",
@@ -5551,7 +6435,11 @@ export const stations ={
             "EL406",
             "EL405"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "B06": {
         "Station ID": "222",
@@ -5587,7 +6475,11 @@ export const stations ={
             "EL404",
             "EL403"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "B08": {
         "Station ID": "223",
@@ -5634,6 +6526,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.769629,
             "Long": -73.96911300000001
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "B10": {
@@ -5656,7 +6552,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "D15": {
         "Station ID": "225",
@@ -5682,7 +6582,11 @@ export const stations ={
             "EL235",
             "EL234"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D16": {
         "Station ID": "226",
@@ -5712,6 +6616,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.747222,
             "Long": -73.97756899999999
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "D17": {
@@ -5753,7 +6661,11 @@ export const stations ={
             "EL209"
         ],
         "AlsoShow": [],
-        "ShowAs": "R17"
+        "ShowAs": "R17",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D18": {
         "Station ID": "228",
@@ -5775,7 +6687,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D19": {
         "Station ID": "229",
@@ -5797,7 +6713,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D21": {
         "Station ID": "230",
@@ -5825,7 +6745,11 @@ export const stations ={
             "EL329",
             "EL328"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "D22": {
         "Station ID": "231",
@@ -5851,6 +6775,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.713266999999995,
             "Long": -73.985753
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "F14": {
@@ -5873,7 +6801,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F15": {
         "Station ID": "233",
@@ -5899,7 +6831,11 @@ export const stations ={
         ],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "M18"
+        "ShowAs": "M18",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F16": {
         "Station ID": "234",
@@ -5923,7 +6859,11 @@ export const stations ={
             "ES329"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F18": {
         "Station ID": "235",
@@ -5945,7 +6885,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F20": {
         "Station ID": "236",
@@ -5967,7 +6911,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F21": {
         "Station ID": "237",
@@ -5989,7 +6937,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F22": {
         "Station ID": "238",
@@ -6018,7 +6970,11 @@ export const stations ={
             "ES315"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F23": {
         "Station ID": "239",
@@ -6041,7 +6997,11 @@ export const stations ={
         "ES": [],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "R33"
+        "ShowAs": "R33",
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "F24": {
         "Station ID": "240",
@@ -6067,7 +7027,11 @@ export const stations ={
             "EL783",
             "EL782"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F25": {
         "Station ID": "241",
@@ -6089,7 +7053,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F26": {
         "Station ID": "242",
@@ -6111,7 +7079,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F27": {
         "Station ID": "243",
@@ -6129,7 +7101,7 @@ export const stations ={
         "Long": -73.979678,
         "Directions": {
             "N": "Manhattan",
-            "S": "Coney Island"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [
@@ -6137,7 +7109,11 @@ export const stations ={
             "EL374",
             "EL373"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
+        }
     },
     "F29": {
         "Station ID": "244",
@@ -6159,7 +7135,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F30": {
         "Station ID": "245",
@@ -6181,7 +7161,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F31": {
         "Station ID": "246",
@@ -6203,7 +7187,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F32": {
         "Station ID": "247",
@@ -6225,7 +7213,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F33": {
         "Station ID": "248",
@@ -6247,7 +7239,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F34": {
         "Station ID": "249",
@@ -6269,7 +7265,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F35": {
         "Station ID": "250",
@@ -6291,7 +7291,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F36": {
         "Station ID": "251",
@@ -6313,7 +7317,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F38": {
         "Station ID": "252",
@@ -6335,7 +7343,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F39": {
         "Station ID": "253",
@@ -6357,7 +7369,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F01": {
         "Station ID": "254",
@@ -6374,7 +7390,7 @@ export const stations ={
         "Lat": 40.712646,
         "Long": -73.783817,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [],
@@ -6383,7 +7399,11 @@ export const stations ={
             "EL432",
             "EL431"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2190"
+        }
     },
     "F02": {
         "Station ID": "255",
@@ -6405,7 +7425,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "F03": {
         "Station ID": "256",
@@ -6427,7 +7451,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "F04": {
         "Station ID": "257",
@@ -6449,7 +7477,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "F05": {
         "Station ID": "258",
@@ -6473,7 +7505,11 @@ export const stations ={
         "EL": [
             "EL424"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "F06": {
         "Station ID": "259",
@@ -6499,7 +7535,11 @@ export const stations ={
             "EL434",
             "EL436"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "F07": {
         "Station ID": "260",
@@ -6521,7 +7561,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G08": {
         "Station ID": "261",
@@ -6538,7 +7582,7 @@ export const stations ={
         "Lat": 40.721691,
         "Long": -73.844521,
         "Directions": {
-            "N": "Jamaica",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [],
@@ -6547,7 +7591,11 @@ export const stations ={
             "EL438",
             "EL437"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "G09": {
         "Station ID": "262",
@@ -6569,7 +7617,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G10": {
         "Station ID": "263",
@@ -6591,7 +7643,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G11": {
         "Station ID": "264",
@@ -6613,7 +7669,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G12": {
         "Station ID": "265",
@@ -6635,7 +7695,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G13": {
         "Station ID": "266",
@@ -6657,7 +7721,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G14": {
         "Station ID": "267",
@@ -6693,6 +7761,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.741644,
             "Long": -73.891338
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "G15": {
@@ -6715,7 +7787,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G16": {
         "Station ID": "269",
@@ -6737,7 +7813,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G18": {
         "Station ID": "270",
@@ -6759,7 +7839,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G19": {
         "Station ID": "271",
@@ -6781,7 +7865,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G20": {
         "Station ID": "272",
@@ -6803,7 +7891,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G21": {
         "Station ID": "273",
@@ -6833,6 +7925,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.744973,
             "Long": -73.937243
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "F09": {
@@ -6865,6 +7961,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.749846000000005,
             "Long": -73.951
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "F11": {
@@ -6904,6 +8004,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.756552,
             "Long": -73.966055
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "F12": {
@@ -6931,7 +8035,11 @@ export const stations ={
             "ES239"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "D14": {
         "Station ID": "277",
@@ -6956,7 +8064,11 @@ export const stations ={
             "ES238"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G05": {
         "Station ID": "278",
@@ -6973,7 +8085,7 @@ export const stations ={
         "Lat": 40.702147,
         "Long": -73.801109,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [
@@ -6992,7 +8104,11 @@ export const stations ={
             "EL413",
             "EL412"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2190"
+        }
     },
     "G06": {
         "Station ID": "279",
@@ -7026,7 +8142,11 @@ export const stations ={
             "EL449X",
             "EL450X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G07": {
         "Station ID": "280",
@@ -7057,7 +8177,11 @@ export const stations ={
             "EL409",
             "EL408"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G22": {
         "Station ID": "281",
@@ -7074,7 +8198,7 @@ export const stations ={
         "Lat": 40.746554,
         "Long": -73.943832,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Brooklyn"
         },
         "ES": [
@@ -7091,6 +8215,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.741554,
             "Long": -73.943832
+        },
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2190"
         }
     },
     "G24": {
@@ -7117,6 +8245,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.738065,
             "Long": -73.949724
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "G26": {
@@ -7143,7 +8275,11 @@ export const stations ={
             "EL764",
             "EL763"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G28": {
         "Station ID": "284",
@@ -7165,7 +8301,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G29": {
         "Station ID": "285",
@@ -7187,7 +8327,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G30": {
         "Station ID": "286",
@@ -7209,7 +8353,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G31": {
         "Station ID": "287",
@@ -7231,7 +8379,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G32": {
         "Station ID": "288",
@@ -7253,7 +8405,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G33": {
         "Station ID": "289",
@@ -7275,7 +8431,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "G34": {
         "Station ID": "290",
@@ -7297,7 +8457,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G35": {
         "Station ID": "291",
@@ -7319,7 +8483,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "G36": {
         "Station ID": "292",
@@ -7345,6 +8513,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.686119000000005,
             "Long": -73.972375
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "101": {
@@ -7362,12 +8534,16 @@ export const stations ={
         "Lat": 40.889248,
         "Long": -73.898583,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "103": {
         "Station ID": "294",
@@ -7389,7 +8565,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "104": {
         "Station ID": "295",
@@ -7414,7 +8594,11 @@ export const stations ={
             "EL185",
             "EL184"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "106": {
         "Station ID": "296",
@@ -7436,7 +8620,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "107": {
         "Station ID": "297",
@@ -7458,7 +8646,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "108": {
         "Station ID": "298",
@@ -7480,7 +8672,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "109": {
         "Station ID": "299",
@@ -7505,7 +8701,11 @@ export const stations ={
             "EL179",
             "EL178"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "110": {
         "Station ID": "300",
@@ -7532,7 +8732,11 @@ export const stations ={
             "EL103",
             "EL106"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "111": {
         "Station ID": "301",
@@ -7559,7 +8763,11 @@ export const stations ={
             "EL107",
             "EL110"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "112": {
         "Station ID": "302",
@@ -7586,7 +8794,11 @@ export const stations ={
             "EL112",
             "EL111"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "113": {
         "Station ID": "303",
@@ -7608,7 +8820,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "114": {
         "Station ID": "304",
@@ -7630,7 +8846,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "115": {
         "Station ID": "305",
@@ -7652,7 +8872,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "116": {
         "Station ID": "306",
@@ -7678,7 +8902,11 @@ export const stations ={
             "ES102"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "117": {
         "Station ID": "307",
@@ -7700,7 +8928,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "118": {
         "Station ID": "308",
@@ -7722,7 +8954,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "119": {
         "Station ID": "309",
@@ -7744,7 +8980,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "120": {
         "Station ID": "310",
@@ -7769,7 +9009,11 @@ export const stations ={
             "EL146",
             "EL145"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "121": {
         "Station ID": "311",
@@ -7791,7 +9035,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "122": {
         "Station ID": "312",
@@ -7813,7 +9061,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "123": {
         "Station ID": "313",
@@ -7838,7 +9090,11 @@ export const stations ={
             "EL240",
             "EL239"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "124": {
         "Station ID": "314",
@@ -7863,7 +9119,11 @@ export const stations ={
             "EL237",
             "EL238"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "125": {
         "Station ID": "315",
@@ -7894,7 +9154,11 @@ export const stations ={
             "EL277"
         ],
         "AlsoShow": [],
-        "ShowAs": "A24"
+        "ShowAs": "A24",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "126": {
         "Station ID": "316",
@@ -7916,7 +9180,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "127": {
         "Station ID": "317",
@@ -7952,7 +9220,11 @@ export const stations ={
             "EL232"
         ],
         "AlsoShow": [],
-        "ShowAs": "R16"
+        "ShowAs": "R16",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "128": {
         "Station ID": "318",
@@ -7980,7 +9252,11 @@ export const stations ={
             "EL618",
             "EL34X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "129": {
         "Station ID": "319",
@@ -8002,7 +9278,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "130": {
         "Station ID": "320",
@@ -8024,7 +9304,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "131": {
         "Station ID": "321",
@@ -8050,6 +9334,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.745039999999996,
             "Long": -74.005871
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "132": {
@@ -8072,7 +9360,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "133": {
         "Station ID": "323",
@@ -8094,7 +9386,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "134": {
         "Station ID": "324",
@@ -8116,7 +9412,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "135": {
         "Station ID": "325",
@@ -8138,7 +9438,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "136": {
         "Station ID": "326",
@@ -8160,7 +9464,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "137": {
         "Station ID": "327",
@@ -8190,6 +9498,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.721478,
             "Long": -74.015266
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "138": {
@@ -8226,6 +9538,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.715835,
             "Long": -74.018188
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "139": {
@@ -8252,6 +9568,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.707513,
             "Long": -74.022783
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "142": {
@@ -8270,7 +9590,7 @@ export const stations ={
         "Long": -74.013664,
         "Directions": {
             "N": "Uptown & The Bronx",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [
             "ES374",
@@ -8289,6 +9609,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.697067999999994,
             "Long": -74.012664
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
         }
     },
     "228": {
@@ -8314,7 +9638,11 @@ export const stations ={
             "ES302"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "229": {
         "Station ID": "332",
@@ -8352,7 +9680,11 @@ export const stations ={
             "EL723"
         ],
         "AlsoShow": [],
-        "ShowAs": "M22"
+        "ShowAs": "M22",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "230": {
         "Station ID": "333",
@@ -8381,6 +9713,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.699821,
             "Long": -74.0031
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "231": {
@@ -8407,7 +9743,11 @@ export const stations ={
             "EL311",
             "EL310"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "232": {
         "Station ID": "335",
@@ -8440,6 +9780,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.702219,
             "Long": -73.991998
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "233": {
@@ -8464,7 +9808,11 @@ export const stations ={
         "EL": [
             "EL744X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "234": {
         "Station ID": "337",
@@ -8486,7 +9834,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "235": {
         "Station ID": "338",
@@ -8520,7 +9872,11 @@ export const stations ={
             "EL737X"
         ],
         "AlsoShow": [],
-        "ShowAs": "R31"
+        "ShowAs": "R31",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "236": {
         "Station ID": "339",
@@ -8542,7 +9898,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "237": {
         "Station ID": "340",
@@ -8564,7 +9924,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "238": {
         "Station ID": "341",
@@ -8590,7 +9954,11 @@ export const stations ={
             "EL756",
             "EL755"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "239": {
         "Station ID": "342",
@@ -8612,7 +9980,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "248": {
         "Station ID": "343",
@@ -8638,6 +10010,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.674847,
             "Long": -73.946466
+        },
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
         }
     },
     "249": {
@@ -8660,7 +10036,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "250": {
         "Station ID": "345",
@@ -8685,7 +10065,11 @@ export const stations ={
             "EL323",
             "EL322"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "251": {
         "Station ID": "346",
@@ -8707,7 +10091,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "252": {
         "Station ID": "347",
@@ -8729,7 +10117,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "253": {
         "Station ID": "348",
@@ -8751,7 +10143,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "254": {
         "Station ID": "349",
@@ -8773,7 +10169,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "255": {
         "Station ID": "350",
@@ -8795,7 +10195,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "256": {
         "Station ID": "351",
@@ -8817,7 +10221,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "257": {
         "Station ID": "352",
@@ -8835,11 +10243,15 @@ export const stations ={
         "Long": -73.884079,
         "Directions": {
             "N": "Manhattan",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2612"
+        }
     },
     "241": {
         "Station ID": "353",
@@ -8863,7 +10275,11 @@ export const stations ={
             "ES304"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "242": {
         "Station ID": "354",
@@ -8885,7 +10301,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "243": {
         "Station ID": "355",
@@ -8907,7 +10327,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "244": {
         "Station ID": "356",
@@ -8932,7 +10356,11 @@ export const stations ={
             "EL321",
             "EL320"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "245": {
         "Station ID": "357",
@@ -8954,7 +10382,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "246": {
         "Station ID": "358",
@@ -8976,7 +10408,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "247": {
         "Station ID": "359",
@@ -8994,13 +10430,17 @@ export const stations ={
         "Long": -73.947642,
         "Directions": {
             "N": "Manhattan",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [
             "EL319"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
+        }
     },
     "601": {
         "Station ID": "360",
@@ -9017,7 +10457,7 @@ export const stations ={
         "Lat": 40.852462,
         "Long": -73.828121,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [
@@ -9028,7 +10468,11 @@ export const stations ={
             "EL122",
             "EL121"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "602": {
         "Station ID": "361",
@@ -9050,7 +10494,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "603": {
         "Station ID": "362",
@@ -9072,7 +10520,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "604": {
         "Station ID": "363",
@@ -9094,7 +10546,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "606": {
         "Station ID": "364",
@@ -9116,7 +10572,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "607": {
         "Station ID": "365",
@@ -9138,7 +10598,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "608": {
         "Station ID": "366",
@@ -9162,7 +10626,11 @@ export const stations ={
             "ES111"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "609": {
         "Station ID": "367",
@@ -9184,7 +10652,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "610": {
         "Station ID": "368",
@@ -9206,7 +10678,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "611": {
         "Station ID": "369",
@@ -9228,7 +10704,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "612": {
         "Station ID": "370",
@@ -9250,7 +10730,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "613": {
         "Station ID": "371",
@@ -9276,7 +10760,11 @@ export const stations ={
             "EL196",
             "EL195"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "614": {
         "Station ID": "372",
@@ -9298,7 +10786,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "615": {
         "Station ID": "373",
@@ -9323,7 +10815,11 @@ export const stations ={
             "EL516",
             "EL515"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "616": {
         "Station ID": "374",
@@ -9345,7 +10841,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "617": {
         "Station ID": "375",
@@ -9367,7 +10867,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "618": {
         "Station ID": "376",
@@ -9389,7 +10893,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "619": {
         "Station ID": "377",
@@ -9411,7 +10919,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "401": {
         "Station ID": "378",
@@ -9428,12 +10940,16 @@ export const stations ={
         "Lat": 40.886037,
         "Long": -73.878751,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "402": {
         "Station ID": "379",
@@ -9455,7 +10971,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "405": {
         "Station ID": "380",
@@ -9477,7 +10997,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "406": {
         "Station ID": "381",
@@ -9499,7 +11023,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "407": {
         "Station ID": "382",
@@ -9525,7 +11053,11 @@ export const stations ={
             "EL187",
             "EL186"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "408": {
         "Station ID": "383",
@@ -9547,7 +11079,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "409": {
         "Station ID": "384",
@@ -9569,7 +11105,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "410": {
         "Station ID": "385",
@@ -9591,7 +11131,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "411": {
         "Station ID": "386",
@@ -9613,7 +11157,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "412": {
         "Station ID": "387",
@@ -9639,7 +11187,11 @@ export const stations ={
             "EL507",
             "EL506"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "413": {
         "Station ID": "388",
@@ -9661,7 +11213,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "414": {
         "Station ID": "389",
@@ -9688,7 +11244,11 @@ export const stations ={
             "EL131"
         ],
         "AlsoShow": [],
-        "ShowAs": "D11"
+        "ShowAs": "D11",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "415": {
         "Station ID": "390",
@@ -9716,6 +11276,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.821375,
             "Long": -73.922351
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "416": {
@@ -9738,7 +11302,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "621": {
         "Station ID": "392",
@@ -9763,7 +11331,11 @@ export const stations ={
             "EL126",
             "EL125"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "622": {
         "Station ID": "393",
@@ -9785,7 +11357,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "623": {
         "Station ID": "394",
@@ -9807,7 +11383,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "624": {
         "Station ID": "395",
@@ -9829,7 +11409,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "625": {
         "Station ID": "396",
@@ -9851,7 +11435,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "626": {
         "Station ID": "397",
@@ -9875,7 +11463,11 @@ export const stations ={
         "EL": [
             "EL273"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "627": {
         "Station ID": "398",
@@ -9897,7 +11489,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "628": {
         "Station ID": "399",
@@ -9919,7 +11515,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "629": {
         "Station ID": "400",
@@ -9946,7 +11546,11 @@ export const stations ={
             "ES212"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "630": {
         "Station ID": "401",
@@ -9974,7 +11578,11 @@ export const stations ={
             "EL201",
             "EL203X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "631": {
         "Station ID": "402",
@@ -10019,6 +11627,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.751776,
             "Long": -73.97184800000001
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "632": {
@@ -10041,7 +11653,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "633": {
         "Station ID": "404",
@@ -10065,7 +11681,11 @@ export const stations ={
         "EL": [
             "EL279X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "634": {
         "Station ID": "405",
@@ -10090,7 +11710,11 @@ export const stations ={
             "EL299",
             "EL298"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "635": {
         "Station ID": "406",
@@ -10113,7 +11737,11 @@ export const stations ={
         "ES": [],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "R20"
+        "ShowAs": "R20",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "636": {
         "Station ID": "407",
@@ -10135,7 +11763,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "637": {
         "Station ID": "408",
@@ -10165,7 +11797,11 @@ export const stations ={
             "EL329",
             "EL328"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "638": {
         "Station ID": "409",
@@ -10187,7 +11823,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "639": {
         "Station ID": "410",
@@ -10213,7 +11853,11 @@ export const stations ={
             "EL324"
         ],
         "AlsoShow": [],
-        "ShowAs": "R23"
+        "ShowAs": "R23",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "640": {
         "Station ID": "411",
@@ -10231,7 +11875,7 @@ export const stations ={
         "Long": -74.004131,
         "Directions": {
             "N": "Uptown & The Bronx",
-            "S": "Downtown & Brooklyn"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [
@@ -10239,7 +11883,11 @@ export const stations ={
             "EL316",
             "EL315"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2612"
+        }
     },
     "418": {
         "Station ID": "412",
@@ -10280,7 +11928,11 @@ export const stations ={
             "EL718X"
         ],
         "AlsoShow": [],
-        "ShowAs": "M22"
+        "ShowAs": "M22",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "419": {
         "Station ID": "413",
@@ -10302,7 +11954,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "420": {
         "Station ID": "414",
@@ -10341,6 +11997,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.699816999999996,
             "Long": -74.022065
+        },
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
         }
     },
     "423": {
@@ -10367,7 +12027,11 @@ export const stations ={
             "EL317"
         ],
         "AlsoShow": [],
-        "ShowAs": "232"
+        "ShowAs": "232",
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2192"
+        }
     },
     "201": {
         "Station ID": "416",
@@ -10384,12 +12048,16 @@ export const stations ={
         "Lat": 40.903125,
         "Long": -73.85062,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "204": {
         "Station ID": "417",
@@ -10411,7 +12079,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "205": {
         "Station ID": "418",
@@ -10437,7 +12109,11 @@ export const stations ={
             "EL193",
             "EL192"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "206": {
         "Station ID": "419",
@@ -10459,7 +12135,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "207": {
         "Station ID": "420",
@@ -10481,7 +12161,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "208": {
         "Station ID": "421",
@@ -10509,7 +12193,11 @@ export const stations ={
             "EL183",
             "EL182"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "209": {
         "Station ID": "422",
@@ -10531,7 +12219,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "210": {
         "Station ID": "423",
@@ -10553,7 +12245,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "211": {
         "Station ID": "424",
@@ -10582,7 +12278,11 @@ export const stations ={
             "EL137",
             "EL136"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "212": {
         "Station ID": "425",
@@ -10604,7 +12304,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "213": {
         "Station ID": "426",
@@ -10629,7 +12333,11 @@ export const stations ={
             "EL160",
             "EL159"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "214": {
         "Station ID": "427",
@@ -10653,7 +12361,11 @@ export const stations ={
             "ES106"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "215": {
         "Station ID": "428",
@@ -10675,7 +12387,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "216": {
         "Station ID": "429",
@@ -10697,7 +12413,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "217": {
         "Station ID": "430",
@@ -10722,7 +12442,11 @@ export const stations ={
             "EL127",
             "EL128"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "218": {
         "Station ID": "431",
@@ -10746,7 +12470,11 @@ export const stations ={
             "ES108"
         ],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "219": {
         "Station ID": "432",
@@ -10768,7 +12496,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "220": {
         "Station ID": "433",
@@ -10790,7 +12522,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "221": {
         "Station ID": "434",
@@ -10815,7 +12551,11 @@ export const stations ={
             "EL130",
             "EL129"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "222": {
         "Station ID": "435",
@@ -10838,7 +12578,11 @@ export const stations ={
         "ES": [],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "415"
+        "ShowAs": "415",
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "301": {
         "Station ID": "436",
@@ -10855,12 +12599,16 @@ export const stations ={
         "Lat": 40.82388,
         "Long": -73.93647,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Downtown & Brooklyn"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "302": {
         "Station ID": "437",
@@ -10882,7 +12630,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "224": {
         "Station ID": "438",
@@ -10907,7 +12659,11 @@ export const stations ={
             "EL181",
             "EL180"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "225": {
         "Station ID": "439",
@@ -10929,7 +12685,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "226": {
         "Station ID": "440",
@@ -10951,7 +12711,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "227": {
         "Station ID": "441",
@@ -10973,7 +12737,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "501": {
         "Station ID": "442",
@@ -10990,12 +12758,16 @@ export const stations ={
         "Lat": 40.8883,
         "Long": -73.830834,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "502": {
         "Station ID": "443",
@@ -11017,7 +12789,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "503": {
         "Station ID": "444",
@@ -11042,7 +12818,11 @@ export const stations ={
             "EL199",
             "EL198"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "504": {
         "Station ID": "445",
@@ -11064,7 +12844,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "505": {
         "Station ID": "446",
@@ -11086,7 +12870,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "701": {
         "Station ID": "447",
@@ -11103,7 +12891,7 @@ export const stations ={
         "Lat": 40.7596,
         "Long": -73.83003,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Manhattan"
         },
         "ES": [
@@ -11114,7 +12902,11 @@ export const stations ={
         "EL": [
             "EL414"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2190"
+        }
     },
     "702": {
         "Station ID": "448",
@@ -11136,7 +12928,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "705": {
         "Station ID": "449",
@@ -11158,7 +12954,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "706": {
         "Station ID": "450",
@@ -11180,7 +12980,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "707": {
         "Station ID": "451",
@@ -11206,7 +13010,11 @@ export const stations ={
             "EL426",
             "EL425"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "708": {
         "Station ID": "452",
@@ -11228,7 +13036,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "709": {
         "Station ID": "453",
@@ -11250,7 +13062,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "710": {
         "Station ID": "454",
@@ -11281,7 +13097,11 @@ export const stations ={
             "EL423",
             "EL420"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "711": {
         "Station ID": "455",
@@ -11303,7 +13123,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "712": {
         "Station ID": "456",
@@ -11333,7 +13157,11 @@ export const stations ={
             "EL418X",
             "EL419X"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "713": {
         "Station ID": "457",
@@ -11355,7 +13183,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "714": {
         "Station ID": "458",
@@ -11377,7 +13209,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "715": {
         "Station ID": "459",
@@ -11399,7 +13235,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "716": {
         "Station ID": "460",
@@ -11421,7 +13261,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "718": {
         "Station ID": "461",
@@ -11449,6 +13293,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.758582000000004,
             "Long": -73.940202
+        },
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
         }
     },
     "R09": {
@@ -11472,7 +13320,11 @@ export const stations ={
         "ES": [],
         "EL": [],
         "AlsoShow": [],
-        "ShowAs": "718"
+        "ShowAs": "718",
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "719": {
         "Station ID": "462",
@@ -11504,7 +13356,11 @@ export const stations ={
             "EL445X"
         ],
         "AlsoShow": [],
-        "ShowAs": "G22"
+        "ShowAs": "G22",
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "720": {
         "Station ID": "463",
@@ -11526,7 +13382,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "721": {
         "Station ID": "464",
@@ -11548,7 +13408,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "723": {
         "Station ID": "465",
@@ -11592,7 +13456,11 @@ export const stations ={
             "EL244"
         ],
         "AlsoShow": [],
-        "ShowAs": "631"
+        "ShowAs": "631",
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "724": {
         "Station ID": "466",
@@ -11614,7 +13482,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "725": {
         "Station ID": "467",
@@ -11649,7 +13521,11 @@ export const stations ={
             "EL232"
         ],
         "AlsoShow": [],
-        "ShowAs": "R16"
+        "ShowAs": "R16",
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "902": {
         "Station ID": "468",
@@ -11666,7 +13542,7 @@ export const stations ={
         "Lat": 40.755983,
         "Long": -73.986229,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Grand Central"
         },
         "ES": [
@@ -11681,7 +13557,11 @@ export const stations ={
             "EL231X"
         ],
         "AlsoShow": [],
-        "ShowAs": "R16"
+        "ShowAs": "R16",
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2192"
+        }
     },
     "901": {
         "Station ID": "469",
@@ -11699,7 +13579,7 @@ export const stations ={
         "Long": -73.979189,
         "Directions": {
             "N": "Times Sq",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [
             "ES610X",
@@ -11715,6 +13595,10 @@ export const stations ={
         "DisplayAt": {
             "Lat": 40.746769,
             "Long": -73.973189
+        },
+        "ShortDirs": {
+            "N": "\u2190",
+            "S": "\u2612"
         }
     },
     "726": {
@@ -11733,7 +13617,7 @@ export const stations ={
         "Long": -74.00191,
         "Directions": {
             "N": "Queens",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [
             "ES631",
@@ -11759,7 +13643,11 @@ export const stations ={
             "EL602",
             "EL601"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2612"
+        }
     },
     "Q05": {
         "Station ID": "475",
@@ -11776,7 +13664,7 @@ export const stations ={
         "Lat": 40.784318,
         "Long": -73.947152,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Downtown & Brooklyn"
         },
         "ES": [
@@ -11794,7 +13682,11 @@ export const stations ={
             "EL248",
             "EL247"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "Q04": {
         "Station ID": "476",
@@ -11833,7 +13725,11 @@ export const stations ={
             "EL250",
             "EL249"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "Q03": {
         "Station ID": "477",
@@ -11873,7 +13769,11 @@ export const stations ={
             "EL262",
             "EL259"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S31": {
         "Station ID": "501",
@@ -11890,12 +13790,16 @@ export const stations ={
         "Lat": 40.643748,
         "Long": -74.073643,
         "Directions": {
-            "N": "Uptown",
+            "N": "End of Line",
             "S": "Tottenville"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2612",
+            "S": "\u2193"
+        }
     },
     "S30": {
         "Station ID": "502",
@@ -11917,7 +13821,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S29": {
         "Station ID": "503",
@@ -11939,7 +13847,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S28": {
         "Station ID": "504",
@@ -11961,7 +13873,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S27": {
         "Station ID": "505",
@@ -11983,7 +13899,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S26": {
         "Station ID": "506",
@@ -12005,7 +13925,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S25": {
         "Station ID": "507",
@@ -12027,7 +13951,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S24": {
         "Station ID": "508",
@@ -12049,7 +13977,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S23": {
         "Station ID": "509",
@@ -12071,7 +14003,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S22": {
         "Station ID": "510",
@@ -12096,7 +14032,11 @@ export const stations ={
             "EL787",
             "EL788"
         ],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S21": {
         "Station ID": "511",
@@ -12118,7 +14058,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S20": {
         "Station ID": "512",
@@ -12140,7 +14084,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S19": {
         "Station ID": "513",
@@ -12162,7 +14110,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "S18": {
         "Station ID": "514",
@@ -12184,7 +14136,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "S17": {
         "Station ID": "515",
@@ -12206,7 +14162,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "S16": {
         "Station ID": "516",
@@ -12228,7 +14188,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2191",
+            "S": "\u2193"
+        }
     },
     "S15": {
         "Station ID": "517",
@@ -12250,7 +14214,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "S14": {
         "Station ID": "518",
@@ -12272,7 +14240,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "S13": {
         "Station ID": "519",
@@ -12294,7 +14266,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     },
     "S09": {
         "Station ID": "522",
@@ -12312,11 +14288,15 @@ export const stations ={
         "Long": -74.251961,
         "Directions": {
             "N": "St George",
-            "S": "Downtown"
+            "S": "End of Line"
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2612"
+        }
     },
     "S11": {
         "Station ID": "523",
@@ -12338,7 +14318,11 @@ export const stations ={
         },
         "ES": [],
         "EL": [],
-        "AlsoShow": []
+        "AlsoShow": [],
+        "ShortDirs": {
+            "N": "\u2192",
+            "S": "\u2190"
+        }
     }
 }
 
@@ -26732,8 +28716,8 @@ export const stations ={
         "name": "S",
         "color": "6D6E71",
         "stops": [
-            "901",
-            "902"
+            "902",
+            "901"
         ]
     },
     "A": {

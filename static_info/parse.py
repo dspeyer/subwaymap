@@ -6,7 +6,6 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 stations = list(DictReader(open('Stations.csv')))
 
 canon = {}
@@ -104,6 +103,33 @@ for r in DictReader(open('routes.csv')):
             "stops": [ s['stopId'].replace('MTASBWY:','') for s in ss ]
         }
 
+# EVERY other route is encoded N to S
+routes['GS']['stops'].reverse() 
+        
+def triples(l):
+    yield [l[0],l[0],l[1]]
+    for i in range(1,len(l)-1):
+        yield l[i-1:i+2]
+    yield [l[-2],l[-1],l[-1]]
+        
+for r in routes.values():
+    if len(r['stops']) < 2:
+        continue
+    for p,s,n in triples(r['stops']):
+        dlt = smap[n]['Lat'] - smap[p]['Lat']
+        dlg = smap[n]['Long'] - smap[p]['Long']
+        if 2 * abs(dlt) > abs(dlg):
+            smap[s]['ShortDirs'] = {'N': '↑', 'S': '↓'}
+        else:
+            if dlg < 0:
+                smap[s]['ShortDirs'] = {'N': '→', 'S': '←'}
+            else:
+                smap[s]['ShortDirs'] = {'N': '←', 'S': '→'}
+    smap[r['stops'][0]]['ShortDirs']['N'] = '☒'
+    smap[r['stops'][0]]['Directions']['N'] = 'End of Line'
+    smap[r['stops'][-1]]['ShortDirs']['S'] = '☒'
+    smap[r['stops'][-1]]['Directions']['S'] = 'End of Line'
+        
 coasts = []
 for rawcoast in json.load(open('shoreline.json'))['data']:
     #if float(rawcoast['SHAPE_Leng']) < 70000:
