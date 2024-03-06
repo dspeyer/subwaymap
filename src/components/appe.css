@@ -28,6 +28,7 @@ div.station span.rn {
     width: 1em;
     display: inline-block;
     text-align: center;
+    clear: both;
 }
 
 div.station.enlarged span.rn {

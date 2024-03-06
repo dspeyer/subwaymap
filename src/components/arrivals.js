@@ -38,6 +38,7 @@ export class Arrivals extends React.Component {
 	    now: (new Date()).getTime() / 1000,
 	    N: [],
 	    S: [],
+	    asSid: this.station.Id,
 	    hilite: null
 	};
 	arrivalMap[props.route][props.station] = this;
@@ -57,7 +58,7 @@ export class Arrivals extends React.Component {
 		       <span className="half" key={dir}>
 			   { shortDirs[dir] }
 			   <span className="hidden" style={{fontSize:'80%'}}>
-			       ({this.station.Directions[dir]})
+			       ({data.stations[this.state.asSid].Directions[dir]})
 			   </span>
 			   { (this.state[dir]
 			      .sort((a,b) => a.time - b.time)
@@ -91,15 +92,15 @@ export async function fetchgtfs(which, cb) {
 	    }
 	    for (let stu of entity.tripUpdate.stopTimeUpdateList) {
 		if ( ! stu.stopId ) continue;
-		let sid = stu.stopId.slice(0,-1);
-		if (! (sid in data.stations)) {
-		    console.log({stu,sid,msg:'failed to find station'});
+		let asSid = stu.stopId.slice(0,-1);
+		if (! (asSid in data.stations)) {
+		    console.log({stu,asSid,msg:'failed to find station'});
 		    continue;
 		}
-		if (data.stations[sid].ShowAs) sid = data.stations[sid].ShowAs;
+		let sid = data.stations[asSid].ShowAs || asSid;
 		let dir = stu.stopId.slice(-1);
 		if ( ! (sid in arrivals[rid])) {
-		    arrivals[rid][sid] = {N:[], S:[]}
+		    arrivals[rid][sid] = {N:[], S:[], asSid}
 		}
 		let time = stu.arrival?.time || stu.departure?.time || 0;
 		arrivals[rid][sid][dir].push({time,id});
